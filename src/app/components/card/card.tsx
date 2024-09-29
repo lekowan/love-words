@@ -1,19 +1,30 @@
 import { TranscriptDataProps } from "@/app/page"
 import { IconBar } from "../icon-bar"
-import { Popover } from "../popover/popover"
+import { useEffect } from "react"
+import { WordHighlighter } from "../word-highlighter"
+import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 
 export interface DataProps {
   id: number
-  setData: React.Dispatch<React.SetStateAction<TranscriptDataProps>>
-  data: TranscriptDataProps
+  sentence: string
+  translation?: string
+  className?: string
 }
 
-export const Card = ({ id, setData, data }: DataProps) => {
+export const Card = ({ id, sentence, translation }: DataProps) => {
+  const translatedWords = useTranslationStore((state) => state.data)
+
+  useEffect(() => console.log(translatedWords))
+
   return (
     <div className="my-6">
-      {<p className="h-6">{data[id].translate === true && data[id].letter}</p>}
-      <Popover sentence={data[id].definition} />
-      <IconBar id={id} setData={setData} data={data} className="mt-2" />
+      {
+        <p className="h-6">
+          {translatedWords[id]?.translate === true && translation}
+        </p>
+      }
+      <WordHighlighter className="text-2xl mt-2" sentence={sentence} />
+      <IconBar id={id} sentence={sentence} className="mt-2" />
     </div>
   )
 }

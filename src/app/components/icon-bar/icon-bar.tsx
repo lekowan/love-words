@@ -1,36 +1,32 @@
 "use client"
 
-export const IconBar = ({ id, setData, data }: any) => {
-  const toggleTranslate = () => {
-    const translateValue = data[id].translate
-    const updatedObj = {
-      ...data,
-      [id]: {
-        ...data[id],
-        translate: !translateValue,
-      },
-    }
+import { useTranslationStore } from "@/app/hooks/useTranslationStore"
+import { DataProps } from "../card"
 
-    setData(() => updatedObj)
+export const IconBar = ({ id, sentence }: DataProps) => {
+  const addTranslation = useTranslationStore((state) => state.addTranslation)
+  const setTranslationStatus = useTranslationStore(
+    (state) => state.setTranslationStatus
+  )
+  const toggleTranslate = () => {
+    addTranslation(id)
+    setTranslationStatus(id)
   }
 
   const playAudio = () => {
     if ("speechSynthesis" in window) {
       window.speechSynthesis.cancel()
-      const sentenceString = data[id].character
-      console.log(sentenceString)
+      const sentenceString = sentence
       const audioSentence = new SpeechSynthesisUtterance(sentenceString)
       audioSentence.lang = "ja-JP"
-      audioSentence.volume = 5
       window.speechSynthesis.speak(audioSentence)
-      console.log(audioSentence)
     }
   }
 
   return (
     <div className="flex gap-x-2 mt-4">
       <svg
-        onClick={() => toggleTranslate()}
+        onClick={toggleTranslate}
         xmlns="http://www.w3.org/2000/svg"
         height="16px"
         viewBox="0 -960 960 960"
@@ -41,7 +37,7 @@ export const IconBar = ({ id, setData, data }: any) => {
       </svg>
 
       <svg
-        onClick={() => playAudio()}
+        onClick={playAudio}
         xmlns="http://www.w3.org/2000/svg"
         height="18px"
         viewBox="0 -960 960 960"

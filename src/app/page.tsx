@@ -1,11 +1,12 @@
 "use client"
 
-import { useState } from "react"
+import { useEffect, useState } from "react"
 import { transcriptData } from "../data/shirokuma-ep5"
 import { Card } from "./components/card"
 import { Header } from "./components/header"
+import { useWordStore } from "./hooks/useWordStore"
 
-interface TranscriptDataEntry {
+export interface TranscriptDataEntry {
   character: string
   letter: string
   pinyin: string
@@ -19,7 +20,10 @@ export interface TranscriptDataProps {
 }
 
 export default function Home() {
-  const [data, setData] = useState<TranscriptDataProps>(transcriptData)
+  const data: TranscriptDataProps = transcriptData
+  const clickedWord = useWordStore((state) => state.clickedWord)
+
+  useEffect(() => console.log(clickedWord))
 
   return (
     <>
@@ -30,8 +34,8 @@ export default function Home() {
             <Card
               key={`${item.definition}-${index}`}
               id={index + 1}
-              setData={setData}
-              data={data}
+              sentence={data[index + 1].definition}
+              translation={data[index + 1].letter}
             />
           ))}
         </div>
