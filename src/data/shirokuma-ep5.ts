@@ -1,4 +1,6 @@
-export const transcriptData = {
+import { TranscriptDataProps } from "./../app/page"
+
+export const transcriptData: TranscriptDataProps = {
   1: {
     character: "シロクマくん動物園へ",
     letter: "Polar Bear Goes to the Zoo.",

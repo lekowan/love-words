@@ -1,26 +1,19 @@
-"use client"
-
-import { useEffect, useState } from "react"
+import { TranscriptDataProps } from "@/app/page"
 import { IconBar } from "../icon-bar"
+import { Popover } from "../popover/popover"
 
-interface DataProps {
-  character: string
-  translation: string
+export interface DataProps {
   id: number
-  setData: any
-  data: any
-  translate?: boolean
+  setData: React.Dispatch<React.SetStateAction<TranscriptDataProps>>
+  data: TranscriptDataProps
 }
 
 export const Card = ({ id, setData, data }: DataProps) => {
-  useEffect(() => console.log(data[id]), [data])
-
   return (
     <div className="my-6">
       {<p className="h-6">{data[id].translate === true && data[id].letter}</p>}
-
-      <p className="text-2xl">{data[id].character}</p>
-      <IconBar id={id} setData={setData} data={data} />
+      <Popover sentence={data[id].definition} />
+      <IconBar id={id} setData={setData} data={data} className="mt-2" />
     </div>
   )
 }
