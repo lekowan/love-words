@@ -1,9 +1,6 @@
-import { TranscriptDataProps } from "@/app/page"
 import { IconBar } from "../icon-bar"
-import { useEffect } from "react"
 import { WordHighlighter } from "../word-highlighter"
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
-import { TranslateIcon } from "../translate-icon"
 
 export interface DataProps {
   id: number
@@ -14,8 +11,6 @@ export interface DataProps {
 
 export const Card = ({ id, sentence, translation }: DataProps) => {
   const translatedWords = useTranslationStore((state) => state.data)
-
-  useEffect(() => console.log(translatedWords))
 
   return (
     <div className="my-4 flex">
@@ -32,7 +27,6 @@ export const Card = ({ id, sentence, translation }: DataProps) => {
             {translatedWords[id]?.translate === true && translation}
           </p>
         }
-        {/* <IconBar className="mt-2" /> */}
       </div>
     </div>
   )

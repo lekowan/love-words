@@ -1,15 +1,11 @@
 import { create } from "zustand"
 
-type State = {
+interface WordStore {
   clickedWord: string | null
-}
-
-type Action = {
   setClickedWord: (clickedWord: string | null) => void
 }
 
-export const useWordStore = create<State & Action>((set) => ({
+export const useWordStore = create<WordStore>((set) => ({
   clickedWord: null,
-  setClickedWord: (clickedWord: any) =>
-    set(() => ({ clickedWord: clickedWord })),
+  setClickedWord: (clickedWord) => set(() => ({ clickedWord: clickedWord })),
 }))
