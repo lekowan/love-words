@@ -3,7 +3,7 @@
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 import { DataProps } from "../card"
 
-export const IconBar = ({ id, sentence }: DataProps) => {
+export const TranslateIcon = ({ id, sentence }: DataProps) => {
   const addTranslation = useTranslationStore((state) => state.addTranslation)
   const setTranslationStatus = useTranslationStore(
     (state) => state.setTranslationStatus
@@ -13,19 +13,8 @@ export const IconBar = ({ id, sentence }: DataProps) => {
     setTranslationStatus(id)
   }
 
-  const playAudio = () => {
-    if ("speechSynthesis" in window) {
-      window.speechSynthesis.cancel()
-      const sentenceString = sentence
-      const audioSentence = new SpeechSynthesisUtterance(sentenceString)
-      audioSentence.lang = "ja-JP"
-      window.speechSynthesis.speak(audioSentence)
-    }
-  }
-
   return (
-    <div className="flex items-center ">
-      {/* <span className="h-6 flex content-center"> */}
+    <span className="h-6 flex content-center">
       <svg
         onClick={toggleTranslate}
         xmlns="http://www.w3.org/2000/svg"
@@ -58,27 +47,6 @@ export const IconBar = ({ id, sentence }: DataProps) => {
           </g>
         </g>
       </svg>
-
-      <svg
-        onClick={playAudio}
-        xmlns="http://www.w3.org/2000/svg"
-        height="18px"
-        viewBox="0 -960 960 960"
-        width="18px"
-        fill="#18093e"
-      >
-        <path d="m380-300 280-180-280-180v360ZM480-80q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z" />
-      </svg>
-
-      {/* <svg
-        xmlns="http://www.w3.org/2000/svg"
-        height="18px"
-        viewBox="0 -960 960 960"
-        width="18px"
-        fill="#18093e"
-      >
-        <path d="m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z" />
-      </svg> */}
-    </div>
+    </span>
   )
 }

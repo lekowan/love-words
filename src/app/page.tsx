@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import { transcriptData } from "../data/shirokuma-ep5"
+import { transcriptData } from "../data/shirokuma-ep3"
 import { Card } from "./components/card"
 import { Header } from "./components/header"
 import { useWordStore } from "./hooks/useWordStore"

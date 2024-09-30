@@ -1,23 +1,15 @@
-import { useWordStore } from "@/app/hooks/useWordStore"
+import { Modal } from "../modal"
+// import { Popover } from "../popover"
 
 interface WordHighlighterProps {
   sentence: string
-  className: String
 }
 
 export const WordHighlighter = ({ sentence }: WordHighlighterProps) => {
-  const setClickedWord = useWordStore((state) => state.setClickedWord)
-
-  const handleWordClick = (event: React.MouseEvent<HTMLElement>) => {
-    const word = event.currentTarget.innerText
-    setClickedWord(word)
-  }
-
   const sentenceWithSpans = sentence.split(" ").map((word, index) => (
-    <span key={index} onClick={handleWordClick}>
-      {word}
-    </span>
+    // <Popover key={`${word}-${index}`} word={word} />
+    <Modal key={`${word}-${index}`} word={word} />
   ))
 
-  return <p>{sentenceWithSpans}</p>
+  return <div className="inline">{sentenceWithSpans}</div>
 }

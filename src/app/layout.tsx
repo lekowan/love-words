@@ -1,9 +1,9 @@
 import type { Metadata } from "next"
 import "./globals.css"
 
-import { Noto_Sans } from "next/font/google"
+import { Noto_Sans_JP } from "next/font/google"
 
-const notoSans = Noto_Sans({
+const notoSans = Noto_Sans_JP({
   subsets: ["latin"],
   weight: ["400"],
 })
