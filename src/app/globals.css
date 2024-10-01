@@ -24,3 +24,35 @@ body {
     text-wrap: balance;
   }
 }
+
+@layer components {
+  .hand-drawn-rectangle {
+    display: inline-flex;
+    border: 2px solid #000;
+    border-radius: 30px; /* Rounded corners */
+    position: relative;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Adding slight irregularity with pseudo-elements */
+  .hand-drawn-rectangle::before,
+  .hand-drawn-rectangle::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 1px solid #000;
+    border-radius: 30px;
+    pointer-events: none;
+  }
+
+  .hand-drawn-rectangle::before {
+    transform: rotate(0.2deg);
+  }
+
+  .hand-drawn-rectangle::after {
+    transform: rotate(-0.2deg);
+  }
+}
