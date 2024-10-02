@@ -20,7 +20,7 @@ export const Modal = ({ word }: DialogProps) => {
       <Dialog.Trigger asChild>
         <span
           onClick={handleWordClick}
-          className="data-[state=open]:text-[#754fe3] border-b-2 border-gray-300 border-dotted text-[21px] font-medium cursor-pointer mr-2 my-4"
+          className="data-[state=open]:text-[#754fe3] border-b-2 border-gray-300 border-dotted text-[21px] font-medium cursor-pointer mr-2"
         >
           {word}
         </span>

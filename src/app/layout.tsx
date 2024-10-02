@@ -20,7 +20,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${notoSans.className} antialiased`}>{children}</body>
+      <body className={`${notoSans.className} antialiased brush-strokes`}>
+        {children}
+      </body>
     </html>
   )
 }

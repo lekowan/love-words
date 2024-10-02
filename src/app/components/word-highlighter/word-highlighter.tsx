@@ -9,5 +9,5 @@ export const WordHighlighter = ({ sentence }: WordHighlighterProps) => {
     .split(" ")
     .map((word, index) => <Modal key={`${word}-${index}`} word={word} />)
 
-  return <div className="inline">{sentenceWithSpans}</div>
+  return <>{sentenceWithSpans}</>
 }

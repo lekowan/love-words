@@ -1,5 +1,5 @@
 import Image from "next/image"
-import Icon from "../../assets/audio.png"
+import Icon from "../../../assets/audio.png"
 
 interface AudioIconProps {
   sentence: string
@@ -23,7 +23,7 @@ export const AudioIcon = ({ sentence }: AudioIconProps) => {
         src={Icon}
         width={29}
         height={24}
-        alt="Picture of the author"
+        alt="audio button"
       />
     </div>
   )
