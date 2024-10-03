@@ -56,25 +56,13 @@ body {
     background: url("./../assets/brush-strokes.png") no-repeat top left;
   }
 
-  /* Adding slight irregularity with pseudo-elements
-  .hand-drawn-rectangle::before,
-  .hand-drawn-rectangle::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    border: 1px solid #000;
-    border-radius: 30px;
-    pointer-events: none;
+  .purple-gradient {
+    background: linear-gradient(70deg, #bba4ff 0%, #ebe3fd 100%);
+    color: #18093e;
   }
 
-  .hand-drawn-rectangle::before {
-    transform: rotate(0.2deg);
+  .dark-blue {
+    background: #0f0037;
+    color: #fff;
   }
-
-  .hand-drawn-rectangle::after {
-    transform: rotate(-0.2deg);
-  } */
 }

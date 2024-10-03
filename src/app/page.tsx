@@ -7,6 +7,7 @@ import { Header } from "./components/header"
 import { useWordStore } from "./hooks/useWordStore"
 import { cn } from "../../utils/cn"
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
+import { Button } from "./components/button/button"
 
 export interface TranscriptDataEntry {
   character: string
@@ -15,6 +16,7 @@ export interface TranscriptDataEntry {
   definition: string
   pinyinSpace: string
   translate?: boolean
+  speaker?: string
 }
 
 export interface TranscriptDataProps {
@@ -80,27 +82,29 @@ export default function Home() {
               id={index + 1}
               sentence={data[index + 1].definition}
               translation={data[index + 1].letter}
+              speaker={data[index + 1].speaker}
             />
           ))}
         <div ref={messagesEndRef} className="tw-h-[300px]" />
       </div>
       <div className="tw-fixed tw-bottom-0 tw-h-24 tw-bg-white tw-flex tw-justify-center tw-items-center tw-w-full tw-px-4">
         {showTranslate && (
-          <div
+          <Button
             onClick={handleTranslate}
-            data-show-translate={showTranslate}
-            className="tw-text-center tw-w-[500px] tw-py-3 tw-px-6 tw-tracking-[2px] tw-rounded-full tw-max-w-96 tw-bg-[#FEE1FF] tw-text-[#EB42EE] tw-font-extrabold tw-cursor-pointer"
+            variant="primary"
+            className="tw-w-[500px] tw-max-w-96"
           >
             Translate
-          </div>
+          </Button>
         )}
         {!showTranslate && (
-          <div
+          <Button
             onClick={handleContinue}
-            className="tw-text-center tw-w-[500px] tw-py-3 tw-px-6 tw-tracking-[2px] tw-rounded-full tw-max-w-96 tw-bg-[#AB87FD] tw-text-[#221248] tw-font-extrabold tw-cursor-pointer"
+            variant="secondary"
+            className="tw-w-[500px] tw-max-w-96"
           >
             Continue
-          </div>
+          </Button>
         )}
       </div>
     </>

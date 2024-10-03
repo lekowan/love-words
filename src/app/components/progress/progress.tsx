@@ -25,11 +25,11 @@ export const Progress = ({
           <div className="tw-bg-[#ecebee] tw-h-3 tw-rounded-md tw-w-[90%] tw-border-1 tw-border-gray-500">
             <span
               style={{ width: `${progressVal}%` }}
-              className={"tw-h-3 tw-absolute tw-bg-[#f691fa] tw-rounded-full"}
+              className={"tw-h-3 tw-absolute purple-gradient tw-rounded-full"}
             ></span>
           </div>
-          <p className="tw-ml-4 tw-min-w-fit">
-            {progressStart} / {progressEnd}
+          <p className="tw-ml-4 tw-min-w-fit tw-text-[11px] tw-font-black">
+            {progressStart} <span className="tw-px-3">/</span> {progressEnd}
           </p>
         </div>
       </div>
