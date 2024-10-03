@@ -1,4 +1,6 @@
-const _temp = {168: {
+//  @typescript-eslint/no-unused-vars
+const _temp = {
+  168: {
     character: "パンダくんの悩み",
     letter: "Panda's Problems.",
     pinyin: "ぱんだくんのなやみ",
