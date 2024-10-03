@@ -7,7 +7,7 @@ export const transcriptData: TranscriptDataProps = {
     pinyin: "しろくまくんどうぶつえんへ",
     definition: "シロクマ くん 動物園 へ",
     pinyinSpace: "シロクマ くん どうぶつえん へ",
-    speaker: "Narrator",
+    speaker: "Other",
   },
   2: {
     character: "シロクマくん暇だから何か問題出してよ",
@@ -16,7 +16,7 @@ export const transcriptData: TranscriptDataProps = {
     pinyin: "しろくまくんひまだからなにかもんだいだしてよ",
     definition: "シロクマ くん 暇 だから 何か 問題 出して よ",
     pinyinSpace: "シロクマ くん ひま だ から なにか もんだい だして よ",
-    speaker: "Panda",
+    speaker: "Penguin",
   },
   3: {
     character: "いいよ",
@@ -38,7 +38,7 @@ export const transcriptData: TranscriptDataProps = {
     character: "Ｔ字路と呼ばれる交差点",
     letter: "The T-intersection.'",
     pinyin: "てぃーじろとよばれるこうさてん",
-    definition: "字 路 と 呼ばれる 交差点",
+    definition: "T 字 路 と 呼ばれる 交差点",
     pinyinSpace: "Ｔ じ/あざ みち/ち と よばれる こうさてん",
     speaker: "Polar Bear",
   },
@@ -47,7 +47,7 @@ export const transcriptData: TranscriptDataProps = {
     letter:
       "The legal name for this kind of intersection is not actually 'T-intersection.'",
     pinyin: "ほうれいじょうのせいしきめいしょうはてぃーじろではありません",
-    definition: "法令 上 の 正式名称 は 字 路 ではありません",
+    definition: "法令 上 の 正式名称 は T 字 路 ではありません",
     pinyinSpace:
       "ほうれい うえ の せいしきめいしょう は Ｔ じ/あざ みち/ち ではありません",
     speaker: "Polar Bear",
@@ -66,7 +66,7 @@ export const transcriptData: TranscriptDataProps = {
     pinyin: "もっとふらんくなもんだいがいいな",
     definition: "もっと フランク な 問題 が いい な",
     pinyinSpace: "もっと フランク な もんだい が いい な",
-    speaker: "Panda",
+    speaker: "Penguin",
   },
   9: {
     character: "無洗米の製法にはいくつかありますが",
@@ -90,7 +90,7 @@ export const transcriptData: TranscriptDataProps = {
     pinyin: "ごめん、もういいや!!",
     definition: "ごめん もういい や",
     pinyinSpace: "ごめん 、 もういい や !!",
-    speaker: "Panda",
+    speaker: "Penguin",
   },
   12: {
     character: "おぉパンダくん",
@@ -165,383 +165,384 @@ export const transcriptData: TranscriptDataProps = {
     pinyin: "かふぇにおちゃしにきてるだけでしょ",
     definition: "カフェ に お茶 しに 来てる だけ でしょ",
     pinyinSpace: "カフェ に おちゃ しに きてる だけ でしょ",
-    speaker: "Polar Bear",
+    speaker: "Penguin",
   },
-  21: {
+  "21": {
     character: "僕人にはモテるんだからね",
     letter: "I'm really popular with people, you know?",
     pinyin: "ぼくひとにはもてるんだからね",
     definition: "僕 人 には モテる ん だから ね",
-    pinyinSpace: "ぼく ひと に は モテる ん だから ね",
+    pinyinSpace: "ぼく ひと には モテる ん だ から ね",
     speaker: "Panda",
   },
-  22: {
-    character: "で、どうしたの？",
-    letter: "So, what's up?",
-    pinyin: "で、どうしたの？",
-    definition: "で どうした の",
-    pinyinSpace: "で どうした の ？",
-    speaker: "Polar Bear",
-  },
-  23: {
-    character: "たまには動物園に遊びに来てよ",
-    letter: "You should come visit the zoo sometime.",
-    pinyin: "たまにはどうぶつえんにあそびにきてよ",
-    definition: "たまには 動物園 に 遊びに来て よ",
-    pinyinSpace: "たまには どうぶつえん に あそびにきて よ",
-    speaker: "Panda",
-  },
-  24: {
-    character: "今度ね",
-    letter: "Next time.",
-    pinyin: "こんどね",
-    definition: "今度 ね",
-    pinyinSpace: "こんど ね",
-    speaker: "Polar Bear",
-  },
-  25: {
-    character: "えー、なんでー",
-    letter: "Aww, why?",
-    pinyin: "えー、なんでー",
-    definition: "えー なんで",
-    pinyinSpace: "えー なんでー",
-    speaker: "Panda",
-  },
-  26: {
-    character: "いつも言ってるじゃん",
-    letter: "You always say that.",
-    pinyin: "いつもいってるじゃん",
-    definition: "いつも 言ってる じゃん",
-    pinyinSpace: "いつも いってる じゃん",
-    speaker: "Panda",
-  },
-  27: {
-    character: "本当に今度",
-    letter: "I mean it, next time.",
-    pinyin: "ほんとうにこんど",
-    definition: "本当に 今度",
-    pinyinSpace: "ほんとうに こんど",
-    speaker: "Polar Bear",
-  },
-  28: {
-    character: "本当かなぁ",
-    letter: "Do you really mean that?",
-    pinyin: "ほんとうかなぁ",
-    definition: "本当 かな",
-    pinyinSpace: "ほんとう かな ぁ",
-    speaker: "Panda",
-  },
-  29: {
-    character: "約束するよ",
-    letter: "I promise.",
-    pinyin: "やくそくするよ",
-    definition: "約束 する よ",
-    pinyinSpace: "やくそく する よ",
-    speaker: "Polar Bear",
-  },
-  30: {
-    character: "じゃあ、絶対だよ",
-    letter: "Alright, it's a promise.",
-    pinyin: "じゃあ、ぜったいだよ",
-    definition: "じゃあ 絶対 だ よ",
-    pinyinSpace: "じゃあ ぜったい だ よ",
-    speaker: "Panda",
-  },
-  31: {
-    character: "うん、絶対",
-    letter: "Yes, definitely.",
-    pinyin: "うん、ぜったい",
-    definition: "うん 絶対",
-    pinyinSpace: "うん ぜったい",
-    speaker: "Polar Bear",
-  },
-  32: {
-    character: "動物園で待ってるからね！",
-    letter: "I'll be waiting at the zoo!",
-    pinyin: "どうぶつえんでまってるからね！",
-    definition: "動物園 で 待ってる から ね",
-    pinyinSpace: "どうぶつえん で まってる から ね ！",
-    speaker: "Panda",
-  },
-  33: {
-    character: "はいはい",
-    letter: "Yeah, yeah.",
-    pinyin: "はいはい",
-    definition: "はい はい",
-    pinyinSpace: "はい はい",
-    speaker: "Polar Bear",
-  },
-  34: {
-    character: "次のお客さんどうぞ",
-    letter: "Next customer, please.",
-    pinyin: "つぎのおきゃくさんどうぞ",
-    definition: "次 の お客さん どうぞ",
-    pinyinSpace: "つぎ の おきゃくさん どうぞ",
-    speaker: "Polar Bear",
-  },
-  35: {
-    character: "あれ？ペンギンさんだ",
-    letter: "Oh? It's Penguin.",
-    pinyin: "あれ？ぺんぎんさんだ",
-    definition: "あれ ペンギン さん だ",
-    pinyinSpace: "あれ ？ ペンギン さん だ",
-    speaker: "Panda",
-  },
-  36: {
-    character: "おぉ、パンダくん",
-    letter: "Oh, hey, Panda.",
-    pinyin: "おぉ、ぱんだくん",
-    definition: "おぉ パンダ くん",
-    pinyinSpace: "おぉ パンダ くん",
+  "22": {
+    character: "聞いてないなぁ…",
+    letter: "He's not listening.",
+    pinyin: "きいてないなぁ…",
+    definition: "聞いてない なぁ",
+    pinyinSpace: "きいてない なぁ …",
     speaker: "Penguin",
   },
-  37: {
-    character: "いらっしゃい",
-    letter: "Welcome.",
-    pinyin: "いらっしゃい",
-    definition: "いらっしゃい",
-    pinyinSpace: "いらっしゃい",
-    speaker: "Polar Bear",
-  },
-  38: {
-    character: "どうしたの？ペンギンさん、動物園からの帰り？",
-    letter: "What's up, Penguin? Are you on your way back from the zoo?",
-    pinyin: "どうしたの？ぺんぎんさん、どうぶつえんからのかえり？",
-    definition: "どうした の ペンギン さん 動物園 から の 帰り",
-    pinyinSpace:
-      "どうした の ？ ペンギン さん 、 どうぶつえん から の かえり ？",
+  "23": {
+    character: "一度動物園に遊びに来てよ",
+    letter: "Come visit me at the zoo at least once.",
+    pinyin: "いちどどうぶつえんにあそびにきてよ",
+    definition: "一度 動物園 に 遊びに来て よ",
+    pinyinSpace: "いちど どうぶつえん に あそびにきて よ",
     speaker: "Panda",
   },
-  39: {
-    character: "うん、ちょっとね",
-    letter: "Yeah, sort of.",
-    pinyin: "うん、ちょっとね",
-    definition: "うん ちょっと ね",
-    pinyinSpace: "うん ちょっと ね",
+  "24": {
+    character: "大人気でびっくりするよ",
+    letter: "You'll be surprised at how popular I am.",
+    pinyin: "だいにんきでびっくりするよ",
+    definition: "大人気 で びっくりする よ",
+    pinyinSpace: "おとなげ/だいにんき で びっくり する よ",
+    speaker: "Panda",
+  },
+  "25": {
+    character: "なんで２回言うの?",
+    letter: "Why'd you have to say it twice?",
+    pinyin: "なんで２かいいうの?",
+    definition: "なんで ２回 言う の",
+    pinyinSpace: "なんで にかい いう の ?",
     speaker: "Penguin",
   },
-  40: {
-    character: "なんだか忙しそうだね",
-    letter: "You look pretty busy.",
-    pinyin: "なんだかいそがしそうだね",
-    definition: "なんだか 忙しそう だ ね",
-    pinyinSpace: "なんだか いそがしそう だ ね",
+  "26": {
+    character: "もしもしシロクマくん？",
+    letter: "Hello, Polar Bear?",
+    pinyin: "もしもししろくまくん？",
+    definition: "もしもし シロクマ くん",
+    pinyinSpace: "もしもし シロクマ くん ？",
     speaker: "Panda",
   },
-  41: {
-    character: "そうなんだよ",
-    letter: "Yeah, I am.",
-    pinyin: "そうなんだよ",
-    definition: "そう なんだ よ",
-    pinyinSpace: "そう なんだ よ",
-    speaker: "Penguin",
-  },
-  42: {
-    character: "シロクマカフェはいつも忙しいね",
-    letter: "Polar Bear Café is always busy.",
-    pinyin: "しろくまかふぇはいつもいそがしいね",
-    definition: "シロクマ カフェ は いつも 忙しい ね",
-    pinyinSpace: "シロクマ カフェ は いつも いそがしい ね",
+  "27": {
+    character: "明日動物園に来る件だけど忘れないでよ",
+    letter: "I'm calling to remind you to come to the zoo tomorrow.",
+    pinyin: "あしたどうぶつえんにくるけんだけどわすれないでよ",
+    definition: "明日 動物園 に 来る 件 だけど 忘れないで よ",
+    pinyinSpace: "あした どうぶつえん に くる けん だけど わすれないで よ",
     speaker: "Panda",
   },
-  43: {
-    character: "本当だね",
-    letter: "Yeah, you're right.",
-    pinyin: "ほんとうだね",
-    definition: "本当 だ ね",
-    pinyinSpace: "ほんとう だ ね",
-    speaker: "Penguin",
-  },
-  44: {
-    character: "シロクマくんはもっとゆっくりしてもいいんじゃない？",
-    letter: "Polar Bear, you should take it easy sometimes.",
-    pinyin: "しろくまくんはもっとゆっくりしてもいいんじゃない？",
-    definition: "シロクマ くん は もっと ゆっくり しても いい ん じゃない",
-    pinyinSpace: "シロクマ くん は もっと ゆっくり しても いい ん じゃない ？",
+  "28": {
+    character: "じゃあペンギンさんにも伝えておいてね",
+    letter: "Please tell Mr. Penguin, too.",
+    pinyin: "じゃあぺんぎんさんにもつたえておいてね",
+    definition: "じゃあ ペンギン さん にも 伝えておいて ね",
+    pinyinSpace: "じゃあ ペンギン さん にも つたえておいて ね",
     speaker: "Panda",
   },
-  45: {
-    character: "おかげさまで",
-    letter: "Thanks to everyone.",
-    pinyin: "おかげさまで",
-    definition: "おかげさまで",
-    pinyinSpace: "おかげさまで",
-    speaker: "Polar Bear",
-  },
-  46: {
-    character: "でも無理しないでね",
-    letter: "But don't push yourself too hard, okay?",
-    pinyin: "でもむりしないでね",
-    definition: "でも 無理 しないで ね",
-    pinyinSpace: "でも むり しないで ね",
+  "29": {
+    character: "おはようございま～す",
+    letter: "Good morning!",
+    pinyin: "おはようございま～す",
+    definition: "おはよう ござ いま す",
+    pinyinSpace: "おはよう ござ いま ～ す",
     speaker: "Panda",
   },
-  47: {
-    character: "ありがとう、気をつけるよ",
-    letter: "Thanks, I'll be careful.",
-    pinyin: "ありがとう、きをつけるよ",
-    definition: "ありがとう 気をつける よ",
-    pinyinSpace: "ありがとう 、 きをつける よ",
-    speaker: "Polar Bear",
+  "30": {
+    character: "おはようパンダくん",
+    letter: "Good morning, Panda.",
+    pinyin: "おはようぱんだくん",
+    definition: "おはよう パンダ くん",
+    pinyinSpace: "おはよう パンダ くん",
+    speaker: "Handa",
   },
-  48: {
-    character: "それにしてもパンダくんは本当に優しいね",
-    letter: "You're really kind, Panda.",
-    pinyin: "それにしてもぱんだくんはほんとうにやさしいね",
-    definition: "それにしても パンダ くん は 本当に 優しい ね",
-    pinyinSpace: "それにしても パンダ くん は ほんとうに やさしい ね",
-    speaker: "Penguin",
+  "31": {
+    character: "なんだか元気だね",
+    letter: "You're in good spirits today.",
+    pinyin: "なんだかげんきだね",
+    definition: "なんだか 元気 だ ね",
+    pinyinSpace: "なんだか げんき だ ね",
+    speaker: "Handa",
   },
-  49: {
-    character: "え？そうかなぁ",
-    letter: "Huh? You think so?",
-    pinyin: "え？そうかなぁ",
-    definition: "え そう かな",
-    pinyinSpace: "え ？ そう かな ぁ",
+  "32": {
+    character: "今日友達が僕のこと見に来るの",
+    letter: "My friends are coming to see me today.",
+    pinyin: "きょうともだちがぼくのことみにくるの",
+    definition: "今日 友達 が 僕 の こと 見に来る の",
+    pinyinSpace: "きょう ともだち が ぼく の こと みにくる の",
     speaker: "Panda",
   },
-  50: {
-    character: "優しいよ",
-    letter: "You are.",
-    pinyin: "やさしいよ",
-    definition: "優しい よ",
-    pinyinSpace: "やさしい よ",
-    speaker: "Penguin",
-  },
-  51: {
-    character: "ありがとう！ペンギンさんも優しいよ！",
-    letter: "Thanks! You're kind too, Penguin!",
-    pinyin: "ありがとう！ぺんぎんさんもやさしいよ！",
-    definition: "ありがとう ペンギン さん も 優しい よ",
-    pinyinSpace: "ありがとう ！ ペンギン さん も やさしい よ ！",
-    speaker: "Panda",
-  },
-  52: {
-    character: "えぇ、どういたしまして",
-    letter: "Oh, you're welcome.",
-    pinyin: "えぇ、どういたしまして",
-    definition: "えぇ どういたしまして",
-    pinyinSpace: "えぇ どういたしまして",
-    speaker: "Penguin",
-  },
-  53: {
-    character: "お二人とも、仲が良いですね",
-    letter: "You two sure get along well.",
-    pinyin: "おふたりとも、なかがよいですね",
-    definition: "お二人とも 仲が良い です ね",
-    pinyinSpace: "おふたりとも なかが よい です ね",
-    speaker: "Polar Bear",
-  },
-  54: {
-    character: "そうかな？",
-    letter: "You think so?",
-    pinyin: "そうかな？",
-    definition: "そう かな",
-    pinyinSpace: "そう かな ？",
-    speaker: "Panda",
-  },
-  55: {
-    character: "いや、本当に",
-    letter: "No, really.",
-    pinyin: "いや、ほんとうに",
-    definition: "いや 本当に",
-    pinyinSpace: "いや ほんとうに",
-    speaker: "Polar Bear",
-  },
-  56: {
-    character: "あ、そうだ。ペンギンさん、動物園で何してたの？",
-    letter: "Oh, right. Penguin, what were you doing at the zoo?",
-    pinyin: "あ、そうだ。ぺんぎんさん、どうぶつえんでなにしてたの？",
-    definition: "あ そうだ ペンギン さん 動物園 で 何 してた の",
-    pinyinSpace:
-      "あ そうだ 。 ペンギン さん 、 どうぶつえん で なに してた の ？",
-    speaker: "Panda",
-  },
-  57: {
-    character: "え？別に、ただ遊んでただけだよ",
-    letter: "Huh? Nothing really, I was just hanging out.",
-    pinyin: "え？べつに、ただあそんでただけだよ",
-    definition: "え 別に ただ 遊んでた だけ だ よ",
-    pinyinSpace: "え ？ べつに 、 ただ あそんでた だけ だ よ",
-    speaker: "Penguin",
-  },
-  58: {
+  "33": {
     character: "そうなんだ",
-    letter: "I see.",
+    letter: "I see...",
     pinyin: "そうなんだ",
-    definition: "そうなんだ",
-    pinyinSpace: "そうなんだ",
+    definition: "そう なんだ",
+    pinyinSpace: "そう なんだ",
+    speaker: "Handa",
+  },
+  "34": {
+    character: "あっそうだ今日は常勤パンダさんが娘さんの参観日だから休むって",
+    letter:
+      "Oh, that's right! Full-time Panda has the day off today because he's visiting his daughter's class.",
+    pinyin:
+      "あっそうだきょうはじょうきんぱんださんがむすめさんのさんかんびだからやすむって",
+    definition:
+      "あっそ う だ 今日 は 常勤 パンダ さん が 娘さん の 参観日 だから 休む って",
+    pinyinSpace:
+      "あっそ う だ きょう は じょうきん パンダ さん が むすめさん の さんかんび だ から やすむ って",
+  },
+  "35": {
+    character: "そうなの？",
+    letter: "Oh, really?",
+    pinyin: "そうなの？",
+    definition: "そう なの",
+    pinyinSpace: "そう なの ？",
+  },
+  "36": {
+    character: "あれ？ということは…",
+    letter: "Wait, that means...",
+    pinyin: "あれ？ということは…",
+    definition: "あれ ということは",
+    pinyinSpace: "あれ ？ ということは …",
+  },
+  "37": {
+    character: "パンダは僕ひとり…",
+    letter: "I'll be the only panda.",
+    pinyin: "ぱんだはぼくひとり…",
+    definition: "パンダ は 僕 ひとり",
+    pinyinSpace: "パンダ は ぼく ひとり …",
     speaker: "Panda",
   },
-  59: {
-    character: "また動物園に行くの？",
-    letter: "Are you going to the zoo again?",
-    pinyin: "またどうぶつえんにいくの？",
-    definition: "また 動物園 に 行く の",
-    pinyinSpace: "また どうぶつえん に いく の ？",
+  "38": {
+    character: "パンダさんかわいい～！",
+    letter: "You're so cute, Mr. Panda!",
+    pinyin: "ぱんださんかわいい～！",
+    definition: "パンダ さん かわいい",
+    pinyinSpace: "パンダ さん かわいい ～！",
+  },
+  "39": {
+    character: "パンダく～ん！かわいい！",
+    letter: "You're so cute, Panda!",
+    pinyin: "ぱんだく～ん！かわいい！",
+    definition: "パンダ く ん かわいい",
+    pinyinSpace: "パンダ く ～ ん ！ かわいい ！",
+  },
+  "40": {
+    character: "ようし！頑張るぞ～！",
+    letter: "All right! I'll do my best!",
+    pinyin: "ようし！がんばるぞ～！",
+    definition: "ようし 頑張る ぞ",
+    pinyinSpace: "ようし ！ がんばる ぞ ～！",
     speaker: "Panda",
   },
-  60: {
-    character: "そうだね、またそのうち",
-    letter: "Yeah, maybe sometime soon.",
-    pinyin: "そうだね、またそのうち",
-    definition: "そうだね また そのうち",
-    pinyinSpace: "そうだね 、 また そのうち",
+  "41": {
+    character: "うわっすっげえ！",
+    letter: "Oh, my God!",
+    pinyin: "うわっすっげえ！",
+    definition: "うわ っすっげえ",
+    pinyinSpace: "うわ っすっげえ ！",
+  },
+  "42": {
+    character: "何名様ですか？",
+    letter: "How many?",
+    pinyin: "なんめいさまですか？",
+    definition: "何 名様 です か",
+    pinyinSpace: "なに めいさま です か ？",
+  },
+  "43": {
+    character: "２名です",
+    letter: "Two... Animals, please.",
+    pinyin: "２めいです",
+    definition: "２名 です",
+    pinyinSpace: "にめい です",
+    speaker: "Polar Bear",
+  },
+  "44": {
+    character: "ここが動物園か",
+    letter: "So, this is the zoo.",
+    pinyin: "ここがどうぶつえんか",
+    definition: "ここ が 動物園 か",
+    pinyinSpace: "ここ が どうぶつえん か",
+    speaker: "Polar Bear",
+  },
+  "45": {
+    character: "思ったより広いね",
+    letter: "It's a lot bigger than I thought.",
+    pinyin: "おもったよりひろいね",
+    definition: "思った より 広い ね",
+    pinyinSpace: "おもった より ひろい ね",
+    speaker: "Polar Bear",
+  },
+  "46": {
+    character: "まずはパンダくんを見に行こう",
+    letter: "Let's go see Panda first.",
+    pinyin: "まずはぱんだくんをみにいこう",
+    definition: "まず は パンダ くん を 見に行こう",
+    pinyinSpace: "まず は パンダ くん を みにいこう",
     speaker: "Penguin",
   },
-  61: {
-    character: "また遊ぼうね",
-    letter: "Let's hang out again.",
-    pinyin: "またあそぼうね",
-    definition: "また 遊ぼう ね",
-    pinyinSpace: "また あそぼう ね",
-    speaker: "Panda",
+  "47": {
+    character: "ただ今からシロクマのおやつタイムを行います",
+    letter: "We will now start the polar bear feeding time.",
+    pinyin: "ただいまからしろくまのおやつたいむをおこないます",
+    definition: "ただ今 から シロクマ の おやつタイム を 行います",
+    pinyinSpace: "ただいま から シロクマ の おやつタイム を おこないます",
   },
-  62: {
-    character: "うん、またね",
-    letter: "Yeah, see you.",
-    pinyin: "うん、またね",
-    definition: "うん またね",
-    pinyinSpace: "うん 、 またね",
+  "48": {
+    character: "シロクマがプールへダイビングする姿をどうぞお楽しみください",
+    letter: "Please enjoy watching the polar bear dive into the water!",
+    pinyin: "しろくまがぷーるへだいびんぐするすがたをどうぞおたのしみください",
+    definition:
+      "シロクマ が プール へ ダイビングする 姿 を どうぞ お 楽しみ ください",
+    pinyinSpace:
+      "シロクマ が プール へ ダイビング する すがた を どうぞ お たのしみ ください",
+  },
+  "49": {
+    character: "見たい！すごそう！",
+    letter: "I want to go see! That sounds amazing!",
+    pinyin: "みたい！すごそう！",
+    definition: "見たい すごそう",
+    pinyinSpace: "みたい ！ すごそう ！",
+    speaker: "Polar Bear",
+  },
+  "50": {
+    character: "えっ！？見たい！？",
+    letter: "What? You want to see that?",
+    pinyin: "えっ！？みたい！？",
+    definition: "え っ 見たい",
+    pinyinSpace: "え っ ！？ みたい ！？",
     speaker: "Penguin",
   },
-
-  63: {
+  "51": {
+    character: "シロクマくんってシロクマだよね？",
+    letter: "You're a polar bear, right, Polar Bear?",
+    pinyin: "しろくまくんってしろくまだよね？",
+    definition: "シロクマ くん って シロクマ だよね",
+    pinyinSpace: "シロクマ くん って シロクマ だよね ？",
+    speaker: "Penguin",
+  },
+  "52": {
+    character: "シロクマがシロクマのダイビングする姿が見たいの？",
+    letter: "You want to see a polar bear diving, Polar Bear?",
+    pinyin: "しろくまがしろくまのだいびんぐするすがたがみたいの？",
+    definition: "シロクマ が シロクマ の ダイビングする 姿 が 見たい の",
+    pinyinSpace:
+      "シロクマ が シロクマ の ダイビング する すがた が みたい の ？",
+    speaker: "Penguin",
+  },
+  "53": {
+    character: "行こう行こう！",
+    letter: "Let's go, let's go!",
+    pinyin: "いこういこう！",
+    definition: "行こう 行こう",
+    pinyinSpace: "いこう いこう ！",
+    speaker: "Polar Bear",
+  },
+  "54": {
+    character: "パンダく～ん",
+    letter: "Panda!",
+    pinyin: "ぱんだく～ん",
+    definition: "パンダ く ん",
+    pinyinSpace: "パンダ く ～ ん",
+    speaker: "Handa",
+  },
+  "55": {
+    character: "そんなに飛ばして大丈夫？",
+    letter: "Are you doing okay, working that hard?",
+    pinyin: "そんなにとばしてだいじょうぶ？",
+    definition: "そんなに 飛ばして 大丈夫",
+    pinyinSpace: "そんなに とばして だいじょうぶ ？",
+    speaker: "Handa",
+  },
+  "56": {
+    character: "半田さん友達が来たらちゃんと写真撮ってね",
+    letter: "Mr. Handa, when my friends come, please take our picture.",
+    pinyin: "はんでんさんともだちがきたらちゃんとしゃしんとってね",
+    definition: "半田 さん 友達 が 来たら ちゃんと 写真 撮って ね",
+    pinyinSpace: "はんだ さん ともだち が きたら ちゃんと しゃしん とって ね",
+    speaker: "Panda",
+  },
+  "57": {
+    character: "でもおかしいなぁ",
+    letter: "But it's strange",
+    pinyin: "でもおかしいなぁ",
+    definition: "でも おかしい なぁ",
+    pinyinSpace: "でも おかしい なぁ",
+    speaker: "Panda",
+  },
+  "58": {
+    character: "シロクマくんたち１時って言ったのに来ないね",
+    letter:
+      "They said they'd be here around 1pm, but I don't see them anywhere.",
+    pinyin: "しろくまくんたち１じっていったのにこないね",
+    definition: "シロクマ くん たち １時 って 言った のに 来ない ね",
+    pinyinSpace: "シロクマ くん たち いちじ って いった のに こない ね",
+    speaker: "Panda",
+  },
+  "59": {
+    character: "シロクマくん駄目だよほら",
+    letter: "We can't go in here, Polar Bear. Look.",
+    pinyin: "しろくまくんだめだよほら",
+    definition: "シロクマ くん 駄目 だ よ ほら",
+    pinyinSpace: "シロクマ くん だめ だ よ ほら",
+    speaker: "Penguin",
+  },
+  "60": {
+    character: "なに？",
+    letter: "What?",
+    pinyin: "なに？",
+    definition: "なに",
+    pinyinSpace: "なに ？",
+    speaker: "Polar Bear",
+  },
+  "61": {
+    character: "入館不可だって",
+    letter: "It says you can't enter.",
+    pinyin: "にゅうかんふかだって",
+    definition: "入館 不可 だって",
+    pinyinSpace: "にゅうかん ふか だって",
+    speaker: "Penguin",
+  },
+  "62": {
+    character: "しろくま館へのシロクマの入館はご遠慮ください",
+    letter:
+      "We apologize for the inconvenience, but polar bears are not allowed in the Polar Bear Hall.",
+    pinyin: "しろくまかんへのしろくまのにゅうかんはごえんりょください",
+    definition: "しろくま 館 へ の シロクマ の 入館 は ご遠慮ください",
+    pinyinSpace:
+      "しろくま やかた/かん へ の シロクマ の にゅうかん は ごえんりょください",
+  },
+  "63": {
     character: "まぎらわしいので",
     letter: "It confuses them!",
     pinyin: "まぎらわしいので",
     definition: "まぎらわしい ので",
     pinyinSpace: "まぎらわしい ので",
   },
-  64: {
+  "64": {
     character: "こっそり入ればバレないバレないの",
     letter: "If we sneak in quietly, they'll never even notice.",
     pinyin: "こっそりいればばれないばれないの",
     definition: "こっそり 入れば バレない バレない の",
     pinyinSpace: "こっそり はいれば/いれば バレない バレない の",
+    speaker: "Polar Bear",
   },
-  65: {
+  "65": {
     character: "いやすごく目立ってるから",
     letter: "No... I think we're pretty obvious.",
     pinyin: "いやすごくめだってるから",
     definition: "いや すごく 目立ってる から",
     pinyinSpace: "いや すごく めだってる から",
+    speaker: "Penguin",
   },
-  66: {
+  "66": {
     character: "お～！すごい迫力",
     letter: "Wow! That's incredible!",
     pinyin: "お～！すごいはくりょく",
     definition: "お すごい 迫力",
     pinyinSpace: "お ～！ すごい はくりょく",
+    speaker: "Polar Bear",
   },
-  67: {
+  "67": {
     character: "シロクマ！",
     letter: "A polar bear!",
     pinyin: "しろくま！",
     definition: "シロクマ",
     pinyinSpace: "シロクマ ！",
+    speaker: "Other",
   },
-  68: {
+  "68": {
     character: "ちょっとちょっとシロクマは入れないって書いてあったでしょう",
     letter: "Hey, hey! The sign clearly says no polar bears allowed!",
     pinyin: "ちょっとちょっとしろくまはいれないってかいてあったでしょう",
@@ -550,217 +551,243 @@ export const transcriptData: TranscriptDataProps = {
     pinyinSpace:
       "ちょっと ちょっと シロクマ は はいれない/いれない って かいてあった でしょう",
   },
-  69: {
+  "69": {
     character: "困りますよ",
     letter: "It's really troublesome.",
     pinyin: "こまりますよ",
     definition: "困ります よ",
     pinyinSpace: "こまります よ",
   },
-  70: {
+  "70": {
     character: "え？これ剥製ですけど",
     letter: "Um... This is actually a stuffed animal.",
     pinyin: "え？これはくせいですけど",
     definition: "え これ 剥製 です けど",
     pinyinSpace: "え ？ これ はくせい です けど",
+    speaker: "Penguin",
   },
-  71: {
+  "71": {
     character: "今動いてましたよ剥製なわけないでしょう",
     letter: "It was just moving!",
     pinyin: "いまうごいてましたよはくせいなわけないでしょう",
     definition: "今 動いてました よ 剥製 な わけないでしょう",
     pinyinSpace: "いま うごいてました よ はくせい な わけない·でしょう",
   },
-  72: {
+  "72": {
     character: "なんで来ないの？",
     letter: "Why aren't they here yet?",
     pinyin: "なんでこないの？",
     definition: "なんで 来ない の",
     pinyinSpace: "なんで こない の ？",
+    speaker: "Panda",
   },
-  73: {
+  "73": {
     character: "もう行っていいかな？来たら呼んで",
     letter: "Um, I'm going to go now. Call me when they get here.",
     pinyin: "もういっていいかな？きたらよんで",
     definition: "もう 行っていい かな 来たら 呼んで",
     pinyinSpace: "もう おこなって いい/いって いい かな ？ きたら よんで",
+    speaker: "Handa",
   },
-  74: {
+  "74": {
     character: "もう叱られたじゃない",
     letter: "See? We got in trouble.",
     pinyin: "もうしかられたじゃない",
     definition: "もう 叱られた じゃない",
     pinyinSpace: "もう しかられた じゃない",
+    speaker: "Penguin",
   },
-  75: {
+  "75": {
     character: "僕はバレるって言ったのに",
     letter: "I said we'd get in trouble.",
     pinyin: "ぼくはばれるっていったのに",
     definition: "僕 は バレる って 言った のに",
     pinyinSpace: "ぼく は バレる って いった のに",
+    speaker: "Penguin",
   },
-  76: {
+  "76": {
     character: "じゃあパンダくんとこに行こう",
     letter: "Then let's go see Panda.",
     pinyin: "じゃあぱんだくんとこにいこう",
     definition: "じゃあ パンダ くん とこ に 行こう",
     pinyinSpace: "じゃあ パンダ くん とこ に いこう",
+    speaker: "Polar Bear",
   },
-  77: {
+  "77": {
     character: "うん",
     letter: "Okay.",
     pinyin: "うん",
     definition: "うん",
     pinyinSpace: "うん",
+    speaker: "Penguin",
   },
-  78: {
+  "78": {
     character: "パンダくんかわいいキャ～ッかわいい",
     letter: "You're so cute, Panda!",
     pinyin: "ぱんだくんかわいいきゃ～っかわいい",
     definition: "パンダ くん かわいい キャ ッか わ いい",
     pinyinSpace: "パンダ くん かわいい キャ ～ ッか わ いい",
   },
-  79: {
+  "79": {
     character: "パンダく～ん",
     letter: "Panda!",
     pinyin: "ぱんだく～ん",
     definition: "パンダ く ん",
     pinyinSpace: "パンダ く ～ ん",
   },
-  80: {
+  "80": {
     character: "パンダくん遅れてごめん",
     letter: "Sorry we're late, Panda!",
     pinyin: "ぱんだくんおくれてごめん",
     definition: "パンダ くん 遅れて ごめん",
     pinyinSpace: "パンダ くん おくれて ごめん",
+    speaker: "Penguin",
   },
-  81: {
+  "81": {
     character: "あれ？",
     letter: "Huh?",
     pinyin: "あれ？",
     definition: "あれ",
     pinyinSpace: "あれ ？",
+    speaker: "Polar Bear",
   },
-  82: {
+  "82": {
     character: "お～いパンダくん",
     letter: "Hey, Panda!",
     pinyin: "お～いぱんだくん",
     definition: "お い パンダ くん",
     pinyinSpace: "お ～ い パンダ くん",
+    speaker: "Penguin",
   },
-  83: {
+  "83": {
     character: "寝てる",
     letter: "He's asleep.",
     pinyin: "ねてる",
     definition: "寝てる",
     pinyinSpace: "ねてる",
+    speaker: "Penguin",
   },
-  84: {
+  "84": {
     character: "パンダくん起きて",
     letter: "Panda! Wake up!",
     pinyin: "ぱんだくんおきて",
     definition: "パンダ くん 起きて",
     pinyinSpace: "パンダ くん おきて",
+    speaker: "Polar Bear",
   },
-  85: {
+  "85": {
     character: "笑ってる",
     letter: "He's laughing...",
     pinyin: "わらってる",
     definition: "笑ってる",
     pinyinSpace: "わらってる",
+    speaker: "Penguin",
   },
-  86: {
+  "86": {
     character: "パンダくんおいパンダくん！",
     letter: "Panda!",
     pinyin: "ぱんだくんおいぱんだくん！",
     definition: "パンダ くん おい パンダ くん",
     pinyinSpace: "パンダ くん おい パンダ くん ！",
+    speaker: "Polar Bear",
   },
-  87: {
+  "87": {
     character: "駄目だ",
     letter: "It's no use.",
     pinyin: "だめだ",
     definition: "駄目 だ",
     pinyinSpace: "だめ だ",
+    speaker: "Penguin",
   },
-  88: {
+  "88": {
     character: "他のとこ回ってこようか",
     letter: "Let's go somewhere else.",
     pinyin: "ほかのとこまわってこようか",
     definition: "他 の とこ 回ってこよう か",
     pinyinSpace: "た/ほか の とこ まわってこよう か",
+    speaker: "Penguin",
   },
-  89: {
+  "89": {
     character: "寝ててもいいなんてうらやましい仕事だね",
     letter: "I envy the fact that he's allowed to sleep at work.",
     pinyin: "ねててもいいなんてうらやましいしごとだね",
     definition: "寝ててもいい なんて うらやましい 仕事 だ ね",
     pinyinSpace: "ねてて もいい なんて うらやましい しごと だ ね",
+    speaker: "Polar Bear",
   },
-  90: {
+  "90": {
     character: "ハッ今ペンギンさんの声が",
     letter: "Hey, I think I just heard Mr. Penguin!",
     pinyin: "はっいまぺんぎんさんのこえが",
     definition: "ハッ 今 ペンギン さん の 声 が",
     pinyinSpace: "ハッ いま ペンギン さん の こえ が",
+    speaker: "Panda",
   },
-  91: {
+  "91": {
     character: "いない",
     letter: "Aw, he's not here.",
     pinyin: "いない",
     definition: "いない",
     pinyinSpace: "いない",
+    speaker: "Panda",
   },
-  92: {
+  "92": {
     character: "あっ半田さん",
     letter: "Oh, Mr. Handa.",
     pinyin: "あっはんでんさん",
     definition: "あっ 半田 さん",
     pinyinSpace: "あっ はんだ さん",
+    speaker: "Panda",
   },
-  93: {
+  "93": {
     character: "なに？",
     letter: "Yes?",
     pinyin: "なに？",
     definition: "なに",
     pinyinSpace: "なに ？",
+    speaker: "Handa",
   },
-  94: {
+  "94": {
     character: "友達来なかった？",
     letter: "Did my friends happen to stop by?",
     pinyin: "ともだちこなかった？",
     definition: "友達 来なかった",
     pinyinSpace: "ともだち こなかった ？",
+    speaker: "Panda",
   },
-  95: {
+  "95": {
     character: "え？気づかなかったな",
     letter: "I didn't see them.",
     pinyin: "え？きづかなかったな",
     definition: "え 気づかなかった な",
     pinyinSpace: "え ？ きづかなかった な",
+    speaker: "Handa",
   },
-  96: {
+  "96": {
     character: "ちゃんと写真撮ってよ",
     letter: "Make sure you take our picture, 'kay?",
     pinyin: "ちゃんとしゃしんとってよ",
     definition: "ちゃんと 写真 撮って よ",
     pinyinSpace: "ちゃんと しゃしん とって よ",
+    speaker: "Panda",
   },
-  97: {
+  "97": {
     character: "はいはい",
     letter: "Sure, sure...",
     pinyin: "はいはい",
     definition: "はいはい",
     pinyinSpace: "はいはい",
+    speaker: "Handa",
   },
-  98: {
+  "98": {
     character: "おっあざらし館行こう行こう",
     letter: "Hey, the Seal Hall! Let's go!",
     pinyin: "おっあざらしかんいこういこう",
     definition: "お っあ ざら し 館 行こう 行こう",
     pinyinSpace: "お っあ ざら し やかた/かん いこう いこう",
+    speaker: "Polar Bear",
   },
-  99: {
+  "99": {
     character: "シロクマの入館はご遠慮ください",
     letter:
       "We apologize for the inconvenience, but polar bears are not allowed in the Seal Hall",
@@ -768,49 +795,53 @@ export const transcriptData: TranscriptDataProps = {
     definition: "シロクマ の 入館 は ご遠慮ください",
     pinyinSpace: "シロクマ の にゅうかん は ごえんりょください",
   },
-  100: {
+  "100": {
     character: "あざらしが怖がるので…",
     letter: "It scares the seals!",
     pinyin: "あざらしがこわがるので…",
     definition: "あざらし が 怖がる ので",
     pinyinSpace: "あざらし が こわがる ので …",
   },
-  101: {
+  "101": {
     character: "だってさ",
     letter: "There ya go.",
     pinyin: "だってさ",
     definition: "だって さ",
     pinyinSpace: "だって さ",
+    speaker: "Penguin",
   },
-  102: {
+  "102": {
     character: "バレないバレない",
     letter: "No one will even notice.",
     pinyin: "ばれないばれない",
     definition: "バレない バレない",
     pinyinSpace: "バレない バレない",
+    speaker: "Polar Bear",
   },
-  103: {
+  "103": {
     character: "いや目立ってるし",
     letter: "No, we're pretty obvious.",
     pinyin: "いやめだってるし",
     definition: "いや 目立ってる し",
     pinyinSpace: "いや めだってる し",
+    speaker: "Penguin",
   },
-  104: {
+  "104": {
     character: "食べない食べないの",
     letter: "Don't worry, I won't eat you.",
     pinyin: "たべないたべないの",
     definition: "食べない 食べない の",
     pinyinSpace: "たべない たべない の",
+    speaker: "Polar Bear",
   },
-  105: {
+  "105": {
     character: "シロクマ！",
     letter: "A polar bear!",
     pinyin: "しろくま！",
     definition: "シロクマ",
     pinyinSpace: "シロクマ ！",
   },
-  106: {
+  "106": {
     character: "食べないとわかっていても実際本物見るとテンション上がるなあ",
     letter:
       "Even though I know I won't eat one, I still get a little excited when I see one.",
@@ -820,8 +851,9 @@ export const transcriptData: TranscriptDataProps = {
       "食べない と わかっていても 実際 本物 見る と テンション 上がる なあ",
     pinyinSpace:
       "たべない と わかっていても じっさい ほんもの みる と テンション あがる なあ",
+    speaker: "Polar Bear",
   },
-  107: {
+  "107": {
     character: "シロクマくんの野性が呼び覚まされないうちに早く行こうよ",
     letter: "Let's leave before your natural instincts take over.",
     pinyin: "しろくまくんのやせいがよびさまされないうちにはやくいこうよ",
@@ -829,15 +861,16 @@ export const transcriptData: TranscriptDataProps = {
       "シロクマ くん の 野性 が 呼び 覚まされない うち に 早く 行こう よ",
     pinyinSpace:
       "シロクマ くん の やせい が よび さまされない うち に はやく いこう よ",
+    speaker: "Penguin",
   },
-  108: {
+  "108": {
     character: "ちょっとちょっと",
     letter: "Hey, hey!",
     pinyin: "ちょっとちょっと",
     definition: "ちょっと ちょっと",
     pinyinSpace: "ちょっと ちょっと",
   },
-  109: {
+  "109": {
     character: "シロクマは入らないでって書いてあったでしょう",
     letter: "The sign clearly said no polar bears allowed!",
     pinyin: "しろくまははいらないでってかいてあったでしょう",
@@ -845,224 +878,252 @@ export const transcriptData: TranscriptDataProps = {
     pinyinSpace:
       "シロクマ は はいらないでって/いらないでって かいてあった でしょう",
   },
-  110: {
+  "110": {
     character: "え？これ絨毯ですよ",
     letter: "Oh, this is just a rug.",
     pinyin: "え？これじゅうたんですよ",
     definition: "え これ 絨毯 です よ",
     pinyinSpace: "え ？ これ じゅうたん です よ",
+    speaker: "Penguin",
   },
-  111: {
+  "111": {
     character: "ほ～ら見てみてこんなにふっかふか",
     letter: "See? Look! It's so fluffy!",
     pinyin: "ほ～らみてみてこんなにふっかふか",
     definition: "ほ ら 見て みて こんなに ふっか ふか",
     pinyinSpace: "ほ ～ ら みて みて こんなに ふっか ふか",
+    speaker: "Penguin",
   },
-  112: {
+  "112": {
     character: "いや～騙せないもんだね",
     letter: "Wow. We can't seem to pull one over on them.",
     pinyin: "いや～だませないもんだね",
     definition: "いや 騙せない もんだ ね",
     pinyinSpace: "いや ～ だませない もん·だ ね",
+    speaker: "Polar Bear",
   },
-  113: {
+  "113": {
     character: "もう",
     letter: "Jeez.",
     pinyin: "もう",
     definition: "もう",
     pinyinSpace: "もう",
+    speaker: "Polar Bear",
   },
-  114: {
+  "114": {
     character: "パンダくんそろそろ起きてるんじゃない？",
     letter: "Panda might actually be awake now.",
     pinyin: "ぱんだくんそろそろおきてるんじゃない？",
     definition: "パンダ くん そろそろ 起きてる ん じゃない",
     pinyinSpace: "パンダ くん そろそろ おきてる ん じゃない ？",
+    speaker: "Penguin",
   },
-  115: {
+  "115": {
     character: "お～いパンダくん",
     letter: "Hey, Panda!",
     pinyin: "お～いぱんだくん",
     definition: "お い パンダ くん",
     pinyinSpace: "お ～ い パンダ くん",
+    speaker: "Penguin",
   },
-  116: {
+  "116": {
     character: "また笑ってる",
     letter: "He's laughing again.",
     pinyin: "またわらってる",
     definition: "また 笑ってる",
     pinyinSpace: "また わらってる",
+    speaker: "Penguin",
   },
-  117: {
+  "117": {
     character: "よくあんな状態で寝られるね",
     letter: "It's amazing that he can sleep in that position.",
     pinyin: "よくあんなじょうたいでねられるね",
     definition: "よく あんな 状態 で 寝られる ね",
     pinyinSpace: "よく あんな じょうたい で ねられる ね",
+    speaker: "Penguin",
   },
-  118: {
+  "118": {
     character: "あれは逆に尊敬するね",
     letter: "I actually admire him for that.",
     pinyin: "あれはぎゃくにそんけいするね",
     definition: "あれ は 逆 に 尊敬する ね",
     pinyinSpace: "あれ は ぎゃく に そんけい する ね",
+    speaker: "Polar Bear",
   },
-  119: {
+  "119": {
     character: "あのもしかしてパンダくんのお友達ですか？",
     letter: "Excuse me, are you Panda's friends?",
     pinyin: "あのもしかしてぱんだくんのおともだちですか？",
     definition: "あの もしかして パンダ くん の お 友達 です か",
     pinyinSpace: "あの もしかして パンダ くん の お ともだち です か ？",
+    speaker: "Handa",
   },
-  120: {
+  "120": {
     character: "あはい",
     letter: "Yes, we are.",
     pinyin: "あはい",
     definition: "あ はい",
     pinyinSpace: "あ はい",
+    speaker: "Polar Bear",
   },
-  121: {
+  "121": {
     character: "写真撮りましょうか",
     letter: "Could I take a picture?",
     pinyin: "しゃしんとりましょうか",
     definition: "写真 撮りましょう か",
     pinyinSpace: "しゃしん とりましょう か",
+    speaker: "Handa",
   },
-  122: {
+  "122": {
     character: "撮ってくれって頼まれてるんで",
     letter: "He asked me to take one.",
     pinyin: "とってくれってたのまれてるんで",
     definition: "撮ってくれ って 頼まれてる ん で",
     pinyinSpace: "とって くれ って たのまれてる ん で",
+    speaker: "Handa",
   },
-  123: {
+  "123": {
     character: "キリンさんしろくまカフェに来てくれないかな？",
     letter: "I wonder if Mr. Giraffe will come to my café.",
     pinyin: "きりんさんしろくまかふぇにきてくれないかな？",
     definition: "キリン さんしろ くま カフェ に 来てくれない かな",
     pinyinSpace: "キリン さんしろ くま カフェ に きて くれない かな ？",
+    speaker: "Polar Bear",
   },
-  124: {
+  "124": {
     character: "いやカフェに入れないでしょ",
     letter: "No, I don't think he can get in.",
     pinyin: "いやかふぇにいれないでしょ",
     definition: "いや カフェ に 入れないでしょ",
     pinyinSpace: "いや カフェ に はいれない でしょ/いれない でしょ",
+    speaker: "Penguin",
   },
-  125: {
+  "125": {
     character: "別のところも回ってみよう",
     letter: "Let's look around the other places, too.",
     pinyin: "べつのところもまわってみよう",
     definition: "別 の ところ も 回って みよう",
     pinyinSpace: "べつ の ところ も まわって みよう",
+    speaker: "Polar Bear",
   },
-  126: {
+  "126": {
     character: "そうだね",
     letter: "Okay.",
     pinyin: "そうだね",
     definition: "そうだね",
     pinyinSpace: "そうだね",
+    speaker: "Penguin",
   },
-  127: {
+  "127": {
     character: "でどこ行こうか？",
     letter: "So, where did you want to go?",
     pinyin: "でどこいこうか？",
     definition: "で どこ 行こう か",
     pinyinSpace: "で どこ いこう か ？",
+    speaker: "Penguin",
   },
-  128: {
+  "128": {
     character: "う～んあっ！ペンギンコーナー",
     letter: "Oh, how about the Penguin Corner?",
     pinyin: "う～んあっ！ぺんぎんこーなー",
     definition: "う ん あっ ペンギン コーナー",
     pinyinSpace: "う ～ ん あっ ！ ペンギン コーナー",
+    speaker: "Penguin",
   },
-  129: {
+  "129": {
     character: "えぇ～",
     letter: "Oh, my God.",
     pinyin: "えぇ～",
     definition: "えぇ",
     pinyinSpace: "えぇ ～",
+    speaker: "Penguin",
   },
-  130: {
+  "130": {
     character: "ペンギンさん曲芸に飛び入りしてよ",
     letter: "You should join in their acrobatics act, Mr. Penguin.",
     pinyin: "ぺんぎんさんきょくげいにとびいりしてよ",
     definition: "ペンギン さん 曲芸 に 飛び入りして よ",
     pinyinSpace: "ペンギン さん きょくげい に とびいり して よ",
+    speaker: "Polar Bear",
   },
-  131: {
+  "131": {
     character: "僕運動神経悪いから",
     letter: "I'm terrible with exercise.",
     pinyin: "ぼくうんどうしんけいわるいから",
     definition: "僕 運動神経 悪い から",
     pinyinSpace: "ぼく うんどうしんけい わるい から",
+    speaker: "Penguin",
   },
-  132: {
+  "132": {
     character: "ちょっとちょっと",
     letter: "Hey, there.",
     pinyin: "ちょっとちょっと",
     definition: "ちょっと ちょっと",
     pinyinSpace: "ちょっと ちょっと",
   },
-  133: {
+  "133": {
     character: "あラマさん",
     letter: "Oh, hello, Mr. Llama.",
     pinyin: "あらまさん",
     definition: "あ ラマ さん",
     pinyinSpace: "あ ラマ さん",
+    speaker: "Polar Bear",
   },
-  134: {
+  "134": {
     character: "今日はどうしたんですか？",
     letter: "What brings you here today?",
     pinyin: "きょうはどうしたんですか？",
     definition: "今日 は どうしたん です か",
     pinyinSpace: "きょう は どうしたん です か ？",
   },
-  135: {
+  "135": {
     character: "パンダくんに会いにきたのに寝てるんだよね",
     letter: "We came to see Panda, but he's asleep.",
     pinyin: "ぱんだくんにあいにきたのにねてるんだよね",
     definition: "パンダ くん に 会い に きた のに 寝てる ん だよね",
     pinyinSpace: "パンダ くん に あい に きた のに ねてる ん だよね",
+    speaker: "Penguin",
   },
-  136: {
+  "136": {
     character: "たまには起きてますよ",
     letter: "He's awake sometimes.",
     pinyin: "たまにはおきてますよ",
     definition: "たまに は 起きてます よ",
     pinyinSpace: "たまに は おきてます よ",
   },
-  137: {
+  "137": {
     character: "そっかいいかげんパンダくん起きてるよね？",
     letter: "Oh, okay. Panda should be awake by now.",
     pinyin: "そっかいいかげんぱんだくんおきてるよね？",
     definition: "そっか いいかげん パンダ くん 起きてる よね",
     pinyinSpace: "そっか いいかげん パンダ くん おきてる よね ？",
+    speaker: "Polar Bear",
   },
-  138: {
+  "138": {
     character: "戻ろう",
     letter: "Let's go look.",
     pinyin: "もどろう",
     definition: "戻ろう",
     pinyinSpace: "もどろう",
+    speaker: "Polar Bear",
   },
-  139: {
+  "139": {
     character: "また寝てる",
     letter: "He's asleep, again.",
     pinyin: "またねてる",
     definition: "また 寝てる",
     pinyinSpace: "また ねてる",
+    speaker: "Penguin",
   },
-  140: {
+  "140": {
     character: "更にだらしないね",
     letter: "And he looks even more shameless.",
     pinyin: "さらにだらしないね",
     definition: "更に だらしない ね",
     pinyinSpace: "さらに だらしない ね",
+    speaker: "Polar Bear",
   },
-  141: {
+  "141": {
     character: "パンダくん僕たちにいったい何を見てもらいたかったんだろうね",
     letter: "I wonder what exactly Panda wanted us to see.",
     pinyin: "ぱんだくんぼくたちにいったいなにをみてもらいたかったんだろうね",
@@ -1070,188 +1131,213 @@ export const transcriptData: TranscriptDataProps = {
       "パンダ くん 僕たち に いったい 何 を 見てもらいたかった ん だろう ね",
     pinyinSpace:
       "パンダ くん ぼくたち に いったい なに を みて·もらいたかった ん だろう ね",
+    speaker: "Penguin",
   },
-  142: {
+  "142": {
     character: "あのパンダさん寝てばっかりでつまんない",
     letter: "That panda's so boring. All he does is sleep.",
     pinyin: "あのぱんださんねてばっかりでつまんない",
     definition: "あの パンダ さん 寝て ばっかり で つまんない",
     pinyinSpace: "あの パンダ さん ねて ばっかり で つまんない",
   },
-  143: {
+  "143": {
     character: "うん行こう",
     letter: "Yeah, let's go!",
     pinyin: "うんいこう",
     definition: "うん 行こう",
     pinyinSpace: "うん いこう",
+    speaker: "Penguin",
   },
-  144: {
+  "144": {
     character: "大人気ねぇ…",
     letter: "Popular,' huh?",
     pinyin: "だいにんきねぇ…",
     definition: "大人気 ねぇ",
     pinyinSpace: "おとなげ/だいにんき ねぇ …",
+    speaker: "Polar Bear",
   },
-  145: {
+  "145": {
     character: "あまた笑った",
     letter: "Hey, he's laughing again.",
     pinyin: "あまたわらった",
     definition: "あまた 笑った",
     pinyinSpace: "あまた わらった",
+    speaker: "Penguin",
   },
-  146: {
+  "146": {
     character: "ず～っと待ってたのになんで来てくれなかったの？",
     letter: "I was waiting the whole day. Why didn't you come?",
     pinyin: "ず～っとまってたのになんできてくれなかったの？",
     definition: "ず っと 待ってた のに なんで 来てくれなかった の",
     pinyinSpace: "ず ～ っと まってた のに なんで きて くれなかった の ？",
+    speaker: "Panda",
   },
-  147: {
+  "147": {
     character: "いや何度も行ったよ",
     letter: "Actually, we came by quite a few times.",
     pinyin: "いやなんどもいったよ",
     definition: "いや 何度も 行った よ",
     pinyinSpace: "いや なんども おこなった/いった よ",
+    speaker: "Penguin",
   },
-  148: {
+  "148": {
     character: "ほんと？",
     letter: "Really?",
     pinyin: "ほんと？",
     definition: "ほんと",
     pinyinSpace: "ほんと ？",
+    speaker: "Panda",
   },
-  149: {
+  "149": {
     character: "行ったってば",
     letter: "We were there!",
     pinyin: "いったってば",
     definition: "行った ってば",
     pinyinSpace: "おこなった/いった ってば",
+    speaker: "Penguin",
   },
-  150: {
+  "150": {
     character: "ねぇラマさん今日動物園で会ったよね？",
     letter: "Right, Mr. Llama? We met at the zoo today, right?",
     pinyin: "ねぇらまさんきょうどうぶつえんであったよね？",
     definition: "ねぇ ラマ さん 今日 動物園 で 会った よね",
     pinyinSpace: "ねぇ ラマ さん きょう どうぶつえん で あった よね ？",
+    speaker: "Penguin",
   },
-  151: {
+  "151": {
     character: "会いましたよ",
     letter: "We did.",
     pinyin: "あいましたよ",
     definition: "会いました よ",
     pinyinSpace: "あいました よ",
   },
-  152: {
+  "152": {
     character: "ほらちゃんと行ったでしょ？",
     letter: "See? We did go.",
     pinyin: "ほらちゃんといったでしょ？",
     definition: "ほら ちゃんと 行った でしょ",
     pinyinSpace: "ほら ちゃんと おこなった/いった でしょ ？",
+    speaker: "Penguin",
   },
-  153: {
+  "153": {
     character: "どうして僕のとこには来てくれないの？",
     letter: "Why didn't you come see me?",
     pinyin: "どうしてぼくのとこにはきてくれないの？",
     definition: "どうして 僕 の とこ には 来てくれない の",
     pinyinSpace: "どうして ぼく の とこ には きて くれない の ？",
+    speaker: "Panda",
   },
-  154: {
+  "154": {
     character: "だから行ったんだって！",
     letter: "I just said we did!",
     pinyin: "だからいったんだって！",
     definition: "だから 行った ん だって",
     pinyinSpace: "だ·から おこなった/いった ん だって ！",
+    speaker: "Penguin",
   },
-  155: {
+  "155": {
     character: "そんなにずっとラマさんを見てたの？",
     letter: "You spent that much time watching Mr. Llama?",
     pinyin: "そんなにずっとらまさんをみてたの？",
     definition: "そんなに ずっと ラマ さん を 見てた の",
     pinyinSpace: "そんなに ずっと ラマ さん を みてた の ？",
+    speaker: "Panda",
   },
-  156: {
+  "156": {
     character: "だからパンダくんとこに行ったってば！",
     letter: "I'm trying to tell you, we went to see you, too!",
     pinyin: "だからぱんだくんとこにいったってば！",
     definition: "だから パンダ くん とこ に 行った ってば",
     pinyinSpace: "だ·から パンダ くん とこ に おこなった/いった ってば ！",
+    speaker: "Penguin",
   },
-  157: {
+  "157": {
     character: "じゃあなんで会えなかったんだろうね",
     letter: "I wonder why we didn't see each other, then.",
     pinyin: "じゃあなんであえなかったんだろうね",
     definition: "じゃあ なんで 会えなかった ん だろう ね",
     pinyinSpace: "じゃあ なんで あえなかった ん だろう ね",
+    speaker: "Panda",
   },
-  158: {
+  "158": {
     character: "パンダくんが寝てばっかりだったからでしょ",
     letter: "It's because you were asleep the whole time.",
     pinyin: "ぱんだくんがねてばっかりだったからでしょ",
     definition: "パンダ くん が 寝て ばっかり だった から でしょ",
     pinyinSpace: "パンダ くん が ねて ばっかり だった から でしょ",
+    speaker: "Penguin",
   },
-  159: {
+  "159": {
     character: "起こしてよ",
     letter: "You should have woken me up.",
     pinyin: "おこしてよ",
     definition: "起こして よ",
     pinyinSpace: "おこして よ",
+    speaker: "Panda",
   },
-  160: {
+  "160": {
     character: "起きなかったよ",
     letter: "You didn't wake up!",
     pinyin: "おきなかったよ",
     definition: "起きなかった よ",
     pinyinSpace: "おきなかった よ",
+    speaker: "Penguin",
   },
-  161: {
+  "161": {
     character: "せっかく半田さんが写真撮ってくれるって言ってたのに",
     letter: "And Mr. Handa even said he would take pictures...",
     pinyin: "せっかくはんでんさんがしゃしんとってくれるっていってたのに",
     definition: "せっかく 半田 さん が 写真 撮ってくれる って 言ってた のに",
     pinyinSpace:
       "せっかく はんだ さん が しゃしん とって くれる って いってた のに",
+    speaker: "Panda",
   },
-  162: {
+  "162": {
     character: "撮ったよ",
     letter: "He did.",
     pinyin: "とったよ",
     definition: "撮った よ",
     pinyinSpace: "とった よ",
+    speaker: "Penguin",
   },
-  163: {
+  "163": {
     character: "ほんとだ来てたんだね",
     letter: "Wow, you really did come!",
     pinyin: "ほんとだこてたんだね",
     definition: "ほんと だ 来てた ん だ ね",
     pinyinSpace: "ほんと だ きてた ん だ ね",
+    speaker: "Panda",
   },
-  164: {
+  "164": {
     character: "だから言ったのに",
     letter: "That's what I've been saying.",
     pinyin: "だからいったのに",
     definition: "だから 言った のに",
     pinyinSpace: "だ·から いった のに",
+    speaker: "Penguin",
   },
-  165: {
+  "165": {
     character: "へぇ～僕って寝ててもかわいいなぁ",
     letter: "I'm so cute even when I'm sleeping.",
     pinyin: "へぇ～ぼくってねててもかわいいなぁ",
     definition: "へぇ 僕 って 寝てても かわいい なぁ",
     pinyinSpace: "へぇ ～ ぼく って ねてても かわいい なぁ",
+    speaker: "Panda",
   },
-  166: {
+  "166": {
     character: "ねえねえどの寝顔がいちばん好き？",
     letter: "Hey, hey. Which sleeping face do you like best?",
     pinyin: "ねえねえどのねがおがいちばんすき？",
     definition: "ねえねえ どの 寝顔 が いちばん 好き",
     pinyinSpace: "ねえねえ どの ねがお が いちばん すき ？",
+    speaker: "Panda",
   },
-  167: {
+  "167": {
     character: "シロクマくんおかわりくれる？",
     letter: "Could I get another, Polar Bear?",
     pinyin: "しろくまくんおかわりくれる？",
     definition: "シロクマ くん おかわり くれる",
     pinyinSpace: "シロクマ くん おかわり くれる ？",
+    speaker: "Penguin",
   },
 }

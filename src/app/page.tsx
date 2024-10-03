@@ -16,7 +16,7 @@ export interface TranscriptDataEntry {
   definition: string
   pinyinSpace: string
   translate?: boolean
-  speaker?: string
+  speaker?: "Penguin" | "Polar Bear" | "Panda" | "Sasako" | "Handa" | "Other"
 }
 
 export interface TranscriptDataProps {
