@@ -17,7 +17,7 @@ export const TranslateIcon = ({ id }: TranslateIconProps) => {
   }
 
   return (
-    <div className="flex items-center" onClick={toggleTranslate}>
+    <div className="tw-flex tw-items-center" onClick={toggleTranslate}>
       <svg
         width="35"
         height="35"

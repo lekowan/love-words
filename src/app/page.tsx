@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="px-4 md:px-40 max-w-[1024px] pt-16 h-[calc(100vh-180px)] overflow-auto">
+      <div className="tw-px-4 md:tw-px-40 tw-max-w-[1024px] tw-pt-16 tw-h-[calc(100vh-180px)] tw-overflow-auto">
         {Object.values(data)
           .slice(0, numberOfSentences)
           .map((item, index) => (
@@ -50,12 +50,12 @@ export default function Home() {
               translation={data[index + 1].letter}
             />
           ))}
-        <div ref={messagesEndRef} className="h-[300px]" />
+        <div ref={messagesEndRef} className="tw-h-[300px]" />
       </div>
-      <div className="fixed bottom-0 h-24 bg-white flex justify-center items-center w-full">
+      <div className="tw-fixed tw-bottom-0 tw-h-24 tw-bg-white tw-flex tw-justify-center tw-items-center tw-w-full">
         <div
           onClick={handleNext}
-          className="text-center w-[500px] p-4 rounded-full max-w-96 bg-[#FEE1FF] text-[#EB42EE] font-extrabold tracking-wide"
+          className="tw-text-center tw-w-[500px] tw-p-4 tw-rounded-full tw-max-w-96 tw-bg-[#FEE1FF] tw-text-[#EB42EE] tw-font-extrabold tw-tracking-wide"
         >
           NEXT
         </div>

@@ -17,7 +17,7 @@ export const AudioIcon = ({ sentence }: AudioIconProps) => {
   }
 
   return (
-    <div className="flex items-center">
+    <div className="tw-flex tw-items-center">
       <Image
         onClick={playAudio}
         src={Icon}

@@ -1,8 +1,8 @@
 export const Header = () => {
   return (
-    <div className="min-h-16 flex items-center justify-between py-0 px-5 w-full">
-      <div className="font-extrabold">Shirokuma Cafe ep.3</div>
-      <div className="pt-2 cursor-pointer fixed right-4 top-4">
+    <div className="tw-min-h-16 tw-flex tw-items-center tw-justify-between tw-py-0 tw-px-5 tw-w-full">
+      <div className="tw-font-extrabold">Shirokuma Cafe ep.3</div>
+      <div className="tw-pt-2 tw-cursor-pointer tw-fixed tw-right-4 tw-top-4">
         <svg
           xmlns="https://www.w3.org/2000/svg"
           height="24px"

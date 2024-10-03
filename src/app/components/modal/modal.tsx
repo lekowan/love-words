@@ -20,15 +20,15 @@ export const Modal = ({ word }: DialogProps) => {
       <Dialog.Trigger asChild>
         <span
           onClick={handleWordClick}
-          className="data-[state=open]:text-[#754fe3] border-b-2 border-gray-300 border-dotted text-[21px] font-medium cursor-pointer mr-2"
+          className="tw-border-b-2 tw-border-gray-300 tw-border-dotted tw-cursor-pointer tw-mr-2 data-[state=open]:tw-text-[#EB42EE] data-[state=open]:tw-font-medium"
         >
           {word}
         </span>
       </Dialog.Trigger>
       <Dialog.Portal>
-        <Dialog.Overlay className="bg-blackA6 fixed inset-0" />
-        <Dialog.Content className="transition-transform fixed w-full bottom-0 left-0 data-[state=open]:translate-y-[0] data-[state=closed]:translate-y-[50%] rounded-[6px] bg-white p-[25px] shadow-[hsl(206_22%_7%_/_35%)_0px_10px_38px_-10px,_hsl(206_22%_7%_/_20%)_0px_10px_20px_-15px] focus:outline-none">
-          <Dialog.Description className="text-mauve11 mt-[10px] mb-5 text-[15px] leading-normal">
+        <Dialog.Overlay className="tw-bg-blackA6 tw-fixed tw-inset-0" />
+        <Dialog.Content className="tw-p-4 tw-transition-transform tw-fixed tw-w-full tw-bottom-0 tw-left-0 data-[state=open]:tw-translate-y-[0] data-[state=closed]:tw-translate-y-[50%] tw-rounded-[6px] tw-bg-white p-[25px] tw-shadow-[hsl(206_22%_7%_/_35%)_0px_10px_38px_-10px,_hsl(206_22%_7%_/_20%)_0px_10px_20px_-15px] focus:tw-outline-none">
+          <Dialog.Description className="tw-text-mauve11 tw-mt-[10px] tw-mb-5 tw-text-[15px] tw-leading-normal">
             {dictionary[word].map((item, index) => {
               return (
                 <div key={`${item.kana}-${index}`}>
