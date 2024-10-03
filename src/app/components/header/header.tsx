@@ -1,8 +1,30 @@
-export const Header = () => {
+import { cn } from "../../../../utils/cn"
+import { Progress } from "../progress"
+
+interface HeaderProps {
+  className: string
+  progressStart: number
+  progressEnd: number
+}
+
+export const Header = ({
+  className,
+  progressStart,
+  progressEnd,
+}: HeaderProps) => {
   return (
-    <div className="tw-min-h-16 tw-flex tw-items-center tw-justify-between tw-py-0 tw-px-5 tw-w-full">
-      <div className="tw-font-extrabold">Shirokuma Cafe ep.3</div>
-      <div className="tw-pt-2 tw-cursor-pointer tw-fixed tw-right-4 tw-top-4">
+    <div
+      className={cn(
+        "tw-w-full tw-flex tw-justify-around tw-h-20 tw-bg-white tw-items-center",
+        className
+      )}
+    >
+      <Progress
+        className={cn("tw-w-full")}
+        progressStart={progressStart}
+        progressEnd={progressEnd}
+      />
+      <div className="tw-pr-4 tw-cursor-pointer">
         <svg
           xmlns="https://www.w3.org/2000/svg"
           height="24px"
