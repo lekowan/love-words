@@ -1,5 +1,4 @@
 import { AudioIcon } from "../audio-icon/audio-icon"
-import { TranslateIcon } from "../translate-icon"
 import { WordHighlighter } from "../word-highlighter"
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 import Image from "next/image"
