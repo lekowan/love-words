@@ -28,9 +28,6 @@ export const Card = ({ id, sentence, translation }: DataProps) => {
           </span>
 
           <WordHighlighter sentence={sentence} />
-          <span className="tw-pl-2">
-            <TranslateIcon id={id} />
-          </span>
         </div>
 
         {
