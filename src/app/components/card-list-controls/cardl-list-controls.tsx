@@ -9,15 +9,18 @@ import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 interface CardListControlsProps {
   data: TranscriptDataProps
   currentNumberOfLines: number
+  showTranslate: boolean
+  setShowTranslate: React.Dispatch<React.SetStateAction<boolean>>
   setCurrentNumberOfLines: React.Dispatch<React.SetStateAction<number>>
 }
 
 export const CardListControls = ({
   data,
   currentNumberOfLines,
+  showTranslate,
+  setShowTranslate,
   setCurrentNumberOfLines,
 }: CardListControlsProps) => {
-  const [showTranslate, setShowTranslate] = useState<boolean>(true)
   const addTranslation = useTranslationStore((state) => state.addTranslation)
   const setTranslationStatus = useTranslationStore(
     (state) => state.setTranslationStatus

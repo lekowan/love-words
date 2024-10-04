@@ -12,7 +12,6 @@ export interface TranscriptDataEntry {
   pinyin: string
   definition: string
   pinyinSpace: string
-  translate?: boolean
   speaker?: "Penguin" | "Polar Bear" | "Panda" | "Sasako" | "Handa" | "Other"
 }
 
@@ -29,6 +28,7 @@ export default function Home() {
     useState<number>(savedNumberOfLines)
   const totalNumberOfLines = Object.keys(data).length
   const messagesEndRef = useRef<HTMLDivElement>(null)
+  const [showTranslate, setShowTranslate] = useState<boolean>(true)
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
@@ -42,11 +42,14 @@ export default function Home() {
         className={cn("tw-fixed tw-z-10")}
       />
       <CardList
+        showTranslate={showTranslate}
         data={data}
         currentNumberOfLines={currentNumberOfLines}
         messageEndRef={messagesEndRef}
       />
       <CardListControls
+        showTranslate={showTranslate}
+        setShowTranslate={setShowTranslate}
         data={data}
         setCurrentNumberOfLines={setCurrentNumberOfLines}
         currentNumberOfLines={currentNumberOfLines}

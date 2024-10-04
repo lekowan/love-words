@@ -4,14 +4,21 @@ import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 export interface DataProps {
   id: number
   sentence: string
-  translation?: string
+  currentNumberOfLines: number
   className?: string
   speaker?: string
+  showTranslate: boolean
+  letter: string
 }
 
-export const Card = ({ id, sentence, translation, speaker }: DataProps) => {
-  const translatedWords = useTranslationStore((state) => state.data)
-
+export const Card = ({
+  id,
+  sentence,
+  speaker,
+  currentNumberOfLines,
+  showTranslate,
+  letter,
+}: DataProps) => {
   return (
     <div className="tw-my-4 tw-flex tw-gap-4 tw-pr-6">
       <Avatar speaker={speaker} />
@@ -27,7 +34,9 @@ export const Card = ({ id, sentence, translation, speaker }: DataProps) => {
 
         {
           <p className="tw-font-medium tw-text-[16px] tw-mb-4 tw-ml-4 tw-mt-2 tw-h-auto">
-            {translatedWords[id]?.translate === true && translation}
+            {(id < currentNumberOfLines ||
+              (id === currentNumberOfLines && showTranslate === false)) &&
+              letter}
           </p>
         }
       </div>
