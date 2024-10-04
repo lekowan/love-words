@@ -2,12 +2,9 @@
 
 import { useEffect, useRef, useState } from "react"
 import { transcriptData } from "../data/shirokuma-ep3"
-import { Card } from "./components/card"
-import { Header } from "./components/header"
-import { useWordStore } from "./hooks/useWordStore"
+import { Header, CardList, CardListControls } from "./components/"
 import { cn } from "../../utils/cn"
-import { useTranslationStore } from "@/app/hooks/useTranslationStore"
-import { Button } from "./components/button/button"
+import { useLocalStorage } from "./hooks/useLocalStorage"
 
 export interface TranscriptDataEntry {
   character: string
@@ -25,88 +22,35 @@ export interface TranscriptDataProps {
 
 export default function Home() {
   const data: TranscriptDataProps = transcriptData
-  const clickedWord = useWordStore((state) => state.clickedWord)
-  const [currentNumberOfSentences, setCurrentNumberOfSentences] =
-    useState<number>(1)
-  const totalNumberOfSentences = Object.keys(data).length
-  const [showTranslate, setShowTranslate] = useState<boolean>(true)
+  // const clickedWord = useWordStore((state) => state.clickedWord)
 
-  const addTranslation = useTranslationStore((state) => state.addTranslation)
-  const setTranslationStatus = useTranslationStore(
-    (state) => state.setTranslationStatus
-  )
-
-  useEffect(() => console.log(clickedWord))
-
-  const playAudio = () => {
-    if ("speechSynthesis" in window) {
-      window.speechSynthesis.cancel()
-      const sentenceString = data[currentNumberOfSentences + 1].character
-      const audioSentence = new SpeechSynthesisUtterance(sentenceString)
-      audioSentence.lang = "ja-JP"
-      window.speechSynthesis.speak(audioSentence)
-      console.log({ sentenceString })
-    }
-  }
-
-  const handleContinue = () => {
-    setCurrentNumberOfSentences((value) => value + 1)
-    setShowTranslate(true)
-    playAudio()
-  }
-  const handleTranslate = () => {
-    addTranslation(currentNumberOfSentences)
-    setTranslationStatus(currentNumberOfSentences)
-    setShowTranslate(false)
-  }
-
-  const messagesEndRef = useRef<HTMLDivElement | null>(null)
+  const [savedNumberOfLines, _] = useLocalStorage("numberOfLine", 1)
+  const [currentNumberOfLines, setCurrentNumberOfLines] =
+    useState<number>(savedNumberOfLines)
+  const totalNumberOfLines = Object.keys(data).length
+  const messagesEndRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
-  }, [currentNumberOfSentences]) // Scroll when messages array updates
+  }, [currentNumberOfLines]) // Scroll when messages array updates
 
   return (
     <>
       <Header
-        progressStart={currentNumberOfSentences}
-        progressEnd={totalNumberOfSentences}
+        progressStart={currentNumberOfLines}
+        progressEnd={totalNumberOfLines}
         className={cn("tw-fixed tw-z-10")}
       />
-      <div className="tw-px-4 md:tw-px-40 tw-max-w-[1024px] tw-pt-16 tw-h-[calc(100vh-180px)]">
-        {Object.values(data)
-          .slice(0, currentNumberOfSentences)
-          .map((item, index) => (
-            <Card
-              key={`${item.definition}-${index}`}
-              id={index + 1}
-              sentence={data[index + 1].definition}
-              translation={data[index + 1].letter}
-              speaker={data[index + 1].speaker}
-            />
-          ))}
-        <div ref={messagesEndRef} className="tw-h-[300px]" />
-      </div>
-      <div className="tw-fixed tw-bottom-0 tw-h-24 tw-bg-white tw-flex tw-justify-center tw-items-center tw-w-full tw-px-4">
-        {showTranslate && (
-          <Button
-            onClick={handleTranslate}
-            variant="primary"
-            className="tw-w-[500px] tw-max-w-96"
-          >
-            Translate
-          </Button>
-        )}
-        {!showTranslate && (
-          <Button
-            onClick={handleContinue}
-            variant="secondary"
-            className="tw-w-[500px] tw-max-w-96"
-          >
-            Continue
-          </Button>
-        )}
-      </div>
+      <CardList
+        data={data}
+        currentNumberOfLines={currentNumberOfLines}
+        messageEndRef={messagesEndRef}
+      />
+      <CardListControls
+        data={data}
+        setCurrentNumberOfLines={setCurrentNumberOfLines}
+        currentNumberOfLines={currentNumberOfLines}
+      />
     </>
   )
 }

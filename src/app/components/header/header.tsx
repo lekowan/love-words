@@ -1,5 +1,5 @@
 import { cn } from "../../../../utils/cn"
-import { Progress } from "../progress"
+import { Progress } from ".."
 
 interface HeaderProps {
   className: string

@@ -1,20 +1,17 @@
+import { useAudioPlayback } from "@/app/hooks/useAudioPlayback"
+
 interface AudioIconProps {
   sentence: string
 }
 
-export const AudioIcon = ({ sentence }: AudioIconProps) => {
-  const playAudio = () => {
-    if ("speechSynthesis" in window) {
-      window.speechSynthesis.cancel()
-      const sentenceString = sentence
-      const audioSentence = new SpeechSynthesisUtterance(sentenceString)
-      audioSentence.lang = "ja-JP"
-      window.speechSynthesis.speak(audioSentence)
-    }
-  }
+export const AudioPlayer = ({ sentence }: AudioIconProps) => {
+  const { playAudio } = useAudioPlayback()
 
   return (
-    <div className="tw-flex tw-items-center" onClick={playAudio}>
+    <div
+      className="tw-flex tw-items-center"
+      onClick={() => playAudio(sentence)}
+    >
       <svg
         width="22"
         height="21"

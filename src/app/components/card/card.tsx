@@ -1,6 +1,4 @@
-import { AudioIcon } from "../audio-icon/audio-icon"
-import { Avatar } from "../avatar"
-import { WordHighlighter } from "../word-highlighter"
+import { AudioPlayer, WordHighlighter, Avatar } from ".."
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 
 export interface DataProps {
@@ -21,7 +19,7 @@ export const Card = ({ id, sentence, translation, speaker }: DataProps) => {
       <div className="tw-max-w-[calc(100%-4rem)]">
         <div className="hand-drawn-rectangle tw-inline-flex tw-flex-wrap tw-items-center tw-p-4">
           <span className="tw-pr-2">
-            <AudioIcon sentence={sentence} />
+            <AudioPlayer sentence={sentence} />
           </span>
 
           <WordHighlighter sentence={sentence} />
