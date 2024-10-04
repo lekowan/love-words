@@ -1,5 +1,4 @@
 import { AudioPlayer, WordHighlighter, Avatar } from ".."
-import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 
 export interface DataProps {
   id: number
