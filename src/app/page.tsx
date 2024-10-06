@@ -12,7 +12,7 @@ export default async function Home() {
   return (
     <ul>
       {storyListData.map(({ slug, title }: StoryEntry) => (
-        <Link href={slug}>
+        <Link key={title} href={slug}>
           <p key={title}>{title}</p>
         </Link>
       ))}

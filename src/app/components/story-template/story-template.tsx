@@ -1,6 +1,5 @@
 "use client"
 
-import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 import { useEffect, useRef, useState } from "react"
 import { CardList, CardListControls, Header } from ".."
 import { TranscriptDataProps } from "@/app/[...slug]/page"
@@ -13,9 +12,7 @@ interface StoryTemplateProps {
 }
 
 export const StoryTemplate = ({ data, dictionary }: StoryTemplateProps) => {
-  const [savedNumberOfLines, _] = useLocalStorage("numberOfLine", 1)
-  const [currentNumberOfLines, setCurrentNumberOfLines] =
-    useState<number>(savedNumberOfLines)
+  const [currentNumberOfLines, setCurrentNumberOfLines] = useState<number>(1)
   const totalNumberOfLines = Object.keys(data).length
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const [showTranslate, setShowTranslate] = useState<boolean>(true)
@@ -23,10 +20,16 @@ export const StoryTemplate = ({ data, dictionary }: StoryTemplateProps) => {
   const setDictionaryData = useDictionaryStore((state) => state.setData)
 
   useEffect(() => {
+    const storedData = localStorage.getItem("numberOfLine")
+    if (storedData) {
+      setCurrentNumberOfLines(JSON.parse(storedData))
+    }
+  }, [])
+
+  useEffect(() => {
     setDictionaryData(dictionary)
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
-  }, [currentNumberOfLines]) // Scroll when messages array updates
-
+  }, [currentNumberOfLines, dictionary, setDictionaryData])
   return (
     <>
       <Header
