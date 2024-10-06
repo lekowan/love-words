@@ -1,4 +1,4 @@
-import { TranscriptDataProps } from "@/app/page"
+import { TranscriptDataProps } from "@/app/[...slug]/page"
 import { Card } from ".."
 import { RefObject } from "react"
 
@@ -24,7 +24,6 @@ export const CardList = ({
             key={`${item.definition}-${index}`}
             id={index + 1}
             sentence={data[index + 1].definition}
-            // translation={data[index + 1].letter}
             showTranslate={showTranslate}
             speaker={data[index + 1].speaker}
             currentNumberOfLines={currentNumberOfLines}

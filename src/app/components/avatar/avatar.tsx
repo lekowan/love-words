@@ -3,11 +3,7 @@ import Panda from "../../../assets/panda.png"
 import PolarBear from "../../../assets/shirokuma.png"
 import Penguin from "../../../assets/penguin.png"
 
-interface AvatarProps {
-  speaker?: string
-}
-
-export const Avatar = ({ speaker }: AvatarProps) => {
+export const Avatar = ({ speaker }: { speaker?: string }) => {
   return (
     <div className="tw-w-12 tw-h-12 tw-rounded-full">
       {speaker === "Panda" && (

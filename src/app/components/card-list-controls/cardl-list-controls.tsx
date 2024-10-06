@@ -1,7 +1,7 @@
 // import { useWordStore } from "./hooks/useWordStore"
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 import { Button } from "../../components/button/button"
-import { TranscriptDataProps } from "@/app/page"
+import { TranscriptDataProps } from "@/app/[...slug]/page"
 import { useAudioPlayback } from "@/app/hooks/useAudioPlayback"
 import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 
