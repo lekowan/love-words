@@ -1,9 +1,9 @@
-// import { useWordStore } from "./hooks/useWordStore"
 import { useTranslationStore } from "@/app/hooks/useTranslationStore"
 import { Button } from "../../components/button/button"
 import { TranscriptDataProps } from "@/app/[...slug]/page"
 import { useAudioPlayback } from "@/app/hooks/useAudioPlayback"
 import { useLocalStorage } from "@/app/hooks/useLocalStorage"
+import { useParams } from "next/navigation"
 
 interface CardListControlsProps {
   data: TranscriptDataProps
@@ -25,7 +25,13 @@ export const CardListControls = ({
     (state) => state.setTranslationStatus
   )
 
-  const [_, setNumberOfLinesInLocalStorage] = useLocalStorage("numberOfLine", 1)
+  const params = useParams() // Use useParams to access route segments
+  const slug = params.slug // Access the slug from the route
+
+  const [_, setNumberOfLinesInLocalStorage] = useLocalStorage(
+    `${slug}-numberOfLine`,
+    1
+  )
 
   const { playAudio } = useAudioPlayback()
 
