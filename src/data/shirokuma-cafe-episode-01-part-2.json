@@ -1,0 +1,652 @@
+{
+  "1": {
+    "speaker": "POLAR BEAR",
+    "character": "はい、しろくまカフェです",
+    "letter": "Hello, this is Polar Bear's Café."
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "あ　こんにちは　先日面接にいった、パンダですよ",
+    "letter": "Oh, hello. This is Panda, who you interviewed the other day."
+  },
+  "3": {
+    "speaker": "POLAR BEAR",
+    "character": "ああ　不合格の～",
+    "letter": "Oh, the one who didn't pass."
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "出前を お願いしたいんです",
+    "letter": "I would like to place a delivery order."
+  },
+  "5": {
+    "speaker": "POLAR BEAR",
+    "character": "出前はやってないですが",
+    "letter": "I'm sorry, we don't do deliveries. Even though you're right next door?"
+  },
+  "6": {
+    "speaker": "POLAR BEAR",
+    "character": "今忙しいし",
+    "letter": "Not to mention we're quite busy right now. Aww..."
+  },
+  "7": {
+    "speaker": "PANDA",
+    "character": "どうすれば出前してくれるの？",
+    "letter": "What would it take for you to make a delivery?"
+  },
+  "8": {
+    "speaker": "PANDA MAMA",
+    "character": "ちょっと",
+    "letter": "Hey."
+  },
+  "9": {
+    "speaker": "PANDA",
+    "character": "お母さん",
+    "letter": "Oh, hi, Mom."
+  },
+  "10": {
+    "speaker": "PANDA MAMA",
+    "character": "またゴロゴロして",
+    "letter": "Lying around again..."
+  },
+  "11": {
+    "speaker": "PANDA",
+    "character": "今仕事探してたの",
+    "letter": "I was looking for a job. Come on, you're right next door, so make a delivery."
+  },
+  "12": {
+    "speaker": "PANDA",
+    "character": "お願い～～～",
+    "letter": "Please?"
+  },
+  "13": {
+    "speaker": "PANDA",
+    "character": "あああ～～～～　吸わないで～～～",
+    "letter": "Waah, please don't suck me up!"
+  },
+  "14": {
+    "speaker": "POLAR BEAR",
+    "character": "いらっしゃいませ",
+    "letter": "Hello."
+  },
+  "15": {
+    "speaker": "PANDA",
+    "character": "こんにちは",
+    "letter": "Hello."
+  },
+  "16": {
+    "speaker": "SASAKO",
+    "character": "何しますか？",
+    "letter": "What would you like?"
+  },
+  "17": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさん、何にする？",
+    "letter": "What would you like, Mr. Penguin? Let's see..."
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "いつものやつ",
+    "letter": "I'll have the usual."
+  },
+  "19": {
+    "speaker": "PANDA",
+    "character": "いつものやつ",
+    "letter": "I'll have the usual!"
+  },
+  "20": {
+    "speaker": "SASAKO",
+    "character": "えっ？！いつものやつって  言われたんですけど",
+    "letter": "What?! He asked for... the usual."
+  },
+  "21": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "letter": "Leave it to me. Here's your curry rice."
+  },
+  "22": {
+    "speaker": "SASAKO",
+    "character": "違ったみたいですよ",
+    "letter": "Apparently that wasn't it. I knew it."
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと",
+    "letter": "Hey, now..."
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "あの、竹か笹はないんですか",
+    "letter": "Excuse me, do you not have any bamboo or bamboo grass?"
+  },
+  "25": {
+    "speaker": "POLAR BEAR",
+    "character": "ないです",
+    "letter": "We do not."
+  },
+  "26": {
+    "speaker": "PANDA",
+    "character": "じゃ～アイスコーヒー",
+    "letter": "Then could I get an iced coffee?"
+  },
+  "27": {
+    "speaker": "POLAR BEAR",
+    "character": "あ、君バイト探してたよね",
+    "letter": "You were looking for a part-time job, weren't you?"
+  },
+  "28": {
+    "speaker": "POLAR BEAR",
+    "character": "こんなのあるよ",
+    "letter": "They have something like this:"
+  },
+  "29": {
+    "speaker": "FISHERMAN",
+    "character": "マグロ船船員大募集",
+    "letter": "Looking for tuna boat crewmen!"
+  },
+  "30": {
+    "speaker": "FISHERMAN",
+    "character": "経験者大歓迎、激しく重労働",
+    "letter": "We will gladly accept those with experience! Intense physical labor!"
+  },
+  "31": {
+    "speaker": "POLAR BEAR",
+    "character": "どう？",
+    "letter": "How about it?"
+  },
+  "32": {
+    "speaker": "PANDA",
+    "character": "嫌だよ、僕泳げないし",
+    "letter": "No way!  Not to mention, I can't swim!"
+  },
+  "33": {
+    "speaker": "PENGUIN",
+    "character": "こっちのがいいじやない？",
+    "letter": "I think this one is better."
+  },
+  "34": {
+    "speaker": "ZOO KEEP",
+    "character": "動物園  未経験者歓迎",
+    "letter": "The zoo is accepting applicants without experience."
+  },
+  "35": {
+    "speaker": "ZOO KEEP",
+    "character": "呼び相談におします",
+    "letter": "We will gladly accommodate work days."
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "先ずはお電話ください　フリアイ動物園",
+    "letter": "\"Please give us a call. The Petting Zoo.\""
+  },
+  "37": {
+    "speaker": "POLAR BEAR",
+    "character": "マグロ船にしなよ",
+    "letter": "You should totally go with the tuna boat."
+  },
+  "38": {
+    "speaker": "SASAKO",
+    "character": "しろくまさん",
+    "letter": "Mr. Polar Bear..."
+  },
+  "39": {
+    "speaker": "PANDA",
+    "character": "動物園か　面白そう",
+    "letter": "The zoo, huh?  That sounds fun!"
+  },
+  "40": {
+    "speaker": "ZOO KEEP",
+    "character": "えっと  週二日の勤務希望ですか？",
+    "letter": "Let's see, so you're looking to work two days a week?"
+  },
+  "41": {
+    "speaker": "PANDA",
+    "character": "はい",
+    "letter": "Yes."
+  },
+  "42": {
+    "speaker": "ZOO KEEP",
+    "character": "では、パンダの仕事はどうでしょう？",
+    "letter": "Then would you be interested in the position of \"panda\"? Huh?"
+  },
+  "43": {
+    "speaker": "ZOO KEEP",
+    "character": "常勤パンダさんが一頭いるですが",
+    "letter": "We have one full-time panda,"
+  },
+  "44": {
+    "speaker": "ZOO KEEP",
+    "character": "非常勤でもう一頭募集してるんです",
+    "letter": "but we're also looking to fill a part-time slot."
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "パンダって　あのパンダですよね",
+    "letter": "When you say \"panda,\" you do mean {\\i1}that{\\i0} panda, right?"
+  },
+  "46": {
+    "speaker": "ZOO KEEP",
+    "character": "気が進みませんか？",
+    "letter": "Are you not interested?"
+  },
+  "47": {
+    "speaker": "ZOO KEEP",
+    "character": "でしたら　月の輪熊とゴリラも募集していますよ",
+    "letter": "In that case, we are looking for an Asian black bear and a gorilla."
+  },
+  "48": {
+    "speaker": "PANDA",
+    "character": "パンダでいいです",
+    "letter": "I'll take the panda position."
+  },
+  "49": {
+    "speaker": "ZOO KEEP",
+    "character": "そうですか、では、来週から来てください",
+    "letter": "I see.  Then please begin coming next week."
+  },
+  "50": {
+    "speaker": "PANDA",
+    "character": "僕、バイト決まったよ",
+    "letter": "I found a part-time job. Really?  That's great to hear! The tuna boat?"
+  },
+  "51": {
+    "speaker": "PANDA",
+    "character": "違うよ　動物園～",
+    "letter": "No way.  The zoo. What part-time job are you going to be doing at the zoo? It's a secret."
+  },
+  "52": {
+    "speaker": "PENGUIN",
+    "character": "なんで照れてんの",
+    "letter": "Why are you so embarrassed?"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "いよいよ今日からバイトか　ドキドキしちゃうなぁ",
+    "letter": "Today's the day I start my part-time job. I'm so excited. Hello again, my name is Handa."
+  },
+  "54": {
+    "speaker": "HANDA",
+    "character": "今日は幼稚園から園児たちが来ます",
+    "letter": "We will have some preschool visitors today."
+  },
+  "55": {
+    "speaker": "HANDA",
+    "character": "少しサービスしてあげてください",
+    "letter": "Please give them a little extra service."
+  },
+  "56": {
+    "speaker": "PANDA",
+    "character": "はい～～～～～",
+    "letter": "Okay!"
+  },
+  "57": {
+    "speaker": "PANDA",
+    "character": "サービスですね　分かりました",
+    "letter": "Service, huh?  You got it."
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "それ以外の時間はどんな感じで？",
+    "letter": "What should I be doing the rest of the time?"
+  },
+  "59": {
+    "speaker": "HANDA",
+    "character": "自然態でいいです",
+    "letter": "Just act naturally."
+  },
+  "60": {
+    "speaker": "PENGUIN",
+    "character": "ね　しろくま君",
+    "letter": "Hey, Polar Bear."
+  },
+  "61": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君うまくやってるかなぁ～",
+    "letter": "How do you think Panda's doing?"
+  },
+  "62": {
+    "speaker": "POLAR BEAR",
+    "character": "きっと大漁だよ、まぐろ船",
+    "letter": "I'm sure he'll get a huge haul on the tuna boat."
+  },
+  "63": {
+    "speaker": "PENGUIN",
+    "character": "引っ張るねぇ～",
+    "letter": "You're not letting go of that, are you? Oh, could I get a café mocha?"
+  },
+  "64": {
+    "speaker": "PENGUIN",
+    "character": "って、それは  影武者、いいから、そういうの",
+    "letter": "Um... That would be a body double {\\i1}(kagemusha){\\i0}. Honestly, you don't have to do that."
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "え　一週七日も",
+    "letter": "Really?  Seven days a week? You don't have a day off?"
+  },
+  "66": {
+    "speaker": "FTPANDA",
+    "character": "あたしは常勤パンダですからね",
+    "letter": "Well, I am a full-time panda."
+  },
+  "67": {
+    "speaker": "FTPANDA",
+    "character": "でも月に二日くらいは休みますよ",
+    "letter": "But I do take about two days off a month."
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "非常勤でよかった",
+    "letter": "I'm so glad I'm part-time. Well, it'll be a pleasure working with you."
+  },
+  "69": {
+    "speaker": "PANDA",
+    "character": "はい～！",
+    "letter": "Same here."
+  },
+  "70": {
+    "speaker": "PANDA",
+    "character": "あっ　そういえば",
+    "letter": "Oh, by the way..."
+  },
+  "71": {
+    "speaker": "FTPANDA",
+    "character": "どうしました？",
+    "letter": "What's the matter?"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "半田さんから",
+    "letter": "Mr. Handa was saying..."
+  },
+  "73": {
+    "speaker": "HANDA",
+    "character": "自然態でって言われたんです",
+    "letter": "...naturally. is how I should act. I see."
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "こんな感じでしょうか？自然と一体的な？",
+    "letter": "Is it something like this? Does this look like I'm one with nature?"
+  },
+  "75": {
+    "speaker": "FTPANDA",
+    "character": "多分違うと思う　というか　すごく不自然",
+    "letter": "I don't think that's what he meant. Or rather, that's very unnatural. Well, you don't have to worry so much. Just act like normal and you'll be fine. Oh..."
+  },
+  "76": {
+    "speaker": "KIDS",
+    "character": "あ～～　パンダさん～～～",
+    "letter": "Ooh, pandas!"
+  },
+  "77": {
+    "speaker": "TEACHER",
+    "character": "はい　皆　パンダさんですよ",
+    "letter": "Look, children, pandas!"
+  },
+  "78": {
+    "speaker": "FTPANDA",
+    "character": "あ　園児が来ましたね",
+    "letter": "Oh, looks like the preschool kids are here."
+  },
+  "79": {
+    "speaker": "FTPANDA",
+    "character": "さ～　頑張りましょう",
+    "letter": "Let's give it our best. O-Okay! Look, the pandas are eating!"
+  },
+  "80": {
+    "speaker": "TEACHER",
+    "character": "そうね～",
+    "letter": "They sure are."
+  },
+  "81": {
+    "speaker": "KID-B",
+    "character": "はは～パンダさんは滑り台滑ってるの",
+    "letter": "Look, the pandas are playing on the slide! Yes, they are."
+  },
+  "82": {
+    "speaker": "KID-C",
+    "character": "パンダさんが転がってるよ",
+    "letter": "Look, the pandas are rolling around!"
+  },
+  "83": {
+    "speaker": "TEACHER",
+    "character": "そうね～",
+    "letter": "Aren't they."
+  },
+  "84": {
+    "speaker": "PANDA",
+    "character": "これでサービスになってるんですか？",
+    "letter": "Is this what they consider service?"
+  },
+  "85": {
+    "speaker": "FTPANDA",
+    "character": "もうちょっとの辛抱ですよ～",
+    "letter": "It's just for a little while longer."
+  },
+  "86": {
+    "speaker": "FTPANDA",
+    "character": "あ～　もう一サービスしましょう",
+    "letter": "All right, let's give it one more go!"
+  },
+  "87": {
+    "speaker": "PANDA",
+    "character": "は、はい！",
+    "letter": "A-All right!"
+  },
+  "88": {
+    "speaker": "FTPANDA",
+    "character": "サービス～サービス～～",
+    "letter": "Service, service... Service, service..."
+  },
+  "89": {
+    "speaker": "TEACHER",
+    "character": "皆、次はキリンさんを見ましょう",
+    "letter": "Okay, everyone.  Let's go see the giraffes next."
+  },
+  "90": {
+    "speaker": "KIDS",
+    "character": "はい～～～",
+    "letter": "Okay!"
+  },
+  "91": {
+    "speaker": "TEACHER",
+    "character": "サービス～サービス～～",
+    "letter": "Right this way."
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "サービス～サービス～～",
+    "letter": "Service, service..."
+  },
+  "93": {
+    "speaker": "PANDA",
+    "character": "サービス～サービス～～",
+    "letter": "Service, service..."
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "サービス～サー～ビス～",
+    "letter": "Service, service... I totally fell asleep."
+  },
+  "95": {
+    "speaker": "PANDA",
+    "character": "なんで起こしてくれないんですか、常勤パンダさん、え！",
+    "letter": "Why didn't you wake me up, Mr. Full-Time Panda?"
+  },
+  "96": {
+    "speaker": "VOICE",
+    "character": "閉園の時間になりました　またのご来園をお待ちしております",
+    "letter": "{\\a6\\i1}The zoo will now be closing. {\\a6\\i1}Please come again."
+  },
+  "97": {
+    "speaker": "HANDA",
+    "character": "お疲れ様でした",
+    "letter": "Thank you for all your hard work today."
+  },
+  "98": {
+    "speaker": "PANDA",
+    "character": "お先です",
+    "letter": "See you later!"
+  },
+  "99": {
+    "speaker": "LLAMA",
+    "character": "あ～　パンダ君",
+    "letter": "Oh, hey, Panda."
+  },
+  "100": {
+    "speaker": "PANDA",
+    "character": "あれ　皆来てたの",
+    "letter": "Oh, you're all here?"
+  },
+  "101": {
+    "speaker": "SASAKO",
+    "character": "お知り合いなんですか",
+    "letter": "Do you all know each other?"
+  },
+  "102": {
+    "speaker": "LLAMA",
+    "character": "僕たちも動物園でバイトしてるんですよ",
+    "letter": "We're working part-time at the zoo, as well."
+  },
+  "103": {
+    "speaker": "KOALA",
+    "character": "パンダ君　こっちこっち",
+    "letter": "Hey, Panda!  Over here!"
+  },
+  "104": {
+    "speaker": "KOALA",
+    "character": "今日は園児が可愛かったね",
+    "letter": "The preschool kids were so cute today."
+  },
+  "105": {
+    "speaker": "PANDA",
+    "character": "僕　張り切り過ぎでて  途中で  ばてちゃった",
+    "letter": "I over-exerted myself and passed out."
+  },
+  "106": {
+    "speaker": "LLAMA",
+    "character": "わかります　わかります",
+    "letter": "I can totally relate."
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "今日は一日真面目に働いたなぁ",
+    "letter": "I worked so hard today."
+  },
+  "108": {
+    "speaker": "LLAMA",
+    "character": "そうですね",
+    "letter": "Indeed, you did."
+  },
+  "109": {
+    "speaker": "PENGUIN",
+    "character": "すごいやりきった顔だけど　パンダ君途中からずっと寝てたらしいよ",
+    "letter": "He looks so satisfied with himself,"
+  },
+  "110": {
+    "speaker": "PANDA",
+    "character": "すごいやりきった顔だけど　パンダ君途中からずっと寝てたらしいよ",
+    "letter": "{\\a6}I feel so fulfilled. but apparently he slept half the time. {\\a6}I know where you're coming from. I guess that's \"acting naturally\" to him."
+  },
+  "111": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君って　割りと図々しいよね",
+    "letter": "Panda's pretty shameless, isn't he?"
+  },
+  "112": {
+    "speaker": "LLAMA",
+    "character": "パンダ君　一先何か頼みませんか？",
+    "letter": "Why don't you order something, Panda?"
+  },
+  "113": {
+    "speaker": "PANDA",
+    "character": "どうしようかな～～～",
+    "letter": "Let's see... Huh?"
+  },
+  "114": {
+    "speaker": "POLAR BEAR",
+    "character": "何にする？",
+    "letter": "What can I get for you?"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "竹！大盛りで",
+    "letter": "Bamboo, please! A large serving {\\i1}(oomori){\\i0}!"
+  },
+  "116": {
+    "speaker": "PENGUIN",
+    "character": "しろくま君　それは　守宮！",
+    "letter": "Polar Bear, that's a gecko {\\i1}(yamori){\\i0}."
+  },
+  "117": {
+    "speaker": "POLAR BEAR",
+    "character": "オー　よちよち～",
+    "letter": "Oh, there there."
+  },
+  "118": {
+    "speaker": "SASAKO",
+    "character": "それは　子守！",
+    "letter": "That would be babysitting {\\i1}(komori){\\i0}."
+  },
+  "119": {
+    "speaker": "BOTH BEARS",
+    "character": "笹子さんが突っ込みを！",
+    "letter": "Miss Sasako retorted!"
+  },
+  "120": {
+    "speaker": "SASAKO",
+    "character": "それは　ハモリ",
+    "letter": "That would be harmonizing {\\i1}(hamori){\\i0}."
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "ね～　早く頂戴～",
+    "letter": "Hey, can I get my bamboo, already?"
+  },
+  "122": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんペンギンさん",
+    "letter": "Mr. Penguin, Mr. Penguin!"
+  },
+  "123": {
+    "speaker": "PANDA",
+    "character": "僕が全部毛を剃ると　どうなってると思う？",
+    "letter": "What do you think I'd look like if I shaved off all my hair? This isn't the time. We're supposed to be doing the preview."
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "じゃ～さ　ペンギンさんのだめな部分三つ教えて",
+    "letter": "Then could you tell me three bad traits about yourself?"
+  },
+  "125": {
+    "speaker": "PENGUIN",
+    "character": "それもいいかな　テンション下がっちゃうから",
+    "letter": "Let's not do that either, it'll bring the mood down."
+  },
+  "126": {
+    "speaker": "PENGUIN",
+    "character": "しろくま君　しゃべろう",
+    "letter": "Say something, Polar Bear."
+  },
+  "127": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさんのダメなところは　お金にだらしないところ",
+    "letter": "Mr. Penguin's bad trait is that he's bad with money."
+  },
+  "128": {
+    "speaker": "PENGUIN",
+    "character": "やめて！もう終わって！",
+    "letter": "Stop it!  Just finish already."
+  },
+  "129": {
+    "speaker": "POLAR BEAR",
+    "character": "はい！次回しろくまカフェ最終回　お楽しみに",
+    "letter": "Okay. Next time on \"Polar Bear's Café,\" the last episode.  Enjoy!"
+  },
+  "130": {
+    "speaker": "PENGUIN",
+    "character": "終わらせないよ　しろくまカフェ第二話　お楽しみに",
+    "letter": "I'm not letting you end with that! \"Polar Bear's Café\" episode two! Enjoy!"
+  }
+}
