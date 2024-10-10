@@ -1,0 +1,926 @@
+{
+  "132": {
+    "speaker": "SASAKO",
+    "character": "今日も１日雨ですかね",
+    "definition": "I wonder if it's going to rain all day again today.",
+    "timestamp": "0:12:23",
+    "audio": "/audio/12/0.12.23.mp3"
+  },
+  "133": {
+    "speaker": "POLAR BEAR",
+    "character": "書けた",
+    "definition": "I was able to write it. A kanji word I was able to read but not write.",
+    "timestamp": "0:12:27",
+    "audio": "/audio/12/0.12.27.mp3"
+  },
+  "134": {
+    "speaker": "",
+    "character": "ゆう",
+    "definition": "Melan...choly.",
+    "timestamp": "0:12:33",
+    "audio": "/audio/12/0.12.33.mp3"
+  },
+  "135": {
+    "speaker": "SASAKO",
+    "character": "シロクマさんさすがですね",
+    "definition": "Well done, Mr. Polar Bear.",
+    "timestamp": "0:12:36",
+    "audio": "/audio/12/0.12.36.mp3"
+  },
+  "136": {
+    "speaker": "SASAKO",
+    "character": "ホント...雨続きで憂鬱ですよね",
+    "definition": "It is rather melancholy with all this rain.",
+    "timestamp": "0:12:39",
+    "audio": "/audio/12/0.12.39.mp3"
+  },
+  "137": {
+    "speaker": "HANDA",
+    "character": "もう...",
+    "definition": "Jeez... I even gave him a cell phone so he wouldn't be late.",
+    "timestamp": "0:12:57",
+    "audio": "/audio/12/0.12.57.mp3"
+  },
+  "138": {
+    "speaker": "LLAMA",
+    "character": "半田さ～ん",
+    "definition": "Mr. Handa!",
+    "timestamp": "0:13:04",
+    "audio": "/audio/12/0.13.04.mp3"
+  },
+  "139": {
+    "speaker": "ELEPHANT",
+    "character": "ねぇ半田さ～ん",
+    "definition": "Hey, Mr. Handa!",
+    "timestamp": "0:13:07",
+    "audio": "/audio/12/0.13.07.mp3"
+  },
+  "140": {
+    "speaker": "KOALA",
+    "character": "半田さ～ん遊ぼう!",
+    "definition": "Let's play, Mr. Handa!",
+    "timestamp": "0:13:10",
+    "audio": "/audio/12/0.13.10.mp3"
+  },
+  "141": {
+    "speaker": "KIRINO",
+    "character": "先輩 あいかわらずモテますね",
+    "definition": "You're as popular as ever.",
+    "timestamp": "0:13:13",
+    "audio": "/audio/12/0.13.13.mp3"
+  },
+  "142": {
+    "speaker": "HANDA",
+    "character": "動物と子供とお年寄りにはモテるんだ",
+    "definition": "I'm popular with animals, kids, and old people.",
+    "timestamp": "0:13:16",
+    "audio": "/audio/12/0.13.16.mp3"
+  },
+  "143": {
+    "speaker": "HANDA",
+    "character": "女性にはさっぱりだけどな",
+    "definition": "No luck with girls, though.",
+    "timestamp": "0:13:20",
+    "audio": "/audio/12/0.13.20.mp3"
+  },
+  "144": {
+    "speaker": "FT PANDA",
+    "character": "彼はパンダ飼育員の半田さん",
+    "definition": "He is the zoo keeper in charge of pandas, Mr. Handa. He works hard everyday taking care of the pandas.",
+    "timestamp": "0:13:26",
+    "audio": "/audio/12/0.13.26.mp3"
+  },
+  "145": {
+    "speaker": "PANDA",
+    "character": "特技は料理",
+    "definition": "His special skill is cooking.",
+    "timestamp": "0:13:33",
+    "audio": "/audio/12/0.13.33.mp3"
+  },
+  "146": {
+    "speaker": "PANDA",
+    "character": "注：便当男：自己做饭的男子",
+    "definition": "He's a modern guy who makes his own lunch.",
+    "timestamp": "0:13:35",
+    "audio": "/audio/12/0.13.35.mp3"
+  },
+  "147": {
+    "speaker": "PANDA",
+    "character": "ちなみに彼女いる歴０年",
+    "definition": "Number of years having a girlfriend: zero.",
+    "timestamp": "0:13:37",
+    "audio": "/audio/12/0.13.37.mp3"
+  },
+  "148": {
+    "speaker": "HANDA",
+    "character": "聞こえてるよ",
+    "definition": "I can hear you.",
+    "timestamp": "0:13:41",
+    "audio": "/audio/12/0.13.41.mp3"
+  },
+  "149": {
+    "speaker": "BOTH",
+    "character": "彼女いる歴０年",
+    "definition": "Number of years having a girlfriend: zero.",
+    "timestamp": "0:13:42",
+    "audio": "/audio/12/0.13.42.mp3"
+  },
+  "150": {
+    "speaker": "HANDA",
+    "character": "もう!ちゃんと お仕事してください!",
+    "definition": "Hey, would you get to work already?",
+    "timestamp": "0:13:44",
+    "audio": "/audio/12/0.13.44.mp3"
+  },
+  "151": {
+    "speaker": "HANDA",
+    "character": "パンダくんは今日も遅刻だし...",
+    "definition": "Not to mention you were late again today, Panda.",
+    "timestamp": "0:13:47",
+    "audio": "/audio/12/0.13.47.mp3"
+  },
+  "152": {
+    "speaker": "HANDA",
+    "character": "何度もモーニングコールしたのに",
+    "definition": "I even called you repeatedly to wake you up.",
+    "timestamp": "0:13:50",
+    "audio": "/audio/12/0.13.50.mp3"
+  },
+  "153": {
+    "speaker": "PANDA",
+    "character": "半田さんていい人だよね",
+    "definition": "Mr. Handa, you're such a great guy. Huh?",
+    "timestamp": "0:13:53",
+    "audio": "/audio/12/0.13.53.mp3"
+  },
+  "154": {
+    "speaker": "PANDA",
+    "character": "パンダのストラップもつけてくれるし",
+    "definition": "You even put on a panda strap. Well, you like pandas, Panda.",
+    "timestamp": "0:13:58",
+    "audio": "/audio/12/0.13.58.mp3"
+  },
+  "155": {
+    "speaker": "HANDA",
+    "character": "じゃなくて ちゃんとお仕事しなさい",
+    "definition": "Or rather, hurry and get to work! But I'm worried sick about how you",
+    "timestamp": "0:14:06",
+    "audio": "/audio/12/0.14.06.mp3"
+  },
+  "156": {
+    "speaker": "",
+    "character": "心配で心配で 仕事にならないんだよ",
+    "definition": "can't find a girlfriend that I can't work.",
+    "timestamp": "0:14:12",
+    "audio": "/audio/12/0.14.12.mp3"
+  },
+  "157": {
+    "speaker": "HANDA",
+    "character": "いいわけしないの!",
+    "definition": "Stop making excuses! But look over there.",
+    "timestamp": "0:14:16",
+    "audio": "/audio/12/0.14.16.mp3"
+  },
+  "158": {
+    "speaker": "PANDA",
+    "character": "お客さんはカップルばかりだよ",
+    "definition": "All of our visitors today are couples.",
+    "timestamp": "0:14:22",
+    "audio": "/audio/12/0.14.22.mp3"
+  },
+  "159": {
+    "speaker": "HANDA",
+    "character": "そうだね",
+    "definition": "It appears so.",
+    "timestamp": "0:14:26",
+    "audio": "/audio/12/0.14.26.mp3"
+  },
+  "160": {
+    "speaker": "PANDA",
+    "character": "相合傘でアツアツだよ",
+    "definition": "They're all sharing umbrellas lovingly.",
+    "timestamp": "0:14:28",
+    "audio": "/audio/12/0.14.28.mp3"
+  },
+  "161": {
+    "speaker": "HANDA",
+    "character": "雨の日の動物園は穴場のデートスポットだからね",
+    "definition": "The zoo on a rainy day is a great, little-known dating spot.",
+    "timestamp": "0:14:31",
+    "audio": "/audio/12/0.14.31.mp3"
+  },
+  "162": {
+    "speaker": "FT PANDA",
+    "character": "彼女もいないのに",
+    "definition": "You sound like a dating expert,but you don't even have a girlfriend.",
+    "timestamp": "0:14:36",
+    "audio": "/audio/12/0.14.36.mp3"
+  },
+  "163": {
+    "speaker": "HANDA",
+    "character": "大きなお世話です!",
+    "definition": "Mind your own business!",
+    "timestamp": "0:14:42",
+    "audio": "/audio/12/0.14.42.mp3"
+  },
+  "164": {
+    "speaker": "PANDA",
+    "character": "デートの特集ばかり読んでないで",
+    "definition": "You should stop reading tips on dating and get to work.",
+    "timestamp": "0:14:44",
+    "audio": "/audio/12/0.14.44.mp3"
+  },
+  "165": {
+    "speaker": "HANDA",
+    "character": "そんなの読んでないし",
+    "definition": "I don't read those!",
+    "timestamp": "0:14:50",
+    "audio": "/audio/12/0.14.50.mp3"
+  },
+  "166": {
+    "speaker": "",
+    "character": "仕事もさぼってないよ",
+    "definition": "And I'm not slacking off at work!",
+    "timestamp": "0:14:52",
+    "audio": "/audio/12/0.14.52.mp3"
+  },
+  "167": {
+    "speaker": "PANDA",
+    "character": "恋人ができれば",
+    "definition": "If you had a girlfriend, you'd be more enthusiastic at work.",
+    "timestamp": "0:14:54",
+    "audio": "/audio/12/0.14.54.mp3"
+  },
+  "168": {
+    "speaker": "HANDA",
+    "character": "僕にとっては",
+    "definition": "Well, to me, all of you at the zoo are like my significant other.",
+    "timestamp": "0:14:58",
+    "audio": "/audio/12/0.14.58.mp3"
+  },
+  "169": {
+    "speaker": "FT PANDA",
+    "character": "そんな清純派アイドルみたいなセリフは",
+    "definition": "Now you sound like a pure and innocent idol and I don't like it.",
+    "timestamp": "0:15:04",
+    "audio": "/audio/12/0.15.04.mp3"
+  },
+  "170": {
+    "speaker": "PANDA",
+    "character": "そうだよ 私トイレに行きません",
+    "definition": "Yeah. I don't want to hear idol-like phrases like",
+    "timestamp": "0:15:10",
+    "audio": "/audio/12/0.15.10.mp3"
+  },
+  "171": {
+    "speaker": "",
+    "character": "なんて  アイドルみたいなセリフは聞きたくないよ",
+    "definition": "\"I don't go to the bathroom.\"",
+    "timestamp": "0:15:14",
+    "audio": "/audio/12/0.15.14.mp3"
+  },
+  "172": {
+    "speaker": "PANDA",
+    "character": "ホントのアイドルは僕たちのように",
+    "definition": "True idols are like us and their poop smells like lemons.",
+    "timestamp": "0:15:18",
+    "audio": "/audio/12/0.15.18.mp3"
+  },
+  "173": {
+    "speaker": "FT PANDA",
+    "character": "パンダくん話がそれてるよ",
+    "definition": "Your conversation is drifting, Panda. Not to mention, no matter how much you like animals, I think it'd be hard to be married to us animals.",
+    "timestamp": "0:15:24",
+    "audio": "/audio/12/0.15.24.mp3"
+  },
+  "174": {
+    "speaker": "HANDA",
+    "character": "何言ってるの?",
+    "definition": "W-What are you even talking about?",
+    "timestamp": "0:15:37",
+    "audio": "/audio/12/0.15.37.mp3"
+  },
+  "175": {
+    "speaker": "PANDA",
+    "character": "いい半田さん",
+    "definition": "Listen, Mr. Handa.",
+    "timestamp": "0:15:39",
+    "audio": "/audio/12/0.15.39.mp3"
+  },
+  "176": {
+    "speaker": "PANDA",
+    "character": "これからバツ２の常勤パンダさんが",
+    "definition": "Mr. Full-time Panda, who's been divorced twice,",
+    "timestamp": "0:15:41",
+    "audio": "/audio/12/0.15.41.mp3"
+  },
+  "177": {
+    "speaker": "",
+    "character": "恋愛相談してくれるから",
+    "definition": "will now be your love advisor.",
+    "timestamp": "0:15:44",
+    "audio": "/audio/12/0.15.44.mp3"
+  },
+  "178": {
+    "speaker": "PANDA",
+    "character": "ではお願いします先生",
+    "definition": "I leave it to you, advisor.",
+    "timestamp": "0:15:47",
+    "audio": "/audio/12/0.15.47.mp3"
+  },
+  "179": {
+    "speaker": "FT PANDA",
+    "character": "私バツ２じゃないんだけど",
+    "definition": "I haven't been divorced twice.",
+    "timestamp": "0:15:51",
+    "audio": "/audio/12/0.15.51.mp3"
+  },
+  "180": {
+    "speaker": "PANDA",
+    "character": "じゃあお願いします",
+    "definition": "Now I leave it to you, er... not advisor, but love hunter.",
+    "timestamp": "0:15:54",
+    "audio": "/audio/12/0.15.54.mp3"
+  },
+  "181": {
+    "speaker": "FT PANDA",
+    "character": "訂正するのはそこじゃないから",
+    "definition": "That wasn't the part you were supposed to retract. Or rather, could you not push weird characterizations on me?",
+    "timestamp": "0:16:00",
+    "audio": "/audio/12/0.16.00.mp3"
+  },
+  "182": {
+    "speaker": "HANDA",
+    "character": "ともかく 恋愛相談なんていりません",
+    "definition": "Anyways, I don't need any advice on love.",
+    "timestamp": "0:16:07",
+    "audio": "/audio/12/0.16.07.mp3"
+  },
+  "183": {
+    "speaker": "PANDA",
+    "character": "あんなこと言ってますよ 恋愛番長",
+    "definition": "That's what he says, love leader.",
+    "timestamp": "0:16:10",
+    "audio": "/audio/12/0.16.10.mp3"
+  },
+  "184": {
+    "speaker": "FT PANDA",
+    "character": "番長もやめて",
+    "definition": "Don't call me \"leader,\" either.",
+    "timestamp": "0:16:14",
+    "audio": "/audio/12/0.16.14.mp3"
+  },
+  "185": {
+    "speaker": "FT PANDA",
+    "character": "でも半田さん",
+    "definition": "But, Mr. Handa, would you be content with never having a girlfriend? N-Never? Yeah...",
+    "timestamp": "0:16:17",
+    "audio": "/audio/12/0.16.17.mp3"
+  },
+  "186": {
+    "speaker": "HANDA",
+    "character": "彼女がほしいのはもちろんなんだけど",
+    "definition": "Of course I want a girlfriend, but at my age, I'd rather have a wife than a girlfriend.",
+    "timestamp": "0:16:35",
+    "audio": "/audio/12/0.16.35.mp3"
+  },
+  "187": {
+    "speaker": "PANDA",
+    "character": "大丈夫だよ",
+    "definition": "It'll be okay.",
+    "timestamp": "0:16:44",
+    "audio": "/audio/12/0.16.44.mp3"
+  },
+  "188": {
+    "speaker": "",
+    "character": "半田さんいい人だから",
+    "definition": "You're a good person, Mr. Handa.",
+    "timestamp": "0:16:46",
+    "audio": "/audio/12/0.16.46.mp3"
+  },
+  "189": {
+    "speaker": "HANDA",
+    "character": "パンダくん!",
+    "definition": "P-Panda!",
+    "timestamp": "0:16:48",
+    "audio": "/audio/12/0.16.48.mp3"
+  },
+  "190": {
+    "speaker": "FT PANDA",
+    "character": "そしていい人で終わっちゃうタイプだね",
+    "definition": "And you're the type that'll get nowhere as a good person.",
+    "timestamp": "0:16:51",
+    "audio": "/audio/12/0.16.51.mp3"
+  },
+  "191": {
+    "speaker": "PANDA",
+    "character": "ああどうでもいい人",
+    "definition": "Yeah, someone no one cares about.",
+    "timestamp": "0:16:54",
+    "audio": "/audio/12/0.16.54.mp3"
+  },
+  "192": {
+    "speaker": "FT PANDA",
+    "character": "あごめん",
+    "definition": "Oh, sorry.",
+    "timestamp": "0:17:00",
+    "audio": "/audio/12/0.17.00.mp3"
+  },
+  "193": {
+    "speaker": "PANDA",
+    "character": "元気出して",
+    "definition": "Cheer up.",
+    "timestamp": "0:17:02",
+    "audio": "/audio/12/0.17.02.mp3"
+  },
+  "194": {
+    "speaker": "PANDA",
+    "character": "半田さんのよさをわかってくれる 女の子がきっといるよ",
+    "definition": "There must be a girl out there whowill understand what a great person you are.",
+    "timestamp": "0:17:04",
+    "audio": "/audio/12/0.17.04.mp3"
+  },
+  "195": {
+    "speaker": "HANDA",
+    "character": "そそうかな",
+    "definition": "Y-You think so?",
+    "timestamp": "0:17:09",
+    "audio": "/audio/12/0.17.09.mp3"
+  },
+  "196": {
+    "speaker": "PANDA",
+    "character": "いるよ",
+    "definition": "Of course.",
+    "timestamp": "0:17:11",
+    "audio": "/audio/12/0.17.11.mp3"
+  },
+  "197": {
+    "speaker": "PANDA",
+    "character": "宇宙に１人くらいは",
+    "definition": "There has to be at least one somewhere in the universe.",
+    "timestamp": "0:17:13",
+    "audio": "/audio/12/0.17.13.mp3"
+  },
+  "198": {
+    "speaker": "HANDA",
+    "character": "宇宙に１人だけ...",
+    "definition": "Just one... in the universe?",
+    "timestamp": "0:17:20",
+    "audio": "/audio/12/0.17.20.mp3"
+  },
+  "199": {
+    "speaker": "FT PANDA",
+    "character": "１人いれば十分じゃない",
+    "definition": "One is plenty.",
+    "timestamp": "0:17:24",
+    "audio": "/audio/12/0.17.24.mp3"
+  },
+  "200": {
+    "speaker": "FT PANDA",
+    "character": "たった１人の運命の人",
+    "definition": "If you can meet the one person you're destined to be with,",
+    "timestamp": "0:17:27",
+    "audio": "/audio/12/0.17.27.mp3"
+  },
+  "201": {
+    "speaker": "FT PANDA",
+    "character": "それだけで幸運でしょ",
+    "definition": "you don't need any more happiness than that. Mr. Full-time Panda. So, cheer up.",
+    "timestamp": "0:17:32",
+    "audio": "/audio/12/0.17.32.mp3"
+  },
+  "202": {
+    "speaker": "PANDA",
+    "character": "僕たちがついてるよ",
+    "definition": "We're on your side.",
+    "timestamp": "0:17:40",
+    "audio": "/audio/12/0.17.40.mp3"
+  },
+  "203": {
+    "speaker": "KIRINO",
+    "character": "半田さん",
+    "definition": "Mr. Handa...",
+    "timestamp": "0:17:43",
+    "audio": "/audio/12/0.17.43.mp3"
+  },
+  "204": {
+    "speaker": "",
+    "character": "パンダに なぐさめられてていいんすか",
+    "definition": "Is it okay to let pandas cheer you up?",
+    "timestamp": "0:17:45",
+    "audio": "/audio/12/0.17.45.mp3"
+  },
+  "205": {
+    "speaker": "PENGUIN",
+    "character": "パンダくん ほら もっと食べなよ",
+    "definition": "Here, eat more, Panda. I'm good, thanks. Then, here, Polar Bear.",
+    "timestamp": "0:17:51",
+    "audio": "/audio/12/0.17.51.mp3"
+  },
+  "206": {
+    "speaker": "POLAR BEAR",
+    "character": "僕も",
+    "definition": "I'm done, too.",
+    "timestamp": "0:17:58",
+    "audio": "/audio/12/0.17.58.mp3"
+  },
+  "207": {
+    "speaker": "PENGUIN",
+    "character": "じゃあ...",
+    "definition": "Then...",
+    "timestamp": "0:18:01",
+    "audio": "/audio/12/0.18.01.mp3"
+  },
+  "208": {
+    "speaker": "SASAKO/LLAMA",
+    "character": "もういいです",
+    "definition": "We're fine.",
+    "timestamp": "0:18:02",
+    "audio": "/audio/12/0.18.02.mp3"
+  },
+  "209": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんの買ってくる パンの食べ過ぎで",
+    "definition": "I gained weight again from eating too many of the",
+    "timestamp": "0:18:04",
+    "audio": "/audio/12/0.18.04.mp3"
+  },
+  "210": {
+    "speaker": "",
+    "character": "また太っちゃったよ",
+    "definition": "breads you buy, Mr. Penguin.",
+    "timestamp": "0:18:08",
+    "audio": "/audio/12/0.18.08.mp3"
+  },
+  "211": {
+    "speaker": "PENGUIN",
+    "character": "何言ってるの?",
+    "definition": "What are you talking about? Eat more.",
+    "timestamp": "0:18:11",
+    "audio": "/audio/12/0.18.11.mp3"
+  },
+  "212": {
+    "speaker": "PENGUIN",
+    "character": "だって...",
+    "definition": "Because... See?",
+    "timestamp": "0:18:14",
+    "audio": "/audio/12/0.18.14.mp3"
+  },
+  "213": {
+    "speaker": "PENGUIN",
+    "character": "またペン子さんにサービス券をサービスしてもらっちゃったんだ!",
+    "definition": "Miss Penko gave me free service tickets again.",
+    "timestamp": "0:18:16",
+    "audio": "/audio/12/0.18.16.mp3"
+  },
+  "214": {
+    "speaker": "PENGUIN",
+    "character": "これが握手券だったらもっと嬉しいんだけどな...",
+    "definition": "I'd be even happier if these tickets were for handshakes.",
+    "timestamp": "0:18:22",
+    "audio": "/audio/12/0.18.22.mp3"
+  },
+  "215": {
+    "speaker": "LLAMA",
+    "character": "ウヒヒって...",
+    "definition": "\"Uhehe?\" If you laugh so pervertedly, Miss Penko won't like you.",
+    "timestamp": "0:18:28",
+    "audio": "/audio/12/0.18.28.mp3"
+  },
+  "216": {
+    "speaker": "PENGUIN",
+    "character": "失礼な!!僕ウヒヒ... なんて笑い方してないよ!",
+    "definition": "How rude! I didn't laugh like \"uhehe.\" Yeah, you totally didn't laugh like \"uhehe.\"",
+    "timestamp": "0:18:36",
+    "audio": "/audio/12/0.18.36.mp3"
+  },
+  "217": {
+    "speaker": "PENGUIN",
+    "character": "だよね?",
+    "definition": "Right?",
+    "timestamp": "0:18:44",
+    "audio": "/audio/12/0.18.44.mp3"
+  },
+  "218": {
+    "speaker": "POLAR BEAR",
+    "character": "グヒヒ...だよ",
+    "definition": "It was \"guhehe.\"",
+    "timestamp": "0:18:45",
+    "audio": "/audio/12/0.18.45.mp3"
+  },
+  "219": {
+    "speaker": "PENGUIN",
+    "character": "言ってないから...",
+    "definition": "I didn't laugh like that.",
+    "timestamp": "0:18:48",
+    "audio": "/audio/12/0.18.48.mp3"
+  },
+  "220": {
+    "speaker": "KIRINO",
+    "character": "先輩この間のコンパの子たちが",
+    "definition": "By the way, the girls from our group blind date the other day",
+    "timestamp": "0:18:52",
+    "audio": "/audio/12/0.18.52.mp3"
+  },
+  "221": {
+    "speaker": "KIRINO",
+    "character": "また半田さんと 飲みたいって言ってましたよ",
+    "definition": "said they want to drink with you again, Mr. Handa. Really?",
+    "timestamp": "0:18:55",
+    "audio": "/audio/12/0.18.55.mp3"
+  },
+  "222": {
+    "speaker": "KIRINO",
+    "character": "またセッティングしましょうか?",
+    "definition": "Should I set something up again?",
+    "timestamp": "0:19:02",
+    "audio": "/audio/12/0.19.02.mp3"
+  },
+  "223": {
+    "speaker": "HANDA",
+    "character": "まあそのうちな",
+    "definition": "Well, eventually.",
+    "timestamp": "0:19:06",
+    "audio": "/audio/12/0.19.06.mp3"
+  },
+  "224": {
+    "speaker": "KIRINO",
+    "character": "はいわかりました",
+    "definition": "Oh, all right.",
+    "timestamp": "0:19:12",
+    "audio": "/audio/12/0.19.12.mp3"
+  },
+  "225": {
+    "speaker": "KIRINO",
+    "character": "じゃあお先に失礼します",
+    "definition": "I'm going to head out.",
+    "timestamp": "0:19:15",
+    "audio": "/audio/12/0.19.15.mp3"
+  },
+  "226": {
+    "speaker": "HANDA",
+    "character": "ああお疲れさま",
+    "definition": "Okay. Thanks for all of your hard work.",
+    "timestamp": "0:19:18",
+    "audio": "/audio/12/0.19.18.mp3"
+  },
+  "227": {
+    "speaker": "HANDA",
+    "character": "雨ちょっと強いから 気をつけてな",
+    "definition": "It's raining hard, so be careful.",
+    "timestamp": "0:19:20",
+    "audio": "/audio/12/0.19.20.mp3"
+  },
+  "228": {
+    "speaker": "KIRINO",
+    "character": "はい先輩もほどほどにして 帰ってくださいね",
+    "definition": "I will. You should head home soon, too.",
+    "timestamp": "0:19:23",
+    "audio": "/audio/12/0.19.23.mp3"
+  },
+  "229": {
+    "speaker": "HANDA",
+    "character": "わかってるよ",
+    "definition": "I will.",
+    "timestamp": "0:19:28",
+    "audio": "/audio/12/0.19.28.mp3"
+  },
+  "230": {
+    "speaker": "PANDA",
+    "character": "半田さんに借りたケータイ 忘れちゃった",
+    "definition": "I forgot the cell phone you lent me, Mr. Handa.",
+    "timestamp": "0:19:49",
+    "audio": "/audio/12/0.19.49.mp3"
+  },
+  "231": {
+    "speaker": "PANDA",
+    "character": "今しろくまカフェにいるから",
+    "definition": "I'm at Polar Bear's Café right now,",
+    "timestamp": "0:19:53",
+    "audio": "/audio/12/0.19.53.mp3"
+  },
+  "232": {
+    "speaker": "PANDA",
+    "character": "帰りに届けてくれない?",
+    "definition": "so could you drop it off on your way home?",
+    "timestamp": "0:19:56",
+    "audio": "/audio/12/0.19.56.mp3"
+  },
+  "233": {
+    "speaker": "HANDA",
+    "character": "もう...パンダくんってば...",
+    "definition": "For crying out loud, Panda...",
+    "timestamp": "0:20:02",
+    "audio": "/audio/12/0.20.02.mp3"
+  },
+  "234": {
+    "speaker": "SASAKO",
+    "character": "いらっしゃいませ",
+    "definition": "Hello.",
+    "timestamp": "0:20:12",
+    "audio": "/audio/12/0.20.12.mp3"
+  },
+  "235": {
+    "speaker": "SASAKO",
+    "character": "大変でしたね",
+    "definition": "That must have been rough.",
+    "timestamp": "0:20:15",
+    "audio": "/audio/12/0.20.15.mp3"
+  },
+  "236": {
+    "speaker": "SASAKO",
+    "character": "カッパお預かりします",
+    "definition": "I'll take your poncho for you.",
+    "timestamp": "0:20:17",
+    "audio": "/audio/12/0.20.17.mp3"
+  },
+  "237": {
+    "speaker": "HANDA",
+    "character": "ああ...どうも",
+    "definition": "Oh, thank you.",
+    "timestamp": "0:20:19",
+    "audio": "/audio/12/0.20.19.mp3"
+  },
+  "238": {
+    "speaker": "HANDA",
+    "character": "はい",
+    "definition": "Here.",
+    "timestamp": "0:20:22",
+    "audio": "/audio/12/0.20.22.mp3"
+  },
+  "239": {
+    "speaker": "HANDA",
+    "character": "今度から忘れないでよ",
+    "definition": "Don't forget it from now on.",
+    "timestamp": "0:20:24",
+    "audio": "/audio/12/0.20.24.mp3"
+  },
+  "240": {
+    "speaker": "PANDA",
+    "character": "ありがとう",
+    "definition": "Thank you.",
+    "timestamp": "0:20:27",
+    "audio": "/audio/12/0.20.27.mp3"
+  },
+  "241": {
+    "speaker": "PANDA",
+    "character": "半田さんって ホントいい人だよね",
+    "definition": "You're such a great guy, Mr. Handa.",
+    "timestamp": "0:20:29",
+    "audio": "/audio/12/0.20.29.mp3"
+  },
+  "242": {
+    "speaker": "HANDA",
+    "character": "もう...",
+    "definition": "Jeez. Could I relax here for a little bit?",
+    "timestamp": "0:20:32",
+    "audio": "/audio/12/0.20.32.mp3"
+  },
+  "243": {
+    "speaker": "POLAR BEAR",
+    "character": "どうぞ",
+    "definition": "Of course. And then, Miss Penko...",
+    "timestamp": "0:20:38",
+    "audio": "/audio/12/0.20.38.mp3"
+  },
+  "244": {
+    "speaker": "PANDA",
+    "character": "それさっきも聞いたよ",
+    "definition": "You just told us that.",
+    "timestamp": "0:20:45",
+    "audio": "/audio/12/0.20.45.mp3"
+  },
+  "245": {
+    "speaker": "LLAMA",
+    "character": "恋は動物の目を曇らせるんですかね",
+    "definition": "I wonder if love clouds the eyes of animals, too?",
+    "timestamp": "0:20:47",
+    "audio": "/audio/12/0.20.47.mp3"
+  },
+  "246": {
+    "speaker": "PENGUIN",
+    "character": "いいじゃない聞いてよ",
+    "definition": "It wouldn't hurt for you to listen! Are you awake?",
+    "timestamp": "0:20:51",
+    "audio": "/audio/12/0.20.51.mp3"
+  },
+  "247": {
+    "speaker": "HANDA",
+    "character": "すみません ついウトウトしちゃって",
+    "definition": "I'm sorry! I must have dozed off.",
+    "timestamp": "0:21:22",
+    "audio": "/audio/12/0.21.22.mp3"
+  },
+  "248": {
+    "speaker": "SASAKO",
+    "character": "お気になさらずに",
+    "definition": "No need to worry.",
+    "timestamp": "0:21:26",
+    "audio": "/audio/12/0.21.26.mp3"
+  },
+  "249": {
+    "speaker": "SASAKO",
+    "character": "これ店長からのサービスです",
+    "definition": "This is on the house from the owner. It's so warm. The green of the plants is so vivid after the rain.",
+    "timestamp": "0:21:28",
+    "audio": "/audio/12/0.21.28.mp3"
+  },
+  "250": {
+    "speaker": "SASAKO",
+    "character": "ホントきれいですよね",
+    "definition": "It's truly beautiful.",
+    "timestamp": "0:22:06",
+    "audio": "/audio/12/0.22.06.mp3"
+  },
+  "251": {
+    "speaker": "HANDA",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:22:12",
+    "audio": "/audio/12/0.22.12.mp3"
+  },
+  "252": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/12/0.23.58.mp3"
+  },
+  "253": {
+    "speaker": "PENGUIN",
+    "character": "何?パンダ君",
+    "definition": "What is it, Panda? Tell me 500 cute things about me.",
+    "timestamp": "0:23:59",
+    "audio": "/audio/12/0.23.59.mp3"
+  },
+  "254": {
+    "speaker": "PENGUIN",
+    "character": "ハードなお願いだなぁ",
+    "definition": "That's a difficult request.",
+    "timestamp": "0:24:03",
+    "audio": "/audio/12/0.24.03.mp3"
+  },
+  "255": {
+    "speaker": "PANDA",
+    "character": "じゃあ499個でいいや",
+    "definition": "Then 499 will do.",
+    "timestamp": "0:24:05",
+    "audio": "/audio/12/0.24.05.mp3"
+  },
+  "256": {
+    "speaker": "PENGUIN",
+    "character": "君妥協を知らないパンダだね",
+    "definition": "You don't understand how to compromise, do you?",
+    "timestamp": "0:24:08",
+    "audio": "/audio/12/0.24.08.mp3"
+  },
+  "257": {
+    "speaker": "PANDA",
+    "character": "ありがとう",
+    "definition": "Thanks! Sure.",
+    "timestamp": "0:24:10",
+    "audio": "/audio/12/0.24.10.mp3"
+  },
+  "258": {
+    "speaker": "PANDA",
+    "character": "じゃあ僕の可愛いところを",
+    "definition": "Then tell me...",
+    "timestamp": "0:24:12",
+    "audio": "/audio/12/0.24.12.mp3"
+  },
+  "259": {
+    "speaker": "PENGUIN",
+    "character": "白熊君終わって",
+    "definition": "Let's end this, Polar Bear.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/12/0.24.13.mp3"
+  },
+  "260": {
+    "speaker": "POLAR BEAR",
+    "character": "次回のしろくまカフェは",
+    "definition": "Next time Polar Bear's Café",
+    "timestamp": "0:24:15",
+    "audio": "/audio/12/0.24.15.mp3"
+  },
+  "261": {
+    "speaker": "POLAR BEAR",
+    "character": "ご覧の放送局以外でお送りします",
+    "definition": "will be broadcasted on a station other than this one.",
+    "timestamp": "0:24:17",
+    "audio": "/audio/12/0.24.17.mp3"
+  },
+  "262": {
+    "speaker": "PENGUIN",
+    "character": "ご覧の放送局で見れますよ",
+    "definition": "You'll be able to watch it on this station!",
+    "timestamp": "0:24:20",
+    "audio": "/audio/12/0.24.20.mp3"
+  },
+  "263": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/12/0.24.22.mp3"
+  }
+}

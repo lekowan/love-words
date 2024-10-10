@@ -1,0 +1,919 @@
+{
+  "1": {
+    "speaker": "SASAKO",
+    "character": "どうしたの?パンダくん",
+    "definition": "What's wrong, Panda? I don't wanna go to work. It's the rainy season now, so there aren't many visitors.",
+    "timestamp": "0:01:40",
+    "audio": "/audio/12/0.01.40.mp3"
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "ヒマでヒマで超退屈なんだ",
+    "definition": "It's so boring and there's nothing to do. You're being dramatic.",
+    "timestamp": "0:01:52",
+    "audio": "/audio/12/0.01.52.mp3"
+  },
+  "3": {
+    "speaker": "",
+    "character": "どうせゴロゴロしてるだけでしょ",
+    "definition": "But all you do is lay around anyway.",
+    "timestamp": "0:01:57",
+    "audio": "/audio/12/0.01.57.mp3"
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "ヒマすぎるってつらいんだよ",
+    "definition": "It's hard to have nothing to do.",
+    "timestamp": "0:02:01",
+    "audio": "/audio/12/0.02.01.mp3"
+  },
+  "5": {
+    "speaker": "PANDA",
+    "character": "それに僕は仕事でゴロゴロしてるの",
+    "definition": "Not to mention I'm lying around for work.",
+    "timestamp": "0:02:04",
+    "audio": "/audio/12/0.02.04.mp3"
+  },
+  "6": {
+    "speaker": "PANDA",
+    "character": "ただのゴロゴロとは違うんだから",
+    "definition": "That's different from normal lying around.",
+    "timestamp": "0:02:07",
+    "audio": "/audio/12/0.02.07.mp3"
+  },
+  "7": {
+    "speaker": "PENGUIN",
+    "character": "意味がわからないよ",
+    "definition": "I have no idea what you're talking about.",
+    "timestamp": "0:02:12",
+    "audio": "/audio/12/0.02.12.mp3"
+  },
+  "8": {
+    "speaker": "POLAR BEAR",
+    "character": "僕もヒマになってゴロゴロしてみたいね",
+    "definition": "I want to try having nothing to do and lying around, too. There are times when I'm eating a snack slowly and only an hour's passed by.",
+    "timestamp": "0:02:14",
+    "audio": "/audio/12/0.02.14.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "オヤツに１時間ってまるでセレブなマダムだね",
+    "definition": "An hour for a snack? You're like one of those rich, old ladies.",
+    "timestamp": "0:02:24",
+    "audio": "/audio/12/0.02.24.mp3"
+  },
+  "10": {
+    "speaker": "HANDA",
+    "character": "コラ!何してるんですか",
+    "definition": "Hey! What are you doing?",
+    "timestamp": "0:02:37",
+    "audio": "/audio/12/0.02.37.mp3"
+  },
+  "11": {
+    "speaker": "PANDA",
+    "character": "だってお客さんいなくて ヒマなんだもん",
+    "definition": "There aren't any visitors, so we don't have anything to do.",
+    "timestamp": "0:02:40",
+    "audio": "/audio/12/0.02.40.mp3"
+  },
+  "12": {
+    "speaker": "HANDA",
+    "character": "もう...ちゃぶ台なんか持ち込んで",
+    "definition": "You even brought in a small table.",
+    "timestamp": "0:02:44",
+    "audio": "/audio/12/0.02.44.mp3"
+  },
+  "13": {
+    "speaker": "FT PANDA",
+    "character": "いやぁ気づかれないように 持ち込むのが大変で大変で",
+    "definition": "Yeah, it was so hard to bring it in without being noticed. You're not supposed to bring it in!",
+    "timestamp": "0:02:48",
+    "audio": "/audio/12/0.02.48.mp3"
+  },
+  "14": {
+    "speaker": "FT PANDA",
+    "character": "まぁまぁ落ち着いて",
+    "definition": "Oh, relax.",
+    "timestamp": "0:02:56",
+    "audio": "/audio/12/0.02.56.mp3"
+  },
+  "15": {
+    "speaker": "FT PANDA",
+    "character": "健康にいい熊笹茶でも一杯どう?",
+    "definition": "How about a cup of healthybear bamboo grass tea?",
+    "timestamp": "0:02:59",
+    "audio": "/audio/12/0.02.59.mp3"
+  },
+  "16": {
+    "speaker": "HANDA",
+    "character": "えっ?熊笹茶?",
+    "definition": "Bear bamboo grass tea?",
+    "timestamp": "0:03:04",
+    "audio": "/audio/12/0.03.04.mp3"
+  },
+  "17": {
+    "speaker": "FT PANDA",
+    "character": "熊笹茶に含まれる笹多糖体には",
+    "definition": "The bamboo grass polysaccharides in this tea are said to have weight loss effects, too.",
+    "timestamp": "0:03:06",
+    "audio": "/audio/12/0.03.06.mp3"
+  },
+  "18": {
+    "speaker": "HANDA",
+    "character": "ホント?",
+    "definition": "Really?",
+    "timestamp": "0:03:12",
+    "audio": "/audio/12/0.03.12.mp3"
+  },
+  "19": {
+    "speaker": "HANDA",
+    "character": "いや最近メタボ気味でさ",
+    "definition": "Well, I have been putting on a little weight lately.",
+    "timestamp": "0:03:13",
+    "audio": "/audio/12/0.03.13.mp3"
+  },
+  "20": {
+    "speaker": "HANDA",
+    "character": "さっさと片付けなさ～い!",
+    "definition": "Hurry and clean all of this up!",
+    "timestamp": "0:03:21",
+    "audio": "/audio/12/0.03.21.mp3"
+  },
+  "21": {
+    "speaker": "PANDA",
+    "character": "今何時?",
+    "definition": "What time is it?",
+    "timestamp": "0:03:31",
+    "audio": "/audio/12/0.03.31.mp3"
+  },
+  "22": {
+    "speaker": "FT PANDA",
+    "character": "寝てたの?う～んとね",
+    "definition": "You were asleep? Let's see...",
+    "timestamp": "0:03:33",
+    "audio": "/audio/12/0.03.33.mp3"
+  },
+  "23": {
+    "speaker": "",
+    "character": "まだ１０時だね",
+    "definition": "It's only 10 o'clock. What? It's only been 30 minutes?",
+    "timestamp": "0:03:38",
+    "audio": "/audio/12/0.03.38.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "夢の中では アイドル歌手としてＣＤデビューして",
+    "definition": "In my dream, I'd gotten my idol debut and released my first CD.",
+    "timestamp": "0:03:48",
+    "audio": "/audio/12/0.03.48.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "年末にはヤマアラシさんと年越しカウントダウンライブまでしたのに",
+    "definition": "And at the end of the year, I was even in the New Year's count down live with Yama Arashi.",
+    "timestamp": "0:03:53",
+    "audio": "/audio/12/0.03.53.mp3"
+  },
+  "26": {
+    "speaker": "FT PANDA",
+    "character": "よくそんな都合のいい夢が見られるもんだね",
+    "definition": "It must be nice to be able to have such pleasing dreams.",
+    "timestamp": "0:03:59",
+    "audio": "/audio/12/0.03.59.mp3"
+  },
+  "27": {
+    "speaker": "FT PANDA",
+    "character": "でヤマアラシって誰?",
+    "definition": "So who is Yama Arashi? You don't know that nationally famous idol group?",
+    "timestamp": "0:04:04",
+    "audio": "/audio/12/0.04.04.mp3"
+  },
+  "28": {
+    "speaker": "PANDA",
+    "character": "一般常識だよ",
+    "definition": "They're common knowledge.",
+    "timestamp": "0:04:11",
+    "audio": "/audio/12/0.04.11.mp3"
+  },
+  "29": {
+    "speaker": "FT PANDA",
+    "character": "グサっときた",
+    "definition": "That was depressing. Being told that something is common knowledge by Panda",
+    "timestamp": "0:04:14",
+    "audio": "/audio/12/0.04.14.mp3"
+  },
+  "30": {
+    "speaker": "",
+    "character": "今なんかグサっときた",
+    "definition": "was somehow really depressing.",
+    "timestamp": "0:04:19",
+    "audio": "/audio/12/0.04.19.mp3"
+  },
+  "31": {
+    "speaker": "PANDA",
+    "character": "娘さんが２人もいるんでしょ?",
+    "definition": "You have two daughters, right?",
+    "timestamp": "0:04:22",
+    "audio": "/audio/12/0.04.22.mp3"
+  },
+  "32": {
+    "speaker": "PANDA",
+    "character": "ファンじゃないの?",
+    "definition": "Aren't they fans?",
+    "timestamp": "0:04:25",
+    "audio": "/audio/12/0.04.25.mp3"
+  },
+  "33": {
+    "speaker": "FT PANDA",
+    "character": "最近あんまり会話がないしね",
+    "definition": "We haven't been talking much, lately. This is getting really depressing,",
+    "timestamp": "0:04:27",
+    "audio": "/audio/12/0.04.27.mp3"
+  },
+  "34": {
+    "speaker": "",
+    "character": "注：「嘿!看那边」 日本儿童游戏。猜拳的赢家手指一个方向，输家不能把头转向那个方向。若方向一致，则赢家胜，若不一致，则重新猜拳。",
+    "definition": "so let's play \"hey, look over there.\"",
+    "timestamp": "0:04:36",
+    "audio": "/audio/12/0.04.36.mp3"
+  },
+  "35": {
+    "speaker": "PANDA",
+    "character": "いいよ",
+    "definition": "Sure.",
+    "timestamp": "0:04:38",
+    "audio": "/audio/12/0.04.38.mp3"
+  },
+  "36": {
+    "speaker": "BOTH",
+    "character": "ジャンケンポン!",
+    "definition": "Rock, paper, scissors!",
+    "timestamp": "0:04:41",
+    "audio": "/audio/12/0.04.41.mp3"
+  },
+  "37": {
+    "speaker": "FT PANDA",
+    "character": "あっち向いてホイ!",
+    "definition": "Hey, look over there.",
+    "timestamp": "0:04:44",
+    "audio": "/audio/12/0.04.44.mp3"
+  },
+  "38": {
+    "speaker": "BOTH",
+    "character": "ジャンケンポン!",
+    "definition": "Rock, paper, scissors!",
+    "timestamp": "0:04:47",
+    "audio": "/audio/12/0.04.47.mp3"
+  },
+  "39": {
+    "speaker": "PANDA",
+    "character": "あっち向いてホイ!",
+    "definition": "Hey, look over there.",
+    "timestamp": "0:04:50",
+    "audio": "/audio/12/0.04.50.mp3"
+  },
+  "40": {
+    "speaker": "BOTH",
+    "character": "ジャンケンポン!",
+    "definition": "Rock, paper, scissors!",
+    "timestamp": "0:04:53",
+    "audio": "/audio/12/0.04.53.mp3"
+  },
+  "41": {
+    "speaker": "FT PANDA",
+    "character": "あっち向いてホイ!",
+    "definition": "Hey, look over there. There.",
+    "timestamp": "0:04:55",
+    "audio": "/audio/12/0.04.55.mp3"
+  },
+  "42": {
+    "speaker": "FT PANDA",
+    "character": "ホイ!",
+    "definition": "There... There...",
+    "timestamp": "0:05:00",
+    "audio": "/audio/12/0.05.00.mp3"
+  },
+  "43": {
+    "speaker": "FT PANDA",
+    "character": "もしかして私をバカにしてる?",
+    "definition": "Are you mocking me by any chance?",
+    "timestamp": "0:05:07",
+    "audio": "/audio/12/0.05.07.mp3"
+  },
+  "44": {
+    "speaker": "PANDA",
+    "character": "さっき寝違えてさ",
+    "definition": "I think I was sleeping wrong.",
+    "timestamp": "0:05:10",
+    "audio": "/audio/12/0.05.10.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "右にしか首が回らなくなっちゃったみたい",
+    "definition": "I can only turn my head to the right.",
+    "timestamp": "0:05:13",
+    "audio": "/audio/12/0.05.13.mp3"
+  },
+  "46": {
+    "speaker": "PANDA",
+    "character": "ねぇ何作ってるの?",
+    "definition": "Hey, what are you making?",
+    "timestamp": "0:05:22",
+    "audio": "/audio/12/0.05.22.mp3"
+  },
+  "47": {
+    "speaker": "FT PANDA",
+    "character": "注：宇宙机兵，80年代Studio Pierrot制作的机械动画《宇宙奇兵》的neta。",
+    "definition": "A reprint edition model of theStar Gunner Bismar Ace.",
+    "timestamp": "0:05:26",
+    "audio": "/audio/12/0.05.26.mp3"
+  },
+  "48": {
+    "speaker": "",
+    "character": "ふ～ん",
+    "definition": "Oh... Don't say \"Oh.\" You sound like my wife.",
+    "timestamp": "0:05:31",
+    "audio": "/audio/12/0.05.31.mp3"
+  },
+  "49": {
+    "speaker": "FT PANDA",
+    "character": "これはね プレミアもので",
+    "definition": "This is a premium item",
+    "timestamp": "0:05:38",
+    "audio": "/audio/12/0.05.38.mp3"
+  },
+  "50": {
+    "speaker": "FT PANDA",
+    "character": "ネットオークションで落札するのが大変だったんだから",
+    "definition": "and it was really hard to win it off the internet auction.",
+    "timestamp": "0:05:41",
+    "audio": "/audio/12/0.05.41.mp3"
+  },
+  "51": {
+    "speaker": "",
+    "character": "ふ～ん",
+    "definition": "Oh...",
+    "timestamp": "0:05:48",
+    "audio": "/audio/12/0.05.48.mp3"
+  },
+  "52": {
+    "speaker": "FT PANDA",
+    "character": "だからふ～んはやめて",
+    "definition": "Could you stop it with the \"Oh\"?",
+    "timestamp": "0:05:51",
+    "audio": "/audio/12/0.05.51.mp3"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "常勤パンダさんが モデラーなんて知らなかったよ",
+    "definition": "I didn't know you were into that kind of stuff, Mr. Full-time Panda.",
+    "timestamp": "0:05:54",
+    "audio": "/audio/12/0.05.54.mp3"
+  },
+  "54": {
+    "speaker": "FT PANDA",
+    "character": "プラモは男のロマンだからね",
+    "definition": "Plastic models are a man's passion.",
+    "timestamp": "0:05:58",
+    "audio": "/audio/12/0.05.58.mp3"
+  },
+  "55": {
+    "speaker": "FT PANDA",
+    "character": "ねぇ私のコレクション見たい?",
+    "definition": "Do you want to see my collection?",
+    "timestamp": "0:06:03",
+    "audio": "/audio/12/0.06.03.mp3"
+  },
+  "56": {
+    "speaker": "PANDA",
+    "character": "えっ!どこにあるの?",
+    "definition": "Oh, where is it? Wow!",
+    "timestamp": "0:06:07",
+    "audio": "/audio/12/0.06.07.mp3"
+  },
+  "57": {
+    "speaker": "FT PANDA",
+    "character": "家にもたくさんあるんだけど",
+    "definition": "I have a lot more at home,",
+    "timestamp": "0:06:19",
+    "audio": "/audio/12/0.06.19.mp3"
+  },
+  "58": {
+    "speaker": "FT PANDA",
+    "character": "狭くなるからって家族に迷惑がられててさ",
+    "definition": "but my family complains that they're taking up too much room.",
+    "timestamp": "0:06:22",
+    "audio": "/audio/12/0.06.22.mp3"
+  },
+  "59": {
+    "speaker": "PANDA",
+    "character": "娘さんが２人もいるしね",
+    "definition": "Well, you do have two daughters. Well... Oh, what?",
+    "timestamp": "0:06:26",
+    "audio": "/audio/12/0.06.26.mp3"
+  },
+  "60": {
+    "speaker": "FT PANDA",
+    "character": "奥さんのお腹に３人目が...",
+    "definition": "My wife has a third in her tummy.",
+    "timestamp": "0:06:35",
+    "audio": "/audio/12/0.06.35.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "４人目も入ってるかもね",
+    "definition": "Maybe even a fourth?",
+    "timestamp": "0:06:39",
+    "audio": "/audio/12/0.06.39.mp3"
+  },
+  "62": {
+    "speaker": "FT PANDA",
+    "character": "やめてよ～",
+    "definition": "Oh, stop! Nothing to do.",
+    "timestamp": "0:06:42",
+    "audio": "/audio/12/0.06.42.mp3"
+  },
+  "63": {
+    "speaker": "POLAR BEAR",
+    "character": "はいしろくまカフェです",
+    "definition": "Hello, this is Polar Bear's Café.",
+    "timestamp": "0:06:57",
+    "audio": "/audio/12/0.06.57.mp3"
+  },
+  "64": {
+    "speaker": "PANDA",
+    "character": "シロクマくん?",
+    "definition": "Hey, Polar Bear. I don't have anything to do, so let's play a word connecting game. I have things to do, though.",
+    "timestamp": "0:07:00",
+    "audio": "/audio/12/0.07.00.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "じゃありんご!",
+    "definition": "Okay, I'll start. \"Ringo\" {\\i1}(apple){\\i0}.",
+    "timestamp": "0:07:10",
+    "audio": "/audio/12/0.07.10.mp3"
+  },
+  "66": {
+    "speaker": "POLAR BEAR",
+    "character": "合コン",
+    "definition": "\"Goukon\" {\\i1}(Group blind date){\\i0}.",
+    "timestamp": "0:07:14",
+    "audio": "/audio/12/0.07.14.mp3"
+  },
+  "67": {
+    "speaker": "FT PANDA",
+    "character": "はいふれあい動物園です",
+    "definition": "Hello, this is the petting zoo.",
+    "timestamp": "0:07:24",
+    "audio": "/audio/12/0.07.24.mp3"
+  },
+  "68": {
+    "speaker": "FT PANDA",
+    "character": "えっ?パンダがいない?",
+    "definition": "Oh, the pandas are missing?",
+    "timestamp": "0:07:28",
+    "audio": "/audio/12/0.07.28.mp3"
+  },
+  "69": {
+    "speaker": "FT PANDA",
+    "character": "そう言われましてもね...",
+    "definition": "Well, you know,",
+    "timestamp": "0:07:32",
+    "audio": "/audio/12/0.07.32.mp3"
+  },
+  "70": {
+    "speaker": "FT PANDA",
+    "character": "パンダだって 休みたいときがありますよ",
+    "definition": "pandas need to rest, too.",
+    "timestamp": "0:07:35",
+    "audio": "/audio/12/0.07.35.mp3"
+  },
+  "71": {
+    "speaker": "HANDA",
+    "character": "すみません! すぐ行かせますので...",
+    "definition": "I'm terribly sorry! I'll send them right over!",
+    "timestamp": "0:07:41",
+    "audio": "/audio/12/0.07.41.mp3"
+  },
+  "72": {
+    "speaker": "HANDA",
+    "character": "ちゃんと仕事しなさい!",
+    "definition": "Get back to work!",
+    "timestamp": "0:07:49",
+    "audio": "/audio/12/0.07.49.mp3"
+  },
+  "73": {
+    "speaker": "GIRL",
+    "character": "かわいい!",
+    "definition": "How cute!",
+    "timestamp": "0:07:53",
+    "audio": "/audio/12/0.07.53.mp3"
+  },
+  "74": {
+    "speaker": "GIRL",
+    "character": "こっち向いて!",
+    "definition": "Hey, look over here!",
+    "timestamp": "0:07:55",
+    "audio": "/audio/12/0.07.55.mp3"
+  },
+  "75": {
+    "speaker": "PANDA",
+    "character": "今日のお客さん第１号だからサービスしちゃおう",
+    "definition": "They're our first visitors today, so I'll give them extra service!",
+    "timestamp": "0:07:58",
+    "audio": "/audio/12/0.07.58.mp3"
+  },
+  "76": {
+    "speaker": "BOTH",
+    "character": "サービスサービス!サービスサービス!",
+    "definition": "Service, service. Service, service. How cute!",
+    "timestamp": "0:08:02",
+    "audio": "/audio/12/0.08.02.mp3"
+  },
+  "77": {
+    "speaker": "GIRLS",
+    "character": "パンダさんが けいれんしてる!",
+    "definition": "The pandas are convulsing!",
+    "timestamp": "0:08:10",
+    "audio": "/audio/12/0.08.10.mp3"
+  },
+  "78": {
+    "speaker": "GIRL",
+    "character": "早く飼育員さんに知らせなきゃ!!",
+    "definition": "Hurry! We have to get the zoo keeper!",
+    "timestamp": "0:08:12",
+    "audio": "/audio/12/0.08.12.mp3"
+  },
+  "79": {
+    "speaker": "PANDA",
+    "character": "せつないね...",
+    "definition": "This is depressing. How about we do the usual?",
+    "timestamp": "0:08:19",
+    "audio": "/audio/12/0.08.19.mp3"
+  },
+  "80": {
+    "speaker": "PANDA",
+    "character": "あれ?",
+    "definition": "The usual?",
+    "timestamp": "0:08:24",
+    "audio": "/audio/12/0.08.24.mp3"
+  },
+  "81": {
+    "speaker": "ALARM",
+    "character": "半田さん 急いでパンダコーナーに来てください",
+    "definition": "Mr. Handa, please hurry and come to the Panda Corner.",
+    "timestamp": "0:08:30",
+    "audio": "/audio/12/0.08.30.mp3"
+  },
+  "82": {
+    "speaker": "HANDA",
+    "character": "なんだ?これ...",
+    "definition": "What is this?",
+    "timestamp": "0:08:35",
+    "audio": "/audio/12/0.08.35.mp3"
+  },
+  "83": {
+    "speaker": "HANDA",
+    "character": "今度は何やってるんですか?",
+    "definition": "What are you doing now?",
+    "timestamp": "0:08:40",
+    "audio": "/audio/12/0.08.40.mp3"
+  },
+  "84": {
+    "speaker": "FT PANDA",
+    "character": "半田さんマージャンできる?",
+    "definition": "Do you know how to play mahjong, Mr. Handa?",
+    "timestamp": "0:08:42",
+    "audio": "/audio/12/0.08.42.mp3"
+  },
+  "85": {
+    "speaker": "HANDA",
+    "character": "できません",
+    "definition": "No.",
+    "timestamp": "0:08:45",
+    "audio": "/audio/12/0.08.45.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "大丈夫だよ 僕もルール知らないから",
+    "definition": "Oh, you'll be fine. I don't know the rules either.",
+    "timestamp": "0:08:46",
+    "audio": "/audio/12/0.08.46.mp3"
+  },
+  "87": {
+    "speaker": "PANDA",
+    "character": "雨も降ってて お客さんも少ないし",
+    "definition": "It's raining and there aren't that many visitors.",
+    "timestamp": "0:08:51",
+    "audio": "/audio/12/0.08.51.mp3"
+  },
+  "88": {
+    "speaker": "PANDA",
+    "character": "半田さんもどうせヒマでしょ?",
+    "definition": "You don't have anything to do, right, Mr. Handa?",
+    "timestamp": "0:08:55",
+    "audio": "/audio/12/0.08.55.mp3"
+  },
+  "89": {
+    "speaker": "HANDA",
+    "character": "さっさと片づけなさい!",
+    "definition": "Hurry and clean all of this up!",
+    "timestamp": "0:08:58",
+    "audio": "/audio/12/0.08.58.mp3"
+  },
+  "90": {
+    "speaker": "SASAKO",
+    "character": "ありがとうございました",
+    "definition": "Thank you very much.",
+    "timestamp": "0:09:02",
+    "audio": "/audio/12/0.09.02.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "それでさヒマでヒマですごくつらかったんだ",
+    "definition": "And then, it was really rough because we had nothing to do. I can't empathize with you at all.",
+    "timestamp": "0:09:06",
+    "audio": "/audio/12/0.09.06.mp3"
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "今日なんか同じ漫画を３０回も読み返したんだよ",
+    "definition": "I even read the same manga thirty times today.",
+    "timestamp": "0:09:15",
+    "audio": "/audio/12/0.09.15.mp3"
+  },
+  "93": {
+    "speaker": "PENGUIN",
+    "character": "カフェモカおかわり",
+    "definition": "Could I get another café mocha?",
+    "timestamp": "0:09:20",
+    "audio": "/audio/12/0.09.20.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "シロクマくんいいヒマつぶしの方法ってないかな?",
+    "definition": "Do you know any good ways to pass the time, Polar Bear?",
+    "timestamp": "0:09:23",
+    "audio": "/audio/12/0.09.23.mp3"
+  },
+  "95": {
+    "speaker": "POLAR BEAR",
+    "character": "ヒマつぶし",
+    "definition": "Passing time {\\i1}(himatsubushi){\\i0}?",
+    "timestamp": "0:09:29",
+    "audio": "/audio/12/0.09.29.mp3"
+  },
+  "96": {
+    "speaker": "PENGUIN",
+    "character": "それはひつまぶし",
+    "definition": "Those would be eel fillets {\\i1}(hitsumabushi){\\i0}.",
+    "timestamp": "0:09:33",
+    "audio": "/audio/12/0.09.33.mp3"
+  },
+  "97": {
+    "speaker": "PENGUIN",
+    "character": "それはかつおぶし",
+    "definition": "That would be dried bonito {\\i1}(katsuobushi){\\i0}. Oh, the moon...",
+    "timestamp": "0:09:38",
+    "audio": "/audio/12/0.09.38.mp3"
+  },
+  "98": {
+    "speaker": "PENGUIN",
+    "character": "それは炭坑節",
+    "definition": "That would be the folk song \"Tanko Bushi.\"",
+    "timestamp": "0:09:42",
+    "audio": "/audio/12/0.09.42.mp3"
+  },
+  "99": {
+    "speaker": "PANDA",
+    "character": "シロクマくんって ヒマつぶしに困らなそうだよね",
+    "definition": "Polar Bear doesn't seem to have problems passing the time.",
+    "timestamp": "0:09:44",
+    "audio": "/audio/12/0.09.44.mp3"
+  },
+  "100": {
+    "speaker": "PANDA",
+    "character": "笹子さんは?",
+    "definition": "What about you, Miss Sasako?",
+    "timestamp": "0:09:49",
+    "audio": "/audio/12/0.09.49.mp3"
+  },
+  "101": {
+    "speaker": "SASAKO",
+    "character": "私は目的を決めずに自転車で遠出するとかかな",
+    "definition": "I like to go on bike rides with no set destination.",
+    "timestamp": "0:09:51",
+    "audio": "/audio/12/0.09.51.mp3"
+  },
+  "102": {
+    "speaker": "SASAKO",
+    "character": "あとは地図を眺めて風景を想像しながらの街歩き",
+    "definition": "I also like to wander around the citywith a map, admiring the sights.",
+    "timestamp": "0:09:56",
+    "audio": "/audio/12/0.09.56.mp3"
+  },
+  "103": {
+    "speaker": "PANDA",
+    "character": "みんなは?",
+    "definition": "What about you guys?",
+    "timestamp": "0:10:02",
+    "audio": "/audio/12/0.10.02.mp3"
+  },
+  "104": {
+    "speaker": "MANDRILL",
+    "character": "プチプチをひたすら潰します",
+    "definition": "I pop bubble wrap all the time.",
+    "timestamp": "0:10:03",
+    "audio": "/audio/12/0.10.03.mp3"
+  },
+  "105": {
+    "speaker": "TORTOISE",
+    "character": "長い...歴史...小説",
+    "definition": "I read... really long... historical novels.",
+    "timestamp": "0:10:06",
+    "audio": "/audio/12/0.10.06.mp3"
+  },
+  "106": {
+    "speaker": "LLAMA",
+    "character": "黒ベタのジグソーパズルが難しすぎて時間を忘れられますよ",
+    "definition": "Solid black jigsaw puzzles are hard and can help you forget time.",
+    "timestamp": "0:10:12",
+    "audio": "/audio/12/0.10.12.mp3"
+  },
+  "107": {
+    "speaker": "KOALA",
+    "character": "みんなうらやましいな",
+    "definition": "I envy you all.",
+    "timestamp": "0:10:18",
+    "audio": "/audio/12/0.10.18.mp3"
+  },
+  "108": {
+    "speaker": "KOALA",
+    "character": "僕なんか１日２０時間は休まないとダメだから",
+    "definition": "I have to rest for twenty hours a day,",
+    "timestamp": "0:10:20",
+    "audio": "/audio/12/0.10.20.mp3"
+  },
+  "109": {
+    "speaker": "KOALA",
+    "character": "起きてる時間が足りなくて 困って困って...",
+    "definition": "so I never have enough time when I'm awake.",
+    "timestamp": "0:10:25",
+    "audio": "/audio/12/0.10.25.mp3"
+  },
+  "110": {
+    "speaker": "PENGUIN",
+    "character": "僕だって予定表がいっぱいで足りないよ。",
+    "definition": "My schedule is really full, too.",
+    "timestamp": "0:10:29",
+    "audio": "/audio/12/0.10.29.mp3"
+  },
+  "111": {
+    "speaker": "PENGUIN",
+    "character": "ほら!",
+    "definition": "See? What?",
+    "timestamp": "0:10:33",
+    "audio": "/audio/12/0.10.33.mp3"
+  },
+  "112": {
+    "speaker": "PENGUIN",
+    "character": "ペン子さんって すごい働き者でね",
+    "definition": "Miss Penko is a really hard worker, and it's really hard to visit her everyday. So I don't have any time at all. And—",
+    "timestamp": "0:10:36",
+    "audio": "/audio/12/0.10.36.mp3"
+  },
+  "113": {
+    "speaker": "PANDA",
+    "character": "シロクマくん笹をちょうだい",
+    "definition": "Could I get some bamboo grass, Polar Bear?",
+    "timestamp": "0:10:44",
+    "audio": "/audio/12/0.10.44.mp3"
+  },
+  "114": {
+    "speaker": "PENGUIN",
+    "character": "聞いてよ!",
+    "definition": "Hey, listen!",
+    "timestamp": "0:10:47",
+    "audio": "/audio/12/0.10.47.mp3"
+  },
+  "115": {
+    "speaker": "PENGUIN",
+    "character": "それでさ ペン子さんがサービス券をね...",
+    "definition": "And then Miss Penko gave me service tickets...",
+    "timestamp": "0:10:52",
+    "audio": "/audio/12/0.10.52.mp3"
+  },
+  "116": {
+    "speaker": "PANDA",
+    "character": "その話はもう何度も聞いたよ",
+    "definition": "We already heard that story too many times.",
+    "timestamp": "0:10:55",
+    "audio": "/audio/12/0.10.55.mp3"
+  },
+  "117": {
+    "speaker": "POLAR BEAR",
+    "character": "まもなく当店は閉店いたします",
+    "definition": "Our store will be closing shortly.",
+    "timestamp": "0:11:00",
+    "audio": "/audio/12/0.11.00.mp3"
+  },
+  "118": {
+    "speaker": "PENGUIN",
+    "character": "何やってるの?",
+    "definition": "What are you doing?",
+    "timestamp": "0:11:04",
+    "audio": "/audio/12/0.11.04.mp3"
+  },
+  "119": {
+    "speaker": "POLAR BEAR",
+    "character": "一度やってみたくて",
+    "definition": "I wanted to try this at least once.",
+    "timestamp": "0:11:06",
+    "audio": "/audio/12/0.11.06.mp3"
+  },
+  "120": {
+    "speaker": "PANDA",
+    "character": "もう閉店か...",
+    "definition": "It's already closing time... Time flies by so fast at Polar Bear's Café.",
+    "timestamp": "0:11:09",
+    "audio": "/audio/12/0.11.09.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "あっそうだ!",
+    "definition": "Oh, I know! What?",
+    "timestamp": "0:11:17",
+    "audio": "/audio/12/0.11.17.mp3"
+  },
+  "122": {
+    "speaker": "ALARM",
+    "character": "半田さん 至急パンダコーナーに来てください",
+    "definition": "Mr. Handa, please come to the Panda Corner immediately.",
+    "timestamp": "0:11:32",
+    "audio": "/audio/12/0.11.32.mp3"
+  },
+  "123": {
+    "speaker": "HANDA",
+    "character": "なんですかこれは!",
+    "definition": "What in the world is this?!",
+    "timestamp": "0:11:43",
+    "audio": "/audio/12/0.11.43.mp3"
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "半田さんいつもの",
+    "definition": "Could I get my usual, Mr. Handa?",
+    "timestamp": "0:11:45",
+    "audio": "/audio/12/0.11.45.mp3"
+  },
+  "125": {
+    "speaker": "FT PANDA",
+    "character": "半田さんモーニングセット",
+    "definition": "Could I get the breakfast set, Mr. Handa?",
+    "timestamp": "0:11:48",
+    "audio": "/audio/12/0.11.48.mp3"
+  },
+  "126": {
+    "speaker": "LLAMA",
+    "character": "チョコパフェください",
+    "definition": "Could I get a chocolate parfait?",
+    "timestamp": "0:11:51",
+    "audio": "/audio/12/0.11.51.mp3"
+  },
+  "127": {
+    "speaker": "MANDRILL",
+    "character": "僕はミルフィーユ",
+    "definition": "I want a mille-feuille.",
+    "timestamp": "0:11:53",
+    "audio": "/audio/12/0.11.53.mp3"
+  },
+  "128": {
+    "speaker": "KOALA",
+    "character": "半田さんココア!",
+    "definition": "Could I get a cocoa, Mr. Handa?",
+    "timestamp": "0:11:55",
+    "audio": "/audio/12/0.11.55.mp3"
+  },
+  "129": {
+    "speaker": "HANDA",
+    "character": "さっさと片づけなさい!",
+    "definition": "Hurry and clean all of this up!",
+    "timestamp": "0:11:59",
+    "audio": "/audio/12/0.11.59.mp3"
+  },
+  "130": {
+    "speaker": "HANDA",
+    "character": "ここはカフェじゃありませ～ん!",
+    "definition": "This isn't a café!",
+    "timestamp": "0:12:01",
+    "audio": "/audio/12/0.12.01.mp3"
+  },
+  "131": {
+    "speaker": "TORTOISE",
+    "character": "は～ん～だ...",
+    "definition": "Mr... Hand—",
+    "timestamp": "0:12:05",
+    "audio": "/audio/12/0.12.05.mp3"
+  }
+}

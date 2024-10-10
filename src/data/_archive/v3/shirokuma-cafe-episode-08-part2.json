@@ -1,0 +1,968 @@
+{
+  "1": {
+    "speaker": "PANDA",
+    "character": "おはよう",
+    "definition": "Good morning.",
+    "timestamp": "0:12:22",
+    "audio": "/audio/08/0.12.22.mp3"
+  },
+  "2": {
+    "speaker": "POLAR BEAR",
+    "character": "おはよう　パンダくん",
+    "definition": "Good morning, Panda.",
+    "timestamp": "0:12:24",
+    "audio": "/audio/08/0.12.24.mp3"
+  },
+  "3": {
+    "speaker": "PANDA",
+    "character": "あれ！？　これ　なんの荷物？",
+    "definition": "Oh? What's all that for?",
+    "timestamp": "0:12:27",
+    "audio": "/audio/08/0.12.27.mp3"
+  },
+  "4": {
+    "speaker": "POLAR BEAR",
+    "character": "お出かけの準備",
+    "definition": "I'm getting ready for a trip.",
+    "timestamp": "0:12:31",
+    "audio": "/audio/08/0.12.31.mp3"
+  },
+  "5": {
+    "speaker": "PANDA",
+    "character": "えっ！？　出かけちゃうの？ カフェは？",
+    "definition": "You're going on a trip? What about the café?",
+    "timestamp": "0:12:32",
+    "audio": "/audio/08/0.12.32.mp3"
+  },
+  "6": {
+    "speaker": "POLAR BEAR",
+    "character": "今日はお休み",
+    "definition": "It's closed for the day. What?",
+    "timestamp": "0:12:36",
+    "audio": "/audio/08/0.12.36.mp3"
+  },
+  "7": {
+    "speaker": "PANDA",
+    "character": "せっかく　早起きできたからモーニング食べようと思ったのに",
+    "definition": "But I got up early, so I figured I could make it in time for breakfast.",
+    "timestamp": "0:12:39",
+    "audio": "/audio/08/0.12.39.mp3"
+  },
+  "8": {
+    "speaker": "POLAR BEAR",
+    "character": "ごめんね",
+    "definition": "Sorry about that.",
+    "timestamp": "0:12:44",
+    "audio": "/audio/08/0.12.44.mp3"
+  },
+  "9": {
+    "speaker": "PANDA",
+    "character": "どこ行くの？",
+    "definition": "Where are you going?",
+    "timestamp": "0:12:45",
+    "audio": "/audio/08/0.12.45.mp3"
+  },
+  "10": {
+    "speaker": "POLAR BEAR",
+    "character": "今日はね…",
+    "definition": "Today...",
+    "timestamp": "0:12:47",
+    "audio": "/audio/08/0.12.47.mp3"
+  },
+  "11": {
+    "speaker": "GRIZZLY",
+    "character": "シロクマ！ 用意はできてんだろうな？",
+    "definition": "You better be ready, Polar Bear.",
+    "timestamp": "0:12:50",
+    "audio": "/audio/08/0.12.50.mp3"
+  },
+  "12": {
+    "speaker": "GRIZZLY",
+    "character": "荷物はこれで全部か？",
+    "definition": "Is this all your stuff?",
+    "timestamp": "0:12:54",
+    "audio": "/audio/08/0.12.54.mp3"
+  },
+  "13": {
+    "speaker": "POLAR BEAR",
+    "character": "うん",
+    "definition": "Yup.",
+    "timestamp": "0:12:56",
+    "audio": "/audio/08/0.12.56.mp3"
+  },
+  "14": {
+    "speaker": "PANDA",
+    "character": "グリズリーさんおはよう",
+    "definition": "Good morning, Mr. Grizzly.",
+    "timestamp": "0:12:58",
+    "audio": "/audio/08/0.12.58.mp3"
+  },
+  "15": {
+    "speaker": "GRIZZLY",
+    "character": "おう",
+    "definition": "Hey.",
+    "timestamp": "0:13:00",
+    "audio": "/audio/08/0.13.00.mp3"
+  },
+  "16": {
+    "speaker": "PANDA",
+    "character": "シロクマくんとどこ行くの？",
+    "definition": "Where are you two headed? We're gonna go get some ingredients.",
+    "timestamp": "0:13:01",
+    "audio": "/audio/08/0.13.01.mp3"
+  },
+  "17": {
+    "speaker": "POLAR BEAR",
+    "character": "料理の材料を発掘しに",
+    "definition": "We're going to go excavate for some ingredients for cooking.",
+    "timestamp": "0:13:08",
+    "audio": "/audio/08/0.13.08.mp3"
+  },
+  "18": {
+    "speaker": "PANDA",
+    "character": "発掘？ 楽しそう！",
+    "definition": "Excavate? That sounds like fun!",
+    "timestamp": "0:13:11",
+    "audio": "/audio/08/0.13.11.mp3"
+  },
+  "19": {
+    "speaker": "PANDA",
+    "character": "僕も行きたい…",
+    "definition": "I wanna go, too. This ain't no game!",
+    "timestamp": "0:13:14",
+    "audio": "/audio/08/0.13.14.mp3"
+  },
+  "20": {
+    "speaker": "POLAR BEAR",
+    "character": "まぁ　でも 遠足みたいなものかな",
+    "definition": "Well, it is sort of like a field trip.",
+    "timestamp": "0:13:18",
+    "audio": "/audio/08/0.13.18.mp3"
+  },
+  "21": {
+    "speaker": "PANDA",
+    "character": "遠足？",
+    "definition": "Field trip?",
+    "timestamp": "0:13:22",
+    "audio": "/audio/08/0.13.22.mp3"
+  },
+  "22": {
+    "speaker": "PANDA",
+    "character": "笹はおやつに入る？ ごはんかな？",
+    "definition": "Will there be bamboo grass for snacks? Or maybe lunch?",
+    "timestamp": "0:13:24",
+    "audio": "/audio/08/0.13.24.mp3"
+  },
+  "23": {
+    "speaker": "POLAR BEAR",
+    "character": "う～ん…　難しいね",
+    "definition": "Hmm, that could be difficult.",
+    "timestamp": "0:13:27",
+    "audio": "/audio/08/0.13.27.mp3"
+  },
+  "24": {
+    "speaker": "POLAR BEAR",
+    "character": "アザラシはごはんだけど…",
+    "definition": "Seals are lunch, though.",
+    "timestamp": "0:13:30",
+    "audio": "/audio/08/0.13.30.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "おやつは？",
+    "definition": "What about snacks?",
+    "timestamp": "0:13:35",
+    "audio": "/audio/08/0.13.35.mp3"
+  },
+  "26": {
+    "speaker": "POLAR BEAR",
+    "character": "セイウチかな",
+    "definition": "Maybe walruses. What the hell are you babbling about?",
+    "timestamp": "0:13:37",
+    "audio": "/audio/08/0.13.37.mp3"
+  },
+  "27": {
+    "speaker": "",
+    "character": "行くぞ 早く乗れ",
+    "definition": "Let's go! Hurry and get in!",
+    "timestamp": "0:13:43",
+    "audio": "/audio/08/0.13.43.mp3"
+  },
+  "28": {
+    "speaker": "GRIZZLY",
+    "character": "おい　シロクマ",
+    "definition": "Hey, Polar Bear.",
+    "timestamp": "0:13:49",
+    "audio": "/audio/08/0.13.49.mp3"
+  },
+  "29": {
+    "speaker": "POLAR BEAR",
+    "character": "何？　グリズリーくん",
+    "definition": "What is it, Grizzly?",
+    "timestamp": "0:13:51",
+    "audio": "/audio/08/0.13.51.mp3"
+  },
+  "30": {
+    "speaker": "GRIZZLY",
+    "character": "なんでアイツがいるんだよ？",
+    "definition": "Why the hell is he here? You told him to get in.",
+    "timestamp": "0:13:56",
+    "audio": "/audio/08/0.13.56.mp3"
+  },
+  "31": {
+    "speaker": "GRIZZLY",
+    "character": "そうじゃなくてよ！",
+    "definition": "That's not what I meant! It doesn't really matter.",
+    "timestamp": "0:14:01",
+    "audio": "/audio/08/0.14.01.mp3"
+  },
+  "32": {
+    "speaker": "PANDA",
+    "character": "ねぇ　どこ行くの？",
+    "definition": "Hey, where are we going?",
+    "timestamp": "0:14:06",
+    "audio": "/audio/08/0.14.06.mp3"
+  },
+  "33": {
+    "speaker": "",
+    "character": "山？　それとも　海？",
+    "definition": "To the mountains? Or maybe to the beach?",
+    "timestamp": "0:14:08",
+    "audio": "/audio/08/0.14.08.mp3"
+  },
+  "34": {
+    "speaker": "PANDA",
+    "character": "山はおいしい笹がいっぱい生えてるし…",
+    "definition": "There's lots of delicious bamboo grass in the mountains.",
+    "timestamp": "0:14:12",
+    "audio": "/audio/08/0.14.12.mp3"
+  },
+  "35": {
+    "speaker": "PANDA",
+    "character": "海はかわいい女の子がいっぱいいるよね",
+    "definition": "And there're a lot of cute girls at the beach.",
+    "timestamp": "0:14:17",
+    "audio": "/audio/08/0.14.17.mp3"
+  },
+  "36": {
+    "speaker": "POLAR BEAR",
+    "character": "川だよ",
+    "definition": "We're going to the river.",
+    "timestamp": "0:14:22",
+    "audio": "/audio/08/0.14.22.mp3"
+  },
+  "37": {
+    "speaker": "GRIZZLY",
+    "character": "お前は店で出す分が欲しいんだろ？",
+    "definition": "You want some for your café, right?",
+    "timestamp": "0:14:31",
+    "audio": "/audio/08/0.14.31.mp3"
+  },
+  "38": {
+    "speaker": "POLAR BEAR",
+    "character": "うん　いっぱい獲れるといいな",
+    "definition": "Yup. It'd be great if we catch get a lot.",
+    "timestamp": "0:14:34",
+    "audio": "/audio/08/0.14.34.mp3"
+  },
+  "39": {
+    "speaker": "GRIZZLY",
+    "character": "結構いそうな感じだぜ",
+    "definition": "It looks like there's quite a few.",
+    "timestamp": "0:14:38",
+    "audio": "/audio/08/0.14.38.mp3"
+  },
+  "40": {
+    "speaker": "PANDA",
+    "character": "あっ　魚！",
+    "definition": "Oh, a fish.",
+    "timestamp": "0:14:48",
+    "audio": "/audio/08/0.14.48.mp3"
+  },
+  "41": {
+    "speaker": "GRIZZLY",
+    "character": "あれが俺たちの獲物だ",
+    "definition": "That would be our target. That?",
+    "timestamp": "0:14:50",
+    "audio": "/audio/08/0.14.50.mp3"
+  },
+  "42": {
+    "speaker": "GRIZZLY",
+    "character": "そうだ　サケだ",
+    "definition": "That's right. Salmon.",
+    "timestamp": "0:14:55",
+    "audio": "/audio/08/0.14.55.mp3"
+  },
+  "43": {
+    "speaker": "GRIZZLY",
+    "character": "なんだよ？",
+    "definition": "What? I was imagining something more like bamboo shoots.",
+    "timestamp": "0:15:01",
+    "audio": "/audio/08/0.15.01.mp3"
+  },
+  "44": {
+    "speaker": "GRIZZLY",
+    "character": "イヤなら帰れ！",
+    "definition": "If you don't want any, go home!",
+    "timestamp": "0:15:06",
+    "audio": "/audio/08/0.15.06.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "なんだ…　発掘じゃないじゃない",
+    "definition": "This isn't an excavation at all.",
+    "timestamp": "0:15:08",
+    "audio": "/audio/08/0.15.08.mp3"
+  },
+  "46": {
+    "speaker": "POLAR BEAR",
+    "character": "似たようなもんでしょ",
+    "definition": "It's similar.",
+    "timestamp": "0:15:12",
+    "audio": "/audio/08/0.15.12.mp3"
+  },
+  "47": {
+    "speaker": "PANDA",
+    "character": "そうかなぁ…",
+    "definition": "Really?",
+    "timestamp": "0:15:14",
+    "audio": "/audio/08/0.15.14.mp3"
+  },
+  "48": {
+    "speaker": "POLAR BEAR",
+    "character": "頑張ってよ",
+    "definition": "Good luck!",
+    "timestamp": "0:15:16",
+    "audio": "/audio/08/0.15.16.mp3"
+  },
+  "49": {
+    "speaker": "POLAR BEAR",
+    "character": "明日からのしろくまカフェのランチ",
+    "definition": "Starting tomorrow, lunch at Polar Bear's Café",
+    "timestamp": "0:15:18",
+    "audio": "/audio/08/0.15.18.mp3"
+  },
+  "50": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリー君にかかってるんだから",
+    "definition": "is all riding on you, Grizzly.",
+    "timestamp": "0:15:21",
+    "audio": "/audio/08/0.15.21.mp3"
+  },
+  "51": {
+    "speaker": "GRIZZLY",
+    "character": "まったく…　他力本願なヤツめ",
+    "definition": "Jeez, relying on me to do all your work.",
+    "timestamp": "0:15:25",
+    "audio": "/audio/08/0.15.25.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "えっ　どうやって獲るの？",
+    "definition": "Ooh, how's he going to catch it?",
+    "timestamp": "0:15:30",
+    "audio": "/audio/08/0.15.30.mp3"
+  },
+  "53": {
+    "speaker": "GRIZZLY",
+    "character": "オラ　１匹目！",
+    "definition": "There's one!",
+    "timestamp": "0:15:58",
+    "audio": "/audio/08/0.15.58.mp3"
+  },
+  "54": {
+    "speaker": "GRIZZLY",
+    "character": "２匹目！　３匹　４匹！",
+    "definition": "Two! Three! Four!",
+    "timestamp": "0:16:01",
+    "audio": "/audio/08/0.16.01.mp3"
+  },
+  "55": {
+    "speaker": "GRIZZLY",
+    "character": "まぁ　俺の手にかかりゃ こんなもんよ",
+    "definition": "And that's how it's done.",
+    "timestamp": "0:16:07",
+    "audio": "/audio/08/0.16.07.mp3"
+  },
+  "56": {
+    "speaker": "POLAR BEAR",
+    "character": "さすが！",
+    "definition": "Amazing.",
+    "timestamp": "0:16:11",
+    "audio": "/audio/08/0.16.11.mp3"
+  },
+  "57": {
+    "speaker": "PANDA",
+    "character": "わぁ…　ピチピチしてる",
+    "definition": "They're wiggling around. I faced a situation like this as a kid, too...",
+    "timestamp": "0:16:13",
+    "audio": "/audio/08/0.16.13.mp3"
+  },
+  "58": {
+    "speaker": "GRIZZLY",
+    "character": "あれ？",
+    "definition": "Huh?",
+    "timestamp": "0:16:26",
+    "audio": "/audio/08/0.16.26.mp3"
+  },
+  "59": {
+    "speaker": "GRIZZLY",
+    "character": "全然　獲れねえ…",
+    "definition": "I can't catch any of them.",
+    "timestamp": "0:16:36",
+    "audio": "/audio/08/0.16.36.mp3"
+  },
+  "60": {
+    "speaker": "GRIZZLY",
+    "character": "なんだシロクマ！　テメエ！ 笑って見てんじゃねえ！",
+    "definition": "What the hell's your problem, Polar Bear?! Don't stand there laughing!",
+    "timestamp": "0:16:42",
+    "audio": "/audio/08/0.16.42.mp3"
+  },
+  "61": {
+    "speaker": "POLAR BEAR",
+    "character": "え？　笑ってないよ？",
+    "definition": "Huh? I'm not laughing.",
+    "timestamp": "0:16:46",
+    "audio": "/audio/08/0.16.46.mp3"
+  },
+  "62": {
+    "speaker": "GRIZZLY",
+    "character": "笑ってるだろうが　口がよ！",
+    "definition": "Your mouth is laughing!",
+    "timestamp": "0:16:48",
+    "audio": "/audio/08/0.16.48.mp3"
+  },
+  "63": {
+    "speaker": "POLAR BEAR",
+    "character": "口の下が黒いだけだよ",
+    "definition": "It's just that my bottom lip is black.",
+    "timestamp": "0:16:52",
+    "audio": "/audio/08/0.16.52.mp3"
+  },
+  "64": {
+    "speaker": "GRIZZLY",
+    "character": "ホントだ　口　閉じてる",
+    "definition": "You're right, your mouth is closed.",
+    "timestamp": "0:16:55",
+    "audio": "/audio/08/0.16.55.mp3"
+  },
+  "65": {
+    "speaker": "POLAR BEAR",
+    "character": "ね？",
+    "definition": "See? You're confusing, damn it.",
+    "timestamp": "0:16:58",
+    "audio": "/audio/08/0.16.58.mp3"
+  },
+  "66": {
+    "speaker": "GRIZZLY",
+    "character": "やっぱ　笑ってんじゃねえか！",
+    "definition": "You are laughing, you ass! Couldn't help it.",
+    "timestamp": "0:17:14",
+    "audio": "/audio/08/0.17.14.mp3"
+  },
+  "67": {
+    "speaker": "GRIZZLY",
+    "character": "アイツに笑われてた俺も",
+    "definition": "He may have been laughing then,",
+    "timestamp": "0:17:22",
+    "audio": "/audio/08/0.17.22.mp3"
+  },
+  "68": {
+    "speaker": "",
+    "character": "今じゃ　立派にサケが獲れるようになったんだぜ",
+    "definition": "but I can catch salmon like no other now. What the hell are you doing? {eh?} Getting ready for a picnic.",
+    "timestamp": "0:17:24",
+    "audio": "/audio/08/0.17.24.mp3"
+  },
+  "69": {
+    "speaker": "GRIZZLY",
+    "character": "俺が働いてるときに何だそりゃ！",
+    "definition": "What the hell are you doing while I'm doing all the work?!",
+    "timestamp": "0:17:34",
+    "audio": "/audio/08/0.17.34.mp3"
+  },
+  "70": {
+    "speaker": "POLAR BEAR",
+    "character": "まぁまぁ　グリズリーくんがサケ獲って お腹が空いたら",
+    "definition": "Now, now, when you get hungry from catching all the salmon,",
+    "timestamp": "0:17:37",
+    "audio": "/audio/08/0.17.37.mp3"
+  },
+  "71": {
+    "speaker": "POLAR BEAR",
+    "character": "ランチができてるってわけ",
+    "definition": "I'll have lunch ready for you.",
+    "timestamp": "0:17:41",
+    "audio": "/audio/08/0.17.41.mp3"
+  },
+  "72": {
+    "speaker": "POLAR BEAR",
+    "character": "なかなか　いいでしょ",
+    "definition": "Not bad, eh?",
+    "timestamp": "0:17:43",
+    "audio": "/audio/08/0.17.43.mp3"
+  },
+  "73": {
+    "speaker": "GRIZZLY",
+    "character": "腹にたまるもんを頼むぜ",
+    "definition": "Make something that'll fill me up. There aren't any salmon. What the hell are you doing?!",
+    "timestamp": "0:17:46",
+    "audio": "/audio/08/0.17.46.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "なかなか グリズリーさんみたいにはいかないね",
+    "definition": "I can't seem to get the hang of it like you, Mr. Grizzly. It totally looked like anyone could do it.",
+    "timestamp": "0:18:05",
+    "audio": "/audio/08/0.18.05.mp3"
+  },
+  "75": {
+    "speaker": "GRIZZLY",
+    "character": "いいか　よく見てろ",
+    "definition": "Jeez, watch closely. This is how it's—",
+    "timestamp": "0:18:22",
+    "audio": "/audio/08/0.18.22.mp3"
+  },
+  "76": {
+    "speaker": "PANDA",
+    "character": "もういいや　笹食べよっと",
+    "definition": "I'm done. I'm gonna go eat bamboo grass.",
+    "timestamp": "0:18:24",
+    "audio": "/audio/08/0.18.24.mp3"
+  },
+  "77": {
+    "speaker": "GRIZZLY",
+    "character": "そんな簡単に諦めんな！",
+    "definition": "Don't wuss out so easily! But I'm tired, and I'm hungry.",
+    "timestamp": "0:18:27",
+    "audio": "/audio/08/0.18.27.mp3"
+  },
+  "78": {
+    "speaker": "GRIZZLY",
+    "character": "そういう問題じゃねえ！",
+    "definition": "That's not the point!",
+    "timestamp": "0:18:34",
+    "audio": "/audio/08/0.18.34.mp3"
+  },
+  "79": {
+    "speaker": "GRIZZLY",
+    "character": "同じクマとして　シロクマ！お前もコイツに何か言ってやれ！",
+    "definition": "You're a bear, too, Polar Bear! Talk to him!",
+    "timestamp": "0:18:37",
+    "audio": "/audio/08/0.18.37.mp3"
+  },
+  "80": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくんは 竹と笹があれば満足だから",
+    "definition": "Panda is happy if he has his bamboo and bamboo grass.",
+    "timestamp": "0:18:41",
+    "audio": "/audio/08/0.18.41.mp3"
+  },
+  "81": {
+    "speaker": "PANDA",
+    "character": "うん",
+    "definition": "Yup.",
+    "timestamp": "0:18:45",
+    "audio": "/audio/08/0.18.45.mp3"
+  },
+  "82": {
+    "speaker": "GRIZZLY",
+    "character": "うん",
+    "definition": "What?!",
+    "timestamp": "0:18:45",
+    "audio": "/audio/08/0.18.45.mp3"
+  },
+  "83": {
+    "speaker": "GRIZZLY",
+    "character": "クマは狩りだろ 狩ってこそのクマだろ！",
+    "definition": "If you're a bear, hunt! Hunting is what makes you a bear!",
+    "timestamp": "0:18:47",
+    "audio": "/audio/08/0.18.47.mp3"
+  },
+  "84": {
+    "speaker": "PANDA",
+    "character": "タケノコだ！",
+    "definition": "Bamboo shoot!",
+    "timestamp": "0:18:59",
+    "audio": "/audio/08/0.18.59.mp3"
+  },
+  "85": {
+    "speaker": "POLAR BEAR",
+    "character": "ちょっとそこでとってきた",
+    "definition": "I found some over there.",
+    "timestamp": "0:19:01",
+    "audio": "/audio/08/0.19.01.mp3"
+  },
+  "86": {
+    "speaker": "POLAR BEAR",
+    "character": "これだったら　パンダくんも狩りをする気になるでしょ",
+    "definition": "This will probably make Panda want to hunt, too.",
+    "timestamp": "0:19:03",
+    "audio": "/audio/08/0.19.03.mp3"
+  },
+  "87": {
+    "speaker": "GRIZZLY",
+    "character": "なるほどな",
+    "definition": "I see.",
+    "timestamp": "0:19:07",
+    "audio": "/audio/08/0.19.07.mp3"
+  },
+  "88": {
+    "speaker": "PANDA",
+    "character": "えっ　サケってタケノコ食べるの？",
+    "definition": "Huh? Salmon eat bamboo shoots?",
+    "timestamp": "0:19:15",
+    "audio": "/audio/08/0.19.15.mp3"
+  },
+  "89": {
+    "speaker": "GRIZZLY",
+    "character": "違う",
+    "definition": "No.",
+    "timestamp": "0:19:17",
+    "audio": "/audio/08/0.19.17.mp3"
+  },
+  "90": {
+    "speaker": "GRIZZLY",
+    "character": "お前が食うんだよ　パンダ",
+    "definition": "You're going to eat it, Panda.",
+    "timestamp": "0:19:19",
+    "audio": "/audio/08/0.19.19.mp3"
+  },
+  "91": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん",
+    "definition": "Panda.",
+    "timestamp": "0:19:23",
+    "audio": "/audio/08/0.19.23.mp3"
+  },
+  "92": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくんが 狩りのお手本見せてくれるって",
+    "definition": "Grizzly's going to show you how to hunt.",
+    "timestamp": "0:19:25",
+    "audio": "/audio/08/0.19.25.mp3"
+  },
+  "93": {
+    "speaker": "POLAR BEAR",
+    "character": "狩りをしてこそのクマだもんね",
+    "definition": "Hunting is what makes you a bear, right? Y-Yeah! Watch closely, Panda.",
+    "timestamp": "0:19:29",
+    "audio": "/audio/08/0.19.29.mp3"
+  },
+  "94": {
+    "speaker": "POLAR BEAR",
+    "character": "まずは　標的を見つける",
+    "definition": "First, you find your target.",
+    "timestamp": "0:19:37",
+    "audio": "/audio/08/0.19.37.mp3"
+  },
+  "95": {
+    "speaker": "POLAR BEAR",
+    "character": "絶対に目を離さない",
+    "definition": "Don't ever take your eyes off of it.",
+    "timestamp": "0:19:47",
+    "audio": "/audio/08/0.19.47.mp3"
+  },
+  "96": {
+    "speaker": "POLAR BEAR",
+    "character": "獲物の動きを予測する",
+    "definition": "Predict how your enemy will move.",
+    "timestamp": "0:19:52",
+    "audio": "/audio/08/0.19.52.mp3"
+  },
+  "97": {
+    "speaker": "GRIZZLY",
+    "character": "どうだ　やってみろ",
+    "definition": "How's that? Now you do it.",
+    "timestamp": "0:20:06",
+    "audio": "/audio/08/0.20.06.mp3"
+  },
+  "98": {
+    "speaker": "PANDA",
+    "character": "おいしいね",
+    "definition": "So yummy!",
+    "timestamp": "0:20:09",
+    "audio": "/audio/08/0.20.09.mp3"
+  },
+  "99": {
+    "speaker": "GRIZZLY",
+    "character": "って食ってんじゃねえ！",
+    "definition": "Quit stuffing your face!",
+    "timestamp": "0:20:10",
+    "audio": "/audio/08/0.20.10.mp3"
+  },
+  "100": {
+    "speaker": "GRIZZLY",
+    "character": "ちゃんと泳いでるタケノコをとれ",
+    "definition": "Come catch the swimming bamboo shoot!",
+    "timestamp": "0:20:13",
+    "audio": "/audio/08/0.20.13.mp3"
+  },
+  "101": {
+    "speaker": "POLAR BEAR",
+    "character": "タケノコは泳がないよ",
+    "definition": "But bamboo shoots don't swim.",
+    "timestamp": "0:20:15",
+    "audio": "/audio/08/0.20.15.mp3"
+  },
+  "102": {
+    "speaker": "PANDA",
+    "character": "だよね",
+    "definition": "I know, right?",
+    "timestamp": "0:20:17",
+    "audio": "/audio/08/0.20.17.mp3"
+  },
+  "103": {
+    "speaker": "GRIZZLY",
+    "character": "んなの知ってる！",
+    "definition": "I know that!",
+    "timestamp": "0:20:19",
+    "audio": "/audio/08/0.20.19.mp3"
+  },
+  "104": {
+    "speaker": "PANDA",
+    "character": "イライラしないで　グリズリーさん",
+    "definition": "Don't be so mad, Mr. Grizzly.",
+    "timestamp": "0:20:28",
+    "audio": "/audio/08/0.20.28.mp3"
+  },
+  "105": {
+    "speaker": "PANDA",
+    "character": "僕のとっておきの笹あげるから",
+    "definition": "I'll give you my best bamboo grass.",
+    "timestamp": "0:20:31",
+    "audio": "/audio/08/0.20.31.mp3"
+  },
+  "106": {
+    "speaker": "PANDA",
+    "character": "笹は健康にもいいんだよ",
+    "definition": "It's really good for your health, too.",
+    "timestamp": "0:20:34",
+    "audio": "/audio/08/0.20.34.mp3"
+  },
+  "107": {
+    "speaker": "GRIZZLY",
+    "character": "お前も食わず嫌いしてないで",
+    "definition": "Don't be a picky eater yourself, and eat some salmon. Okay.",
+    "timestamp": "0:20:40",
+    "audio": "/audio/08/0.20.40.mp3"
+  },
+  "108": {
+    "speaker": "PANDA",
+    "character": "笹どう？",
+    "definition": "How's the bamboo grass?",
+    "timestamp": "0:20:55",
+    "audio": "/audio/08/0.20.55.mp3"
+  },
+  "109": {
+    "speaker": "GRIZZLY",
+    "character": "あんまし　うまくねえ",
+    "definition": "Not that good. Isn't the salmon better? Not really.",
+    "timestamp": "0:20:57",
+    "audio": "/audio/08/0.20.57.mp3"
+  },
+  "110": {
+    "speaker": "PANDA",
+    "character": "いいニオイ！",
+    "definition": "Something smells good!",
+    "timestamp": "0:21:06",
+    "audio": "/audio/08/0.21.06.mp3"
+  },
+  "111": {
+    "speaker": "POLAR BEAR",
+    "character": "コーヒー入ったよ",
+    "definition": "Coffee's ready.",
+    "timestamp": "0:21:07",
+    "audio": "/audio/08/0.21.07.mp3"
+  },
+  "112": {
+    "speaker": "GRIZZLY",
+    "character": "おう　ありがてえ",
+    "definition": "Thanks!",
+    "timestamp": "0:21:09",
+    "audio": "/audio/08/0.21.09.mp3"
+  },
+  "113": {
+    "speaker": "PANDA",
+    "character": "おいしいね",
+    "definition": "It's so good.",
+    "timestamp": "0:21:19",
+    "audio": "/audio/08/0.21.19.mp3"
+  },
+  "114": {
+    "speaker": "GRIZZLY",
+    "character": "ああ",
+    "definition": "Yeah.",
+    "timestamp": "0:21:21",
+    "audio": "/audio/08/0.21.21.mp3"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "いっぱいとれてよかったね",
+    "definition": "It's good that you caught so much.",
+    "timestamp": "0:21:25",
+    "audio": "/audio/08/0.21.25.mp3"
+  },
+  "116": {
+    "speaker": "GRIZZLY",
+    "character": "お前もな",
+    "definition": "Same for you.",
+    "timestamp": "0:21:28",
+    "audio": "/audio/08/0.21.28.mp3"
+  },
+  "117": {
+    "speaker": "GRIZZLY",
+    "character": "おい　パンダ！　こっちだ",
+    "definition": "Hey, Panda! Over here!",
+    "timestamp": "0:21:40",
+    "audio": "/audio/08/0.21.40.mp3"
+  },
+  "118": {
+    "speaker": "SASAKO",
+    "character": "いらっしゃい",
+    "definition": "Welcome.",
+    "timestamp": "0:21:44",
+    "audio": "/audio/08/0.21.44.mp3"
+  },
+  "119": {
+    "speaker": "SASAKO",
+    "character": "おかげさまで大人気ですよ　ランチパスタ",
+    "definition": "The lunch pasta is a hit, thanks to you.",
+    "timestamp": "0:21:46",
+    "audio": "/audio/08/0.21.46.mp3"
+  },
+  "120": {
+    "speaker": "PANDA",
+    "character": "これって…",
+    "definition": "Is this...",
+    "timestamp": "0:21:51",
+    "audio": "/audio/08/0.21.51.mp3"
+  },
+  "121": {
+    "speaker": "GRIZZLY",
+    "character": "サケと…",
+    "definition": "Salmon and...",
+    "timestamp": "0:21:52",
+    "audio": "/audio/08/0.21.52.mp3"
+  },
+  "122": {
+    "speaker": "PANDA",
+    "character": "タケノコ？",
+    "definition": "...bamboo shoots?",
+    "timestamp": "0:21:54",
+    "audio": "/audio/08/0.21.54.mp3"
+  },
+  "123": {
+    "speaker": "POLAR BEAR",
+    "character": "昨日のお礼ね",
+    "definition": "It's for all your hard work yesterday.",
+    "timestamp": "0:21:56",
+    "audio": "/audio/08/0.21.56.mp3"
+  },
+  "124": {
+    "speaker": "GRIZZLY",
+    "character": "おい　パンダ　俺のタケノコお前にやる",
+    "definition": "Hey, Panda, I'll give you my bamboo shoots. I'll give you my salmon, Mr. Grizzly.",
+    "timestamp": "0:22:07",
+    "audio": "/audio/08/0.22.07.mp3"
+  },
+  "125": {
+    "speaker": "SASAKO",
+    "character": "あ　好き嫌いはダメですよ",
+    "definition": "It's not good to be such picky eaters.",
+    "timestamp": "0:22:14",
+    "audio": "/audio/08/0.22.14.mp3"
+  },
+  "126": {
+    "speaker": "GRIZZLY",
+    "character": "細かいこと気にするなよ",
+    "definition": "Don't sweat the small stuff.",
+    "timestamp": "0:22:17",
+    "audio": "/audio/08/0.22.17.mp3"
+  },
+  "127": {
+    "speaker": "PANDA",
+    "character": "そうそう",
+    "definition": "Yeah.",
+    "timestamp": "0:22:19",
+    "audio": "/audio/08/0.22.19.mp3"
+  },
+  "128": {
+    "speaker": "SASAKO",
+    "character": "もう",
+    "definition": "Goodness... It's okay.",
+    "timestamp": "0:22:20",
+    "audio": "/audio/08/0.22.20.mp3"
+  },
+  "129": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:57",
+    "audio": "/audio/08/0.23.57.mp3"
+  },
+  "130": {
+    "speaker": "PENGUIN",
+    "character": "何？　パンダ君",
+    "definition": "What is it, Panda? Please tell me all the life lessons you have learned so far.",
+    "timestamp": "0:23:59",
+    "audio": "/audio/08/0.23.59.mp3"
+  },
+  "131": {
+    "speaker": "PENGUIN",
+    "character": "飲み会で最後に残った一個を食べる時は",
+    "definition": "When you're out drinking with others, and you're trying to eat the last piece,",
+    "timestamp": "0:24:05",
+    "audio": "/audio/08/0.24.05.mp3"
+  },
+  "132": {
+    "speaker": "PENGUIN",
+    "character": "お皿を下げてもらうどさくさで食べちゃえば",
+    "definition": "if you try to eat it as they're taking the plate,",
+    "timestamp": "0:24:09",
+    "audio": "/audio/08/0.24.09.mp3"
+  },
+  "133": {
+    "speaker": "PENGUIN",
+    "character": "幾分気まずくないよ",
+    "definition": "it won't be as awkward.",
+    "timestamp": "0:24:11",
+    "audio": "/audio/08/0.24.11.mp3"
+  },
+  "134": {
+    "speaker": "PANDA",
+    "character": "心の底から小さい知恵だね",
+    "definition": "That is a truly shallow life lesson.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/08/0.24.13.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "白熊君　終わろ",
+    "definition": "Polar Bear! Finish.",
+    "timestamp": "0:24:16",
+    "audio": "/audio/08/0.24.16.mp3"
+  },
+  "136": {
+    "speaker": "POLAR BEAR",
+    "character": "次回しろくまカフェ「Z」",
+    "definition": "Next time, on Polar Bear's Café Z.",
+    "timestamp": "0:24:18",
+    "audio": "/audio/08/0.24.18.mp3"
+  },
+  "137": {
+    "speaker": "PENGUIN",
+    "character": "「Z」つけないで",
+    "definition": "Don't put a \"Z\" on there.",
+    "timestamp": "0:24:21",
+    "audio": "/audio/08/0.24.21.mp3"
+  },
+  "138": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/08/0.24.22.mp3"
+  }
+}

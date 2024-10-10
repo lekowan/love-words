@@ -1,0 +1,751 @@
+{
+  "1": {
+    "speaker": "POLAR BEAR",
+    "character": "どうしたの？　パンダくん",
+    "definition": "What's wrong, Panda?",
+    "timestamp": "0:01:44",
+    "audio": "/audio/05/0.01.44.mp3"
+  },
+  "2": {
+    "speaker": "SASAKO",
+    "character": "元気ないですね",
+    "definition": "You seem a little down.",
+    "timestamp": "0:01:46",
+    "audio": "/audio/05/0.01.46.mp3"
+  },
+  "3": {
+    "speaker": "PANDA",
+    "character": "実はさ…　常勤パンダさんが",
+    "definition": "Well, you see, Mr. Full-time Panda is going back home to China for a little while so he can attend a relative's wedding.",
+    "timestamp": "0:01:48",
+    "audio": "/audio/05/0.01.48.mp3"
+  },
+  "4": {
+    "speaker": "PENGUIN",
+    "character": "なんで　それで 元気ないの？",
+    "definition": "Why would you be down because of that?",
+    "timestamp": "0:01:57",
+    "audio": "/audio/05/0.01.57.mp3"
+  },
+  "5": {
+    "speaker": "PANDA",
+    "character": "それがね…(′；ω；｀)",
+    "definition": "Well, you see... Since he's taking a full week off,",
+    "timestamp": "0:01:59",
+    "audio": "/audio/05/0.01.59.mp3"
+  },
+  "6": {
+    "speaker": "PANDA",
+    "character": "代わりにバイト　フルに 入ることになっちゃったんだよ",
+    "definition": "I have to work full-time for him that week.",
+    "timestamp": "0:02:04",
+    "audio": "/audio/05/0.02.04.mp3"
+  },
+  "7": {
+    "speaker": "PENGUIN",
+    "character": "動物園のバイト？",
+    "definition": "Your job at the zoo?",
+    "timestamp": "0:02:10",
+    "audio": "/audio/05/0.02.10.mp3"
+  },
+  "8": {
+    "speaker": "PANDA",
+    "character": "そう",
+    "definition": "Yeah.",
+    "timestamp": "0:02:12",
+    "audio": "/audio/05/0.02.12.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "でも　たった１週間でしょ？",
+    "definition": "But it's only for a week, right?",
+    "timestamp": "0:02:13",
+    "audio": "/audio/05/0.02.13.mp3"
+  },
+  "10": {
+    "speaker": "PANDA",
+    "character": "１週間も　だよ～",
+    "definition": "It's for a {\\i1}whole{\\i0} week.",
+    "timestamp": "0:02:16",
+    "audio": "/audio/05/0.02.16.mp3"
+  },
+  "11": {
+    "speaker": "PANDA",
+    "character": "早起きできるかな…　しかも毎日",
+    "definition": "I wonder if I can get up early, not to mention everyday.",
+    "timestamp": "0:02:18",
+    "audio": "/audio/05/0.02.18.mp3"
+  },
+  "12": {
+    "speaker": "PANDA",
+    "character": "自信がないよ",
+    "definition": "I have no faith that I can actually do it.",
+    "timestamp": "0:02:23",
+    "audio": "/audio/05/0.02.23.mp3"
+  },
+  "13": {
+    "speaker": "PENGUIN",
+    "character": "大変なのは早起きじゃなくて 満員電車じゃない？",
+    "definition": "I think you have to worry more about the packed trains rather than having to wake up early.",
+    "timestamp": "0:02:26",
+    "audio": "/audio/05/0.02.26.mp3"
+  },
+  "14": {
+    "speaker": "PANDA",
+    "character": "満員電車？",
+    "definition": "Packed trains?",
+    "timestamp": "0:02:32",
+    "audio": "/audio/05/0.02.32.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "朝　会社に行く人たちで電車がいっぱいになるのが",
+    "definition": "Packed trains are when the trains become full with all the people heading to work.",
+    "timestamp": "0:02:34",
+    "audio": "/audio/05/0.02.34.mp3"
+  },
+  "16": {
+    "speaker": "PENGUIN",
+    "character": "僕ら　コウテイペンギンは 慣れてるからいいけど…",
+    "definition": "Us emperor penguins are used to it.",
+    "timestamp": "0:02:41",
+    "audio": "/audio/05/0.02.41.mp3"
+  },
+  "17": {
+    "speaker": "PANDA",
+    "character": "え？　ペンギンさんも電車　乗るの？",
+    "definition": "What? You ride the trains, too, Mr. Penguin?",
+    "timestamp": "0:02:45",
+    "audio": "/audio/05/0.02.45.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "違うよ(-_-;)",
+    "definition": "No. At the South Pole, all of us huddle together and take care of the kids.",
+    "timestamp": "0:02:48",
+    "audio": "/audio/05/0.02.48.mp3"
+  },
+  "19": {
+    "speaker": "PENGUIN",
+    "character": "もう　満員電車並みの混雑だよ",
+    "definition": "It's really tight, like a packed train.",
+    "timestamp": "0:02:54",
+    "audio": "/audio/05/0.02.54.mp3"
+  },
+  "20": {
+    "speaker": "PENGUIN",
+    "character": "みんな おしくらまんじゅう状態だもんね",
+    "definition": "It's like playing push and shove nonstop.",
+    "timestamp": "0:02:57",
+    "audio": "/audio/05/0.02.57.mp3"
+  },
+  "21": {
+    "speaker": "PANDA",
+    "character": "おしくらまんじゅう？",
+    "definition": "Push and shove?",
+    "timestamp": "0:03:01",
+    "audio": "/audio/05/0.03.01.mp3"
+  },
+  "22": {
+    "speaker": "PANDA",
+    "character": "楽しそうだね(#^.^#)",
+    "definition": "That looks really fun.",
+    "timestamp": "0:03:09",
+    "audio": "/audio/05/0.03.09.mp3"
+  },
+  "23": {
+    "speaker": "PANDA",
+    "character": "なんだか　楽しみになってきたよ",
+    "definition": "I'm actually starting to get really excited.",
+    "timestamp": "0:03:13",
+    "audio": "/audio/05/0.03.13.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "早く帰って　明日に備えなくちゃ",
+    "definition": "I need to hurry home and get ready for tomorrow.",
+    "timestamp": "0:03:16",
+    "audio": "/audio/05/0.03.16.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "じゃあ…　ごちそうさま",
+    "definition": "Well then, thanks for the food!",
+    "timestamp": "0:03:20",
+    "audio": "/audio/05/0.03.20.mp3"
+  },
+  "26": {
+    "speaker": "P.BEAR/PENGUIN",
+    "character": "大丈夫かな…",
+    "definition": "I hope he'll be okay.",
+    "timestamp": "0:03:25",
+    "audio": "/audio/05/0.03.25.mp3"
+  },
+  "27": {
+    "speaker": "PANDA",
+    "character": "あ…　早く　早く",
+    "definition": "I need to hurry!",
+    "timestamp": "0:03:31",
+    "audio": "/audio/05/0.03.31.mp3"
+  },
+  "28": {
+    "speaker": "PANDA",
+    "character": "急がないと 満員電車に乗れないよ",
+    "definition": "If I don't hurry, I won't be able to ride the packed train!",
+    "timestamp": "0:03:34",
+    "audio": "/audio/05/0.03.34.mp3"
+  },
+  "29": {
+    "speaker": "RINRIN",
+    "character": "おはよう　パンダくん",
+    "definition": "Good morning, Panda.",
+    "timestamp": "0:03:41",
+    "audio": "/audio/05/0.03.41.mp3"
+  },
+  "30": {
+    "speaker": "PANDA",
+    "character": "おはようございま～す",
+    "definition": "Good morning. Are you headed to work? Good luck!",
+    "timestamp": "0:03:43",
+    "audio": "/audio/05/0.03.43.mp3"
+  },
+  "31": {
+    "speaker": "PANDA",
+    "character": "行ってきま～す",
+    "definition": "Off I go!",
+    "timestamp": "0:03:49",
+    "audio": "/audio/05/0.03.49.mp3"
+  },
+  "32": {
+    "speaker": "GIRL",
+    "character": "すみませ～ん",
+    "definition": "Excuse me.",
+    "timestamp": "0:03:55",
+    "audio": "/audio/05/0.03.55.mp3"
+  },
+  "33": {
+    "speaker": "RINRIN",
+    "character": "いらっしゃいませ",
+    "definition": "Hello.",
+    "timestamp": "0:03:56",
+    "audio": "/audio/05/0.03.56.mp3"
+  },
+  "34": {
+    "speaker": "GIRL",
+    "character": "お花　選んでいただけますか？",
+    "definition": "Could you pick out some flowers for me?",
+    "timestamp": "0:03:58",
+    "audio": "/audio/05/0.03.58.mp3"
+  },
+  "35": {
+    "speaker": "PANDA",
+    "character": "おしくらまんじゅうだね～",
+    "definition": "Wow, it really is like oshikura manju. The doors are closing. Please be careful. The doors are closing.",
+    "timestamp": "0:04:05",
+    "audio": "/audio/05/0.04.05.mp3"
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "すみません パンダ専用車両はどこですか？",
+    "definition": "Excuse me, where's the panda-only car? I don't think there is one.",
+    "timestamp": "0:04:24",
+    "audio": "/audio/05/0.04.24.mp3"
+  },
+  "37": {
+    "speaker": "PANDA",
+    "character": "ど…　どこか… 空いてるところは…",
+    "definition": "I-Is there anywhere that's open?",
+    "timestamp": "0:04:31",
+    "audio": "/audio/05/0.04.31.mp3"
+  },
+  "38": {
+    "speaker": "PANDA",
+    "character": "きついよ…",
+    "definition": "It's a little tight...",
+    "timestamp": "0:04:45",
+    "audio": "/audio/05/0.04.45.mp3"
+  },
+  "39": {
+    "speaker": "ANNOUNCE",
+    "character": "この先　揺れますので ご注意ください",
+    "definition": "There will be a little shaking ahead, so please be careful.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/05/0.04.47.mp3"
+  },
+  "40": {
+    "speaker": "HANDA",
+    "character": "パンダく～ん",
+    "definition": "Hey, Panda!",
+    "timestamp": "0:05:01",
+    "audio": "/audio/05/0.05.01.mp3"
+  },
+  "41": {
+    "speaker": "HANDA",
+    "character": "ごはんだよ？",
+    "definition": "It's time for your lunch.",
+    "timestamp": "0:05:05",
+    "audio": "/audio/05/0.05.05.mp3"
+  },
+  "42": {
+    "speaker": "PANDA",
+    "character": "そこ　置いといて",
+    "definition": "Could you just put it over there?",
+    "timestamp": "0:05:07",
+    "audio": "/audio/05/0.05.07.mp3"
+  },
+  "43": {
+    "speaker": "HANDA",
+    "character": "朝からバイトで大変なのは わかるけどさ",
+    "definition": "I know it's tough to have to start work so early in the morning,",
+    "timestamp": "0:05:11",
+    "audio": "/audio/05/0.05.11.mp3"
+  },
+  "44": {
+    "speaker": "HANDA",
+    "character": "もう少し　お客さんにサービスしてよ",
+    "definition": "but could you try to give the customers a little more service?",
+    "timestamp": "0:05:14",
+    "audio": "/audio/05/0.05.14.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "もう　満員電車やだ…",
+    "definition": "I don't want to ride in packed trains anymore.",
+    "timestamp": "0:05:18",
+    "audio": "/audio/05/0.05.18.mp3"
+  },
+  "46": {
+    "speaker": "PANDA",
+    "character": "半田さん　朝代わってよ",
+    "definition": "Could you work for me in the morning instead, Mr. Handa?",
+    "timestamp": "0:05:21",
+    "audio": "/audio/05/0.05.21.mp3"
+  },
+  "47": {
+    "speaker": "HANDA",
+    "character": "やだって言ったって 仕方ないでしょう？",
+    "definition": "You can't really complain...",
+    "timestamp": "0:05:24",
+    "audio": "/audio/05/0.05.24.mp3"
+  },
+  "48": {
+    "speaker": "PANDA",
+    "character": "僕　もう少し遅く来るから 朝だけパンダ代わって",
+    "definition": "I'm going to come in a little later, so could you be the panda in the morning?",
+    "timestamp": "0:05:27",
+    "audio": "/audio/05/0.05.27.mp3"
+  },
+  "49": {
+    "speaker": "HANDA",
+    "character": "代われって言われても　無理だし",
+    "definition": "I don't think that's going to work...",
+    "timestamp": "0:05:33",
+    "audio": "/audio/05/0.05.33.mp3"
+  },
+  "50": {
+    "speaker": "PANDA",
+    "character": "大丈夫　体型似てるから",
+    "definition": "You'll be fine, you're shaped fairly close to a panda.",
+    "timestamp": "0:05:36",
+    "audio": "/audio/05/0.05.36.mp3"
+  },
+  "51": {
+    "speaker": "HANDA",
+    "character": "いやいや…",
+    "definition": "No, no, no, no...",
+    "timestamp": "0:05:49",
+    "audio": "/audio/05/0.05.49.mp3"
+  },
+  "52": {
+    "speaker": "HANDA",
+    "character": "ありえないから 頑張ってよ　約束でしょ",
+    "definition": "It's not happening! Try to work a little harder! You promised!",
+    "timestamp": "0:05:51",
+    "audio": "/audio/05/0.05.51.mp3"
+  },
+  "53": {
+    "speaker": "HANDA",
+    "character": "ごはん　ここ置いとくからね",
+    "definition": "I'm setting your lunch right here.",
+    "timestamp": "0:05:55",
+    "audio": "/audio/05/0.05.55.mp3"
+  },
+  "54": {
+    "speaker": "PANDA",
+    "character": "チェッ",
+    "definition": "Man... I'm losing my appetite thinking about the packed trains.",
+    "timestamp": "0:05:57",
+    "audio": "/audio/05/0.05.57.mp3"
+  },
+  "55": {
+    "speaker": "RINRIN",
+    "character": "パンダくん",
+    "definition": "Panda.",
+    "timestamp": "0:06:11",
+    "audio": "/audio/05/0.06.11.mp3"
+  },
+  "56": {
+    "speaker": "RINRIN",
+    "character": "パンダくんにお届け物です",
+    "definition": "I have a delivery for you, Panda.",
+    "timestamp": "0:06:14",
+    "audio": "/audio/05/0.06.14.mp3"
+  },
+  "57": {
+    "speaker": "PANDA",
+    "character": "花？",
+    "definition": "Flowers?",
+    "timestamp": "0:06:21",
+    "audio": "/audio/05/0.06.21.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "いつも見てます お仕事頑張ってね",
+    "definition": "\"I'm always watching you. Please keep up your best at work.",
+    "timestamp": "0:06:26",
+    "audio": "/audio/05/0.06.26.mp3"
+  },
+  "59": {
+    "speaker": "PANDA",
+    "character": "あなたのファンより　リンリン",
+    "definition": "From your fan, Rin Rin.\"",
+    "timestamp": "0:06:31",
+    "audio": "/audio/05/0.06.31.mp3"
+  },
+  "60": {
+    "speaker": "PANDA",
+    "character": "僕のファン！？",
+    "definition": "My fan?!",
+    "timestamp": "0:06:35",
+    "audio": "/audio/05/0.06.35.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "リンリンちゃん",
+    "definition": "Rin Rin.",
+    "timestamp": "0:06:40",
+    "audio": "/audio/05/0.06.40.mp3"
+  },
+  "62": {
+    "speaker": "PANDA",
+    "character": "僕　頑張るよ！",
+    "definition": "I'm going to do my best! Mom, Mr. Panda stood up!",
+    "timestamp": "0:06:44",
+    "audio": "/audio/05/0.06.44.mp3"
+  },
+  "63": {
+    "speaker": "LADY",
+    "character": "すごいわね",
+    "definition": "That's amazing! Rin Rin.",
+    "timestamp": "0:06:49",
+    "audio": "/audio/05/0.06.49.mp3"
+  },
+  "64": {
+    "speaker": "PANDA",
+    "character": "いってきます！",
+    "definition": "I'm heading off!",
+    "timestamp": "0:07:02",
+    "audio": "/audio/05/0.07.02.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "もしかして　リンリンちゃん？",
+    "definition": "Could it be? Rin Rin?",
+    "timestamp": "0:07:11",
+    "audio": "/audio/05/0.07.11.mp3"
+  },
+  "66": {
+    "speaker": "GIRL",
+    "character": "もしもし",
+    "definition": "Hello?",
+    "timestamp": "0:07:14",
+    "audio": "/audio/05/0.07.14.mp3"
+  },
+  "67": {
+    "speaker": "PANDA",
+    "character": "リンリンちゃん　僕　頑張るからね！",
+    "definition": "Rin Rin? I'll do my best, okay? Rin Rin will be watching me.",
+    "timestamp": "0:07:33",
+    "audio": "/audio/05/0.07.33.mp3"
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "きっと…　あのなかに リンリンちゃんが…",
+    "definition": "Rin Rin must be somewhere in that crowd.",
+    "timestamp": "0:08:15",
+    "audio": "/audio/05/0.08.15.mp3"
+  },
+  "69": {
+    "speaker": "HANDA",
+    "character": "ここんとこ 張り切ってるな　パンダくん",
+    "definition": "Panda's working really hard lately.",
+    "timestamp": "0:08:21",
+    "audio": "/audio/05/0.08.21.mp3"
+  },
+  "70": {
+    "speaker": "HANDA",
+    "character": "でも　どうして？",
+    "definition": "But I wonder why.",
+    "timestamp": "0:08:25",
+    "audio": "/audio/05/0.08.25.mp3"
+  },
+  "71": {
+    "speaker": "POLAR BEAR",
+    "character": "お疲れ様",
+    "definition": "Thanks for all your good work.",
+    "timestamp": "0:08:29",
+    "audio": "/audio/05/0.08.29.mp3"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "今日　常勤パンダさん 戻って来たんでしょ？",
+    "definition": "Mr. Full-time Panda came back today, right?",
+    "timestamp": "0:08:32",
+    "audio": "/audio/05/0.08.32.mp3"
+  },
+  "73": {
+    "speaker": "PANDA",
+    "character": "お土産もらった",
+    "definition": "He brought gifts.",
+    "timestamp": "0:08:39",
+    "audio": "/audio/05/0.08.39.mp3"
+  },
+  "74": {
+    "speaker": "PENGUIN",
+    "character": "パンダくん１日も 遅刻しなかったんだってね",
+    "definition": "I heard you weren't late once this week, Panda.",
+    "timestamp": "0:08:41",
+    "audio": "/audio/05/0.08.41.mp3"
+  },
+  "75": {
+    "speaker": "PENGUIN",
+    "character": "すごいじゃない",
+    "definition": "That's really impressive.",
+    "timestamp": "0:08:44",
+    "audio": "/audio/05/0.08.44.mp3"
+  },
+  "76": {
+    "speaker": "PANDA",
+    "character": "大切な人が見ててくれるから",
+    "definition": "Someone really dear to me has been watching me.",
+    "timestamp": "0:08:47",
+    "audio": "/audio/05/0.08.47.mp3"
+  },
+  "77": {
+    "speaker": "PENGUIN",
+    "character": "それにしても なんかすごく疲れてない？",
+    "definition": "But it looks like you're really tired.",
+    "timestamp": "0:08:52",
+    "audio": "/audio/05/0.08.52.mp3"
+  },
+  "78": {
+    "speaker": "PENGUIN",
+    "character": "なんだか　あちこち ボロボロで汚れてるし",
+    "definition": "You look really beat up and dirty in various places.",
+    "timestamp": "0:08:56",
+    "audio": "/audio/05/0.08.56.mp3"
+  },
+  "79": {
+    "speaker": "PENGUIN",
+    "character": "頑張りすぎなんじゃない",
+    "definition": "You may actually be working too hard.",
+    "timestamp": "0:09:00",
+    "audio": "/audio/05/0.09.00.mp3"
+  },
+  "80": {
+    "speaker": "PENGUIN",
+    "character": "ゆっくり 休んだほうがいいと思うよ",
+    "definition": "I think you should take a break. I can't let her see me looking like this.",
+    "timestamp": "0:09:01",
+    "audio": "/audio/05/0.09.01.mp3"
+  },
+  "81": {
+    "speaker": "PENGUIN",
+    "character": "あの子？",
+    "definition": "\"Her\"?",
+    "timestamp": "0:09:08",
+    "audio": "/audio/05/0.09.08.mp3"
+  },
+  "82": {
+    "speaker": "PANDA",
+    "character": "今日はもう帰るね",
+    "definition": "I'm gonna head home. Hey! You're forgetting your Sweet Roasted Chestnut chocolates.",
+    "timestamp": "0:09:09",
+    "audio": "/audio/05/0.09.09.mp3"
+  },
+  "83": {
+    "speaker": "PANDA",
+    "character": "昨日もステキ 今日も頑張ってね",
+    "definition": "\"You were great yesterday. Please do your best today, too!\"",
+    "timestamp": "0:09:32",
+    "audio": "/audio/05/0.09.32.mp3"
+  },
+  "84": {
+    "speaker": "PANDA",
+    "character": "リンリンちゃん　１週間　僕頑張ったよ",
+    "definition": "I worked really hard this week, Rin Rin.",
+    "timestamp": "0:09:37",
+    "audio": "/audio/05/0.09.37.mp3"
+  },
+  "85": {
+    "speaker": "PANDA",
+    "character": "急がなくっちゃ",
+    "definition": "I have to hurry!",
+    "timestamp": "0:09:53",
+    "audio": "/audio/05/0.09.53.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "リンリンちゃん　今日も　僕が 朝からいるって思ってないかな",
+    "definition": "I wonder if Rin Rin thinks I'll be there early today, too.",
+    "timestamp": "0:09:55",
+    "audio": "/audio/05/0.09.55.mp3"
+  },
+  "87": {
+    "speaker": "PANDA",
+    "character": "すれ違いになったら大変",
+    "definition": "It'd be awful if we just missed each other.",
+    "timestamp": "0:10:01",
+    "audio": "/audio/05/0.10.01.mp3"
+  },
+  "88": {
+    "speaker": "RINRIN",
+    "character": "おはよう　パンダくん",
+    "definition": "Good morning, Panda.",
+    "timestamp": "0:10:07",
+    "audio": "/audio/05/0.10.07.mp3"
+  },
+  "89": {
+    "speaker": "PANDA",
+    "character": "おはようございます",
+    "definition": "Good morning!",
+    "timestamp": "0:10:09",
+    "audio": "/audio/05/0.10.09.mp3"
+  },
+  "90": {
+    "speaker": "RINRIN",
+    "character": "今日から　通常勤務じゃないの？",
+    "definition": "Aren't you going back to part-time today?",
+    "timestamp": "0:10:12",
+    "audio": "/audio/05/0.10.12.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "えっ？　ああ…　うん…",
+    "definition": "Huh? Uh, yes.",
+    "timestamp": "0:10:15",
+    "audio": "/audio/05/0.10.15.mp3"
+  },
+  "92": {
+    "speaker": "RINRIN",
+    "character": "だよね　ドキッとしちゃったよ",
+    "definition": "That's what I thought. I got scared for a moment.",
+    "timestamp": "0:10:19",
+    "audio": "/audio/05/0.10.19.mp3"
+  },
+  "93": {
+    "speaker": "RINRIN",
+    "character": "僕が選んだ花　気に入ってくれた？",
+    "definition": "Did you like the flowers I picked out for you?",
+    "timestamp": "0:10:22",
+    "audio": "/audio/05/0.10.22.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "えっ？　ああ　リンリンちゃんのお花？ 大切にしてるよ",
+    "definition": "Oh, the flowers Rin Rin got for me? I'm taking good care of them.",
+    "timestamp": "0:10:25",
+    "audio": "/audio/05/0.10.25.mp3"
+  },
+  "95": {
+    "speaker": "RINRIN",
+    "character": "あっ　そうだ　ちょっと 見せたいものがあるんだ",
+    "definition": "Oh, that's right! I have something I want to show you.",
+    "timestamp": "0:10:31",
+    "audio": "/audio/05/0.10.31.mp3"
+  },
+  "96": {
+    "speaker": "RINRIN",
+    "character": "待ってて",
+    "definition": "Wait here.",
+    "timestamp": "0:10:35",
+    "audio": "/audio/05/0.10.35.mp3"
+  },
+  "97": {
+    "speaker": "RINRIN",
+    "character": "はい",
+    "definition": "Look. Rin Rin's not here today? Oh, I'm Rin Rin.",
+    "timestamp": "0:10:38",
+    "audio": "/audio/05/0.10.38.mp3"
+  },
+  "98": {
+    "speaker": "RINRIN",
+    "character": "林厘太郎",
+    "definition": "My name is Hayashi Rintarou.",
+    "timestamp": "0:10:51",
+    "audio": "/audio/05/0.10.51.mp3"
+  },
+  "99": {
+    "speaker": "RINRIN",
+    "character": "パンダ　大好きなんだ",
+    "definition": "I love pandas!",
+    "timestamp": "0:10:55",
+    "audio": "/audio/05/0.10.55.mp3"
+  },
+  "100": {
+    "speaker": "RINRIN",
+    "character": "あっ　パンダくんは その中でも別格だよ",
+    "definition": "Oh, and you're one of the best, Panda!",
+    "timestamp": "0:10:58",
+    "audio": "/audio/05/0.10.58.mp3"
+  },
+  "101": {
+    "speaker": "RINRIN",
+    "character": "リンリンズ　ベストショットは　これ",
+    "definition": "Rin Rin's best photo is this.",
+    "timestamp": "0:11:16",
+    "audio": "/audio/05/0.11.16.mp3"
+  },
+  "102": {
+    "speaker": "RINRIN",
+    "character": "お気に入りだから 大きくしてみたんだ",
+    "definition": "It's my favorite, so I had it blown up.",
+    "timestamp": "0:11:20",
+    "audio": "/audio/05/0.11.20.mp3"
+  },
+  "103": {
+    "speaker": "RINRIN",
+    "character": "パンダくんにもあげるね",
+    "definition": "I'll give you a copy, too.",
+    "timestamp": "0:11:23",
+    "audio": "/audio/05/0.11.23.mp3"
+  },
+  "104": {
+    "speaker": "PANDA",
+    "character": "いらない…",
+    "definition": "I don't want it.",
+    "timestamp": "0:11:37",
+    "audio": "/audio/05/0.11.37.mp3"
+  },
+  "105": {
+    "speaker": "PANDA",
+    "character": "これ　返す…",
+    "definition": "I'm giving these back.",
+    "timestamp": "0:11:42",
+    "audio": "/audio/05/0.11.42.mp3"
+  },
+  "106": {
+    "speaker": "RINRIN",
+    "character": "なんで？",
+    "definition": "But why?!",
+    "timestamp": "0:11:43",
+    "audio": "/audio/05/0.11.43.mp3"
+  },
+  "107": {
+    "speaker": "RINRIN",
+    "character": "あっ　パンダくん！",
+    "definition": "Hey, Panda!",
+    "timestamp": "0:11:45",
+    "audio": "/audio/05/0.11.45.mp3"
+  }
+}

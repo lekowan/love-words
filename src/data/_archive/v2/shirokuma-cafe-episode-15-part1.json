@@ -1,0 +1,982 @@
+{
+  "1": {
+    "speaker": "PANDA",
+    "character": "やっと着いた",
+    "definition": "I'm finally here!",
+    "timestamp": "0:01:44",
+    "audio": "/audio/15/0.01.44.mp3"
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "近道しようとしたら　雑草がすごくて迷ちゃったよ",
+    "definition": "I was trying to take a shortcut, but the weeds were so thick that I got lost.",
+    "timestamp": "0:01:49",
+    "audio": "/audio/15/0.01.49.mp3"
+  },
+  "3": {
+    "speaker": "SASAKO",
+    "character": "そうなの　迷ちゃうお客さんもいるみたい",
+    "definition": "Yes, I've heard other customers have gotten lost, too.",
+    "timestamp": "0:01:54",
+    "audio": "/audio/15/0.01.54.mp3"
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "隣なのに家から20分かかちゃったよ",
+    "definition": "I live next door, but it took me twenty minutes to get here. These weeds are thick. Let's sit inside.",
+    "timestamp": "0:01:57",
+    "audio": "/audio/15/0.01.57.mp3"
+  },
+  "5": {
+    "speaker": "POLAR BEAR",
+    "character": "よし　やろう",
+    "definition": "Okay, let's do it! What are you doing, Polar Bear?",
+    "timestamp": "0:02:07",
+    "audio": "/audio/15/0.02.07.mp3"
+  },
+  "6": {
+    "speaker": "POLAR BEAR",
+    "character": "テラスで風を感じながら キンキンに冷したミントティーを飲んでる",
+    "definition": "I'm enjoying the cool breeze as I sit on the terrace drinking an ice cold mint tea.",
+    "timestamp": "0:02:23",
+    "audio": "/audio/15/0.02.23.mp3"
+  },
+  "7": {
+    "speaker": "PENGUIN",
+    "character": "そうじゃなくて",
+    "definition": "That's not what I meant.",
+    "timestamp": "0:02:29",
+    "audio": "/audio/15/0.02.29.mp3"
+  },
+  "8": {
+    "speaker": "PENGUIN",
+    "character": "なんで僕に君の店の雑草取りさせて",
+    "definition": "Why am I weeding your café's lawn",
+    "timestamp": "0:02:31",
+    "audio": "/audio/15/0.02.31.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "君がテラスをすすんでるの",
+    "definition": "while you're sitting there, drinking tea?!",
+    "timestamp": "0:02:34",
+    "audio": "/audio/15/0.02.34.mp3"
+  },
+  "10": {
+    "speaker": "POLAR BEAR",
+    "character": "僕は普通寒いところにいるでしょう",
+    "definition": "I usually live where it's cold.",
+    "timestamp": "0:02:36",
+    "audio": "/audio/15/0.02.36.mp3"
+  },
+  "11": {
+    "speaker": "PENGUIN",
+    "character": "僕もだよ",
+    "definition": "So do I!",
+    "timestamp": "0:02:39",
+    "audio": "/audio/15/0.02.39.mp3"
+  },
+  "12": {
+    "speaker": "PENGUIN",
+    "character": "真夏に雑草取りをするペンギンなんて どこの世界にいるの",
+    "definition": "In what world is there a penguin who weeds in the middle of summer?!",
+    "timestamp": "0:02:40",
+    "audio": "/audio/15/0.02.40.mp3"
+  },
+  "13": {
+    "speaker": "LLAMA",
+    "character": "ごちそうさまでした",
+    "definition": "Thank you for the meal.",
+    "timestamp": "0:02:44",
+    "audio": "/audio/15/0.02.44.mp3"
+  },
+  "14": {
+    "speaker": "LLAMA",
+    "character": "では",
+    "definition": "I'll be seeing you.",
+    "timestamp": "0:02:46",
+    "audio": "/audio/15/0.02.46.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "らまさん　どこ行くの",
+    "definition": "Mr. Llama, where are you going?",
+    "timestamp": "0:02:47",
+    "audio": "/audio/15/0.02.47.mp3"
+  },
+  "16": {
+    "speaker": "LLAMA",
+    "character": "もう食べられないんで　失礼しようかなって",
+    "definition": "I can't eat anymore, so I figured I'd leave.",
+    "timestamp": "0:02:50",
+    "audio": "/audio/15/0.02.50.mp3"
+  },
+  "17": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと待って　なんで帰ちゃうの",
+    "definition": "Wait a minute. Why are you going home?",
+    "timestamp": "0:02:54",
+    "audio": "/audio/15/0.02.54.mp3"
+  },
+  "18": {
+    "speaker": "",
+    "character": "僕たちの雑草取り始まったばかりでしょう",
+    "definition": "We just started weeding.",
+    "timestamp": "0:02:56",
+    "audio": "/audio/15/0.02.56.mp3"
+  },
+  "19": {
+    "speaker": "LLAMA",
+    "character": "けど　もうお腹いっぱいですよ",
+    "definition": "But I'm full.",
+    "timestamp": "0:03:00",
+    "audio": "/audio/15/0.03.00.mp3"
+  },
+  "20": {
+    "speaker": "PENGUIN",
+    "character": "雑草取りって　そういうことじゃないでしょう",
+    "definition": "But weeding is much more than that.",
+    "timestamp": "0:03:02",
+    "audio": "/audio/15/0.03.02.mp3"
+  },
+  "21": {
+    "speaker": "PENGUIN",
+    "character": "もうちょっと頑張ろうよ",
+    "definition": "Let's try a little harder.",
+    "timestamp": "0:03:05",
+    "audio": "/audio/15/0.03.05.mp3"
+  },
+  "22": {
+    "speaker": "LLAMA",
+    "character": "僕　もうお腹はじけちゃいますよ",
+    "definition": "But... my stomach will burst.",
+    "timestamp": "0:03:08",
+    "audio": "/audio/15/0.03.08.mp3"
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "そうじゃなくて",
+    "definition": "That's not what I meant... Um... is there any way to weedthat doesn't involve eating?",
+    "timestamp": "0:03:12",
+    "audio": "/audio/15/0.03.12.mp3"
+  },
+  "24": {
+    "speaker": "LLAMA",
+    "character": "そうでしたか　ちょっと考えてみます",
+    "definition": "Oh, I see. Let me think.",
+    "timestamp": "0:03:19",
+    "audio": "/audio/15/0.03.19.mp3"
+  },
+  "25": {
+    "speaker": "PENGUIN",
+    "character": "寝てる",
+    "definition": "Are you asleep?",
+    "timestamp": "0:03:29",
+    "audio": "/audio/15/0.03.29.mp3"
+  },
+  "26": {
+    "speaker": "LLAMA",
+    "character": "起きてますよ",
+    "definition": "I'm awake.",
+    "timestamp": "0:03:31",
+    "audio": "/audio/15/0.03.31.mp3"
+  },
+  "27": {
+    "speaker": "PENGUIN",
+    "character": "寝てたでしょう",
+    "definition": "You were totally asleep.",
+    "timestamp": "0:03:32",
+    "audio": "/audio/15/0.03.32.mp3"
+  },
+  "28": {
+    "speaker": "POLAR BEAR",
+    "character": "ミントティー　どう？",
+    "definition": "Would you like some mint tea?",
+    "timestamp": "0:03:34",
+    "audio": "/audio/15/0.03.34.mp3"
+  },
+  "29": {
+    "speaker": "LLAMA",
+    "character": "あ　いただきます",
+    "definition": "Oh, thank you.",
+    "timestamp": "0:03:36",
+    "audio": "/audio/15/0.03.36.mp3"
+  },
+  "30": {
+    "speaker": "PENGUIN",
+    "character": "もう　皆　頑張ろうよ",
+    "definition": "Come on, guys. Let's work harder!",
+    "timestamp": "0:03:38",
+    "audio": "/audio/15/0.03.38.mp3"
+  },
+  "31": {
+    "speaker": "KOALA",
+    "character": "頑張りたいんだけど　僕ユーカリしか食べられなっくて",
+    "definition": "I'd like to try harder, but I can only eat eucalyptus.",
+    "timestamp": "0:03:41",
+    "audio": "/audio/15/0.03.41.mp3"
+  },
+  "32": {
+    "speaker": "PENGUIN",
+    "character": "だから　食べない方法もあるんじゃないかな",
+    "definition": "I'm saying... there are other ways to weedthat don't involve eating.",
+    "timestamp": "0:03:47",
+    "audio": "/audio/15/0.03.47.mp3"
+  },
+  "33": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん",
+    "definition": "Mr. Penguin.",
+    "timestamp": "0:03:51",
+    "audio": "/audio/15/0.03.51.mp3"
+  },
+  "34": {
+    "speaker": "PANDA",
+    "character": "変な形の石拾った",
+    "definition": "I found a weird shaped rock.",
+    "timestamp": "0:03:55",
+    "audio": "/audio/15/0.03.55.mp3"
+  },
+  "35": {
+    "speaker": "PENGUIN",
+    "character": "要らないの　その報告は　雑草取ろう",
+    "definition": "We didn't need to know that. Let's get rid of some weeds.",
+    "timestamp": "0:03:58",
+    "audio": "/audio/15/0.03.58.mp3"
+  },
+  "36": {
+    "speaker": "SASAKO",
+    "character": "ペンギンさん",
+    "definition": "Mr. Penguin.",
+    "timestamp": "0:04:02",
+    "audio": "/audio/15/0.04.02.mp3"
+  },
+  "37": {
+    "speaker": "PENGUIN",
+    "character": "笹子さん　それは？",
+    "definition": "What is that, Miss Sasako?",
+    "timestamp": "0:04:05",
+    "audio": "/audio/15/0.04.05.mp3"
+  },
+  "38": {
+    "speaker": "SASAKO",
+    "character": "土偶です",
+    "definition": "It's a clay figure.",
+    "timestamp": "0:04:08",
+    "audio": "/audio/15/0.04.08.mp3"
+  },
+  "39": {
+    "speaker": "SASAKO",
+    "character": "拾いました",
+    "definition": "I found it.",
+    "timestamp": "0:04:09",
+    "audio": "/audio/15/0.04.09.mp3"
+  },
+  "40": {
+    "speaker": "SASAKO",
+    "character": "要らない報告でした",
+    "definition": "I guess you didn't need to know that.",
+    "timestamp": "0:04:12",
+    "audio": "/audio/15/0.04.12.mp3"
+  },
+  "41": {
+    "speaker": "PENGUIN",
+    "character": "何　この庭",
+    "definition": "What is with this yard?",
+    "timestamp": "0:04:15",
+    "audio": "/audio/15/0.04.15.mp3"
+  },
+  "42": {
+    "speaker": "POLAR BEAR",
+    "character": "よく落ちてるんだ",
+    "definition": "You often find them here.",
+    "timestamp": "0:04:17",
+    "audio": "/audio/15/0.04.17.mp3"
+  },
+  "43": {
+    "speaker": "SASAKO",
+    "character": "遮光器土偶ですね",
+    "definition": "It's a spaceman clay figure.",
+    "timestamp": "0:04:20",
+    "audio": "/audio/15/0.04.20.mp3"
+  },
+  "44": {
+    "speaker": "POLAR BEAR",
+    "character": "うん",
+    "definition": "Yes.",
+    "timestamp": "0:04:22",
+    "audio": "/audio/15/0.04.22.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "面白い顔だね",
+    "definition": "What a weird face.",
+    "timestamp": "0:04:23",
+    "audio": "/audio/15/0.04.23.mp3"
+  },
+  "46": {
+    "speaker": "PENGUIN",
+    "character": "僕だけかな　雑草取り真面目にやってるの",
+    "definition": "Am I the only one that's taking this seriously?",
+    "timestamp": "0:04:27",
+    "audio": "/audio/15/0.04.27.mp3"
+  },
+  "47": {
+    "speaker": "SLOTH",
+    "character": "僕も～",
+    "definition": "I am...",
+    "timestamp": "0:04:32",
+    "audio": "/audio/15/0.04.32.mp3"
+  },
+  "48": {
+    "speaker": "SLOTH",
+    "character": "いるよ～～",
+    "definition": "here too...",
+    "timestamp": "0:04:34",
+    "audio": "/audio/15/0.04.34.mp3"
+  },
+  "49": {
+    "speaker": "PENGUIN",
+    "character": "怠け者くん",
+    "definition": "Sloth! I'll... do... my... best...",
+    "timestamp": "0:04:38",
+    "audio": "/audio/15/0.04.38.mp3"
+  },
+  "50": {
+    "speaker": "PENGUIN",
+    "character": "やる気はあるんだけどな",
+    "definition": "At least you're determined.",
+    "timestamp": "0:04:52",
+    "audio": "/audio/15/0.04.52.mp3"
+  },
+  "51": {
+    "speaker": "PANDA",
+    "character": "クーラーは涼しいな",
+    "definition": "The air conditioning is so cool.",
+    "timestamp": "0:05:00",
+    "audio": "/audio/15/0.05.00.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "ねぇ　笹持ってきて　お母さん",
+    "definition": "Hey, Mom, could you bring me some bamboo grass?",
+    "timestamp": "0:05:03",
+    "audio": "/audio/15/0.05.03.mp3"
+  },
+  "53": {
+    "speaker": "PENGUIN",
+    "character": "涼しいでしょう",
+    "definition": "It's nice and cool, isn't it?",
+    "timestamp": "0:05:09",
+    "audio": "/audio/15/0.05.09.mp3"
+  },
+  "54": {
+    "speaker": "PANDA",
+    "character": "あ　ペンギンさん何してるの",
+    "definition": "Oh, Mr. Penguin, what are you doing here?",
+    "timestamp": "0:05:12",
+    "audio": "/audio/15/0.05.12.mp3"
+  },
+  "55": {
+    "speaker": "PENGUIN",
+    "character": "何してるのじゃないよパンダ君　雑草取りは？",
+    "definition": "What do you mean what am I doing here?! What happened to weeding?!",
+    "timestamp": "0:05:15",
+    "audio": "/audio/15/0.05.15.mp3"
+  },
+  "56": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんはなんでそんなに雑草取りがすきなの",
+    "definition": "Why do you like weeding so much, Mr. Penguin?",
+    "timestamp": "0:05:19",
+    "audio": "/audio/15/0.05.19.mp3"
+  },
+  "57": {
+    "speaker": "PENGUIN",
+    "character": "好きじゃないよ",
+    "definition": "I don't like it!",
+    "timestamp": "0:05:25",
+    "audio": "/audio/15/0.05.25.mp3"
+  },
+  "58": {
+    "speaker": "PENGUIN",
+    "character": "けど　このままじゃ一日じゃ終わらないよ",
+    "definition": "But at this rate, we won't finish today!",
+    "timestamp": "0:05:27",
+    "audio": "/audio/15/0.05.27.mp3"
+  },
+  "59": {
+    "speaker": "PANDA",
+    "character": "分かったよ",
+    "definition": "All right. Jeez.",
+    "timestamp": "0:05:33",
+    "audio": "/audio/15/0.05.33.mp3"
+  },
+  "60": {
+    "speaker": "PENGUIN",
+    "character": "じゃ　行こうか",
+    "definition": "Then, let's go.",
+    "timestamp": "0:05:36",
+    "audio": "/audio/15/0.05.36.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "うん　昼寝してからすぐ行くよ",
+    "definition": "Okay. I'll be there right after my nap. Don't suck me up!",
+    "timestamp": "0:05:37",
+    "audio": "/audio/15/0.05.37.mp3"
+  },
+  "62": {
+    "speaker": "PANDA",
+    "character": "暑いな",
+    "definition": "It's so hot.",
+    "timestamp": "0:05:51",
+    "audio": "/audio/15/0.05.51.mp3"
+  },
+  "63": {
+    "speaker": "PENGUIN",
+    "character": "僕だって暑いよ",
+    "definition": "It's hot for me, too.",
+    "timestamp": "0:05:53",
+    "audio": "/audio/15/0.05.53.mp3"
+  },
+  "64": {
+    "speaker": "PENGUIN",
+    "character": "何！　え！　火事？",
+    "definition": "What's that? A fire?",
+    "timestamp": "0:05:58",
+    "audio": "/audio/15/0.05.58.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "ええ？",
+    "definition": "What?",
+    "timestamp": "0:06:00",
+    "audio": "/audio/15/0.06.00.mp3"
+  },
+  "66": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君　急ごう",
+    "definition": "Let's hurry, Panda! Okay.",
+    "timestamp": "0:06:01",
+    "audio": "/audio/15/0.06.01.mp3"
+  },
+  "67": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと　何してるの",
+    "definition": "Hey, now. What are you doing?",
+    "timestamp": "0:06:08",
+    "audio": "/audio/15/0.06.08.mp3"
+  },
+  "68": {
+    "speaker": "POLAR BEAR",
+    "character": "バーベキュー",
+    "definition": "Barbecuing.",
+    "timestamp": "0:06:12",
+    "audio": "/audio/15/0.06.12.mp3"
+  },
+  "69": {
+    "speaker": "PENGUIN",
+    "character": "らまさん　お腹いっぱいだって言ってたでしょう",
+    "definition": "Didn't you say you were full, Mr. Llama?!",
+    "timestamp": "0:06:13",
+    "audio": "/audio/15/0.06.13.mp3"
+  },
+  "70": {
+    "speaker": "LLAMA",
+    "character": "バーベキューは別腹ですよ",
+    "definition": "Barbecue goes into a separate stomach.",
+    "timestamp": "0:06:17",
+    "audio": "/audio/15/0.06.17.mp3"
+  },
+  "71": {
+    "speaker": "PENGUIN",
+    "character": "聞いたことないよ　そんな言葉",
+    "definition": "I've never heard anything like that!",
+    "timestamp": "0:06:19",
+    "audio": "/audio/15/0.06.19.mp3"
+  },
+  "72": {
+    "speaker": "SASAKO",
+    "character": "ペンギンさん　そこで拾った土偶です",
+    "definition": "Mr. Penguin, I found this clay figure over there.",
+    "timestamp": "0:06:22",
+    "audio": "/audio/15/0.06.22.mp3"
+  },
+  "73": {
+    "speaker": "PENGUIN",
+    "character": "また？",
+    "definition": "Again?",
+    "timestamp": "0:06:27",
+    "audio": "/audio/15/0.06.27.mp3"
+  },
+  "74": {
+    "speaker": "PENGUIN",
+    "character": "だから　すごいんだけれど　要らないよ　その報告は",
+    "definition": "That's amazing and all, but we didn't need to know that.",
+    "timestamp": "0:06:28",
+    "audio": "/audio/15/0.06.28.mp3"
+  },
+  "75": {
+    "speaker": "PANDA",
+    "character": "見せて　見せて",
+    "definition": "Let me see! Let me see!",
+    "timestamp": "0:06:38",
+    "audio": "/audio/15/0.06.38.mp3"
+  },
+  "76": {
+    "speaker": "POLAR BEAR",
+    "character": "らまさん",
+    "definition": "It's ready, Mr. Llama.",
+    "timestamp": "0:06:39",
+    "audio": "/audio/15/0.06.39.mp3"
+  },
+  "77": {
+    "speaker": "SASAKO",
+    "character": "焼けたよ",
+    "definition": "Here you go.",
+    "timestamp": "0:06:40",
+    "audio": "/audio/15/0.06.40.mp3"
+  },
+  "78": {
+    "speaker": "LLAMA",
+    "character": "ありがとうございます",
+    "definition": "Thank you very much.",
+    "timestamp": "0:06:41",
+    "audio": "/audio/15/0.06.41.mp3"
+  },
+  "79": {
+    "speaker": "PENGUIN",
+    "character": "僕ちょっと倒れるよ",
+    "definition": "I'm going to collapse now.",
+    "timestamp": "0:06:43",
+    "audio": "/audio/15/0.06.43.mp3"
+  },
+  "80": {
+    "speaker": "SASAKO",
+    "character": "ペンギンさん",
+    "definition": "Mr. Penguin?!",
+    "timestamp": "0:06:48",
+    "audio": "/audio/15/0.06.48.mp3"
+  },
+  "81": {
+    "speaker": "POLAR BEAR",
+    "character": "ナイス　ショット",
+    "definition": "Nice shot!",
+    "timestamp": "0:06:56",
+    "audio": "/audio/15/0.06.56.mp3"
+  },
+  "82": {
+    "speaker": "LLAMA",
+    "character": "打てるもんですね",
+    "definition": "It's not that hard at all.",
+    "timestamp": "0:07:00",
+    "audio": "/audio/15/0.07.00.mp3"
+  },
+  "83": {
+    "speaker": "PENGUIN",
+    "character": "何してるの",
+    "definition": "What are you doing?!",
+    "timestamp": "0:07:02",
+    "audio": "/audio/15/0.07.02.mp3"
+  },
+  "84": {
+    "speaker": "POLAR BEAR",
+    "character": "ゴルフ",
+    "definition": "Golfing.",
+    "timestamp": "0:07:04",
+    "audio": "/audio/15/0.07.04.mp3"
+  },
+  "85": {
+    "speaker": "PENGUIN",
+    "character": "誰も僕を見習って頑張ろうとしないなんて",
+    "definition": "No one is following my exampleof working hard.",
+    "timestamp": "0:07:06",
+    "audio": "/audio/15/0.07.06.mp3"
+  },
+  "86": {
+    "speaker": "POLAR BEAR",
+    "character": "ごめん",
+    "definition": "Sorry.",
+    "timestamp": "0:07:11",
+    "audio": "/audio/15/0.07.11.mp3"
+  },
+  "87": {
+    "speaker": "SASAKO",
+    "character": "ペンギンさん",
+    "definition": "Mr. Penguin.",
+    "timestamp": "0:07:13",
+    "audio": "/audio/15/0.07.13.mp3"
+  },
+  "88": {
+    "speaker": "PENGUIN",
+    "character": "何　笹子さん　また土偶？",
+    "definition": "What is it, Miss Sasako? Another clay figure?",
+    "timestamp": "0:07:14",
+    "audio": "/audio/15/0.07.14.mp3"
+  },
+  "89": {
+    "speaker": "SASAKO",
+    "character": "いいえ　皆でここだけはやったんですよ",
+    "definition": "No. We actually all got this section done.",
+    "timestamp": "0:07:17",
+    "audio": "/audio/15/0.07.17.mp3"
+  },
+  "90": {
+    "speaker": "PENGUIN",
+    "character": "え？",
+    "definition": "Huh? Oh.",
+    "timestamp": "0:07:21",
+    "audio": "/audio/15/0.07.21.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "この木陰なら涼しいし",
+    "definition": "Mr. Llama said it would be cooler in the shade and you'd be able to rest here.",
+    "timestamp": "0:07:25",
+    "audio": "/audio/15/0.07.25.mp3"
+  },
+  "92": {
+    "speaker": "LLAMA",
+    "character": "テラスが日が射してきちゃって",
+    "definition": "The sun was pretty strong on the terrace.",
+    "timestamp": "0:07:31",
+    "audio": "/audio/15/0.07.31.mp3"
+  },
+  "93": {
+    "speaker": "POLAR BEAR",
+    "character": "ごめんねm( __ __ )m",
+    "definition": "Sorry about that.",
+    "timestamp": "0:07:36",
+    "audio": "/audio/15/0.07.36.mp3"
+  },
+  "94": {
+    "speaker": "POLAR BEAR",
+    "character": "友達と一緒に賑やかにできたほうがいいなぁって",
+    "definition": "I thought it'd be a lot more fun if we did this all together.",
+    "timestamp": "0:07:39",
+    "audio": "/audio/15/0.07.39.mp3"
+  },
+  "95": {
+    "speaker": "POLAR BEAR",
+    "character": "だって　みんなでこうしてるだけで　楽しいよ",
+    "definition": "Because... it's fun just having everyone together.",
+    "timestamp": "0:07:44",
+    "audio": "/audio/15/0.07.44.mp3"
+  },
+  "96": {
+    "speaker": "PENGUIN",
+    "character": "そうだね",
+    "definition": "You're right.",
+    "timestamp": "0:08:01",
+    "audio": "/audio/15/0.08.01.mp3"
+  },
+  "97": {
+    "speaker": "PENGUIN",
+    "character": "僕大事なこと忘れてたみたい",
+    "definition": "It seems I forgot something rather important.",
+    "timestamp": "0:08:02",
+    "audio": "/audio/15/0.08.02.mp3"
+  },
+  "98": {
+    "speaker": "POLAR BEAR",
+    "character": "ミントティー　飲む？",
+    "definition": "Would you like some mint tea?",
+    "timestamp": "0:08:05",
+    "audio": "/audio/15/0.08.05.mp3"
+  },
+  "99": {
+    "speaker": "PENGUIN",
+    "character": "うん",
+    "definition": "Please.",
+    "timestamp": "0:08:08",
+    "audio": "/audio/15/0.08.08.mp3"
+  },
+  "100": {
+    "speaker": "SASAKO",
+    "character": "私たちは　雑草取りに戻りましょうか",
+    "definition": "The rest of us should get back to weeding.",
+    "timestamp": "0:08:10",
+    "audio": "/audio/15/0.08.10.mp3"
+  },
+  "101": {
+    "speaker": "PANDA",
+    "character": "うん",
+    "definition": "Okay.",
+    "timestamp": "0:08:14",
+    "audio": "/audio/15/0.08.14.mp3"
+  },
+  "102": {
+    "speaker": "SASAKO",
+    "character": "ペンギンさんは休んでてください",
+    "definition": "Please take it easy, Mr. Penguin.",
+    "timestamp": "0:08:15",
+    "audio": "/audio/15/0.08.15.mp3"
+  },
+  "103": {
+    "speaker": "SASAKO",
+    "character": "じゃあ",
+    "definition": "Well, then.",
+    "timestamp": "0:08:18",
+    "audio": "/audio/15/0.08.18.mp3"
+  },
+  "104": {
+    "speaker": "LLAMA",
+    "character": "もう一頑張りしますか",
+    "definition": "Let's give it another go. I can't eat anymore... It's your turn, Mr. Penguin.",
+    "timestamp": "0:08:19",
+    "audio": "/audio/15/0.08.19.mp3"
+  },
+  "105": {
+    "speaker": "SLOTH",
+    "character": "大～丈～夫～",
+    "definition": "It's... all... good...",
+    "timestamp": "0:08:34",
+    "audio": "/audio/15/0.08.34.mp3"
+  },
+  "106": {
+    "speaker": "SLOTH",
+    "character": "後は　僕が～",
+    "definition": "I'll... do the...",
+    "timestamp": "0:08:37",
+    "audio": "/audio/15/0.08.37.mp3"
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "終わらないね",
+    "definition": "This isn't ending.",
+    "timestamp": "0:08:46",
+    "audio": "/audio/15/0.08.46.mp3"
+  },
+  "108": {
+    "speaker": "SASAKO",
+    "character": "どうしましょうか",
+    "definition": "What should we do?",
+    "timestamp": "0:08:48",
+    "audio": "/audio/15/0.08.48.mp3"
+  },
+  "109": {
+    "speaker": "LLAMA",
+    "character": "バービキュ食べ過ぎて　僕もう草は食べられません",
+    "definition": "I ate too much barbecue and can't eat any more weeds.",
+    "timestamp": "0:08:50",
+    "audio": "/audio/15/0.08.50.mp3"
+  },
+  "110": {
+    "speaker": "POLAR BEAR",
+    "character": "もしもし",
+    "definition": "Hello?",
+    "timestamp": "0:09:03",
+    "audio": "/audio/15/0.09.03.mp3"
+  },
+  "111": {
+    "speaker": "GRIZZLY",
+    "character": "何だよ　このクソ暑い中に呼び出しやがって",
+    "definition": "What the hell do you want, calling me over in this damn heat?",
+    "timestamp": "0:09:06",
+    "audio": "/audio/15/0.09.06.mp3"
+  },
+  "112": {
+    "speaker": "POLAR BEAR",
+    "character": "庭の雑草が伸びちゃってさ",
+    "definition": "The yard was getting overgrown with weeds.",
+    "timestamp": "0:09:10",
+    "audio": "/audio/15/0.09.10.mp3"
+  },
+  "113": {
+    "speaker": "GRIZZLY",
+    "character": "庭の雑草？　白熊",
+    "definition": "The weeds in the yard? You aren't thinking about asking me to pull the weeds, are you, Polar Bear?!",
+    "timestamp": "0:09:13",
+    "audio": "/audio/15/0.09.13.mp3"
+  },
+  "114": {
+    "speaker": "POLAR BEAR",
+    "character": "いい？",
+    "definition": "Could you?",
+    "timestamp": "0:09:22",
+    "audio": "/audio/15/0.09.22.mp3"
+  },
+  "115": {
+    "speaker": "GRIZZLY",
+    "character": "いい？",
+    "definition": "Could I?",
+    "timestamp": "0:09:23",
+    "audio": "/audio/15/0.09.23.mp3"
+  },
+  "116": {
+    "speaker": "GRIZZLY",
+    "character": "じゃねぇー",
+    "definition": "What do you mean, could I?!",
+    "timestamp": "0:09:24",
+    "audio": "/audio/15/0.09.24.mp3"
+  },
+  "117": {
+    "speaker": "GRIZZLY",
+    "character": "これでいいのか",
+    "definition": "Is that good enough?!",
+    "timestamp": "0:09:38",
+    "audio": "/audio/15/0.09.38.mp3"
+  },
+  "118": {
+    "speaker": "PENGUIN",
+    "character": "なんて　暴力的で　なんて　丁寧な仕事だ",
+    "definition": "Such violent, yet such careful work.",
+    "timestamp": "0:09:43",
+    "audio": "/audio/15/0.09.43.mp3"
+  },
+  "119": {
+    "speaker": "GRIZZLY",
+    "character": "飯食わせろ！",
+    "definition": "Give me food!",
+    "timestamp": "0:09:47",
+    "audio": "/audio/15/0.09.47.mp3"
+  },
+  "120": {
+    "speaker": "POLAR BEAR",
+    "character": "はい",
+    "definition": "Here. It's great!",
+    "timestamp": "0:09:50",
+    "audio": "/audio/15/0.09.50.mp3"
+  },
+  "121": {
+    "speaker": "GRIZZLY",
+    "character": "またな",
+    "definition": "See ya later!",
+    "timestamp": "0:09:56",
+    "audio": "/audio/15/0.09.56.mp3"
+  },
+  "122": {
+    "speaker": "PENGUIN",
+    "character": "暴風のように去っていた",
+    "definition": "And then he left like a storm.",
+    "timestamp": "0:09:59",
+    "audio": "/audio/15/0.09.59.mp3"
+  },
+  "123": {
+    "speaker": "POLAR BEAR",
+    "character": "今日はおごるよ",
+    "definition": "I'll treat you today. Huh?",
+    "timestamp": "0:10:03",
+    "audio": "/audio/15/0.10.03.mp3"
+  },
+  "124": {
+    "speaker": "POLAR BEAR",
+    "character": "ぺんぎんさんにも迷惑かけちゃったし",
+    "definition": "I've caused you a lot of trouble, Mr. Penguin.",
+    "timestamp": "0:10:06",
+    "audio": "/audio/15/0.10.06.mp3"
+  },
+  "125": {
+    "speaker": "POLAR BEAR",
+    "character": "飲もうか",
+    "definition": "Let's have a drink.",
+    "timestamp": "0:10:09",
+    "audio": "/audio/15/0.10.09.mp3"
+  },
+  "126": {
+    "speaker": "PENGUIN",
+    "character": "うん(/ω＼)",
+    "definition": "Okay!",
+    "timestamp": "0:10:13",
+    "audio": "/audio/15/0.10.13.mp3"
+  },
+  "127": {
+    "speaker": "KOALA",
+    "character": "やぁ　今日は働いたね",
+    "definition": "We worked so hard today!",
+    "timestamp": "0:10:15",
+    "audio": "/audio/15/0.10.15.mp3"
+  },
+  "128": {
+    "speaker": "SASAKO",
+    "character": "白熊さんもこっちに来て飲みましょう",
+    "definition": "You should come over here and have a drink, too, Mr. Polar Bear.",
+    "timestamp": "0:10:18",
+    "audio": "/audio/15/0.10.18.mp3"
+  },
+  "129": {
+    "speaker": "PENGUIN",
+    "character": "楽しにゃ",
+    "definition": "This is fun!",
+    "timestamp": "0:10:25",
+    "audio": "/audio/15/0.10.25.mp3"
+  },
+  "130": {
+    "speaker": "POLAR BEAR",
+    "character": "でしょう",
+    "definition": "Isn't it?",
+    "timestamp": "0:10:29",
+    "audio": "/audio/15/0.10.29.mp3"
+  },
+  "131": {
+    "speaker": "PENGUIN",
+    "character": "白熊君相談って何",
+    "definition": "What did you want to talk about, Polar Bear?",
+    "timestamp": "0:10:42",
+    "audio": "/audio/15/0.10.42.mp3"
+  },
+  "132": {
+    "speaker": "SASAKO",
+    "character": "それが",
+    "definition": "Well...",
+    "timestamp": "0:10:47",
+    "audio": "/audio/15/0.10.47.mp3"
+  },
+  "133": {
+    "speaker": "PENGUIN",
+    "character": "どうしたの　僕でよかったら相談に乗るよ",
+    "definition": "What's the matter? I'll be happy to listen.",
+    "timestamp": "0:10:54",
+    "audio": "/audio/15/0.10.54.mp3"
+  },
+  "134": {
+    "speaker": "PENGUIN",
+    "character": "え工ｴｴｪｪ(´д｀)ｪｪｴｴ工",
+    "definition": "What?!",
+    "timestamp": "0:10:58",
+    "audio": "/audio/15/0.10.58.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "たった数日でこんなに伸びたの",
+    "definition": "It's only been a few days and they grew this much?!",
+    "timestamp": "0:10:59",
+    "audio": "/audio/15/0.10.59.mp3"
+  },
+  "136": {
+    "speaker": "POLAR BEAR",
+    "character": "夏の雑草は　伸びるの早いんだよ",
+    "definition": "The weeds grow fast in the summer.",
+    "timestamp": "0:11:03",
+    "audio": "/audio/15/0.11.03.mp3"
+  },
+  "137": {
+    "speaker": "PENGUIN",
+    "character": "僕が手伝う理由が見えないんだけど",
+    "definition": "I'm not seeing why I should help here.",
+    "timestamp": "0:11:07",
+    "audio": "/audio/15/0.11.07.mp3"
+  },
+  "138": {
+    "speaker": "POLAR BEAR",
+    "character": "ほら　僕は寒いところの生き物だから",
+    "definition": "You know, because I'm an animal that's from a cold place.",
+    "timestamp": "0:11:10",
+    "audio": "/audio/15/0.11.10.mp3"
+  },
+  "139": {
+    "speaker": "PENGUIN",
+    "character": "だから　僕もだよ",
+    "definition": "I'm telling you, so am I! This is a clay figure I just found.",
+    "timestamp": "0:11:14",
+    "audio": "/audio/15/0.11.14.mp3"
+  },
+  "140": {
+    "speaker": "PENGUIN",
+    "character": "笹子さん　その報告はもういいから",
+    "definition": "Miss Sasako, we really don't need to hear that anymore.",
+    "timestamp": "0:11:20",
+    "audio": "/audio/15/0.11.20.mp3"
+  }
+}

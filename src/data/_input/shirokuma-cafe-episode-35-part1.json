@@ -1,0 +1,1969 @@
+{
+  "1": {
+    "speaker": "PENGUIN",
+    "character": "ナマケモノくん 前にも面接来たけど",
+    "definition": "You came here for an interview before,",
+    "timestamp": "0:01:40",
+    "audio": "/audio/35/0.01.40.mp3"
+  },
+  "2": {
+    "speaker": "",
+    "character": "採用にならなかったじゃない",
+    "definition": "and failed, remember?",
+    "timestamp": "0:01:43",
+    "audio": "/audio/35/0.01.43.mp3"
+  },
+  "3": {
+    "speaker": "SLOTH",
+    "character": "住み込み希望で～す",
+    "definition": "I would like to live in...",
+    "timestamp": "0:01:46",
+    "audio": "/audio/35/0.01.46.mp3"
+  },
+  "4": {
+    "speaker": "POLAR BEAR",
+    "character": "不合格!",
+    "definition": "I'm sorry, you fail.",
+    "timestamp": "0:01:49",
+    "audio": "/audio/35/0.01.49.mp3"
+  },
+  "5": {
+    "speaker": "SLOTH",
+    "character": "あれは～ 面接にきたわけじゃ…",
+    "definition": "I didn't... actually come for an interview...",
+    "timestamp": "0:01:53",
+    "audio": "/audio/35/0.01.53.mp3"
+  },
+  "6": {
+    "speaker": "POLAR BEAR",
+    "character": "そうだったね",
+    "definition": "That's true.",
+    "timestamp": "0:01:58",
+    "audio": "/audio/35/0.01.58.mp3"
+  },
+  "7": {
+    "speaker": "SLOTH",
+    "character": "改めて～ お願いします～",
+    "definition": "With that being said... could I get an interview?",
+    "timestamp": "0:02:00",
+    "audio": "/audio/35/0.02.00.mp3"
+  },
+  "8": {
+    "speaker": "POLAR BEAR",
+    "character": "いいよ",
+    "definition": "Sure. Thank you...",
+    "timestamp": "0:02:04",
+    "audio": "/audio/35/0.02.04.mp3"
+  },
+  "9": {
+    "speaker": "SASAKO",
+    "character": "よかったですね",
+    "definition": "That's great news. Yes.",
+    "timestamp": "0:02:08",
+    "audio": "/audio/35/0.02.08.mp3"
+  },
+  "10": {
+    "speaker": "PANDA",
+    "character": "じゃあ 笹子さんは クビだね",
+    "definition": "That would mean you're fired, Miss Sasako.",
+    "timestamp": "0:02:12",
+    "audio": "/audio/35/0.02.12.mp3"
+  },
+  "11": {
+    "speaker": "SASAKO",
+    "character": "えっ!?",
+    "definition": "What?!",
+    "timestamp": "0:02:15",
+    "audio": "/audio/35/0.02.15.mp3"
+  },
+  "12": {
+    "speaker": "POLAR BEAR",
+    "character": "もう１人くらい バイトがいてもいいよ",
+    "definition": "I wouldn't mind having another part-timer.",
+    "timestamp": "0:02:17",
+    "audio": "/audio/35/0.02.17.mp3"
+  },
+  "13": {
+    "speaker": "POLAR BEAR",
+    "character": "僕が 休みやすくなるから",
+    "definition": "I could take more breaks that way.",
+    "timestamp": "0:02:20",
+    "audio": "/audio/35/0.02.20.mp3"
+  },
+  "14": {
+    "speaker": "PANDA",
+    "character": "シロクマくんが ナマケモノになっちゃうね",
+    "definition": "Then you'll become a sloth, Polar Bear.",
+    "timestamp": "0:02:22",
+    "audio": "/audio/35/0.02.22.mp3"
+  },
+  "15": {
+    "speaker": "POLAR BEAR",
+    "character": "ナマケモノカフェだね",
+    "definition": "It'll be Sloth's Café.",
+    "timestamp": "0:02:26",
+    "audio": "/audio/35/0.02.26.mp3"
+  },
+  "16": {
+    "speaker": "PENGUIN",
+    "character": "やる気なさそうなカフェだな～",
+    "definition": "Sounds like a rather lazy café.",
+    "timestamp": "0:02:28",
+    "audio": "/audio/35/0.02.28.mp3"
+  },
+  "17": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃ 面接を始めようか",
+    "definition": "Well then, let's begin the interview.",
+    "timestamp": "0:02:33",
+    "audio": "/audio/35/0.02.33.mp3"
+  },
+  "18": {
+    "speaker": "SLOTH",
+    "character": "履歴書～",
+    "definition": "Here's my résumé... You actually made one.",
+    "timestamp": "0:02:37",
+    "audio": "/audio/35/0.02.37.mp3"
+  },
+  "19": {
+    "speaker": "POLAR BEAR",
+    "character": "どのくらい かかったの?",
+    "definition": "How long did it take you?",
+    "timestamp": "0:02:41",
+    "audio": "/audio/35/0.02.41.mp3"
+  },
+  "20": {
+    "speaker": "SLOTH",
+    "character": "１か月～",
+    "definition": "A month...",
+    "timestamp": "0:02:45",
+    "audio": "/audio/35/0.02.45.mp3"
+  },
+  "21": {
+    "speaker": "PENGUIN",
+    "character": "この時点で 不採用じゃないのかな…",
+    "definition": "I think we could stop this interview right now.",
+    "timestamp": "0:02:48",
+    "audio": "/audio/35/0.02.48.mp3"
+  },
+  "22": {
+    "speaker": "SASAKO",
+    "character": "せっかくなので履歴書の中身も 見てあげてください",
+    "definition": "Since he worked so hard on it, please at least look at the résumé. What?!",
+    "timestamp": "0:02:52",
+    "audio": "/audio/35/0.02.52.mp3"
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "ナマケモノくん 大学 行ってたの!?",
+    "definition": "Sloth, you went to college?!",
+    "timestamp": "0:03:03",
+    "audio": "/audio/35/0.03.03.mp3"
+  },
+  "24": {
+    "speaker": "PENGUIN",
+    "character": "大学院まで出てるんだ…",
+    "definition": "And you even went to graduate school...",
+    "timestamp": "0:03:09",
+    "audio": "/audio/35/0.03.09.mp3"
+  },
+  "25": {
+    "speaker": "POLAR BEAR",
+    "character": "高学歴だね…",
+    "definition": "That's a pretty high level of academic achievement.",
+    "timestamp": "0:03:12",
+    "audio": "/audio/35/0.03.12.mp3"
+  },
+  "26": {
+    "speaker": "PANDA",
+    "character": "ナマケモノくんの大学生活って どんなふうだったの?",
+    "definition": "So what was college life like for you, Sloth?",
+    "timestamp": "0:03:14",
+    "audio": "/audio/35/0.03.14.mp3"
+  },
+  "27": {
+    "speaker": "SLOTH",
+    "character": "ずっと 木の上でした～",
+    "definition": "I was always on top of a tree...",
+    "timestamp": "0:03:19",
+    "audio": "/audio/35/0.03.19.mp3"
+  },
+  "28": {
+    "speaker": "PENGUIN",
+    "character": "よく 卒業できたね",
+    "definition": "I'm surprised you were able to graduate...",
+    "timestamp": "0:03:22",
+    "audio": "/audio/35/0.03.22.mp3"
+  },
+  "29": {
+    "speaker": "POLAR BEAR",
+    "character": "特技は 樹上生活研究",
+    "definition": "Your skills... \"Research of being up in a tree.\"",
+    "timestamp": "0:03:24",
+    "audio": "/audio/35/0.03.24.mp3"
+  },
+  "30": {
+    "speaker": "SLOTH",
+    "character": "一生の ほとんど 木の上で ジッとしてます",
+    "definition": "I've spent nearly all of my life... living up in a tree, barely moving...",
+    "timestamp": "0:03:29",
+    "audio": "/audio/35/0.03.29.mp3"
+  },
+  "31": {
+    "speaker": "PENGUIN",
+    "character": "それ 特技かな…",
+    "definition": "I wonder if you can call that a skill...",
+    "timestamp": "0:03:35",
+    "audio": "/audio/35/0.03.35.mp3"
+  },
+  "32": {
+    "speaker": "POLAR BEAR",
+    "character": "趣味は 社交ダンス",
+    "definition": "Your hobbies are... \"Ballroom dancing.\" I don't think you can do that up in a tree.",
+    "timestamp": "0:03:38",
+    "audio": "/audio/35/0.03.38.mp3"
+  },
+  "33": {
+    "speaker": "POLAR BEAR",
+    "character": "他にアピールすることないかな?",
+    "definition": "Do you have any other traits that may be appealing?",
+    "timestamp": "0:03:46",
+    "audio": "/audio/35/0.03.46.mp3"
+  },
+  "34": {
+    "speaker": "SLOTH",
+    "character": "あります～",
+    "definition": "I do... when I get older...",
+    "timestamp": "0:03:49",
+    "audio": "/audio/35/0.03.49.mp3"
+  },
+  "35": {
+    "speaker": "SLOTH",
+    "character": "体にコケが～ 生えます～",
+    "definition": "Algae grows on my body...",
+    "timestamp": "0:03:55",
+    "audio": "/audio/35/0.03.55.mp3"
+  },
+  "36": {
+    "speaker": "POLAR BEAR",
+    "character": "合格!",
+    "definition": "You pass!",
+    "timestamp": "0:04:01",
+    "audio": "/audio/35/0.04.01.mp3"
+  },
+  "37": {
+    "speaker": "PENGUIN",
+    "character": "え?!なんで!?",
+    "definition": "What?! Why?!",
+    "timestamp": "0:04:03",
+    "audio": "/audio/35/0.04.03.mp3"
+  },
+  "38": {
+    "speaker": "POLAR BEAR",
+    "character": "おもしろそうだから 明日から来なよ",
+    "definition": "Because this could be fun. You can start tomorrow.",
+    "timestamp": "0:04:05",
+    "audio": "/audio/35/0.04.05.mp3"
+  },
+  "39": {
+    "speaker": "SASAKO",
+    "character": "よかったですね ナマケモノさん",
+    "definition": "Congratulations, Mr. Sloth. I'll do my best...",
+    "timestamp": "0:04:09",
+    "audio": "/audio/35/0.04.09.mp3"
+  },
+  "40": {
+    "speaker": "PENGUIN",
+    "character": "大丈夫かな～",
+    "definition": "I wonder if he'll be okay.",
+    "timestamp": "0:04:18",
+    "audio": "/audio/35/0.04.18.mp3"
+  },
+  "41": {
+    "speaker": "SASAKO",
+    "character": "ナマケモノさん 来ませんね～",
+    "definition": "Mr. Sloth hasn't shown up yet...",
+    "timestamp": "0:04:27",
+    "audio": "/audio/35/0.04.27.mp3"
+  },
+  "42": {
+    "speaker": "SASAKO",
+    "character": "やっぱり 様子見にいきましょうか?",
+    "definition": "Maybe we should go check on him?",
+    "timestamp": "0:04:30",
+    "audio": "/audio/35/0.04.30.mp3"
+  },
+  "43": {
+    "speaker": "POLAR BEAR",
+    "character": "そのうち来るよ",
+    "definition": "I'm sure he'll be here eventually. Good morning...",
+    "timestamp": "0:04:33",
+    "audio": "/audio/35/0.04.33.mp3"
+  },
+  "44": {
+    "speaker": "PANDA",
+    "character": "こんにちは",
+    "definition": "Hello.",
+    "timestamp": "0:04:39",
+    "audio": "/audio/35/0.04.39.mp3"
+  },
+  "45": {
+    "speaker": "PENGUIN",
+    "character": "よく来たね なんか 感動した!",
+    "definition": "You actually made it. I'm sort of moved.",
+    "timestamp": "0:04:41",
+    "audio": "/audio/35/0.04.41.mp3"
+  },
+  "46": {
+    "speaker": "POLAR BEAR",
+    "character": "どれくらい前に 出てきたの?",
+    "definition": "How long ago did you leave your place? Twelve hours ago...",
+    "timestamp": "0:04:45",
+    "audio": "/audio/35/0.04.45.mp3"
+  },
+  "47": {
+    "speaker": "PENGUIN",
+    "character": "半日かかって来たの!?",
+    "definition": "You literally spent half a day getting here?!",
+    "timestamp": "0:04:51",
+    "audio": "/audio/35/0.04.51.mp3"
+  },
+  "48": {
+    "speaker": "PANDA",
+    "character": "すご～い!",
+    "definition": "That's amazing!",
+    "timestamp": "0:04:53",
+    "audio": "/audio/35/0.04.53.mp3"
+  },
+  "49": {
+    "speaker": "SLOTH",
+    "character": "がんばりま～す",
+    "definition": "I'll do... my best...",
+    "timestamp": "0:04:56",
+    "audio": "/audio/35/0.04.56.mp3"
+  },
+  "50": {
+    "speaker": "LADY",
+    "character": "すみませ～ん",
+    "definition": "Pardon me.",
+    "timestamp": "0:05:01",
+    "audio": "/audio/35/0.05.01.mp3"
+  },
+  "51": {
+    "speaker": "POLAR BEAR",
+    "character": "はい!",
+    "definition": "Yes, ma'am. All right, Sloth. Please go take her order.",
+    "timestamp": "0:05:03",
+    "audio": "/audio/35/0.05.03.mp3"
+  },
+  "52": {
+    "speaker": "SLOTH",
+    "character": "は～い～",
+    "definition": "Okay...",
+    "timestamp": "0:05:08",
+    "audio": "/audio/35/0.05.08.mp3"
+  },
+  "53": {
+    "speaker": "PENGUIN",
+    "character": "あそこまで どのくらいかかるの?",
+    "definition": "How long will it take you to get over there?",
+    "timestamp": "0:05:15",
+    "audio": "/audio/35/0.05.15.mp3"
+  },
+  "54": {
+    "speaker": "SLOTH",
+    "character": "３０分くらい～",
+    "definition": "About thirty minutes...",
+    "timestamp": "0:05:18",
+    "audio": "/audio/35/0.05.18.mp3"
+  },
+  "55": {
+    "speaker": "PANDA",
+    "character": "お客さん帰っちゃうね",
+    "definition": "She'll probably leave.",
+    "timestamp": "0:05:22",
+    "audio": "/audio/35/0.05.22.mp3"
+  },
+  "56": {
+    "speaker": "SASAKO",
+    "character": "あの… 私 行ってきますね",
+    "definition": "Um, I'll go take her order.",
+    "timestamp": "0:05:25",
+    "audio": "/audio/35/0.05.25.mp3"
+  },
+  "57": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ テーブル拭いてくれるかな?",
+    "definition": "Will you wipe off the tables, then?",
+    "timestamp": "0:05:30",
+    "audio": "/audio/35/0.05.30.mp3"
+  },
+  "58": {
+    "speaker": "SLOTH",
+    "character": "は～い～",
+    "definition": "Okay...",
+    "timestamp": "0:05:33",
+    "audio": "/audio/35/0.05.33.mp3"
+  },
+  "59": {
+    "speaker": "PENGUIN",
+    "character": "かれこれ… ２時間は拭いてるね",
+    "definition": "He's been cleaning that table for about two hours.",
+    "timestamp": "0:05:40",
+    "audio": "/audio/35/0.05.40.mp3"
+  },
+  "60": {
+    "speaker": "PANDA",
+    "character": "頑張ってるね～",
+    "definition": "He's working hard.",
+    "timestamp": "0:05:43",
+    "audio": "/audio/35/0.05.43.mp3"
+  },
+  "61": {
+    "speaker": "PENGUIN",
+    "character": "パンダくんも ちょっと見習ったら?",
+    "definition": "You should learn from him, Panda.",
+    "timestamp": "0:05:45",
+    "audio": "/audio/35/0.05.45.mp3"
+  },
+  "62": {
+    "speaker": "PANDA",
+    "character": "ナマケモノくんを見てると",
+    "definition": "Watching Sloth is like being told that we can't hurry life.",
+    "timestamp": "0:05:47",
+    "audio": "/audio/35/0.05.47.mp3"
+  },
+  "63": {
+    "speaker": "PENGUIN",
+    "character": "キミは自分に 都合よく考える天才だね",
+    "definition": "You're an absolute genius when it comes to twisting thoughts to suit you.",
+    "timestamp": "0:05:55",
+    "audio": "/audio/35/0.05.55.mp3"
+  },
+  "64": {
+    "speaker": "POLAR BEAR",
+    "character": "ナマケモノくん 次はコップ拭いてくれる?",
+    "definition": "Could you wipe off some cups next, Sloth? Okay...",
+    "timestamp": "0:05:59",
+    "audio": "/audio/35/0.05.59.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "終わったのは ３時間かけて１個だけだね",
+    "definition": "So he's finally done with one cup after three hours.",
+    "timestamp": "0:06:12",
+    "audio": "/audio/35/0.06.12.mp3"
+  },
+  "66": {
+    "speaker": "PENGUIN",
+    "character": "なんだか… 悠久って言葉を思い出したよ",
+    "definition": "The word \"eternity\" comes to mind...",
+    "timestamp": "0:06:16",
+    "audio": "/audio/35/0.06.16.mp3"
+  },
+  "67": {
+    "speaker": "POLAR BEAR",
+    "character": "ゆうきゅう?",
+    "definition": "Eternity {\\i1}(yukyu){\\i0}? That would be a pitch {\\i1}(toukyu){\\i0}. That would be table tennis {\\i1}(takkyu){\\i0}. Those would be deep breaths {\\i1}(shinkokyu){\\i0}.",
+    "timestamp": "0:06:20",
+    "audio": "/audio/35/0.06.20.mp3"
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "悠久ってなに?",
+    "definition": "What does eternity mean?",
+    "timestamp": "0:06:36",
+    "audio": "/audio/35/0.06.36.mp3"
+  },
+  "69": {
+    "speaker": "PENGUIN",
+    "character": "果てしなく長いってことだよ",
+    "definition": "It means a long time that never ends. He's asleep...",
+    "timestamp": "0:06:38",
+    "audio": "/audio/35/0.06.38.mp3"
+  },
+  "70": {
+    "speaker": "POLAR BEAR",
+    "character": "活動限界が来たようだね",
+    "definition": "I believe he's used up his energy.",
+    "timestamp": "0:06:49",
+    "audio": "/audio/35/0.06.49.mp3"
+  },
+  "71": {
+    "speaker": "SASAKO",
+    "character": "すみません…",
+    "definition": "I'm sorry...",
+    "timestamp": "0:06:57",
+    "audio": "/audio/35/0.06.57.mp3"
+  },
+  "72": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんが 謝ることはないよ",
+    "definition": "You don't need to apologize, Miss Sasako.",
+    "timestamp": "0:06:59",
+    "audio": "/audio/35/0.06.59.mp3"
+  },
+  "73": {
+    "speaker": "PENGUIN",
+    "character": "夜明け前に出発したっぽいから しかたないよね",
+    "definition": "Well, he did leave his place before dawn, so I guess it can't be helped.",
+    "timestamp": "0:07:02",
+    "audio": "/audio/35/0.07.02.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "また あんなに新聞たまってるよ?",
+    "definition": "His newspapers are piling up again. Well, he said he only goes home once a week. He should probably just stop getting the paper...",
+    "timestamp": "0:07:08",
+    "audio": "/audio/35/0.07.08.mp3"
+  },
+  "75": {
+    "speaker": "SASAKO",
+    "character": "折り込み広告を見るのが 好きなんですって",
+    "definition": "He apparently likes to read the ad inserts.",
+    "timestamp": "0:07:21",
+    "audio": "/audio/35/0.07.21.mp3"
+  },
+  "76": {
+    "speaker": "POLAR BEAR",
+    "character": "ナマケモノくんが広告見る頃には",
+    "definition": "By the time Sloth looks at the advertisements,",
+    "timestamp": "0:07:25",
+    "audio": "/audio/35/0.07.25.mp3"
+  },
+  "77": {
+    "speaker": "POLAR BEAR",
+    "character": "もうその特売 終わってるんじゃない?",
+    "definition": "I think the sales would be over.",
+    "timestamp": "0:07:27",
+    "audio": "/audio/35/0.07.27.mp3"
+  },
+  "78": {
+    "speaker": "SASAKO",
+    "character": "そうなんですけどね…",
+    "definition": "Yes, that's true... Wow. It's pretty tidy.",
+    "timestamp": "0:07:30",
+    "audio": "/audio/35/0.07.30.mp3"
+  },
+  "79": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さん 時々来て 掃除してるみたいだしね",
+    "definition": "Miss Sasako comes by sometimes to tidy up the place.",
+    "timestamp": "0:07:40",
+    "audio": "/audio/35/0.07.40.mp3"
+  },
+  "80": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "Yes, I do.",
+    "timestamp": "0:07:44",
+    "audio": "/audio/35/0.07.44.mp3"
+  },
+  "81": {
+    "speaker": "PANDA",
+    "character": "笹子さん働き者だね",
+    "definition": "You're such a hard worker, Miss Sasako.",
+    "timestamp": "0:07:45",
+    "audio": "/audio/35/0.07.45.mp3"
+  },
+  "82": {
+    "speaker": "POLAR BEAR",
+    "character": "そういえば時々買い物や散歩にも連れていってあげてるよね",
+    "definition": "Now that I think about it, you sometimes take him shopping and on walks, too, don't you?",
+    "timestamp": "0:07:48",
+    "audio": "/audio/35/0.07.48.mp3"
+  },
+  "83": {
+    "speaker": "SASAKO",
+    "character": "えぇ",
+    "definition": "Indeed.",
+    "timestamp": "0:07:53",
+    "audio": "/audio/35/0.07.53.mp3"
+  },
+  "84": {
+    "speaker": "PENGUIN",
+    "character": "大変だね…",
+    "definition": "Sounds like a lot of trouble.",
+    "timestamp": "0:08:08",
+    "audio": "/audio/35/0.08.08.mp3"
+  },
+  "85": {
+    "speaker": "SASAKO",
+    "character": "そうでもないですよ",
+    "definition": "Not really.",
+    "timestamp": "0:08:09",
+    "audio": "/audio/35/0.08.09.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "僕も連れてってよ 竹につかまるから～",
+    "definition": "You should take me, too. I'll just hold on to some bamboo.",
+    "timestamp": "0:08:11",
+    "audio": "/audio/35/0.08.11.mp3"
+  },
+  "87": {
+    "speaker": "PENGUIN",
+    "character": "パンダくんは重いから無理でしょ?",
+    "definition": "You're awfully heavy, so I doubt that'll work. I'm sure it'll be fine.",
+    "timestamp": "0:08:15",
+    "audio": "/audio/35/0.08.15.mp3"
+  },
+  "88": {
+    "speaker": "PENGUIN",
+    "character": "いつも思うけど キミのその自信はどこから来るんだろうね",
+    "definition": "I've always wondered something... Where does your self-confidence come from? Huh? My house... Are you awake?",
+    "timestamp": "0:08:27",
+    "audio": "/audio/35/0.08.27.mp3"
+  },
+  "89": {
+    "speaker": "SASAKO",
+    "character": "シロクマさんが運んでくれたんですよ",
+    "definition": "Mr. Polar Bear carried you here. So I'm fired...",
+    "timestamp": "0:08:41",
+    "audio": "/audio/35/0.08.41.mp3"
+  },
+  "90": {
+    "speaker": "POLAR BEAR",
+    "character": "いや また明日来なよ",
+    "definition": "Nope. You can come again tomorrow.",
+    "timestamp": "0:08:50",
+    "audio": "/audio/35/0.08.50.mp3"
+  },
+  "91": {
+    "speaker": "SLOTH",
+    "character": "ほんと～?",
+    "definition": "Really?",
+    "timestamp": "0:08:53",
+    "audio": "/audio/35/0.08.53.mp3"
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "ナマケモノくん どうして そんなに働きたいの?",
+    "definition": "Why do you want to work so badly, Sloth?",
+    "timestamp": "0:08:55",
+    "audio": "/audio/35/0.08.55.mp3"
+  },
+  "93": {
+    "speaker": "SLOTH",
+    "character": "ごちそうしたくて～",
+    "definition": "I want to treat... Miss Sasako to dinner...",
+    "timestamp": "0:09:00",
+    "audio": "/audio/35/0.09.00.mp3"
+  },
+  "94": {
+    "speaker": "SASAKO",
+    "character": "えっ?",
+    "definition": "Huh?",
+    "timestamp": "0:09:06",
+    "audio": "/audio/35/0.09.06.mp3"
+  },
+  "95": {
+    "speaker": "SLOTH",
+    "character": "いつもお世話になってるのに 何もできなくて～",
+    "definition": "She's always helping me out... And I can't do anything for her...",
+    "timestamp": "0:09:08",
+    "audio": "/audio/35/0.09.08.mp3"
+  },
+  "96": {
+    "speaker": "SLOTH",
+    "character": "たまには ガンバリモノに ならなくっちゃって…",
+    "definition": "So I figured... I needed to be a hard worker at times...",
+    "timestamp": "0:09:16",
+    "audio": "/audio/35/0.09.16.mp3"
+  },
+  "97": {
+    "speaker": "SASAKO",
+    "character": "気にしないでください",
+    "definition": "Please don't worry about it. I actually want to thank you.",
+    "timestamp": "0:09:24",
+    "audio": "/audio/35/0.09.24.mp3"
+  },
+  "98": {
+    "speaker": "SLOTH",
+    "character": "え～?",
+    "definition": "What?",
+    "timestamp": "0:09:30",
+    "audio": "/audio/35/0.09.30.mp3"
+  },
+  "99": {
+    "speaker": "SASAKO",
+    "character": "私が今 こうやって しろくまカフェで 働くことになったのも",
+    "definition": "The reason I even got to work at Polar Bear's Café",
+    "timestamp": "0:09:32",
+    "audio": "/audio/35/0.09.32.mp3"
+  },
+  "100": {
+    "speaker": "SASAKO",
+    "character": "もともとは ナマケモノさんのおかげですし",
+    "definition": "is actually because of you, Mr. Sloth.",
+    "timestamp": "0:09:38",
+    "audio": "/audio/35/0.09.38.mp3"
+  },
+  "101": {
+    "speaker": "POLAR BEAR",
+    "character": "そうだね ナマケモノくんのおかげだね",
+    "definition": "That's true. It is because of you, Sloth.",
+    "timestamp": "0:09:41",
+    "audio": "/audio/35/0.09.41.mp3"
+  },
+  "102": {
+    "speaker": "SLOTH",
+    "character": "シロクマさん…",
+    "definition": "Mr. Polar Bear... Not to mention, I feel very relaxed when I'm with you, Mr. Sloth.",
+    "timestamp": "0:09:46",
+    "audio": "/audio/35/0.09.46.mp3"
+  },
+  "103": {
+    "speaker": "SASAKO",
+    "character": "だから… 私のほうこそ お礼を言わせてください",
+    "definition": "So please, allow me to thank you.",
+    "timestamp": "0:09:56",
+    "audio": "/audio/35/0.09.56.mp3"
+  },
+  "104": {
+    "speaker": "SLOTH",
+    "character": "笹子さん…",
+    "definition": "Miss Sasako...",
+    "timestamp": "0:10:01",
+    "audio": "/audio/35/0.10.01.mp3"
+  },
+  "105": {
+    "speaker": "SLOTH",
+    "character": "じゃあ 働かないよ～",
+    "definition": "Then I won't work... I'll continue being a sloth...",
+    "timestamp": "0:10:06",
+    "audio": "/audio/35/0.10.06.mp3"
+  },
+  "106": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:10:13",
+    "audio": "/audio/35/0.10.13.mp3"
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "じゃあ 僕も ゴロゴロしたままでいるよ～",
+    "definition": "Then I'll continue lazing around, too.",
+    "timestamp": "0:10:14",
+    "audio": "/audio/35/0.10.14.mp3"
+  },
+  "108": {
+    "speaker": "PENGUIN",
+    "character": "キミは もうちょっと… 頑張りなよ",
+    "definition": "I think you should actually try working a little harder.",
+    "timestamp": "0:10:18",
+    "audio": "/audio/35/0.10.18.mp3"
+  },
+  "109": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんへの クリスマスプレゼント?",
+    "definition": "A Christmas present for Miss Sasako? I know it's a little early,",
+    "timestamp": "0:10:31",
+    "audio": "/audio/35/0.10.31.mp3"
+  },
+  "110": {
+    "speaker": "",
+    "character": "何がいいかな",
+    "definition": "but what should I get her? Well...",
+    "timestamp": "0:10:38",
+    "audio": "/audio/35/0.10.38.mp3"
+  },
+  "111": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんに何が欲しいか聞こう",
+    "definition": "Let's ask Miss Sasako what she wants.",
+    "timestamp": "0:10:42",
+    "audio": "/audio/35/0.10.42.mp3"
+  },
+  "112": {
+    "speaker": "HANDA",
+    "character": "え… なんて聞くつもり?",
+    "definition": "Huh? What are you going to ask her? I'll tell her, \"Mr. Handa wants to get you a Christmas present.",
+    "timestamp": "0:10:45",
+    "audio": "/audio/35/0.10.45.mp3"
+  },
+  "113": {
+    "speaker": "",
+    "character": "何がいいかって",
+    "definition": "What would you like?\"",
+    "timestamp": "0:10:52",
+    "audio": "/audio/35/0.10.52.mp3"
+  },
+  "114": {
+    "speaker": "HANDA",
+    "character": "それじゃ 直接的すぎるよ!",
+    "definition": "That's way too direct!",
+    "timestamp": "0:10:54",
+    "audio": "/audio/35/0.10.54.mp3"
+  },
+  "115": {
+    "speaker": "HANDA",
+    "character": "もっと こう… 遠まわしに聞いてくれる?",
+    "definition": "Couldn't you be a little more subtle?",
+    "timestamp": "0:10:56",
+    "audio": "/audio/35/0.10.56.mp3"
+  },
+  "116": {
+    "speaker": "POLAR BEAR",
+    "character": "わかった じゃあ…",
+    "definition": "All right, then I'll ask,",
+    "timestamp": "0:10:59",
+    "audio": "/audio/35/0.10.59.mp3"
+  },
+  "117": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんに好意を寄せてる 動物園に勤務してる人が",
+    "definition": "\"What gift could a person working at the zoo, who has feelings for you,",
+    "timestamp": "0:11:01",
+    "audio": "/audio/35/0.11.01.mp3"
+  },
+  "118": {
+    "speaker": "",
+    "character": "そんなに負担にならずに 買えるくらいのもので",
+    "definition": "get for you without being too much of a burden?\"",
+    "timestamp": "0:11:06",
+    "audio": "/audio/35/0.11.06.mp3"
+  },
+  "119": {
+    "speaker": "HANDA",
+    "character": "ちょっと待って!",
+    "definition": "Hold on!",
+    "timestamp": "0:11:11",
+    "audio": "/audio/35/0.11.11.mp3"
+  },
+  "120": {
+    "speaker": "HANDA",
+    "character": "それも全部 言っちゃってるよ!",
+    "definition": "You're telling her everything with that statement, too!",
+    "timestamp": "0:11:12",
+    "audio": "/audio/35/0.11.12.mp3"
+  },
+  "121": {
+    "speaker": "POLAR BEAR",
+    "character": "え～?",
+    "definition": "What?",
+    "timestamp": "0:11:15",
+    "audio": "/audio/35/0.11.15.mp3"
+  },
+  "122": {
+    "speaker": "HANDA",
+    "character": "もっと さりげなく聞いてよ",
+    "definition": "Ask her much more nonchalantly, please...",
+    "timestamp": "0:11:16",
+    "audio": "/audio/35/0.11.16.mp3"
+  },
+  "123": {
+    "speaker": "POLAR BEAR",
+    "character": "注文が多いね…",
+    "definition": "That's a rather tall order.",
+    "timestamp": "0:11:19",
+    "audio": "/audio/35/0.11.19.mp3"
+  },
+  "124": {
+    "speaker": "LESSER",
+    "character": "ご注文ですか?",
+    "definition": "Are you ready to order?",
+    "timestamp": "0:11:21",
+    "audio": "/audio/35/0.11.21.mp3"
+  },
+  "125": {
+    "speaker": "POLAR BEAR",
+    "character": "ううん 半田さんが僕に注文してるの",
+    "definition": "No. Mr. Handa is giving me an order.",
+    "timestamp": "0:11:23",
+    "audio": "/audio/35/0.11.23.mp3"
+  },
+  "126": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんが クリスマスに何が欲しいか さりげなく聞いてくれって",
+    "definition": "He's asking me to nonchalantly ask Miss Sasako what she would like for Christmas.",
+    "timestamp": "0:11:27",
+    "audio": "/audio/35/0.11.27.mp3"
+  },
+  "127": {
+    "speaker": "LESSER",
+    "character": "さりげなく… ですか",
+    "definition": "Nonchalantly?",
+    "timestamp": "0:11:32",
+    "audio": "/audio/35/0.11.32.mp3"
+  },
+  "128": {
+    "speaker": "POLAR BEAR",
+    "character": "難しいよね",
+    "definition": "Rather hard, isn't it? Well, is there something you'd like, Mr. Handa?",
+    "timestamp": "0:11:35",
+    "audio": "/audio/35/0.11.35.mp3"
+  },
+  "129": {
+    "speaker": "HANDA",
+    "character": "掃除機が壊れちゃったから 新しいのが欲しいかな…",
+    "definition": "My vacuum broke, so I was thinking I might like a new one. Then let's get her a vacuum.",
+    "timestamp": "0:11:41",
+    "audio": "/audio/35/0.11.41.mp3"
+  },
+  "130": {
+    "speaker": "HANDA",
+    "character": "いや それ 僕の欲しいものだし…",
+    "definition": "Um, that's something that {\\i1}I{\\i0} want.",
+    "timestamp": "0:11:48",
+    "audio": "/audio/35/0.11.48.mp3"
+  },
+  "131": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ… ベンチプレスや ローラーはどう?",
+    "definition": "Then... How about a bench press set or rollers? Those are things you want, aren't they?",
+    "timestamp": "0:11:51",
+    "audio": "/audio/35/0.11.51.mp3"
+  },
+  "132": {
+    "speaker": "LESSER",
+    "character": "調査してみては どうでしょう?",
+    "definition": "Why not gather a little intel? How?",
+    "timestamp": "0:11:59",
+    "audio": "/audio/35/0.11.59.mp3"
+  },
+  "133": {
+    "speaker": "SASAKO",
+    "character": "アンケート?",
+    "definition": "A questionnaire?",
+    "timestamp": "0:12:09",
+    "audio": "/audio/35/0.12.09.mp3"
+  },
+  "134": {
+    "speaker": "POLAR BEAR",
+    "character": "そう",
+    "definition": "Yep.",
+    "timestamp": "0:12:11",
+    "audio": "/audio/35/0.12.11.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "何のアンケート?",
+    "definition": "For what?",
+    "timestamp": "0:12:12",
+    "audio": "/audio/35/0.12.12.mp3"
+  },
+  "136": {
+    "speaker": "POLAR BEAR",
+    "character": "内緒…",
+    "definition": "It's a secret.",
+    "timestamp": "0:12:14",
+    "audio": "/audio/35/0.12.14.mp3"
+  },
+  "137": {
+    "speaker": "PANDA",
+    "character": "僕も答えるよ",
+    "definition": "I'll answer, too! You don't have to, Panda.",
+    "timestamp": "0:12:15",
+    "audio": "/audio/35/0.12.15.mp3"
+  },
+  "138": {
+    "speaker": "PANDA",
+    "character": "どうして?",
+    "definition": "Why?",
+    "timestamp": "0:12:19",
+    "audio": "/audio/35/0.12.19.mp3"
+  },
+  "139": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんじゃないから",
+    "definition": "Because you're not Miss Sasako.",
+    "timestamp": "0:12:21",
+    "audio": "/audio/35/0.12.21.mp3"
+  },
+  "140": {
+    "speaker": "PENGUIN",
+    "character": "何それ?",
+    "definition": "What the heck?",
+    "timestamp": "0:12:24",
+    "audio": "/audio/35/0.12.24.mp3"
+  },
+  "141": {
+    "speaker": "POLAR BEAR",
+    "character": "このアンケートは 回答者が 笹子さんなのが重要なんだよ",
+    "definition": "It's important that the person answering this questionnaire is Miss Sasako.",
+    "timestamp": "0:12:25",
+    "audio": "/audio/35/0.12.25.mp3"
+  },
+  "142": {
+    "speaker": "SASAKO",
+    "character": "そうなんですか?",
+    "definition": "It is? Seriously, what is this? A questionnaire only for Miss Sasako?",
+    "timestamp": "0:12:30",
+    "audio": "/audio/35/0.12.30.mp3"
+  },
+  "143": {
+    "speaker": "POLAR BEAR",
+    "character": "人間の女性消費者の 好みと傾向を調査するんだよ",
+    "definition": "It's to find out the interests of young female humans.",
+    "timestamp": "0:12:35",
+    "audio": "/audio/35/0.12.35.mp3"
+  },
+  "144": {
+    "speaker": "PENGUIN",
+    "character": "そうなんだ",
+    "definition": "I see...",
+    "timestamp": "0:12:40",
+    "audio": "/audio/35/0.12.40.mp3"
+  },
+  "145": {
+    "speaker": "SASAKO",
+    "character": "え～と…",
+    "definition": "Let's see...",
+    "timestamp": "0:12:42",
+    "audio": "/audio/35/0.12.42.mp3"
+  },
+  "146": {
+    "speaker": "SASAKO",
+    "character": "好きな色は 何ですか?",
+    "definition": "What is your favorite color?",
+    "timestamp": "0:12:44",
+    "audio": "/audio/35/0.12.44.mp3"
+  },
+  "147": {
+    "speaker": "PANDA",
+    "character": "白と黒だよ",
+    "definition": "Black and white!",
+    "timestamp": "0:12:47",
+    "audio": "/audio/35/0.12.47.mp3"
+  },
+  "148": {
+    "speaker": "PENGUIN",
+    "character": "いや パンダくんはいいから",
+    "definition": "No, she wasn't asking you.",
+    "timestamp": "0:12:50",
+    "audio": "/audio/35/0.12.50.mp3"
+  },
+  "149": {
+    "speaker": "PANDA",
+    "character": "そうなの?",
+    "definition": "Really? Did you listen to a word we said?",
+    "timestamp": "0:12:53",
+    "audio": "/audio/35/0.12.53.mp3"
+  },
+  "150": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんは?",
+    "definition": "What about you, Miss Sasako?",
+    "timestamp": "0:12:57",
+    "audio": "/audio/35/0.12.57.mp3"
+  },
+  "151": {
+    "speaker": "SASAKO",
+    "character": "そうですね… 特別に好きな色ってないですね",
+    "definition": "Let's see... I don't think I really have a favorite color.",
+    "timestamp": "0:12:59",
+    "audio": "/audio/35/0.12.59.mp3"
+  },
+  "152": {
+    "speaker": "POLAR BEAR",
+    "character": "特になし… っと",
+    "definition": "Doesn't really have one... Okay, next?",
+    "timestamp": "0:13:04",
+    "audio": "/audio/35/0.13.04.mp3"
+  },
+  "153": {
+    "speaker": "SASAKO",
+    "character": "えっと…趣味は何ですか?",
+    "definition": "Um... What is your hobby?",
+    "timestamp": "0:13:08",
+    "audio": "/audio/35/0.13.08.mp3"
+  },
+  "154": {
+    "speaker": "PANDA",
+    "character": "パンダグッズ集めだよ",
+    "definition": "I collect panda merchandise!",
+    "timestamp": "0:13:12",
+    "audio": "/audio/35/0.13.12.mp3"
+  },
+  "155": {
+    "speaker": "PENGUIN",
+    "character": "だから… パンダくんはいいんだよ?",
+    "definition": "Like I said, she's not asking you, Panda.",
+    "timestamp": "0:13:16",
+    "audio": "/audio/35/0.13.16.mp3"
+  },
+  "156": {
+    "speaker": "PANDA",
+    "character": "じゃあ ペンギンさんの つまんない趣味はなに?",
+    "definition": "Then what's your boring hobby, Mr. Penguin?",
+    "timestamp": "0:13:18",
+    "audio": "/audio/35/0.13.18.mp3"
+  },
+  "157": {
+    "speaker": "PENGUIN",
+    "character": "つまんなくないよ!",
+    "definition": "It's not boring!",
+    "timestamp": "0:13:22",
+    "audio": "/audio/35/0.13.22.mp3"
+  },
+  "158": {
+    "speaker": "",
+    "character": "というか 笹子さんの答えを聞こう",
+    "definition": "More importantly, let's hear Miss Sasako's answer.",
+    "timestamp": "0:13:24",
+    "audio": "/audio/35/0.13.24.mp3"
+  },
+  "159": {
+    "speaker": "SASAKO",
+    "character": "趣味というほどのものは…",
+    "definition": "I don't have anything that'd be considered a hobby... Doesn't really have one... Okay, next?",
+    "timestamp": "0:13:27",
+    "audio": "/audio/35/0.13.27.mp3"
+  },
+  "160": {
+    "speaker": "SASAKO",
+    "character": "え～と… 最近 ハマっていることは?",
+    "definition": "Um, what is your latest obsession?",
+    "timestamp": "0:13:34",
+    "audio": "/audio/35/0.13.34.mp3"
+  },
+  "161": {
+    "speaker": "SASAKO",
+    "character": "ダンゴムシを触ることですね",
+    "definition": "It would be touching pillbugs.",
+    "timestamp": "0:13:38",
+    "audio": "/audio/35/0.13.38.mp3"
+  },
+  "162": {
+    "speaker": "PENGUIN",
+    "character": "何それ?",
+    "definition": "What the heck? It's an app on my phone. I'm currently obsessed with a game where you see how many of them",
+    "timestamp": "0:13:42",
+    "audio": "/audio/35/0.13.42.mp3"
+  },
+  "163": {
+    "speaker": "",
+    "character": "っていうゲームに ハマってるんです",
+    "definition": "you can touch within a given time.",
+    "timestamp": "0:13:50",
+    "audio": "/audio/35/0.13.50.mp3"
+  },
+  "164": {
+    "speaker": "PENGUIN",
+    "character": "なんか 年頃の女子にしては 珍しいね",
+    "definition": "Sounds rather unusual for a girl your age.",
+    "timestamp": "0:13:54",
+    "audio": "/audio/35/0.13.54.mp3"
+  },
+  "165": {
+    "speaker": "SASAKO",
+    "character": "そうですか?",
+    "definition": "You think so? You're sure a toughie, Miss Sasako.",
+    "timestamp": "0:13:58",
+    "audio": "/audio/35/0.13.58.mp3"
+  },
+  "166": {
+    "speaker": "LESSER",
+    "character": "せっかく アンケート作ったのに",
+    "definition": "It's a shame that the questionnaire we made didn't work out.",
+    "timestamp": "0:14:07",
+    "audio": "/audio/35/0.14.07.mp3"
+  },
+  "167": {
+    "speaker": "POLAR BEAR",
+    "character": "だよね",
+    "definition": "Indeed. Next we'll have a ladies gathering.",
+    "timestamp": "0:14:12",
+    "audio": "/audio/35/0.14.12.mp3"
+  },
+  "168": {
+    "speaker": "POLAR BEAR",
+    "character": "女子会?",
+    "definition": "Ladies gathering?",
+    "timestamp": "0:14:16",
+    "audio": "/audio/35/0.14.16.mp3"
+  },
+  "169": {
+    "speaker": "LESSER",
+    "character": "というわけです",
+    "definition": "So, that's what's going on. All right.",
+    "timestamp": "0:14:21",
+    "audio": "/audio/35/0.14.21.mp3"
+  },
+  "170": {
+    "speaker": "PANDA MAMA",
+    "character": "笹子さんの欲しいものや好みを聞き出せばいいのね?",
+    "definition": "So we just have to find out what Miss Sasako wants and her interests, right?",
+    "timestamp": "0:14:24",
+    "audio": "/audio/35/0.14.24.mp3"
+  },
+  "171": {
+    "speaker": "LESSER",
+    "character": "よろしくお願いします!",
+    "definition": "Thank you for your cooperation.",
+    "timestamp": "0:14:28",
+    "audio": "/audio/35/0.14.28.mp3"
+  },
+  "172": {
+    "speaker": "SASAKO",
+    "character": "こんばんは!",
+    "definition": "Good evening.",
+    "timestamp": "0:14:30",
+    "audio": "/audio/35/0.14.30.mp3"
+  },
+  "173": {
+    "speaker": "SASAKO",
+    "character": "いいんですか? 私も参加させていただいて",
+    "definition": "Are you sure it's all right that I join you? Of course!",
+    "timestamp": "0:14:33",
+    "audio": "/audio/35/0.14.33.mp3"
+  },
+  "174": {
+    "speaker": "MAMA RS",
+    "character": "今日はおしゃべり楽しみましょ",
+    "definition": "Let's enjoy our chat together.",
+    "timestamp": "0:14:38",
+    "audio": "/audio/35/0.14.38.mp3"
+  },
+  "175": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "All right.",
+    "timestamp": "0:14:41",
+    "audio": "/audio/35/0.14.41.mp3"
+  },
+  "176": {
+    "speaker": "PANDA MAMA",
+    "character": "ほら 寒くなってきたでしょ?",
+    "definition": "Since it's getting cold lately,",
+    "timestamp": "0:14:43",
+    "audio": "/audio/35/0.14.43.mp3"
+  },
+  "177": {
+    "speaker": "PANDA MAMA",
+    "character": "そろそろ 耳あてが欲しいのよね",
+    "definition": "I've been thinking about buying earmuffs. But it's hard to find a pair that will fit pandas.",
+    "timestamp": "0:14:46",
+    "audio": "/audio/35/0.14.46.mp3"
+  },
+  "178": {
+    "speaker": "MAMA RS",
+    "character": "私は 手袋が欲しいのよ",
+    "definition": "I've been wanting gloves myself.",
+    "timestamp": "0:14:55",
+    "audio": "/audio/35/0.14.55.mp3"
+  },
+  "179": {
+    "speaker": "MAMA RS",
+    "character": "売ってるのはみんな サイズが大きくて～",
+    "definition": "But all of the ones on sale are too big.",
+    "timestamp": "0:14:58",
+    "audio": "/audio/35/0.14.58.mp3"
+  },
+  "180": {
+    "speaker": "KING",
+    "character": "エゾリスママは 冬眠しないから",
+    "definition": "It's important that you keep warm, Mama Red Squirrel,",
+    "timestamp": "0:15:02",
+    "audio": "/audio/35/0.15.02.mp3"
+  },
+  "181": {
+    "speaker": "KING",
+    "character": "防寒も大切よね～",
+    "definition": "since you don't hibernate. How about thumb covers?",
+    "timestamp": "0:15:05",
+    "audio": "/audio/35/0.15.05.mp3"
+  },
+  "182": {
+    "speaker": "MAMA RS",
+    "character": "あれは ちょっと きついのよね～",
+    "definition": "Sadly, those are a little tight.",
+    "timestamp": "0:15:09",
+    "audio": "/audio/35/0.15.09.mp3"
+  },
+  "183": {
+    "speaker": "KING",
+    "character": "私が 今 欲しいのはね～",
+    "definition": "The thing I want right now is...",
+    "timestamp": "0:15:13",
+    "audio": "/audio/35/0.15.13.mp3"
+  },
+  "184": {
+    "speaker": "LESSER",
+    "character": "皆さんの 欲しいものじゃなくて",
+    "definition": "We don't need to know what all of you want.",
+    "timestamp": "0:15:16",
+    "audio": "/audio/35/0.15.16.mp3"
+  },
+  "185": {
+    "speaker": "LESSER",
+    "character": "笹子さんの欲しいものを 聞き出してください!",
+    "definition": "Please just find out what Miss Sasako wants! Oh, by the way, Miss Sasako. I have something I wanted to ask you.",
+    "timestamp": "0:15:18",
+    "audio": "/audio/35/0.15.18.mp3"
+  },
+  "186": {
+    "speaker": "PANDA MAMA",
+    "character": "もうすぐヤマアラシのコンサートチケットが発売になるの",
+    "definition": "Yama Arashi's concert tickets are going on sale soon.",
+    "timestamp": "0:15:27",
+    "audio": "/audio/35/0.15.27.mp3"
+  },
+  "187": {
+    "speaker": "PANDA MAMA",
+    "character": "笹子さんも行かない?",
+    "definition": "Would you like to go with us, Miss Sasako?",
+    "timestamp": "0:15:31",
+    "audio": "/audio/35/0.15.31.mp3"
+  },
+  "188": {
+    "speaker": "PANDA MAMA",
+    "character": "すっごく楽しいわよ!",
+    "definition": "It's so much fun!",
+    "timestamp": "0:15:35",
+    "audio": "/audio/35/0.15.35.mp3"
+  },
+  "189": {
+    "speaker": "MAMA RS",
+    "character": "私も行きたいわ",
+    "definition": "I'd like to go, too!",
+    "timestamp": "0:15:37",
+    "audio": "/audio/35/0.15.37.mp3"
+  },
+  "190": {
+    "speaker": "SASAKO",
+    "character": "でも 私アイドルとかあまり知りませんし",
+    "definition": "But I don't know much about idols...",
+    "timestamp": "0:15:40",
+    "audio": "/audio/35/0.15.40.mp3"
+  },
+  "191": {
+    "speaker": "KING",
+    "character": "なに言ってるのよ～",
+    "definition": "What are you talking about?",
+    "timestamp": "0:15:43",
+    "audio": "/audio/35/0.15.43.mp3"
+  },
+  "192": {
+    "speaker": "KING",
+    "character": "いくつになってもときめく心を 忘れちゃダメなのよ! 女子は!",
+    "definition": "A woman must never forget how it feels to have a crush, no matter how old she is!",
+    "timestamp": "0:15:45",
+    "audio": "/audio/35/0.15.45.mp3"
+  },
+  "193": {
+    "speaker": "LADY",
+    "character": "そうよ～",
+    "definition": "That's true.",
+    "timestamp": "0:15:50",
+    "audio": "/audio/35/0.15.50.mp3"
+  },
+  "194": {
+    "speaker": "PANDA MAMA",
+    "character": "チケット ５枚とるから",
+    "definition": "I'll be ordering five tickets, then.",
+    "timestamp": "0:15:51",
+    "audio": "/audio/35/0.15.51.mp3"
+  },
+  "195": {
+    "speaker": "KING",
+    "character": "じゃあ決まりね!",
+    "definition": "Then it's settled! It's going to be so much fun!",
+    "timestamp": "0:15:54",
+    "audio": "/audio/35/0.15.54.mp3"
+  },
+  "196": {
+    "speaker": "KING",
+    "character": "笹子さんは どのメンバーのファンなの?",
+    "definition": "Which member do you like, Miss Sasako?",
+    "timestamp": "0:15:58",
+    "audio": "/audio/35/0.15.58.mp3"
+  },
+  "197": {
+    "speaker": "SASAKO",
+    "character": "いえ よく知らないので",
+    "definition": "Well, I don't know much about them...",
+    "timestamp": "0:16:01",
+    "audio": "/audio/35/0.16.01.mp3"
+  },
+  "198": {
+    "speaker": "KING",
+    "character": "あら そうなの",
+    "definition": "{\\a6}Oh, really? \"Please ask Miss Sasako...\"",
+    "timestamp": "0:16:03",
+    "audio": "/audio/35/0.16.03.mp3"
+  },
+  "199": {
+    "speaker": "",
+    "character": "笹子さんの欲しい物…",
+    "definition": "{\\a6}Then I'll tell you all about them.",
+    "timestamp": "0:16:05",
+    "audio": "/audio/35/0.16.05.mp3"
+  },
+  "200": {
+    "speaker": "PANDA MAMA",
+    "character": "あらやだ 笹子さん まだ 何も注文してなかったわね",
+    "definition": "Oh, goodness. You haven't ordered anything yet, Miss Sasako.",
+    "timestamp": "0:16:08",
+    "audio": "/audio/35/0.16.08.mp3"
+  },
+  "201": {
+    "speaker": "MAMA RS",
+    "character": "あら! 気がつかなかったわ",
+    "definition": "Oh my. I didn't even notice.",
+    "timestamp": "0:16:12",
+    "audio": "/audio/35/0.16.12.mp3"
+  },
+  "202": {
+    "speaker": "KING",
+    "character": "ダメよ 遠慮してちゃ",
+    "definition": "Don't hold back.",
+    "timestamp": "0:16:15",
+    "audio": "/audio/35/0.16.15.mp3"
+  },
+  "203": {
+    "speaker": "MAMA RS",
+    "character": "聞きたいのは 注文じゃないんですが…",
+    "definition": "{\\a6}Oh, how careless of us.",
+    "timestamp": "0:16:18",
+    "audio": "/audio/35/0.16.18.mp3"
+  },
+  "204": {
+    "speaker": "LESSER",
+    "character": "聞きたいのは 注文じゃないんですが…",
+    "definition": "I didn't mean her order for here... {\\a6}I know.",
+    "timestamp": "0:16:18",
+    "audio": "/audio/35/0.16.18.mp3"
+  },
+  "205": {
+    "speaker": "PANDA MAMA",
+    "character": "私が初めて デートしたときのことなんだけど",
+    "definition": "So when I was on my first date... Ooh, what, what?",
+    "timestamp": "0:16:23",
+    "audio": "/audio/35/0.16.23.mp3"
+  },
+  "206": {
+    "speaker": "PANDA MAMA",
+    "character": "彼ったらビッグパフェを頼んだのよ",
+    "definition": "I couldn't believe it. He ordered the big parfait for us.",
+    "timestamp": "0:16:29",
+    "audio": "/audio/35/0.16.29.mp3"
+  },
+  "207": {
+    "speaker": "MAMA RS",
+    "character": "かわいいじゃない",
+    "definition": "How cute! More importantly, how'd you two end up dating?",
+    "timestamp": "0:16:33",
+    "audio": "/audio/35/0.16.33.mp3"
+  },
+  "208": {
+    "speaker": "PANDA MAMA",
+    "character": "恥ずかしいわ そんなこと話すの",
+    "definition": "Oh, that'd be too embarrassing to talk about.",
+    "timestamp": "0:16:39",
+    "audio": "/audio/35/0.16.39.mp3"
+  },
+  "209": {
+    "speaker": "MAMA RS",
+    "character": "聞きたいわよね 笹子さん",
+    "definition": "We totally want to hear about it, don't we, Miss Sasako? Yes...",
+    "timestamp": "0:16:42",
+    "audio": "/audio/35/0.16.42.mp3"
+  },
+  "210": {
+    "speaker": "KING",
+    "character": "私はね 初デートのとき…",
+    "definition": "On my first date...",
+    "timestamp": "0:16:48",
+    "audio": "/audio/35/0.16.48.mp3"
+  },
+  "211": {
+    "speaker": "GUY PENGUIN",
+    "character": "トビウオ 食べ放題ですよ",
+    "definition": "I got you all-you-can-eat flying fish.",
+    "timestamp": "0:16:52",
+    "audio": "/audio/35/0.16.52.mp3"
+  },
+  "212": {
+    "speaker": "KING",
+    "character": "トビウオはないわよね～",
+    "definition": "Flying fish just isn't right!",
+    "timestamp": "0:16:55",
+    "audio": "/audio/35/0.16.55.mp3"
+  },
+  "213": {
+    "speaker": "LADY",
+    "character": "そうね～",
+    "definition": "I know.",
+    "timestamp": "0:16:57",
+    "audio": "/audio/35/0.16.57.mp3"
+  },
+  "214": {
+    "speaker": "MAMA RS",
+    "character": "基本… 女心が わかってないのよね 男子って",
+    "definition": "Men really don't know what women are thinking.",
+    "timestamp": "0:16:58",
+    "audio": "/audio/35/0.16.58.mp3"
+  },
+  "215": {
+    "speaker": "PANDA MAMA",
+    "character": "ほんと! ねっ 笹子さん",
+    "definition": "So true. Right, Miss Sasako? Pardon me.",
+    "timestamp": "0:17:02",
+    "audio": "/audio/35/0.17.02.mp3"
+  },
+  "216": {
+    "speaker": "",
+    "character": "こぶ茶 おかわりお願いします!",
+    "definition": "Could I get another kelp tea, please?",
+    "timestamp": "0:17:09",
+    "audio": "/audio/35/0.17.09.mp3"
+  },
+  "217": {
+    "speaker": "LESSER",
+    "character": "は… はい!",
+    "definition": "Oh, right away!",
+    "timestamp": "0:17:12",
+    "audio": "/audio/35/0.17.12.mp3"
+  },
+  "218": {
+    "speaker": "MAMA RS",
+    "character": "やっぱり どんなに すてきな人でも",
+    "definition": "No matter how wonderful a guy may be,",
+    "timestamp": "0:17:14",
+    "audio": "/audio/35/0.17.14.mp3"
+  },
+  "219": {
+    "speaker": "MAMA RS",
+    "character": "尻尾がかっこよくなくちゃ 嫌なの",
+    "definition": "his tail has to look amazing.",
+    "timestamp": "0:17:17",
+    "audio": "/audio/35/0.17.17.mp3"
+  },
+  "220": {
+    "speaker": "MAMA RS",
+    "character": "特に振り方よ!",
+    "definition": "Especially how he swings it.",
+    "timestamp": "0:17:20",
+    "audio": "/audio/35/0.17.20.mp3"
+  },
+  "221": {
+    "speaker": "PANDA MAMA",
+    "character": "そうなの?",
+    "definition": "Really? So the tail is what's important to red squirrels.",
+    "timestamp": "0:17:23",
+    "audio": "/audio/35/0.17.23.mp3"
+  },
+  "222": {
+    "speaker": "MAMA RS",
+    "character": "尻尾って大事よ",
+    "definition": "It's very important.",
+    "timestamp": "0:17:28",
+    "audio": "/audio/35/0.17.28.mp3"
+  },
+  "223": {
+    "speaker": "SASAKO",
+    "character": "こぶ茶 おかわりお願いします!",
+    "definition": "Could I get another kelp tea, please? Oh, right away!",
+    "timestamp": "0:17:31",
+    "audio": "/audio/35/0.17.31.mp3"
+  },
+  "224": {
+    "speaker": "LESSER",
+    "character": "笹子さん こぶ茶 ５杯目です",
+    "definition": "Miss Sasako is on her fifth kelp tea. This plan has failed.",
+    "timestamp": "0:17:36",
+    "audio": "/audio/35/0.17.36.mp3"
+  },
+  "225": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃ また 僕が動いてみるよ",
+    "definition": "Then I'll make the next move.",
+    "timestamp": "0:17:41",
+    "audio": "/audio/35/0.17.41.mp3"
+  },
+  "226": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん さっきから 何やってるんだろう",
+    "definition": "I wonder what Mr. Polar Bear is up to...",
+    "timestamp": "0:18:03",
+    "audio": "/audio/35/0.18.03.mp3"
+  },
+  "227": {
+    "speaker": "SASAKO",
+    "character": "隠れてるつもりみたいだから 声かけにくい",
+    "definition": "It appears that he's trying to be sneaky, so it'd be difficult to talk to him. Miss Sasako was looking at various things, but didn't buy anything.",
+    "timestamp": "0:18:08",
+    "audio": "/audio/35/0.18.08.mp3"
+  },
+  "228": {
+    "speaker": "POLAR BEAR",
+    "character": "だから 何が好みか わからなかった",
+    "definition": "So I couldn't tell what she liked. I see...",
+    "timestamp": "0:18:20",
+    "audio": "/audio/35/0.18.20.mp3"
+  },
+  "229": {
+    "speaker": "LESSER",
+    "character": "もう 打つ手がないですね…",
+    "definition": "I think we've run out of options here.",
+    "timestamp": "0:18:25",
+    "audio": "/audio/35/0.18.25.mp3"
+  },
+  "230": {
+    "speaker": "HANDA",
+    "character": "何をあげたらいいんだろう…",
+    "definition": "I wonder what I should give her...",
+    "timestamp": "0:18:28",
+    "audio": "/audio/35/0.18.28.mp3"
+  },
+  "231": {
+    "speaker": "POLAR BEAR",
+    "character": "そうだね…",
+    "definition": "Well... Why don't you give her something that you think would be best, Mr. Handa?",
+    "timestamp": "0:18:31",
+    "audio": "/audio/35/0.18.31.mp3"
+  },
+  "232": {
+    "speaker": "HANDA",
+    "character": "え?",
+    "definition": "Huh? That's easier said than done...",
+    "timestamp": "0:18:38",
+    "audio": "/audio/35/0.18.38.mp3"
+  },
+  "233": {
+    "speaker": "LADY",
+    "character": "ありがとうございました",
+    "definition": "Thank you very much.",
+    "timestamp": "0:19:34",
+    "audio": "/audio/35/0.19.34.mp3"
+  },
+  "234": {
+    "speaker": "SASAKO",
+    "character": "あっ 半田さん",
+    "definition": "Oh, Mr. Handa. M-Miss Sasako!",
+    "timestamp": "0:19:38",
+    "audio": "/audio/35/0.19.38.mp3"
+  },
+  "235": {
+    "speaker": "SASAKO",
+    "character": "お買い物ですか?",
+    "definition": "Are you out shopping? Uh, y-yes.",
+    "timestamp": "0:19:43",
+    "audio": "/audio/35/0.19.43.mp3"
+  },
+  "236": {
+    "speaker": "SASAKO",
+    "character": "そうだ よかったら",
+    "definition": "Oh, perfect timing.",
+    "timestamp": "0:19:47",
+    "audio": "/audio/35/0.19.47.mp3"
+  },
+  "237": {
+    "speaker": "SASAKO",
+    "character": "これ どうぞ",
+    "definition": "Please take these.",
+    "timestamp": "0:19:49",
+    "audio": "/audio/35/0.19.49.mp3"
+  },
+  "238": {
+    "speaker": "SASAKO",
+    "character": "安かったんで ちょっと買いすぎちゃって",
+    "definition": "They were cheap, so I bought a few too many.",
+    "timestamp": "0:19:51",
+    "audio": "/audio/35/0.19.51.mp3"
+  },
+  "239": {
+    "speaker": "HANDA",
+    "character": "ジャガイモ?",
+    "definition": "Potatoes?",
+    "timestamp": "0:19:55",
+    "audio": "/audio/35/0.19.55.mp3"
+  },
+  "240": {
+    "speaker": "SASAKO",
+    "character": "あ 料理とかされないですか?",
+    "definition": "Oh, do you not cook?",
+    "timestamp": "0:19:56",
+    "audio": "/audio/35/0.19.56.mp3"
+  },
+  "241": {
+    "speaker": "HANDA",
+    "character": "いえ これ 男爵ですよね?",
+    "definition": "These are Irish Cobbler potatoes, right?",
+    "timestamp": "0:19:59",
+    "audio": "/audio/35/0.19.59.mp3"
+  },
+  "242": {
+    "speaker": "HANDA",
+    "character": "ホクホクしてるからコロッケにすると いいんですよね",
+    "definition": "They don't get soggy, so they're great for croquettes.",
+    "timestamp": "0:20:02",
+    "audio": "/audio/35/0.20.02.mp3"
+  },
+  "243": {
+    "speaker": "SASAKO",
+    "character": "ですよね あと 粉ふきイモもいいですし",
+    "definition": "Indeed. They're great for floured potatoes, too.",
+    "timestamp": "0:20:05",
+    "audio": "/audio/35/0.20.05.mp3"
+  },
+  "244": {
+    "speaker": "",
+    "character": "はい",
+    "definition": "Yep! By the way, have you heard of Inka no mezame potatoes?",
+    "timestamp": "0:20:09",
+    "audio": "/audio/35/0.20.09.mp3"
+  },
+  "245": {
+    "speaker": "SASAKO",
+    "character": "はい 甘みがあって 栗みたいな食感の",
+    "definition": "Yes. They're sweet and have atexture like chestnuts.",
+    "timestamp": "0:20:14",
+    "audio": "/audio/35/0.20.14.mp3"
+  },
+  "246": {
+    "speaker": "HANDA",
+    "character": "あれもおいしいですよね",
+    "definition": "Those are delicious, too.",
+    "timestamp": "0:20:18",
+    "audio": "/audio/35/0.20.18.mp3"
+  },
+  "247": {
+    "speaker": "HANDA",
+    "character": "あと キタアカリとか",
+    "definition": "Then there are Kitaakari potatoes...",
+    "timestamp": "0:20:20",
+    "audio": "/audio/35/0.20.20.mp3"
+  },
+  "248": {
+    "speaker": "SASAKO",
+    "character": "詳しいんですね ジャガイモ",
+    "definition": "Wow, you know a lot about potatoes. Well, I like them...",
+    "timestamp": "0:20:22",
+    "audio": "/audio/35/0.20.22.mp3"
+  },
+  "249": {
+    "speaker": "SASAKO",
+    "character": "私も好きです ジャガイモ",
+    "definition": "I like potatoes, too.",
+    "timestamp": "0:20:27",
+    "audio": "/audio/35/0.20.27.mp3"
+  },
+  "250": {
+    "speaker": "HANDA",
+    "character": "そうですか",
+    "definition": "I see.",
+    "timestamp": "0:20:31",
+    "audio": "/audio/35/0.20.31.mp3"
+  },
+  "251": {
+    "speaker": "SASAKO",
+    "character": "じゃあ また",
+    "definition": "Well, see you later.",
+    "timestamp": "0:20:34",
+    "audio": "/audio/35/0.20.34.mp3"
+  },
+  "252": {
+    "speaker": "HANDA",
+    "character": "は はい",
+    "definition": "Oh, see you.",
+    "timestamp": "0:20:35",
+    "audio": "/audio/35/0.20.35.mp3"
+  },
+  "253": {
+    "speaker": "HANDA",
+    "character": "笹子さん",
+    "definition": "Miss Sasako.",
+    "timestamp": "0:20:46",
+    "audio": "/audio/35/0.20.46.mp3"
+  },
+  "254": {
+    "speaker": "SASAKO",
+    "character": "はい?",
+    "definition": "Yes?",
+    "timestamp": "0:20:47",
+    "audio": "/audio/35/0.20.47.mp3"
+  },
+  "255": {
+    "speaker": "HANDA",
+    "character": "これを",
+    "definition": "Please take this...",
+    "timestamp": "0:20:49",
+    "audio": "/audio/35/0.20.49.mp3"
+  },
+  "256": {
+    "speaker": "HANDA",
+    "character": "ジャガイモのお礼と いってはなんですが…",
+    "definition": "As sort of a thanks for the potatoes. Are you sure? It's wrapped up very nicely.",
+    "timestamp": "0:20:51",
+    "audio": "/audio/35/0.20.51.mp3"
+  },
+  "257": {
+    "speaker": "HANDA",
+    "character": "いえ そのお礼ですから…",
+    "definition": "Well, uh... it's for a thank you.",
+    "timestamp": "0:20:59",
+    "audio": "/audio/35/0.20.59.mp3"
+  },
+  "258": {
+    "speaker": "SASAKO",
+    "character": "ありがとうございます",
+    "definition": "Thank you very much.",
+    "timestamp": "0:21:04",
+    "audio": "/audio/35/0.21.04.mp3"
+  },
+  "259": {
+    "speaker": "SASAKO",
+    "character": "それじゃあ",
+    "definition": "Well, see you later.",
+    "timestamp": "0:21:08",
+    "audio": "/audio/35/0.21.08.mp3"
+  },
+  "260": {
+    "speaker": "HANDA",
+    "character": "はい また",
+    "definition": "See you later.",
+    "timestamp": "0:21:10",
+    "audio": "/audio/35/0.21.10.mp3"
+  },
+  "261": {
+    "speaker": "HANDA",
+    "character": "ジャガイモと小石って 似てるよな",
+    "definition": "Potatoes and pebbles are alike. But maybe I shouldn't have given Miss Sasako the pebble I found...",
+    "timestamp": "0:21:29",
+    "audio": "/audio/35/0.21.29.mp3"
+  },
+  "262": {
+    "speaker": "HANDA",
+    "character": "きれいだけど だいぶ クリスマスより早いし…",
+    "definition": "It's pretty, but it's way tooearly for Christmas.",
+    "timestamp": "0:21:41",
+    "audio": "/audio/35/0.21.41.mp3"
+  },
+  "263": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん",
+    "definition": "Mr. Polar Bear. What is it, Miss Sasako?",
+    "timestamp": "0:21:50",
+    "audio": "/audio/35/0.21.50.mp3"
+  },
+  "264": {
+    "speaker": "SASAKO",
+    "character": "昨日 偶然 半田さんに会って",
+    "definition": "I ran into Mr. Handa coincidentally yesterday",
+    "timestamp": "0:21:54",
+    "audio": "/audio/35/0.21.54.mp3"
+  },
+  "265": {
+    "speaker": "",
+    "character": "これ もらったんですけど…",
+    "definition": "and he gave me this...",
+    "timestamp": "0:21:56",
+    "audio": "/audio/35/0.21.56.mp3"
+  },
+  "266": {
+    "speaker": "POLAR BEAR",
+    "character": "何を?",
+    "definition": "What is it?",
+    "timestamp": "0:21:58",
+    "audio": "/audio/35/0.21.58.mp3"
+  },
+  "267": {
+    "speaker": "SASAKO",
+    "character": "すごく かわいい 小物入れなんです",
+    "definition": "It's a very cute, little box to put trinkets in.",
+    "timestamp": "0:22:00",
+    "audio": "/audio/35/0.22.00.mp3"
+  },
+  "268": {
+    "speaker": "SASAKO",
+    "character": "でも 中にこれが入ってて",
+    "definition": "But this was inside.",
+    "timestamp": "0:22:03",
+    "audio": "/audio/35/0.22.03.mp3"
+  },
+  "269": {
+    "speaker": "SASAKO",
+    "character": "何でしょうね?",
+    "definition": "I'm not sure what this pebble is for.",
+    "timestamp": "0:22:06",
+    "audio": "/audio/35/0.22.06.mp3"
+  },
+  "270": {
+    "speaker": "SASAKO",
+    "character": "すごく きれいなんです",
+    "definition": "It's very pretty. Something good may happen if you take really good care of it.",
+    "timestamp": "0:22:10",
+    "audio": "/audio/35/0.22.10.mp3"
+  },
+  "271": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/35/0.23.58.mp3"
+  },
+  "272": {
+    "speaker": "PENGUIN",
+    "character": "どうしたの パンダ君",
+    "definition": "What's the matter, Panda?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/35/0.23.59.mp3"
+  },
+  "273": {
+    "speaker": "PANDA",
+    "character": "いつもは笹子さんがお楽しみにって言ってくれるでしょう",
+    "definition": "Miss Sasako always says \"Enjoy\" at the end of this, right? I wonder where she is when she says that?",
+    "timestamp": "0:24:01",
+    "audio": "/audio/35/0.24.01.mp3"
+  },
+  "274": {
+    "speaker": "PENGUIN",
+    "character": "探さなくてもいいよ",
+    "definition": "You don't have to look for her.",
+    "timestamp": "0:24:07",
+    "audio": "/audio/35/0.24.07.mp3"
+  },
+  "275": {
+    "speaker": "PANDA",
+    "character": "じゃ ペンギンさんのトラウマはどこにあるんだろう",
+    "definition": "Then where does your trauma lie, Mr. Penguin?",
+    "timestamp": "0:24:08",
+    "audio": "/audio/35/0.24.08.mp3"
+  },
+  "276": {
+    "speaker": "PENGUIN",
+    "character": "それも探さなくてもいいよ",
+    "definition": "You don't need to look for that, either.",
+    "timestamp": "0:24:11",
+    "audio": "/audio/35/0.24.11.mp3"
+  },
+  "277": {
+    "speaker": "PENGUIN",
+    "character": "白熊君 終わろ",
+    "definition": "Let's end this, Polar Bear.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/35/0.24.13.mp3"
+  },
+  "278": {
+    "speaker": "POLAR BEAR",
+    "character": "来週のしろくまカフェは一筆書きでやらせてください",
+    "definition": "Next week's Polar Bear's Café.... will be drawn with a single brush stroke!",
+    "timestamp": "0:24:15",
+    "audio": "/audio/35/0.24.15.mp3"
+  },
+  "279": {
+    "speaker": "PENGUIN",
+    "character": "何その宣言",
+    "definition": "What kind of announcement was that?",
+    "timestamp": "0:24:18",
+    "audio": "/audio/35/0.24.18.mp3"
+  },
+  "280": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:20",
+    "audio": "/audio/35/0.24.20.mp3"
+  },
+  "281": {
+    "speaker": "PANDA",
+    "character": "笹子さんどこにいるんだろう",
+    "definition": "Miss Sasako, where are you?",
+    "timestamp": "0:24:21",
+    "audio": "/audio/35/0.24.21.mp3"
+  }
+}

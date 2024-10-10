@@ -1,0 +1,2200 @@
+{
+  "1": {
+    "speaker": "PANDA",
+    "character": "僕 明日から パンダじゃなくなるんだ",
+    "definition": "I'm not gonna be a panda anymore after tomorrow.",
+    "timestamp": "0:01:35",
+    "audio": "/audio/21/0.01.35.mp3"
+  },
+  "2": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと待って…",
+    "definition": "Hold on...",
+    "timestamp": "0:01:39",
+    "audio": "/audio/21/0.01.39.mp3"
+  },
+  "3": {
+    "speaker": "PENGUIN",
+    "character": "いきなり 何？",
+    "definition": "What are you saying all of a sudden?",
+    "timestamp": "0:01:40",
+    "audio": "/audio/21/0.01.40.mp3"
+  },
+  "4": {
+    "speaker": "SASAKO",
+    "character": "どういうこと？",
+    "definition": "What do you mean?",
+    "timestamp": "0:01:42",
+    "audio": "/audio/21/0.01.42.mp3"
+  },
+  "5": {
+    "speaker": "PANDA",
+    "character": "だから パンダじゃなくなるの",
+    "definition": "I'm saying, that I won't be a panda anymore. Oh?",
+    "timestamp": "0:01:43",
+    "audio": "/audio/21/0.01.43.mp3"
+  },
+  "6": {
+    "speaker": "PENGUIN",
+    "character": "流していいとこかな？",
+    "definition": "Is this something we can just ignore?",
+    "timestamp": "0:01:50",
+    "audio": "/audio/21/0.01.50.mp3"
+  },
+  "7": {
+    "speaker": "SASAKO",
+    "character": "じゃあ 何になるの？",
+    "definition": "Then what are you going to be?",
+    "timestamp": "0:01:52",
+    "audio": "/audio/21/0.01.52.mp3"
+  },
+  "8": {
+    "speaker": "PANDA",
+    "character": "パンダ以外だ",
+    "definition": "Something other than a panda.",
+    "timestamp": "0:01:54",
+    "audio": "/audio/21/0.01.54.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "いや… パンダは パンダ以外にはなれないでしょ",
+    "definition": "I don't think pandas can be anything other than pandas.",
+    "timestamp": "0:01:56",
+    "audio": "/audio/21/0.01.56.mp3"
+  },
+  "10": {
+    "speaker": "PANDA",
+    "character": "なれるよ",
+    "definition": "Of course I can.",
+    "timestamp": "0:02:00",
+    "audio": "/audio/21/0.02.00.mp3"
+  },
+  "11": {
+    "speaker": "PANDA",
+    "character": "配置換えを希望したもん",
+    "definition": "I requested a change in position.",
+    "timestamp": "0:02:02",
+    "audio": "/audio/21/0.02.02.mp3"
+  },
+  "12": {
+    "speaker": "PENGUIN",
+    "character": "配置換え？",
+    "definition": "Change in position?",
+    "timestamp": "0:02:05",
+    "audio": "/audio/21/0.02.05.mp3"
+  },
+  "13": {
+    "speaker": "KIRINO",
+    "character": "辞令",
+    "definition": "\"Notice:",
+    "timestamp": "0:02:12",
+    "audio": "/audio/21/0.02.12.mp3"
+  },
+  "14": {
+    "speaker": "KIRINO",
+    "character": "非常勤パンダ アナグマコーナーに配属を命ず",
+    "definition": "Part-time Panda is hereby reassigned to the Badger Corner. -Zoo Director.\"",
+    "timestamp": "0:02:13",
+    "audio": "/audio/21/0.02.13.mp3"
+  },
+  "15": {
+    "speaker": "HANDA",
+    "character": "パンダくんが アナグマコーナーに？",
+    "definition": "Panda's going to the Badger Corner?",
+    "timestamp": "0:02:20",
+    "audio": "/audio/21/0.02.20.mp3"
+  },
+  "16": {
+    "speaker": "KIRINO",
+    "character": "何 考えてるんですかね？ 園長は…",
+    "definition": "I wonder what in the world the director is thinking.",
+    "timestamp": "0:02:23",
+    "audio": "/audio/21/0.02.23.mp3"
+  },
+  "17": {
+    "speaker": "PANDA",
+    "character": "今日から配属になった パンダです",
+    "definition": "Hello, I've just been reassigned here. My name is Panda.",
+    "timestamp": "0:02:29",
+    "audio": "/audio/21/0.02.29.mp3"
+  },
+  "18": {
+    "speaker": "PANDA",
+    "character": "よろしくお願いしま～す",
+    "definition": "It's a pleasure to work with you.",
+    "timestamp": "0:02:32",
+    "audio": "/audio/21/0.02.32.mp3"
+  },
+  "19": {
+    "speaker": "BADGER1",
+    "character": "えっ！？ パンダくん アナグマになったの？",
+    "definition": "What? You've become a badger?",
+    "timestamp": "0:02:35",
+    "audio": "/audio/21/0.02.35.mp3"
+  },
+  "20": {
+    "speaker": "PANDA",
+    "character": "辞令が出たんだよ",
+    "definition": "There was a decree put forth.",
+    "timestamp": "0:02:38",
+    "audio": "/audio/21/0.02.38.mp3"
+  },
+  "21": {
+    "speaker": "BADGER1",
+    "character": "そうなんだ",
+    "definition": "I see.",
+    "timestamp": "0:02:40",
+    "audio": "/audio/21/0.02.40.mp3"
+  },
+  "22": {
+    "speaker": "",
+    "character": "まぁ パンダの目も 夜行性動物と同じらしいからね",
+    "definition": "Well, pandas do share some traitswith nocturnal animals.",
+    "timestamp": "0:02:42",
+    "audio": "/audio/21/0.02.42.mp3"
+  },
+  "23": {
+    "speaker": "PANDA",
+    "character": "難しい話はいいよ",
+    "definition": "Let's not talk about difficult things.",
+    "timestamp": "0:02:47",
+    "audio": "/audio/21/0.02.47.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "僕 アナグマ がんばるよ",
+    "definition": "I'll do my best as a badger!",
+    "timestamp": "0:02:50",
+    "audio": "/audio/21/0.02.50.mp3"
+  },
+  "25": {
+    "speaker": "BADGER1",
+    "character": "じゃあ 一緒に穴を掘ろうか",
+    "definition": "Then let's dig a hole together.",
+    "timestamp": "0:02:53",
+    "audio": "/audio/21/0.02.53.mp3"
+  },
+  "26": {
+    "speaker": "PANDA",
+    "character": "は～い",
+    "definition": "Okay! Huh?",
+    "timestamp": "0:02:55",
+    "audio": "/audio/21/0.02.55.mp3"
+  },
+  "27": {
+    "speaker": "HANDA",
+    "character": "寝てる…",
+    "definition": "He's sleeping...",
+    "timestamp": "0:03:04",
+    "audio": "/audio/21/0.03.04.mp3"
+  },
+  "28": {
+    "speaker": "HANDA",
+    "character": "ちょっと パンダくん 起きてよ！",
+    "definition": "Hey, Panda, wake up!",
+    "timestamp": "0:03:08",
+    "audio": "/audio/21/0.03.08.mp3"
+  },
+  "29": {
+    "speaker": "PANDA",
+    "character": "あぁ 半田さん おはよう",
+    "definition": "Oh, Mr. Handa. Good morning.",
+    "timestamp": "0:03:14",
+    "audio": "/audio/21/0.03.14.mp3"
+  },
+  "30": {
+    "speaker": "BADGER1",
+    "character": "ちょっと 半田さん！",
+    "definition": "Hey, Mr. Handa.",
+    "timestamp": "0:03:17",
+    "audio": "/audio/21/0.03.17.mp3"
+  },
+  "31": {
+    "speaker": "BADGER1",
+    "character": "パンダくん 寝てばかりで",
+    "definition": "All Panda's been doing is sleeping,",
+    "timestamp": "0:03:20",
+    "audio": "/audio/21/0.03.20.mp3"
+  },
+  "32": {
+    "speaker": "BADGER1",
+    "character": "アナグマとしてのやる気が 全然 感じられないよ",
+    "definition": "so I don't feel that he's serious about being a badger.",
+    "timestamp": "0:03:22",
+    "audio": "/audio/21/0.03.22.mp3"
+  },
+  "33": {
+    "speaker": "PANDA",
+    "character": "やっぱり やる気がないからかな？",
+    "definition": "I wonder if it's because I don't have any intention to be one.",
+    "timestamp": "0:03:26",
+    "audio": "/audio/21/0.03.26.mp3"
+  },
+  "34": {
+    "speaker": "HANDA",
+    "character": "自分で 配置換え 希望したんでしょ？",
+    "definition": "But you requested the reassignment, didn't you? But it's so dark in here.",
+    "timestamp": "0:03:29",
+    "audio": "/audio/21/0.03.29.mp3"
+  },
+  "35": {
+    "speaker": "PANDA",
+    "character": "日の当たらないパンダは",
+    "definition": "A panda that's not out in the sun",
+    "timestamp": "0:03:35",
+    "audio": "/audio/21/0.03.35.mp3"
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "パンダじゃないよ",
+    "definition": "isn't a panda at all.",
+    "timestamp": "0:03:37",
+    "audio": "/audio/21/0.03.37.mp3"
+  },
+  "37": {
+    "speaker": "PANDA",
+    "character": "そうだ！",
+    "definition": "I know!",
+    "timestamp": "0:03:39",
+    "audio": "/audio/21/0.03.39.mp3"
+  },
+  "38": {
+    "speaker": "PANDA",
+    "character": "別の所に配置換えを頼んでみるよ",
+    "definition": "I'll ask to be reassigned to somewhere else.",
+    "timestamp": "0:03:41",
+    "audio": "/audio/21/0.03.41.mp3"
+  },
+  "39": {
+    "speaker": "HANDA",
+    "character": "そんな希望 通るわけないでしょ",
+    "definition": "There's no way they're going to approve that.",
+    "timestamp": "0:03:45",
+    "audio": "/audio/21/0.03.45.mp3"
+  },
+  "40": {
+    "speaker": "HANDA",
+    "character": "通った…",
+    "definition": "It was approved...",
+    "timestamp": "0:03:53",
+    "audio": "/audio/21/0.03.53.mp3"
+  },
+  "41": {
+    "speaker": "KIRINO",
+    "character": "今度は ラッコ…",
+    "definition": "An otter now? Hello, I've been reassigned here. My name is Panda.",
+    "timestamp": "0:03:56",
+    "audio": "/audio/21/0.03.56.mp3"
+  },
+  "42": {
+    "speaker": "PANDA",
+    "character": "よろしくお願いしま～す",
+    "definition": "Pleasure to work with you. You better do your best. It's not easy being an otter.",
+    "timestamp": "0:04:03",
+    "audio": "/audio/21/0.04.03.mp3"
+  },
+  "43": {
+    "speaker": "OTTER",
+    "character": "じゃ 早速 飛び込んでみようか",
+    "definition": "All right, I guess you'd better hop in.",
+    "timestamp": "0:04:10",
+    "audio": "/audio/21/0.04.10.mp3"
+  },
+  "44": {
+    "speaker": "PANDA",
+    "character": "僕は ここで見てるよ",
+    "definition": "I'll just stand here and watch.",
+    "timestamp": "0:04:14",
+    "audio": "/audio/21/0.04.14.mp3"
+  },
+  "45": {
+    "speaker": "OTTER",
+    "character": "何言ってるの",
+    "definition": "What are you talking about?",
+    "timestamp": "0:04:18",
+    "audio": "/audio/21/0.04.18.mp3"
+  },
+  "46": {
+    "speaker": "OTTER",
+    "character": "ラッコは 水の中に入らないとダメでしょ",
+    "definition": "Otters have to be in the water.",
+    "timestamp": "0:04:20",
+    "audio": "/audio/21/0.04.20.mp3"
+  },
+  "47": {
+    "speaker": "OTTER",
+    "character": "じゃあ これ 割ってみようか",
+    "definition": "Why don't you try breaking this open?",
+    "timestamp": "0:04:25",
+    "audio": "/audio/21/0.04.25.mp3"
+  },
+  "48": {
+    "speaker": "OTTER",
+    "character": "これは大事だから",
+    "definition": "This is important. If you can't open a clam, you can't be an otter.",
+    "timestamp": "0:04:27",
+    "audio": "/audio/21/0.04.27.mp3"
+  },
+  "49": {
+    "speaker": "PANDA",
+    "character": "そうなんだ？",
+    "definition": "I see.",
+    "timestamp": "0:04:33",
+    "audio": "/audio/21/0.04.33.mp3"
+  },
+  "50": {
+    "speaker": "OTTER",
+    "character": "見てて",
+    "definition": "Here, watch.",
+    "timestamp": "0:04:35",
+    "audio": "/audio/21/0.04.35.mp3"
+  },
+  "51": {
+    "speaker": "OTTER",
+    "character": "じゃあ やってみようか",
+    "definition": "Now you try it.",
+    "timestamp": "0:04:39",
+    "audio": "/audio/21/0.04.39.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "割れないよ？",
+    "definition": "It's not opening.",
+    "timestamp": "0:04:46",
+    "audio": "/audio/21/0.04.46.mp3"
+  },
+  "53": {
+    "speaker": "OTTER",
+    "character": "もっと力入れて",
+    "definition": "You have to put more strength into it.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/21/0.04.47.mp3"
+  },
+  "54": {
+    "speaker": "PANDA",
+    "character": "ムリだよ？",
+    "definition": "I can't do it.",
+    "timestamp": "0:04:54",
+    "audio": "/audio/21/0.04.54.mp3"
+  },
+  "55": {
+    "speaker": "OTTER",
+    "character": "何言ってるの がんばってよ",
+    "definition": "What are you talking about? Try harder.",
+    "timestamp": "0:04:56",
+    "audio": "/audio/21/0.04.56.mp3"
+  },
+  "56": {
+    "speaker": "PANDA",
+    "character": "お腹 痛いんだよね",
+    "definition": "But my tummy hurts.",
+    "timestamp": "0:04:59",
+    "audio": "/audio/21/0.04.59.mp3"
+  },
+  "57": {
+    "speaker": "OTTER",
+    "character": "僕だって痛いよ",
+    "definition": "So does mine. Oh, I know!",
+    "timestamp": "0:05:02",
+    "audio": "/audio/21/0.05.02.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "ラッコさんのお腹で割らせてよ",
+    "definition": "Let me break it on your stomach.",
+    "timestamp": "0:05:06",
+    "audio": "/audio/21/0.05.06.mp3"
+  },
+  "59": {
+    "speaker": "OTTER",
+    "character": "人のお腹で 貝割るラッコなんていないよ？",
+    "definition": "No self-respecting otter would ask another to break a clam on their stomach.",
+    "timestamp": "0:05:10",
+    "audio": "/audio/21/0.05.10.mp3"
+  },
+  "60": {
+    "speaker": "OTTER",
+    "character": "あっ 半田さん",
+    "definition": "Oh, Mr. Handa.",
+    "timestamp": "0:05:15",
+    "audio": "/audio/21/0.05.15.mp3"
+  },
+  "61": {
+    "speaker": "HANDA",
+    "character": "何？",
+    "definition": "What is it?",
+    "timestamp": "0:05:18",
+    "audio": "/audio/21/0.05.18.mp3"
+  },
+  "62": {
+    "speaker": "OTTER",
+    "character": "この新人さん ダメだよ",
+    "definition": "This newbie is no good.",
+    "timestamp": "0:05:19",
+    "audio": "/audio/21/0.05.19.mp3"
+  },
+  "63": {
+    "speaker": "PANDA",
+    "character": "そもそも 貝割らないからね パンダは",
+    "definition": "Well, pandas don't break open clams in the first place.",
+    "timestamp": "0:05:21",
+    "audio": "/audio/21/0.05.21.mp3"
+  },
+  "64": {
+    "speaker": "PANDA",
+    "character": "仕事としては割るけど",
+    "definition": "I'd do it if it was my job, though.",
+    "timestamp": "0:05:25",
+    "audio": "/audio/21/0.05.25.mp3"
+  },
+  "65": {
+    "speaker": "OTTER",
+    "character": "割ってないじゃない",
+    "definition": "But you haven't.",
+    "timestamp": "0:05:28",
+    "audio": "/audio/21/0.05.28.mp3"
+  },
+  "66": {
+    "speaker": "PANDA",
+    "character": "半田さん ラッコはムリだよ",
+    "definition": "I won't be able to be an otter, Mr. Handa.",
+    "timestamp": "0:05:29",
+    "audio": "/audio/21/0.05.29.mp3"
+  },
+  "67": {
+    "speaker": "HANDA",
+    "character": "パンダくんが配置換え 希望したんでしょ？",
+    "definition": "But you requested the reassignment, didn't you?",
+    "timestamp": "0:05:33",
+    "audio": "/audio/21/0.05.33.mp3"
+  },
+  "68": {
+    "speaker": "KIRINO",
+    "character": "今度は ラマ…",
+    "definition": "This time it's a llama?",
+    "timestamp": "0:05:42",
+    "audio": "/audio/21/0.05.42.mp3"
+  },
+  "69": {
+    "speaker": "KID",
+    "character": "お母さん 早く早く",
+    "definition": "Come on, Mom! Let's go!",
+    "timestamp": "0:05:45",
+    "audio": "/audio/21/0.05.45.mp3"
+  },
+  "70": {
+    "speaker": "MOM",
+    "character": "はいはい",
+    "definition": "Yes, yes.",
+    "timestamp": "0:05:47",
+    "audio": "/audio/21/0.05.47.mp3"
+  },
+  "71": {
+    "speaker": "KIRINO",
+    "character": "えっと…",
+    "definition": "Um... Why am I here?",
+    "timestamp": "0:05:48",
+    "audio": "/audio/21/0.05.48.mp3"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "桐野くん… もう一人いないと 僕 ラマできないからね",
+    "definition": "Well, I can't be a llama without someone to help me.",
+    "timestamp": "0:05:53",
+    "audio": "/audio/21/0.05.53.mp3"
+  },
+  "73": {
+    "speaker": "KIRINO",
+    "character": "でも 僕 他に仕事が…",
+    "definition": "But I have my other duties to attend to.",
+    "timestamp": "0:05:58",
+    "audio": "/audio/21/0.05.58.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "ラマをするのも立派な仕事だよ？",
+    "definition": "Being a llama is an important job, too.",
+    "timestamp": "0:06:01",
+    "audio": "/audio/21/0.06.01.mp3"
+  },
+  "75": {
+    "speaker": "KIRINO",
+    "character": "わかったよ",
+    "definition": "All right.",
+    "timestamp": "0:06:05",
+    "audio": "/audio/21/0.06.05.mp3"
+  },
+  "76": {
+    "speaker": "KIRINO",
+    "character": "でも 前が見えなくて 苦しいね",
+    "definition": "But I can't see anything and it's hard to breathe.",
+    "timestamp": "0:06:07",
+    "audio": "/audio/21/0.06.07.mp3"
+  },
+  "77": {
+    "speaker": "PANDA",
+    "character": "じゃあ 前後交代する？",
+    "definition": "Do you want to trade places, then?",
+    "timestamp": "0:06:10",
+    "audio": "/audio/21/0.06.10.mp3"
+  },
+  "78": {
+    "speaker": "KIRINO",
+    "character": "僕が前だと 意味ないんじゃ…",
+    "definition": "I don't think there's a point to me being up front. I guess the frontis better for me.",
+    "timestamp": "0:06:17",
+    "audio": "/audio/21/0.06.17.mp3"
+  },
+  "79": {
+    "speaker": "LLAMA",
+    "character": "こんにちは パンダくん",
+    "definition": "Hello, Panda.",
+    "timestamp": "0:06:25",
+    "audio": "/audio/21/0.06.25.mp3"
+  },
+  "80": {
+    "speaker": "PANDA",
+    "character": "あぁ ラマさん",
+    "definition": "Oh, hey, Mr. Llama.",
+    "timestamp": "0:06:28",
+    "audio": "/audio/21/0.06.28.mp3"
+  },
+  "81": {
+    "speaker": "PANDA",
+    "character": "よろしくお願いしま～す",
+    "definition": "Pleasure to work with you.",
+    "timestamp": "0:06:30",
+    "audio": "/audio/21/0.06.30.mp3"
+  },
+  "82": {
+    "speaker": "LLAMA",
+    "character": "こちらこそ",
+    "definition": "Same here.",
+    "timestamp": "0:06:32",
+    "audio": "/audio/21/0.06.32.mp3"
+  },
+  "83": {
+    "speaker": "PANDA",
+    "character": "ねぇねぇ 僕 何か ラマっぽいことしたほうがいいよね",
+    "definition": "Hey, I should probably do something llama-like, huh?",
+    "timestamp": "0:06:34",
+    "audio": "/audio/21/0.06.34.mp3"
+  },
+  "84": {
+    "speaker": "LLAMA",
+    "character": "別にいいんじゃないでしょうか",
+    "definition": "No, I think you're fine.",
+    "timestamp": "0:06:39",
+    "audio": "/audio/21/0.06.39.mp3"
+  },
+  "85": {
+    "speaker": "PANDA",
+    "character": "何で？",
+    "definition": "Why?",
+    "timestamp": "0:06:42",
+    "audio": "/audio/21/0.06.42.mp3"
+  },
+  "86": {
+    "speaker": "LLAMA",
+    "character": "誰も見ないと思うんですよ",
+    "definition": "Well, I don't think anyone will be looking. Everyone goes right over to the Giraffe Corner next door. It's a giraffe!",
+    "timestamp": "0:06:44",
+    "audio": "/audio/21/0.06.44.mp3"
+  },
+  "87": {
+    "speaker": "KID",
+    "character": "首長い！",
+    "definition": "Its neck is so long!",
+    "timestamp": "0:06:57",
+    "audio": "/audio/21/0.06.57.mp3"
+  },
+  "88": {
+    "speaker": "KID",
+    "character": "大きいね",
+    "definition": "It's so big!",
+    "timestamp": "0:06:59",
+    "audio": "/audio/21/0.06.59.mp3"
+  },
+  "89": {
+    "speaker": "LLAMA",
+    "character": "ねっ",
+    "definition": "See?",
+    "timestamp": "0:07:02",
+    "audio": "/audio/21/0.07.02.mp3"
+  },
+  "90": {
+    "speaker": "HANDA",
+    "character": "どう ラマうまくやれてる？",
+    "definition": "How's it going? Are you pulling off being a llama?",
+    "timestamp": "0:07:04",
+    "audio": "/audio/21/0.07.04.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "あっ 半田さん",
+    "definition": "Oh, Mr. Handa.",
+    "timestamp": "0:07:08",
+    "audio": "/audio/21/0.07.08.mp3"
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "あのね ここはちょっと やりがいがないと思うんだよね",
+    "definition": "I don't think there's much of a point in me being here.",
+    "timestamp": "0:07:10",
+    "audio": "/audio/21/0.07.10.mp3"
+  },
+  "93": {
+    "speaker": "HANDA",
+    "character": "え～っ？",
+    "definition": "What?",
+    "timestamp": "0:07:15",
+    "audio": "/audio/21/0.07.15.mp3"
+  },
+  "94": {
+    "speaker": "KIRINO",
+    "character": "え～っ！ 今度は飼育係？",
+    "definition": "What?! Now he's a zoo keeper?",
+    "timestamp": "0:07:25",
+    "audio": "/audio/21/0.07.25.mp3"
+  },
+  "95": {
+    "speaker": "KIRINO",
+    "character": "先輩 パンダが飼育係ってありですか？",
+    "definition": "Is it even possible for a panda to be a zoo keeper?",
+    "timestamp": "0:07:29",
+    "audio": "/audio/21/0.07.29.mp3"
+  },
+  "96": {
+    "speaker": "PANDA",
+    "character": "半田さん 桐野くん 今日も１日頑張ろう！",
+    "definition": "Mr. Handa, Kirino, let's all do our best and work hard today!",
+    "timestamp": "0:07:35",
+    "audio": "/audio/21/0.07.35.mp3"
+  },
+  "97": {
+    "speaker": "HANDA",
+    "character": "パンダくん ちゃんとやってるかな",
+    "definition": "I wonder if Panda is actually working...",
+    "timestamp": "0:07:43",
+    "audio": "/audio/21/0.07.43.mp3"
+  },
+  "98": {
+    "speaker": "",
+    "character": "あれ？",
+    "definition": "Huh?",
+    "timestamp": "0:07:52",
+    "audio": "/audio/21/0.07.52.mp3"
+  },
+  "99": {
+    "speaker": "",
+    "character": "おや？",
+    "definition": "Uh...",
+    "timestamp": "0:07:55",
+    "audio": "/audio/21/0.07.55.mp3"
+  },
+  "100": {
+    "speaker": "PANDA",
+    "character": "はい ふれあい動物園です",
+    "definition": "Hello. This is the petting zoo.",
+    "timestamp": "0:08:05",
+    "audio": "/audio/21/0.08.05.mp3"
+  },
+  "101": {
+    "speaker": "PANDA",
+    "character": "僕 よくわからないので あとでかけ直してください",
+    "definition": "I don't really understand, so please call back later.",
+    "timestamp": "0:08:10",
+    "audio": "/audio/21/0.08.10.mp3"
+  },
+  "102": {
+    "speaker": "PANDA",
+    "character": "じゃあ",
+    "definition": "Bye. Wow, this hot spring looks great. I wonder where it is?",
+    "timestamp": "0:08:15",
+    "audio": "/audio/21/0.08.15.mp3"
+  },
+  "103": {
+    "speaker": "HANDA",
+    "character": "パンダくん 何してるの",
+    "definition": "What are you doing, Panda? Oh, good timing.",
+    "timestamp": "0:08:27",
+    "audio": "/audio/21/0.08.27.mp3"
+  },
+  "104": {
+    "speaker": "PANDA",
+    "character": "ねぇねぇ この 温泉どこにあるか知ってる？",
+    "definition": "Hey, do you know where this place is?",
+    "timestamp": "0:08:33",
+    "audio": "/audio/21/0.08.33.mp3"
+  },
+  "105": {
+    "speaker": "HANDA",
+    "character": "そこ僕の席なんだけど",
+    "definition": "That's my seat.",
+    "timestamp": "0:08:38",
+    "audio": "/audio/21/0.08.38.mp3"
+  },
+  "106": {
+    "speaker": "PANDA",
+    "character": "あぁ 半田さん 安心して",
+    "definition": "Oh, don't worry, Mr. Handa.",
+    "timestamp": "0:08:41",
+    "audio": "/audio/21/0.08.41.mp3"
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "半田さんの荷物は そこに置いておいてあげたよ",
+    "definition": "I put all your stuff in a box right over there.",
+    "timestamp": "0:08:44",
+    "audio": "/audio/21/0.08.44.mp3"
+  },
+  "108": {
+    "speaker": "HANDA",
+    "character": "ちょっと 勝手に片づけないでよ",
+    "definition": "Hey! Don't move my stuff around without permission!",
+    "timestamp": "0:08:50",
+    "audio": "/audio/21/0.08.50.mp3"
+  },
+  "109": {
+    "speaker": "HANDA",
+    "character": "っていうか みんなに飼育係の 仕事させて何やってるの！",
+    "definition": "Or rather, what are you doing here while everyone else is doing your job?",
+    "timestamp": "0:08:53",
+    "audio": "/audio/21/0.08.53.mp3"
+  },
+  "110": {
+    "speaker": "PANDA",
+    "character": "デスクワークだよ",
+    "definition": "Desk work!",
+    "timestamp": "0:08:58",
+    "audio": "/audio/21/0.08.58.mp3"
+  },
+  "111": {
+    "speaker": "PANDA",
+    "character": "いや～ 忙しいよ",
+    "definition": "Whew, I'm so busy.",
+    "timestamp": "0:09:00",
+    "audio": "/audio/21/0.09.00.mp3"
+  },
+  "112": {
+    "speaker": "",
+    "character": "電話切ったり パソコンやったり 電話切ったり",
+    "definition": "Hanging up on people and being on the computer. Hanging up on people...",
+    "timestamp": "0:09:03",
+    "audio": "/audio/21/0.09.03.mp3"
+  },
+  "113": {
+    "speaker": "HANDA",
+    "character": "全然 仕事してないじゃない",
+    "definition": "You're not working at all.",
+    "timestamp": "0:09:10",
+    "audio": "/audio/21/0.09.10.mp3"
+  },
+  "114": {
+    "speaker": "HANDA",
+    "character": "ねぇ パンダくん",
+    "definition": "Hey, Panda.",
+    "timestamp": "0:09:16",
+    "audio": "/audio/21/0.09.16.mp3"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "何？",
+    "definition": "What?",
+    "timestamp": "0:09:18",
+    "audio": "/audio/21/0.09.18.mp3"
+  },
+  "116": {
+    "speaker": "HANDA",
+    "character": "飼育係が自分で食べちゃダメでしょ",
+    "definition": "A zookeeper shouldn't eatthe animals' food.",
+    "timestamp": "0:09:20",
+    "audio": "/audio/21/0.09.20.mp3"
+  },
+  "117": {
+    "speaker": "PANDA",
+    "character": "僕 思うんだけどね やっぱり動物に動物の世話は",
+    "definition": "I've been thinking... I don't think it's possible for an animal",
+    "timestamp": "0:09:24",
+    "audio": "/audio/21/0.09.24.mp3"
+  },
+  "118": {
+    "speaker": "",
+    "character": "ムリだと思うんだよね",
+    "definition": "to take care of other animals. You can't keep complaining like that. There's nowhere else you can be reassigned to.",
+    "timestamp": "0:09:29",
+    "audio": "/audio/21/0.09.29.mp3"
+  },
+  "119": {
+    "speaker": "PANDA",
+    "character": "え～っ じゃあ もうあとは 園長やるしかないかな",
+    "definition": "What? Then I guess I'll just have to be the zoo director. Zoo director?",
+    "timestamp": "0:09:37",
+    "audio": "/audio/21/0.09.37.mp3"
+  },
+  "120": {
+    "speaker": "KIRINO",
+    "character": "先輩… それだけは 絶対に阻止しましょうね",
+    "definition": "Let's do whatever we can to stop that from happening.",
+    "timestamp": "0:09:45",
+    "audio": "/audio/21/0.09.45.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "常勤パンダさんは しっかり やってるかな？",
+    "definition": "I wonder if Mr. Full-time Panda is doing his job.",
+    "timestamp": "0:09:50",
+    "audio": "/audio/21/0.09.50.mp3"
+  },
+  "122": {
+    "speaker": "LLAMA",
+    "character": "あっ パンダくんじゃないですか",
+    "definition": "Oh, hello there, Panda.",
+    "timestamp": "0:09:54",
+    "audio": "/audio/21/0.09.54.mp3"
+  },
+  "123": {
+    "speaker": "PANDA",
+    "character": "ラマさん 何やってるの？",
+    "definition": "What are you doing, Mr. Llama?",
+    "timestamp": "0:09:57",
+    "audio": "/audio/21/0.09.57.mp3"
+  },
+  "124": {
+    "speaker": "LLAMA",
+    "character": "配置換えを希望したんですよ",
+    "definition": "I asked to be reassigned. So the Zoo Director reassigned Mr. Llama to the Panda Corner?",
+    "timestamp": "0:10:00",
+    "audio": "/audio/21/0.10.00.mp3"
+  },
+  "125": {
+    "speaker": "FT PANDA",
+    "character": "お～い ラマくん",
+    "definition": "Hey, Llama.",
+    "timestamp": "0:10:08",
+    "audio": "/audio/21/0.10.08.mp3"
+  },
+  "126": {
+    "speaker": "FT PANDA",
+    "character": "今から団体さん来るから サービス よろしくね",
+    "definition": "We're about to get a group of people, so don't forget about the service.",
+    "timestamp": "0:10:11",
+    "audio": "/audio/21/0.10.11.mp3"
+  },
+  "127": {
+    "speaker": "LLAMA",
+    "character": "はい わかりました",
+    "definition": "Okay, understood.",
+    "timestamp": "0:10:15",
+    "audio": "/audio/21/0.10.15.mp3"
+  },
+  "128": {
+    "speaker": "KID",
+    "character": "あっ かわいい！",
+    "definition": "So cute!",
+    "timestamp": "0:10:20",
+    "audio": "/audio/21/0.10.20.mp3"
+  },
+  "129": {
+    "speaker": "KID",
+    "character": "すご～い！！",
+    "definition": "So cool!",
+    "timestamp": "0:10:22",
+    "audio": "/audio/21/0.10.22.mp3"
+  },
+  "130": {
+    "speaker": "GUY",
+    "character": "すごいね",
+    "definition": "They're so great!",
+    "timestamp": "0:10:26",
+    "audio": "/audio/21/0.10.26.mp3"
+  },
+  "131": {
+    "speaker": "KIRINO",
+    "character": "ラマさん 大人気ですね 先輩",
+    "definition": "Mr. Llama is doing rather well, isn't he?",
+    "timestamp": "0:10:29",
+    "audio": "/audio/21/0.10.29.mp3"
+  },
+  "132": {
+    "speaker": "HANDA",
+    "character": "そうだな",
+    "definition": "It appears so.",
+    "timestamp": "0:10:32",
+    "audio": "/audio/21/0.10.32.mp3"
+  },
+  "133": {
+    "speaker": "FT PANDA",
+    "character": "サービス サービス サービス サービス",
+    "definition": "Service, service. Service, service. {\\a6}Service, service. Wow, you're doing great.",
+    "timestamp": "0:10:34",
+    "audio": "/audio/21/0.10.34.mp3"
+  },
+  "134": {
+    "speaker": "LLAMA",
+    "character": "パンダ 向いてるんじゃない？",
+    "definition": "{\\a6}Service, service.",
+    "timestamp": "0:10:41",
+    "audio": "/audio/21/0.10.41.mp3"
+  },
+  "135": {
+    "speaker": "FT PANDA",
+    "character": "パンダ 向いてるんじゃない？",
+    "definition": "I think you're a great panda.",
+    "timestamp": "0:10:41",
+    "audio": "/audio/21/0.10.41.mp3"
+  },
+  "136": {
+    "speaker": "LLAMA",
+    "character": "ラマやってるより 輝いてるよ",
+    "definition": "{\\a6}Service, service.",
+    "timestamp": "0:10:44",
+    "audio": "/audio/21/0.10.44.mp3"
+  },
+  "137": {
+    "speaker": "FT PANDA",
+    "character": "ラマやってるより 輝いてるよ",
+    "definition": "You shine so much brighter than you do as a llama.",
+    "timestamp": "0:10:44",
+    "audio": "/audio/21/0.10.44.mp3"
+  },
+  "138": {
+    "speaker": "LLAMA",
+    "character": "本当ですか？",
+    "definition": "Really?",
+    "timestamp": "0:10:50",
+    "audio": "/audio/21/0.10.50.mp3"
+  },
+  "139": {
+    "speaker": "LLAMA",
+    "character": "サービス サービス！ サービス サービス！",
+    "definition": "Service, service! Service, service! Service, service!",
+    "timestamp": "0:10:52",
+    "audio": "/audio/21/0.10.52.mp3"
+  },
+  "140": {
+    "speaker": "FT PANDA",
+    "character": "いいねぇ キミ ホント 向いてるよ",
+    "definition": "You're doing great. Service, service! You were truly meant for this. Service, service!",
+    "timestamp": "0:10:56",
+    "audio": "/audio/21/0.10.56.mp3"
+  },
+  "141": {
+    "speaker": "KIRINO",
+    "character": "非常勤パンダ パンダコーナーに配属を命ず",
+    "definition": "\"Part-time Panda is hereby reassigned to the Panda Corner.\"",
+    "timestamp": "0:11:04",
+    "audio": "/audio/21/0.11.04.mp3"
+  },
+  "142": {
+    "speaker": "KIRINO",
+    "character": "パンダくん 元に 戻してもらったみたいですね",
+    "definition": "Looks like Panda had himself put back where he started.",
+    "timestamp": "0:11:12",
+    "audio": "/audio/21/0.11.12.mp3"
+  },
+  "143": {
+    "speaker": "PANDA",
+    "character": "やっぱり 僕は パンダが いちばん向いてるね",
+    "definition": "Looks like being a panda is meant for me.",
+    "timestamp": "0:11:22",
+    "audio": "/audio/21/0.11.22.mp3"
+  },
+  "144": {
+    "speaker": "HANDA",
+    "character": "ラマさん これ 今日のお昼ご飯ね",
+    "definition": "Hey, Mr. Llama. Here's your lunch for the day.",
+    "timestamp": "0:11:29",
+    "audio": "/audio/21/0.11.29.mp3"
+  },
+  "145": {
+    "speaker": "LLAMA",
+    "character": "ありがとうございます",
+    "definition": "Thank you very much.",
+    "timestamp": "0:11:33",
+    "audio": "/audio/21/0.11.33.mp3"
+  },
+  "146": {
+    "speaker": "HANDA",
+    "character": "掃除は 午後にやるから",
+    "definition": "I'll be cleaning in the afternoon.",
+    "timestamp": "0:11:35",
+    "audio": "/audio/21/0.11.35.mp3"
+  },
+  "147": {
+    "speaker": "LLAMA",
+    "character": "半田さん",
+    "definition": "Mr. Handa.",
+    "timestamp": "0:11:38",
+    "audio": "/audio/21/0.11.38.mp3"
+  },
+  "148": {
+    "speaker": "HANDA",
+    "character": "何？",
+    "definition": "What is it?",
+    "timestamp": "0:11:40",
+    "audio": "/audio/21/0.11.40.mp3"
+  },
+  "149": {
+    "speaker": "LLAMA",
+    "character": "また配置換えの辞令 出ないですかね",
+    "definition": "I wonder if I'll get another reassignment.",
+    "timestamp": "0:11:46",
+    "audio": "/audio/21/0.11.46.mp3"
+  },
+  "150": {
+    "speaker": "HANDA",
+    "character": "えっ…",
+    "definition": "What...",
+    "timestamp": "0:11:51",
+    "audio": "/audio/21/0.11.51.mp3"
+  },
+  "151": {
+    "speaker": "MEIMEI",
+    "character": "ねぇねぇ お兄ちゃん",
+    "definition": "Hey, Big Brother.",
+    "timestamp": "0:12:13",
+    "audio": "/audio/21/0.12.13.mp3"
+  },
+  "152": {
+    "speaker": "PANDA",
+    "character": "何？ メイメイ",
+    "definition": "What is it, Mei Mei?",
+    "timestamp": "0:12:16",
+    "audio": "/audio/21/0.12.16.mp3"
+  },
+  "153": {
+    "speaker": "MEIMEI",
+    "character": "私 昨日 お兄ちゃんが バイトしてる動物園へ遊びにいったのね",
+    "definition": "I went to the zoo that you work at yesterday.",
+    "timestamp": "0:12:17",
+    "audio": "/audio/21/0.12.17.mp3"
+  },
+  "154": {
+    "speaker": "MEIMEI",
+    "character": "そしたら…",
+    "definition": "And there...",
+    "timestamp": "0:12:23",
+    "audio": "/audio/21/0.12.23.mp3"
+  },
+  "155": {
+    "speaker": "MEIMEI",
+    "character": "すごい かっこいい人 見つけちゃったの！",
+    "definition": "I saw this really good-looking guy!",
+    "timestamp": "0:12:26",
+    "audio": "/audio/21/0.12.26.mp3"
+  },
+  "156": {
+    "speaker": "PANDA",
+    "character": "えっ？ 動物園の人？",
+    "definition": "What? Does he work at the zoo?",
+    "timestamp": "0:12:30",
+    "audio": "/audio/21/0.12.30.mp3"
+  },
+  "157": {
+    "speaker": "MEIMEI",
+    "character": "お兄ちゃん 知らない？",
+    "definition": "Do you know him? I can't recall any good-looking guys.",
+    "timestamp": "0:12:33",
+    "audio": "/audio/21/0.12.33.mp3"
+  },
+  "158": {
+    "speaker": "MEIMEI",
+    "character": "パンダコーナーの近くで見たの",
+    "definition": "I saw him near the Panda Corner.",
+    "timestamp": "0:12:38",
+    "audio": "/audio/21/0.12.38.mp3"
+  },
+  "159": {
+    "speaker": "PANDA",
+    "character": "あっ… 桐野くん？",
+    "definition": "Oh, maybe it was Kirino.",
+    "timestamp": "0:12:42",
+    "audio": "/audio/21/0.12.42.mp3"
+  },
+  "160": {
+    "speaker": "PANDA",
+    "character": "あの人は まあまあ かっこいいよね",
+    "definition": "Well, he's sort of good-looking.",
+    "timestamp": "0:12:45",
+    "audio": "/audio/21/0.12.45.mp3"
+  },
+  "161": {
+    "speaker": "MEIMEI",
+    "character": "桐野さんっていうの…",
+    "definition": "So his name is Mr. Kirino?",
+    "timestamp": "0:12:48",
+    "audio": "/audio/21/0.12.48.mp3"
+  },
+  "162": {
+    "speaker": "PANDA",
+    "character": "この人でしょ？",
+    "definition": "Him, right?",
+    "timestamp": "0:12:51",
+    "audio": "/audio/21/0.12.51.mp3"
+  },
+  "163": {
+    "speaker": "MEIMEI",
+    "character": "あら 違うわ もっと かっこよかったもん",
+    "definition": "What? No. He's way better looking than that. Huh?",
+    "timestamp": "0:12:53",
+    "audio": "/audio/21/0.12.53.mp3"
+  },
+  "164": {
+    "speaker": "PANDA",
+    "character": "あっ！",
+    "definition": "Oh!",
+    "timestamp": "0:13:00",
+    "audio": "/audio/21/0.13.00.mp3"
+  },
+  "165": {
+    "speaker": "PANDA",
+    "character": "もしかして リンリン？",
+    "definition": "Don't tell me it's Rin Rin.",
+    "timestamp": "0:13:02",
+    "audio": "/audio/21/0.13.02.mp3"
+  },
+  "166": {
+    "speaker": "PANDA",
+    "character": "アイツは ダメ ダメ ロクなヤツじゃないよ",
+    "definition": "Don't go near that guy. He's a total loser.",
+    "timestamp": "0:13:05",
+    "audio": "/audio/21/0.13.05.mp3"
+  },
+  "167": {
+    "speaker": "MEIMEI",
+    "character": "リンリンなら知ってるもん 花屋の人でしょ？",
+    "definition": "I know who Rin Rin is. He's the florist, right?",
+    "timestamp": "0:13:09",
+    "audio": "/audio/21/0.13.09.mp3"
+  },
+  "168": {
+    "speaker": "MEIMEI",
+    "character": "違うもん",
+    "definition": "That's not him either!",
+    "timestamp": "0:13:13",
+    "audio": "/audio/21/0.13.13.mp3"
+  },
+  "169": {
+    "speaker": "PANDA",
+    "character": "え～っ",
+    "definition": "What?",
+    "timestamp": "0:13:14",
+    "audio": "/audio/21/0.13.14.mp3"
+  },
+  "170": {
+    "speaker": "PANDA",
+    "character": "もう わかんないよ",
+    "definition": "Then I have no idea.",
+    "timestamp": "0:13:16",
+    "audio": "/audio/21/0.13.16.mp3"
+  },
+  "171": {
+    "speaker": "MEIMEI",
+    "character": "私に優しく声をかけてくれて 竹をくれたのよ",
+    "definition": "He spoke nicely to me and gave me some bamboo.",
+    "timestamp": "0:13:18",
+    "audio": "/audio/21/0.13.18.mp3"
+  },
+  "172": {
+    "speaker": "MEIMEI",
+    "character": "もう ドキドキしちゃって…",
+    "definition": "My heart was beating so fast!",
+    "timestamp": "0:13:23",
+    "audio": "/audio/21/0.13.23.mp3"
+  },
+  "173": {
+    "speaker": "PANDA",
+    "character": "それって まさか…",
+    "definition": "You can't be talking about...",
+    "timestamp": "0:13:25",
+    "audio": "/audio/21/0.13.25.mp3"
+  },
+  "174": {
+    "speaker": "PANDA",
+    "character": "この人？",
+    "definition": "...him?",
+    "timestamp": "0:13:28",
+    "audio": "/audio/21/0.13.28.mp3"
+  },
+  "175": {
+    "speaker": "MEIMEI",
+    "character": "キャーッ！！ この人！！",
+    "definition": "Yeah! That's totally him! He's so hot! My prince!",
+    "timestamp": "0:13:30",
+    "audio": "/audio/21/0.13.30.mp3"
+  },
+  "176": {
+    "speaker": "PANDA",
+    "character": "お… 王子？ 半田さんが？",
+    "definition": "Prince? Mr. Handa?",
+    "timestamp": "0:13:37",
+    "audio": "/audio/21/0.13.37.mp3"
+  },
+  "177": {
+    "speaker": "MEIMEI",
+    "character": "半田さんっていうの？ ステキ…",
+    "definition": "His name is Mr. Handa? How wonderful.",
+    "timestamp": "0:13:40",
+    "audio": "/audio/21/0.13.40.mp3"
+  },
+  "178": {
+    "speaker": "PANDA",
+    "character": "半田さんに伝えておこうか？",
+    "definition": "Do you want me to tell Mr. Handa",
+    "timestamp": "0:13:44",
+    "audio": "/audio/21/0.13.44.mp3"
+  },
+  "179": {
+    "speaker": "PANDA",
+    "character": "妹が 王子って呼んでましたって",
+    "definition": "that my little sister is calling him her prince?",
+    "timestamp": "0:13:47",
+    "audio": "/audio/21/0.13.47.mp3"
+  },
+  "180": {
+    "speaker": "MEIMEI",
+    "character": "えぇ 別に彼女になりたいとか思ってるわけじゃないの",
+    "definition": "What? Well, it's not like I want to be his girlfriend or anything. I just want to keep him in my heart.",
+    "timestamp": "0:13:52",
+    "audio": "/audio/21/0.13.52.mp3"
+  },
+  "181": {
+    "speaker": "MEIMEI",
+    "character": "それだけで胸がいっぱいなの",
+    "definition": "Even that's enough to choke me up.",
+    "timestamp": "0:14:01",
+    "audio": "/audio/21/0.14.01.mp3"
+  },
+  "182": {
+    "speaker": "PANDA",
+    "character": "そうなの？",
+    "definition": "Really?",
+    "timestamp": "0:14:04",
+    "audio": "/audio/21/0.14.04.mp3"
+  },
+  "183": {
+    "speaker": "MEIMEI",
+    "character": "こんなに かっこいいんだもん",
+    "definition": "Well, he's so good-looking.",
+    "timestamp": "0:14:05",
+    "audio": "/audio/21/0.14.05.mp3"
+  },
+  "184": {
+    "speaker": "MEIMEI",
+    "character": "すごくモテるでしょ？",
+    "definition": "He's really popular, right?",
+    "timestamp": "0:14:07",
+    "audio": "/audio/21/0.14.07.mp3"
+  },
+  "185": {
+    "speaker": "PANDA",
+    "character": "それ 半田さんの話だよね？",
+    "definition": "We're talking about Mr. Handa, right?",
+    "timestamp": "0:14:10",
+    "audio": "/audio/21/0.14.10.mp3"
+  },
+  "186": {
+    "speaker": "MEIMEI",
+    "character": "当たり前でしょ！",
+    "definition": "Of course!",
+    "timestamp": "0:14:13",
+    "audio": "/audio/21/0.14.13.mp3"
+  },
+  "187": {
+    "speaker": "MEIMEI",
+    "character": "かっこよくて すごくモテる王子様が他に どこにいるのよ！",
+    "definition": "Who else would be the extremely popular, good-looking prince? So, what kind of person is Prince Han?",
+    "timestamp": "0:14:15",
+    "audio": "/audio/21/0.14.15.mp3"
+  },
+  "188": {
+    "speaker": "MEIMEI",
+    "character": "何が好きなのかな？",
+    "definition": "I wonder what he likes.",
+    "timestamp": "0:14:23",
+    "audio": "/audio/21/0.14.23.mp3"
+  },
+  "189": {
+    "speaker": "PANDA",
+    "character": "半様？",
+    "definition": "Prince Han?",
+    "timestamp": "0:14:26",
+    "audio": "/audio/21/0.14.26.mp3"
+  },
+  "190": {
+    "speaker": "MEIMEI",
+    "character": "聞きたいことメモして渡すから 聞いてきてよ お兄ちゃん",
+    "definition": "I'll write down what I want to ask, so you can go ask for me, Big Brother.",
+    "timestamp": "0:14:27",
+    "audio": "/audio/21/0.14.27.mp3"
+  },
+  "191": {
+    "speaker": "",
+    "character": "えっ？",
+    "definition": "Uh...",
+    "timestamp": "0:14:32",
+    "audio": "/audio/21/0.14.32.mp3"
+  },
+  "192": {
+    "speaker": "PANDA",
+    "character": "半田さん 半田さん！",
+    "definition": "Mr. Handa, Mr. Handa!",
+    "timestamp": "0:14:44",
+    "audio": "/audio/21/0.14.44.mp3"
+  },
+  "193": {
+    "speaker": "HANDA",
+    "character": "何？ パンダくん",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:14:46",
+    "audio": "/audio/21/0.14.46.mp3"
+  },
+  "194": {
+    "speaker": "PANDA",
+    "character": "ただいま",
+    "definition": "I'm home!",
+    "timestamp": "0:14:51",
+    "audio": "/audio/21/0.14.51.mp3"
+  },
+  "195": {
+    "speaker": "MEIMEI",
+    "character": "あっ お兄ちゃん！",
+    "definition": "Oh, Big Brother!",
+    "timestamp": "0:14:53",
+    "audio": "/audio/21/0.14.53.mp3"
+  },
+  "196": {
+    "speaker": "MEIMEI",
+    "character": "聞いてきてくれた？",
+    "definition": "Did you ask him?",
+    "timestamp": "0:14:55",
+    "audio": "/audio/21/0.14.55.mp3"
+  },
+  "197": {
+    "speaker": "PANDA",
+    "character": "まず好きな食べ物だけど…",
+    "definition": "First, his favorite food...",
+    "timestamp": "0:14:59",
+    "audio": "/audio/21/0.14.59.mp3"
+  },
+  "198": {
+    "speaker": "MEIMEI",
+    "character": "うん",
+    "definition": "Yes?",
+    "timestamp": "0:15:02",
+    "audio": "/audio/21/0.15.02.mp3"
+  },
+  "199": {
+    "speaker": "PANDA",
+    "character": "玉子焼きのはじっこだって",
+    "definition": "The very end of an omelette.",
+    "timestamp": "0:15:03",
+    "audio": "/audio/21/0.15.03.mp3"
+  },
+  "200": {
+    "speaker": "MEIMEI",
+    "character": "グルメね！ 半様ステキ！",
+    "definition": "My, he's so refined! Prince Han is so amazing!",
+    "timestamp": "0:15:10",
+    "audio": "/audio/21/0.15.10.mp3"
+  },
+  "201": {
+    "speaker": "MEIMEI",
+    "character": "それから？",
+    "definition": "And then?",
+    "timestamp": "0:15:14",
+    "audio": "/audio/21/0.15.14.mp3"
+  },
+  "202": {
+    "speaker": "PANDA",
+    "character": "えっと 趣味ってほどでもないけど ツルツルした小石集めが好きって",
+    "definition": "Let's see... He said it wasn't really a hobby, but he likes collecting smooth rocks.",
+    "timestamp": "0:15:16",
+    "audio": "/audio/21/0.15.16.mp3"
+  },
+  "203": {
+    "speaker": "MEIMEI",
+    "character": "大人の趣味ね",
+    "definition": "Such a sophisticated hobby!",
+    "timestamp": "0:15:25",
+    "audio": "/audio/21/0.15.25.mp3"
+  },
+  "204": {
+    "speaker": "MEIMEI",
+    "character": "半様 かっこいい！",
+    "definition": "Prince Han is so cool!",
+    "timestamp": "0:15:27",
+    "audio": "/audio/21/0.15.27.mp3"
+  },
+  "205": {
+    "speaker": "PANDA",
+    "character": "かっこいい？",
+    "definition": "Cool? And, and?",
+    "timestamp": "0:15:30",
+    "audio": "/audio/21/0.15.30.mp3"
+  },
+  "206": {
+    "speaker": "PANDA",
+    "character": "お休みの日の過ごし方は",
+    "definition": "On his days off...",
+    "timestamp": "0:15:34",
+    "audio": "/audio/21/0.15.34.mp3"
+  },
+  "207": {
+    "speaker": "PANDA",
+    "character": "洗濯したり 掃除したり…",
+    "definition": "He does laundry... He cleans...",
+    "timestamp": "0:15:37",
+    "audio": "/audio/21/0.15.37.mp3"
+  },
+  "208": {
+    "speaker": "PANDA",
+    "character": "たまったスーパーの袋をきちんと三角に折ったりだって",
+    "definition": "and he folds used shopping bags into neat, little triangles.",
+    "timestamp": "0:15:46",
+    "audio": "/audio/21/0.15.46.mp3"
+  },
+  "209": {
+    "speaker": "MEIMEI",
+    "character": "家庭的ね！",
+    "definition": "How domestic!",
+    "timestamp": "0:15:54",
+    "audio": "/audio/21/0.15.54.mp3"
+  },
+  "210": {
+    "speaker": "MEIMEI",
+    "character": "半様 ステキ！",
+    "definition": "Prince Han is so amazing!",
+    "timestamp": "0:15:56",
+    "audio": "/audio/21/0.15.56.mp3"
+  },
+  "211": {
+    "speaker": "MEIMEI",
+    "character": "知れば知るほど半様って最高ね！",
+    "definition": "The more I find out about him, the more wonderful Prince Han is! Mei Mei, eat some bamboo grass and calm down.",
+    "timestamp": "0:15:59",
+    "audio": "/audio/21/0.15.59.mp3"
+  },
+  "212": {
+    "speaker": "MEIMEI",
+    "character": "お兄ちゃん わかってないわね",
+    "definition": "You just don't get it at all, Big Brother.",
+    "timestamp": "0:16:07",
+    "audio": "/audio/21/0.16.07.mp3"
+  },
+  "213": {
+    "speaker": "MEIMEI",
+    "character": "あっ！ 半様の写真 撮ってきてない？",
+    "definition": "Oh! Did you take a picture of Prince Han? What? No, I didn't. Why not?!",
+    "timestamp": "0:16:10",
+    "audio": "/audio/21/0.16.10.mp3"
+  },
+  "214": {
+    "speaker": "PANDA",
+    "character": "半田さんの写真に興味ないもん",
+    "definition": "I have no interest in having pictures of Mr. Handa. Go take some. Go take tons of pictures of Prince Han being cool! Mr. Handa, Mr. Handa.",
+    "timestamp": "0:16:18",
+    "audio": "/audio/21/0.16.18.mp3"
+  },
+  "215": {
+    "speaker": "HANDA",
+    "character": "何？ パンダくん",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:16:31",
+    "audio": "/audio/21/0.16.31.mp3"
+  },
+  "216": {
+    "speaker": "MEIMEI",
+    "character": "キャー かっこいい！",
+    "definition": "Yeah! He's so hot!",
+    "timestamp": "0:16:42",
+    "audio": "/audio/21/0.16.42.mp3"
+  },
+  "217": {
+    "speaker": "PANDA",
+    "character": "82)}えぇ！？",
+    "definition": "What?!",
+    "timestamp": "0:16:44",
+    "audio": "/audio/21/0.16.44.mp3"
+  },
+  "218": {
+    "speaker": "PANDA",
+    "character": "どう半田さんを見たら そう思えるの？",
+    "definition": "What about him makes you think that? His round face...",
+    "timestamp": "0:16:46",
+    "audio": "/audio/21/0.16.46.mp3"
+  },
+  "219": {
+    "speaker": "MEIMEI",
+    "character": "モチッと小太りな体型とか",
+    "definition": "His chubby build...",
+    "timestamp": "0:16:52",
+    "audio": "/audio/21/0.16.52.mp3"
+  },
+  "220": {
+    "speaker": "MEIMEI",
+    "character": "足も短いし",
+    "definition": "Not to mention his legs are short.",
+    "timestamp": "0:16:56",
+    "audio": "/audio/21/0.16.56.mp3"
+  },
+  "221": {
+    "speaker": "PANDA",
+    "character": "えっ それが？",
+    "definition": "What? That's what you like?",
+    "timestamp": "0:16:58",
+    "audio": "/audio/21/0.16.58.mp3"
+  },
+  "222": {
+    "speaker": "MEIMEI",
+    "character": "最高じゃない パンダみたいで！",
+    "definition": "He's so great! He's just like a panda!",
+    "timestamp": "0:17:00",
+    "audio": "/audio/21/0.17.00.mp3"
+  },
+  "223": {
+    "speaker": "PANDA",
+    "character": "あぁ！",
+    "definition": "Oh...",
+    "timestamp": "0:17:04",
+    "audio": "/audio/21/0.17.04.mp3"
+  },
+  "224": {
+    "speaker": "PANDA",
+    "character": "うちの妹が 半様ってパンダみたいだって",
+    "definition": "My little sister says that Prince Han looks just like a panda. What? Who's Prince Han?",
+    "timestamp": "0:17:08",
+    "audio": "/audio/21/0.17.08.mp3"
+  },
+  "225": {
+    "speaker": "PANDA",
+    "character": "半田さんのことだよ",
+    "definition": "It's Mr. Handa.",
+    "timestamp": "0:17:15",
+    "audio": "/audio/21/0.17.15.mp3"
+  },
+  "226": {
+    "speaker": "PANDA",
+    "character": "すごく かっこいいんだって",
+    "definition": "She says he's really good-looking. Wow, Mr. Handa is quite popular.",
+    "timestamp": "0:17:18",
+    "audio": "/audio/21/0.17.18.mp3"
+  },
+  "227": {
+    "speaker": "PENGUIN",
+    "character": "なんか全然 半田さんに脈ないね",
+    "definition": "Mr. Handa is beyond hope. But my little sister keeps calling him Prince Han.",
+    "timestamp": "0:17:26",
+    "audio": "/audio/21/0.17.26.mp3"
+  },
+  "228": {
+    "speaker": "POLAR BEAR",
+    "character": "妹さんと 半田さんの２人が結婚したら",
+    "definition": "If your little sister and Mr. Handa were to marry,",
+    "timestamp": "0:17:33",
+    "audio": "/audio/21/0.17.33.mp3"
+  },
+  "229": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん 半田さんのお兄さんだね",
+    "definition": "you'd be Mr. Handa's older brother, Panda. I'd be Mr. Handa's older brother?",
+    "timestamp": "0:17:37",
+    "audio": "/audio/21/0.17.37.mp3"
+  },
+  "230": {
+    "speaker": "HANDA",
+    "character": "お兄さん 朝食の竹です",
+    "definition": "Here's your breakfast bamboo, Big Brother.",
+    "timestamp": "0:17:45",
+    "audio": "/audio/21/0.17.45.mp3"
+  },
+  "231": {
+    "speaker": "HANDA",
+    "character": "お兄さん 昼食の竹です",
+    "definition": "Big Brother, here is your lunch bamboo.",
+    "timestamp": "0:17:48",
+    "audio": "/audio/21/0.17.48.mp3"
+  },
+  "232": {
+    "speaker": "HANDA",
+    "character": "お兄さん 食後の竹です",
+    "definition": "Here's your after-meal bamboo, Big Brother.",
+    "timestamp": "0:17:51",
+    "audio": "/audio/21/0.17.51.mp3"
+  },
+  "233": {
+    "speaker": "HANDA",
+    "character": "お兄さん 真夜中の竹です",
+    "definition": "Here's your midnight snack bamboo, Big Brother.",
+    "timestamp": "0:17:54",
+    "audio": "/audio/21/0.17.54.mp3"
+  },
+  "234": {
+    "speaker": "PANDA",
+    "character": "お腹いっぱいになっちゃうなぁ",
+    "definition": "I'd be really full.",
+    "timestamp": "0:17:57",
+    "audio": "/audio/21/0.17.57.mp3"
+  },
+  "235": {
+    "speaker": "PENGUIN",
+    "character": "何の話？",
+    "definition": "What are you talking about?",
+    "timestamp": "0:18:00",
+    "audio": "/audio/21/0.18.00.mp3"
+  },
+  "236": {
+    "speaker": "PANDA",
+    "character": "半田さん うちのお母さんと うまくやっていけるかな？",
+    "definition": "I wonder if Mr. Handa would get along with my mom.",
+    "timestamp": "0:18:05",
+    "audio": "/audio/21/0.18.05.mp3"
+  },
+  "237": {
+    "speaker": "HANDA",
+    "character": "お母さん どうも 半田です",
+    "definition": "Hi, Mom. I'm Handa.",
+    "timestamp": "0:18:13",
+    "audio": "/audio/21/0.18.13.mp3"
+  },
+  "238": {
+    "speaker": "HANDA",
+    "character": "竹おかわり",
+    "definition": "Seconds on bamboo, please! Don't suck me up!",
+    "timestamp": "0:18:16",
+    "audio": "/audio/21/0.18.16.mp3"
+  },
+  "239": {
+    "speaker": "PANDA",
+    "character": "婿と姑の関係は 難しいっていうしね",
+    "definition": "They say that the groom's relationship with his mother-in-law can be difficult.",
+    "timestamp": "0:18:23",
+    "audio": "/audio/21/0.18.23.mp3"
+  },
+  "240": {
+    "speaker": "PANDA",
+    "character": "あれ？ 半田さんだ",
+    "definition": "Oh, it's Mr. Handa. Maybe this place would be good?",
+    "timestamp": "0:18:30",
+    "audio": "/audio/21/0.18.30.mp3"
+  },
+  "241": {
+    "speaker": "HANDA",
+    "character": "僕も ここがいいと思うよ",
+    "definition": "I think that one is good, too.",
+    "timestamp": "0:18:37",
+    "audio": "/audio/21/0.18.37.mp3"
+  },
+  "242": {
+    "speaker": "LADY",
+    "character": "新婚さんには お似合いの物件だと思いますよ",
+    "definition": "It's a perfect place for newlyweds.",
+    "timestamp": "0:18:39",
+    "audio": "/audio/21/0.18.39.mp3"
+  },
+  "243": {
+    "speaker": "HANDA",
+    "character": "えっ！？ や… やだ！ 新婚さんだなんて",
+    "definition": "What?! Oh, did you hear that? She said \"newlyweds.\"",
+    "timestamp": "0:18:43",
+    "audio": "/audio/21/0.18.43.mp3"
+  },
+  "244": {
+    "speaker": "PANDA",
+    "character": "半田さん… アナグマさんと結婚するの？",
+    "definition": "Mr. Handa is getting married to Ms. Badger?",
+    "timestamp": "0:18:48",
+    "audio": "/audio/21/0.18.48.mp3"
+  },
+  "245": {
+    "speaker": "HANDA",
+    "character": "ツルツルだね",
+    "definition": "So smooth.",
+    "timestamp": "0:18:56",
+    "audio": "/audio/21/0.18.56.mp3"
+  },
+  "246": {
+    "speaker": "BADGER",
+    "character": "きれいな三角ね",
+    "definition": "Such a perfect triangle.",
+    "timestamp": "0:18:59",
+    "audio": "/audio/21/0.18.59.mp3"
+  },
+  "247": {
+    "speaker": "PANDA",
+    "character": "メイメイには言えないよ…",
+    "definition": "I can't tell Mei Mei!",
+    "timestamp": "0:19:03",
+    "audio": "/audio/21/0.19.03.mp3"
+  },
+  "248": {
+    "speaker": "MEIMEI",
+    "character": "ねぇ ねぇ お兄ちゃん！",
+    "definition": "Hey, Big Brother.",
+    "timestamp": "0:19:08",
+    "audio": "/audio/21/0.19.08.mp3"
+  },
+  "249": {
+    "speaker": "MEIMEI",
+    "character": "今日も半様かっこよかった？",
+    "definition": "Was Prince Han amazing today, too? What?",
+    "timestamp": "0:19:11",
+    "audio": "/audio/21/0.19.11.mp3"
+  },
+  "250": {
+    "speaker": "PANDA",
+    "character": "さ… さぁ？ どうかな…",
+    "definition": "I-I'm not sure.",
+    "timestamp": "0:19:15",
+    "audio": "/audio/21/0.19.15.mp3"
+  },
+  "251": {
+    "speaker": "MEIMEI",
+    "character": "え～っ！ すごく楽しみにしてるのに",
+    "definition": "What? But I was looking forward to hearing all about it.",
+    "timestamp": "0:19:18",
+    "audio": "/audio/21/0.19.18.mp3"
+  },
+  "252": {
+    "speaker": "MEIMEI",
+    "character": "ほら！今日の半様日記",
+    "definition": "See? My Prince Han diary. I write in it every day.",
+    "timestamp": "0:19:22",
+    "audio": "/audio/21/0.19.22.mp3"
+  },
+  "253": {
+    "speaker": "PANDA",
+    "character": "そうなんだ…",
+    "definition": "I see...",
+    "timestamp": "0:19:28",
+    "audio": "/audio/21/0.19.28.mp3"
+  },
+  "254": {
+    "speaker": "PANDA",
+    "character": "何 書いてるの？",
+    "definition": "What did you write?",
+    "timestamp": "0:19:30",
+    "audio": "/audio/21/0.19.30.mp3"
+  },
+  "255": {
+    "speaker": "MEIMEI",
+    "character": "ダメ！中は見ないで",
+    "definition": "No! Don't look inside.",
+    "timestamp": "0:19:31",
+    "audio": "/audio/21/0.19.31.mp3"
+  },
+  "256": {
+    "speaker": "",
+    "character": "乙女のプライバシーなんだから",
+    "definition": "You'll be invading a lady's privacy.",
+    "timestamp": "0:19:34",
+    "audio": "/audio/21/0.19.34.mp3"
+  },
+  "257": {
+    "speaker": "PANDA",
+    "character": "見てないのに…",
+    "definition": "I didn't even look...",
+    "timestamp": "0:19:37",
+    "audio": "/audio/21/0.19.37.mp3"
+  },
+  "258": {
+    "speaker": "MEIMEI",
+    "character": "私 こっそり動物園に行こうかな",
+    "definition": "Maybe I'll secretly go to the zoo. What?",
+    "timestamp": "0:19:39",
+    "audio": "/audio/21/0.19.39.mp3"
+  },
+  "259": {
+    "speaker": "MEIMEI",
+    "character": "それでね 陰からこっそり見守るの",
+    "definition": "And I'll secretly watch over him from the shadows.",
+    "timestamp": "0:19:44",
+    "audio": "/audio/21/0.19.44.mp3"
+  },
+  "260": {
+    "speaker": "BADGER",
+    "character": "いい天気ね",
+    "definition": "Such a nice day.",
+    "timestamp": "0:19:51",
+    "audio": "/audio/21/0.19.51.mp3"
+  },
+  "261": {
+    "speaker": "HANDA",
+    "character": "一緒に帰ろうか",
+    "definition": "Let's go home together.",
+    "timestamp": "0:19:53",
+    "audio": "/audio/21/0.19.53.mp3"
+  },
+  "262": {
+    "speaker": "PANDA",
+    "character": "いや…",
+    "definition": "No. You'll see a side of Mr. Handa he doesn't want you to see.",
+    "timestamp": "0:19:56",
+    "audio": "/audio/21/0.19.56.mp3"
+  },
+  "263": {
+    "speaker": "MEIMEI",
+    "character": "見られたくないところ？",
+    "definition": "A side he doesn't want me to see? Anyway, you shouldn't go.",
+    "timestamp": "0:20:00",
+    "audio": "/audio/21/0.20.00.mp3"
+  },
+  "264": {
+    "speaker": "MEIMEI",
+    "character": "残念…",
+    "definition": "How disappointing.",
+    "timestamp": "0:20:06",
+    "audio": "/audio/21/0.20.06.mp3"
+  },
+  "265": {
+    "speaker": "PANDA",
+    "character": "やっぱり メイメイには言えないよ",
+    "definition": "There's no way I can tell Mei Mei.",
+    "timestamp": "0:20:08",
+    "audio": "/audio/21/0.20.08.mp3"
+  },
+  "266": {
+    "speaker": "KOALA",
+    "character": "あっ！ 半田さん",
+    "definition": "Oh, Mr. Handa!",
+    "timestamp": "0:20:15",
+    "audio": "/audio/21/0.20.15.mp3"
+  },
+  "267": {
+    "speaker": "KOALA",
+    "character": "おめでとうございます",
+    "definition": "Congratulations!",
+    "timestamp": "0:20:18",
+    "audio": "/audio/21/0.20.18.mp3"
+  },
+  "268": {
+    "speaker": "HANDA",
+    "character": "えっ？",
+    "definition": "Huh?",
+    "timestamp": "0:20:20",
+    "audio": "/audio/21/0.20.20.mp3"
+  },
+  "269": {
+    "speaker": "LLAMA",
+    "character": "お似合いですよ",
+    "definition": "You two look great together. Huh?",
+    "timestamp": "0:20:21",
+    "audio": "/audio/21/0.20.21.mp3"
+  },
+  "270": {
+    "speaker": "OTTER",
+    "character": "職場結婚するんでしょ？ アナグマさんと",
+    "definition": "You're getting married to Ms. Badger, right?",
+    "timestamp": "0:20:23",
+    "audio": "/audio/21/0.20.23.mp3"
+  },
+  "271": {
+    "speaker": "HANDA",
+    "character": "えっ！？",
+    "definition": "What?! Panda!",
+    "timestamp": "0:20:27",
+    "audio": "/audio/21/0.20.27.mp3"
+  },
+  "272": {
+    "speaker": "PANDA",
+    "character": "あぁ 半田さん",
+    "definition": "Oh, Mr. Handa.",
+    "timestamp": "0:20:32",
+    "audio": "/audio/21/0.20.32.mp3"
+  },
+  "273": {
+    "speaker": "FT PANDA",
+    "character": "おめでとう",
+    "definition": "Congratulations.",
+    "timestamp": "0:20:34",
+    "audio": "/audio/21/0.20.34.mp3"
+  },
+  "274": {
+    "speaker": "HANDA",
+    "character": "困るよ！",
+    "definition": "You're creating problems,",
+    "timestamp": "0:20:35",
+    "audio": "/audio/21/0.20.35.mp3"
+  },
+  "275": {
+    "speaker": "HANDA",
+    "character": "僕が アナグマさんと結婚するだなんて…",
+    "definition": "telling everyone that Ms. Badger and I are getting married! About that... You should at least let me know before you do it.",
+    "timestamp": "0:20:36",
+    "audio": "/audio/21/0.20.36.mp3"
+  },
+  "276": {
+    "speaker": "PANDA",
+    "character": "いきなりだと驚くよ",
+    "definition": "It's rather shocking when it's so sudden.",
+    "timestamp": "0:20:45",
+    "audio": "/audio/21/0.20.45.mp3"
+  },
+  "277": {
+    "speaker": "HANDA",
+    "character": "だから なんで そういう話になってるの！？",
+    "definition": "I want to know what made you think that!",
+    "timestamp": "0:20:48",
+    "audio": "/audio/21/0.20.48.mp3"
+  },
+  "278": {
+    "speaker": "FT PANDA",
+    "character": "この前 アナグマさんと 新居探しをしてたらしいじゃない",
+    "definition": "I heard you and Ms. Badger were looking for a new home together.",
+    "timestamp": "0:20:51",
+    "audio": "/audio/21/0.20.51.mp3"
+  },
+  "279": {
+    "speaker": "HANDA",
+    "character": "あれは アナグマさんが 新しく 部屋探すから",
+    "definition": "Ms. Badger was looking for a new place to stay,",
+    "timestamp": "0:20:56",
+    "audio": "/audio/21/0.20.56.mp3"
+  },
+  "280": {
+    "speaker": "HANDA",
+    "character": "保証人になってただけです！",
+    "definition": "so I was there to be her co-signer!",
+    "timestamp": "0:20:59",
+    "audio": "/audio/21/0.20.59.mp3"
+  },
+  "281": {
+    "speaker": "FT PANDA",
+    "character": "えっ？",
+    "definition": "Huh?",
+    "timestamp": "0:21:01",
+    "audio": "/audio/21/0.21.01.mp3"
+  },
+  "282": {
+    "speaker": "PANDA",
+    "character": "そうなの？",
+    "definition": "Oh, really?",
+    "timestamp": "0:21:02",
+    "audio": "/audio/21/0.21.02.mp3"
+  },
+  "283": {
+    "speaker": "MEIMEI",
+    "character": "は～い！",
+    "definition": "Coming!",
+    "timestamp": "0:21:07",
+    "audio": "/audio/21/0.21.07.mp3"
+  },
+  "284": {
+    "speaker": "HANDA",
+    "character": "どうも こんばんは",
+    "definition": "Hi, good evening. My name is Handa.",
+    "timestamp": "0:21:11",
+    "audio": "/audio/21/0.21.11.mp3"
+  },
+  "285": {
+    "speaker": "HANDA",
+    "character": "パンダくん ぐっすり寝ちゃって 起きなくて",
+    "definition": "Panda fell asleep and wouldn't wake up. There we go.",
+    "timestamp": "0:21:15",
+    "audio": "/audio/21/0.21.15.mp3"
+  },
+  "286": {
+    "speaker": "HANDA",
+    "character": "じゃあ 僕はこれで",
+    "definition": "Well, I'll be going now. Oh! Um...",
+    "timestamp": "0:21:24",
+    "audio": "/audio/21/0.21.24.mp3"
+  },
+  "287": {
+    "speaker": "HANDA",
+    "character": "はい？",
+    "definition": "Yes?",
+    "timestamp": "0:21:28",
+    "audio": "/audio/21/0.21.28.mp3"
+  },
+  "288": {
+    "speaker": "MEIMEI",
+    "character": "よ… よかったら お茶でも…",
+    "definition": "W-Would you like some tea?",
+    "timestamp": "0:21:29",
+    "audio": "/audio/21/0.21.29.mp3"
+  },
+  "289": {
+    "speaker": "HANDA",
+    "character": "ありがとうございます",
+    "definition": "Thank you for the offer. But the light bulb in my bathroom burned out, so I have to pick up a new one.",
+    "timestamp": "0:21:34",
+    "audio": "/audio/21/0.21.34.mp3"
+  },
+  "290": {
+    "speaker": "HANDA",
+    "character": "近所のスーパー ９時までなんで",
+    "definition": "The store by my house closes at 9 PM.",
+    "timestamp": "0:21:40",
+    "audio": "/audio/21/0.21.40.mp3"
+  },
+  "291": {
+    "speaker": "HANDA",
+    "character": "じゃあ失礼します",
+    "definition": "If you'll excuse me.",
+    "timestamp": "0:21:43",
+    "audio": "/audio/21/0.21.43.mp3"
+  },
+  "292": {
+    "speaker": "MEIMEI",
+    "character": "半様って  よく気がつくうえに しっかり者なんだ！",
+    "definition": "Prince Han is so observant on top of being so responsible!",
+    "timestamp": "0:21:49",
+    "audio": "/audio/21/0.21.49.mp3"
+  },
+  "293": {
+    "speaker": "MEIMEI",
+    "character": "お兄ちゃんは 切れた電球を買って帰るなんて",
+    "definition": "Big Brother would never think of buying light bulbs to replace a light. Huh? I'm home?",
+    "timestamp": "0:21:54",
+    "audio": "/audio/21/0.21.54.mp3"
+  },
+  "294": {
+    "speaker": "MEIMEI",
+    "character": "お兄ちゃん 聞いた！？",
+    "definition": "Big Brother, did you hear?!",
+    "timestamp": "0:22:04",
+    "audio": "/audio/21/0.22.04.mp3"
+  },
+  "295": {
+    "speaker": "PANDA",
+    "character": "えっ？ 何？",
+    "definition": "Huh? What?",
+    "timestamp": "0:22:06",
+    "audio": "/audio/21/0.22.06.mp3"
+  },
+  "296": {
+    "speaker": "MEIMEI",
+    "character": "半様 スーパー ９時までだって！",
+    "definition": "Prince Han said the store closes at 9 PM! He's so amazing!",
+    "timestamp": "0:22:08",
+    "audio": "/audio/21/0.22.08.mp3"
+  },
+  "297": {
+    "speaker": "PANDA",
+    "character": "87)}そう？",
+    "definition": "Really?",
+    "timestamp": "0:22:13",
+    "audio": "/audio/21/0.22.13.mp3"
+  },
+  "298": {
+    "speaker": "MEIMEI",
+    "character": "あっ！",
+    "definition": "Prince Han said he had to get to the store by 9 PM.",
+    "timestamp": "0:22:15",
+    "audio": "/audio/21/0.22.15.mp3"
+  },
+  "299": {
+    "speaker": "PANDA",
+    "character": "それは 書かなくていいんじゃないかな？",
+    "definition": "I don't think you need to write that.",
+    "timestamp": "0:22:20",
+    "audio": "/audio/21/0.22.20.mp3"
+  },
+  "300": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさん ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin. What is it, Polar Bear, all of a sudden?",
+    "timestamp": "0:23:58",
+    "audio": "/audio/21/0.23.58.mp3"
+  },
+  "301": {
+    "speaker": "POLAR BEAR",
+    "character": "たまにはやってみたくて",
+    "definition": "I wanted to try that once.",
+    "timestamp": "0:24:01",
+    "audio": "/audio/21/0.24.01.mp3"
+  },
+  "302": {
+    "speaker": "POLAR BEAR",
+    "character": "はい どうぞ 初めて",
+    "definition": "Okay, you can start now.",
+    "timestamp": "0:24:03",
+    "audio": "/audio/21/0.24.03.mp3"
+  },
+  "303": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:24:05",
+    "audio": "/audio/21/0.24.05.mp3"
+  },
+  "304": {
+    "speaker": "POLAR BEAR",
+    "character": "何 パンダ君",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:24:07",
+    "audio": "/audio/21/0.24.07.mp3"
+  },
+  "305": {
+    "speaker": "PENGUIN",
+    "character": "何 白熊君",
+    "definition": "What is it, Polar Bear?",
+    "timestamp": "0:24:08",
+    "audio": "/audio/21/0.24.08.mp3"
+  },
+  "306": {
+    "speaker": "POLAR BEAR",
+    "character": "ごめん ごめん たまにはやってみたくて",
+    "definition": "Sorry, sorry. I wanted to try that once.",
+    "timestamp": "0:24:09",
+    "audio": "/audio/21/0.24.09.mp3"
+  },
+  "307": {
+    "speaker": "POLAR BEAR",
+    "character": "どうぞ",
+    "definition": "Go ahead.",
+    "timestamp": "0:24:12",
+    "audio": "/audio/21/0.24.12.mp3"
+  },
+  "308": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/21/0.24.13.mp3"
+  },
+  "309": {
+    "speaker": "PENGUIN",
+    "character": "何 パンダ君",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:24:15",
+    "audio": "/audio/21/0.24.15.mp3"
+  },
+  "310": {
+    "speaker": "POLAR BEAR",
+    "character": "終わろ",
+    "definition": "Let's end it.",
+    "timestamp": "0:24:16",
+    "audio": "/audio/21/0.24.16.mp3"
+  },
+  "311": {
+    "speaker": "PENGUIN",
+    "character": "来週にしろくまカフェは再来週お送りします",
+    "definition": "Jeez...",
+    "timestamp": "0:24:17",
+    "audio": "/audio/21/0.24.17.mp3"
+  },
+  "312": {
+    "speaker": "POLAR BEAR",
+    "character": "来週にしろくまカフェは再来週お送りします",
+    "definition": "Next week's Polar Bear's Café will air the following week.",
+    "timestamp": "0:24:17",
+    "audio": "/audio/21/0.24.17.mp3"
+  },
+  "313": {
+    "speaker": "PENGUIN",
+    "character": "来週やるよ",
+    "definition": "It's going to air next week!",
+    "timestamp": "0:24:21",
+    "audio": "/audio/21/0.24.21.mp3"
+  },
+  "314": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/21/0.24.22.mp3"
+  }
+}

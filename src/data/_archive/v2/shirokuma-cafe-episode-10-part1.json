@@ -1,0 +1,996 @@
+{
+  "1": {
+    "speaker": "SASAKO",
+    "character": "すみませんでした",
+    "definition": "I'm terribly sorry.",
+    "timestamp": "0:01:40",
+    "audio": "/audio/10/0.01.40.mp3"
+  },
+  "2": {
+    "speaker": "POLAR BEAR",
+    "character": "どうしたの？",
+    "definition": "What happened?",
+    "timestamp": "0:01:43",
+    "audio": "/audio/10/0.01.43.mp3"
+  },
+  "3": {
+    "speaker": "PENGUIN",
+    "character": "いつものって頼んだらさ",
+    "definition": "When I asked for my usual, she brought me pot stickers.",
+    "timestamp": "0:01:45",
+    "audio": "/audio/10/0.01.45.mp3"
+  },
+  "4": {
+    "speaker": "PENGUIN",
+    "character": "僕　カフェで餃子頼んだことあった？",
+    "definition": "Have I ever ordered pot stickers here?",
+    "timestamp": "0:01:50",
+    "audio": "/audio/10/0.01.50.mp3"
+  },
+  "5": {
+    "speaker": "SASAKO",
+    "character": "ありませんでしたっけ？",
+    "definition": "Haven't you?",
+    "timestamp": "0:01:54",
+    "audio": "/audio/10/0.01.54.mp3"
+  },
+  "6": {
+    "speaker": "PENGUIN",
+    "character": "ないでしょ",
+    "definition": "No.",
+    "timestamp": "0:01:56",
+    "audio": "/audio/10/0.01.56.mp3"
+  },
+  "7": {
+    "speaker": "POLAR BEAR",
+    "character": "餃子…　メニューにないでしょ",
+    "definition": "We don't have pot stickers on the menu.",
+    "timestamp": "0:01:57",
+    "audio": "/audio/10/0.01.57.mp3"
+  },
+  "8": {
+    "speaker": "SASAKO",
+    "character": "はい…",
+    "definition": "You're right.",
+    "timestamp": "0:02:01",
+    "audio": "/audio/10/0.02.01.mp3"
+  },
+  "9": {
+    "speaker": "POLAR BEAR",
+    "character": "わざわざ　作ったの？",
+    "definition": "You went through the trouble of making them?",
+    "timestamp": "0:02:04",
+    "audio": "/audio/10/0.02.04.mp3"
+  },
+  "10": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "Yes. Well done, Miss Sasako!",
+    "timestamp": "0:02:06",
+    "audio": "/audio/10/0.02.06.mp3"
+  },
+  "11": {
+    "speaker": "PENGUIN",
+    "character": "褒めるところかな？",
+    "definition": "Is this really where you compliment her?",
+    "timestamp": "0:02:10",
+    "audio": "/audio/10/0.02.10.mp3"
+  },
+  "12": {
+    "speaker": "POLAR BEAR",
+    "character": "おいしいよ",
+    "definition": "It was delicious. Really?",
+    "timestamp": "0:02:12",
+    "audio": "/audio/10/0.02.12.mp3"
+  },
+  "13": {
+    "speaker": "PENGUIN",
+    "character": "喜ぶところかな！？",
+    "definition": "Is this really where you get happy?",
+    "timestamp": "0:02:15",
+    "audio": "/audio/10/0.02.15.mp3"
+  },
+  "14": {
+    "speaker": "PENGUIN",
+    "character": "まぁ　いいや　いつものくれる？",
+    "definition": "Oh, whatever. Could I get my usual?",
+    "timestamp": "0:02:17",
+    "audio": "/audio/10/0.02.17.mp3"
+  },
+  "15": {
+    "speaker": "POLAR BEAR",
+    "character": "うん",
+    "definition": "Sure.",
+    "timestamp": "0:02:20",
+    "audio": "/audio/10/0.02.20.mp3"
+  },
+  "16": {
+    "speaker": "PENGUIN",
+    "character": "何　これ",
+    "definition": "What is this?",
+    "timestamp": "0:02:27",
+    "audio": "/audio/10/0.02.27.mp3"
+  },
+  "17": {
+    "speaker": "POLAR BEAR",
+    "character": "餃子定食",
+    "definition": "The Pot Sticker Lunch.",
+    "timestamp": "0:02:28",
+    "audio": "/audio/10/0.02.28.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "頼んだことある？",
+    "definition": "Have I ever ordered this?",
+    "timestamp": "0:02:31",
+    "audio": "/audio/10/0.02.31.mp3"
+  },
+  "19": {
+    "speaker": "POLAR BEAR",
+    "character": "ないね",
+    "definition": "Never.",
+    "timestamp": "0:02:33",
+    "audio": "/audio/10/0.02.33.mp3"
+  },
+  "20": {
+    "speaker": "PENGUIN",
+    "character": "遊んでる？",
+    "definition": "Are you playing around?",
+    "timestamp": "0:02:36",
+    "audio": "/audio/10/0.02.36.mp3"
+  },
+  "21": {
+    "speaker": "POLAR BEAR",
+    "character": "うん",
+    "definition": "Yup.",
+    "timestamp": "0:02:37",
+    "audio": "/audio/10/0.02.37.mp3"
+  },
+  "22": {
+    "speaker": "PANDA",
+    "character": "はぁ…　疲れた",
+    "definition": "I'm so tired.",
+    "timestamp": "0:02:40",
+    "audio": "/audio/10/0.02.40.mp3"
+  },
+  "23": {
+    "speaker": "POLAR BEAR",
+    "character": "バイト　お疲れ",
+    "definition": "You've been working hard.",
+    "timestamp": "0:02:42",
+    "audio": "/audio/10/0.02.42.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "いつものちょうだい",
+    "definition": "Could I get my usual?",
+    "timestamp": "0:02:44",
+    "audio": "/audio/10/0.02.44.mp3"
+  },
+  "25": {
+    "speaker": "POLAR BEAR",
+    "character": "いつものね",
+    "definition": "Your usual, huh?",
+    "timestamp": "0:02:46",
+    "audio": "/audio/10/0.02.46.mp3"
+  },
+  "26": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さん　餃子定食",
+    "definition": "One Pot Sticker Lunch, Miss Sasako.",
+    "timestamp": "0:02:48",
+    "audio": "/audio/10/0.02.48.mp3"
+  },
+  "27": {
+    "speaker": "SASAKO",
+    "character": "はい　竹大盛りとアイスコーヒーね",
+    "definition": "One large serving of bamboo and an iced coffee coming right up.",
+    "timestamp": "0:02:51",
+    "audio": "/audio/10/0.02.51.mp3"
+  },
+  "28": {
+    "speaker": "PANDA",
+    "character": "ねぇねぇ　聞いてよ　今日ね…",
+    "definition": "Hey, listen to this. Today...",
+    "timestamp": "0:02:57",
+    "audio": "/audio/10/0.02.57.mp3"
+  },
+  "29": {
+    "speaker": "PANDA",
+    "character": "え～？　もう　こんな時間？",
+    "definition": "Really? It's already time?",
+    "timestamp": "0:03:08",
+    "audio": "/audio/10/0.03.08.mp3"
+  },
+  "30": {
+    "speaker": "PANDA",
+    "character": "まだ眠いよ もうちょっと寝よう",
+    "definition": "I'm still tired. I'm going back to sleep.",
+    "timestamp": "0:03:12",
+    "audio": "/audio/10/0.03.12.mp3"
+  },
+  "31": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと待って！",
+    "definition": "Wait a minute.",
+    "timestamp": "0:03:24",
+    "audio": "/audio/10/0.03.24.mp3"
+  },
+  "32": {
+    "speaker": "PENGUIN",
+    "character": "二度寝の話がしたいの？",
+    "definition": "You want to talk about how you went back to sleep?",
+    "timestamp": "0:03:26",
+    "audio": "/audio/10/0.03.26.mp3"
+  },
+  "33": {
+    "speaker": "PANDA",
+    "character": "どっから話そうかなと思って",
+    "definition": "I wasn't sure where to start my story.",
+    "timestamp": "0:03:29",
+    "audio": "/audio/10/0.03.29.mp3"
+  },
+  "34": {
+    "speaker": "PENGUIN",
+    "character": "もうちょっと　まとめてから 話してくれる？",
+    "definition": "Could you try again when you have a better idea?",
+    "timestamp": "0:03:32",
+    "audio": "/audio/10/0.03.32.mp3"
+  },
+  "35": {
+    "speaker": "PENGUIN",
+    "character": "ヒマじゃないんだから",
+    "definition": "I don't really have time.",
+    "timestamp": "0:03:35",
+    "audio": "/audio/10/0.03.35.mp3"
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "うん　わかった",
+    "definition": "Oh, okay.",
+    "timestamp": "0:03:36",
+    "audio": "/audio/10/0.03.36.mp3"
+  },
+  "37": {
+    "speaker": "PANDA",
+    "character": "桐野君　おはよう",
+    "definition": "Good morning, Kirino.",
+    "timestamp": "0:03:42",
+    "audio": "/audio/10/0.03.42.mp3"
+  },
+  "38": {
+    "speaker": "KIRINO",
+    "character": "おはよう　パンダ君",
+    "definition": "Good morning, Panda.",
+    "timestamp": "0:03:45",
+    "audio": "/audio/10/0.03.45.mp3"
+  },
+  "39": {
+    "speaker": "KIRINO",
+    "character": "って…　早くないよ　遅刻だよ？",
+    "definition": "It's not exactly morning. You're late.",
+    "timestamp": "0:03:47",
+    "audio": "/audio/10/0.03.47.mp3"
+  },
+  "40": {
+    "speaker": "PANDA",
+    "character": "半田さんのお弁当だ 開けてみよう",
+    "definition": "Mr. Handa's lunch. I think I'll open it.",
+    "timestamp": "0:03:57",
+    "audio": "/audio/10/0.03.57.mp3"
+  },
+  "41": {
+    "speaker": "KIRINO",
+    "character": "ダメだよ　パンダ君",
+    "definition": "Don't do that, Panda.",
+    "timestamp": "0:04:02",
+    "audio": "/audio/10/0.04.02.mp3"
+  },
+  "42": {
+    "speaker": "PANDA",
+    "character": "ちょっと開けるだけだよ",
+    "definition": "Just a peek.",
+    "timestamp": "0:04:04",
+    "audio": "/audio/10/0.04.04.mp3"
+  },
+  "43": {
+    "speaker": "KIRINO",
+    "character": "ダーメ！",
+    "definition": "No! Don't do it.",
+    "timestamp": "0:04:06",
+    "audio": "/audio/10/0.04.06.mp3"
+  },
+  "44": {
+    "speaker": "PANDA",
+    "character": "開けるだけだよ",
+    "definition": "Just a peek.",
+    "timestamp": "0:04:23",
+    "audio": "/audio/10/0.04.23.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "なんて　茶色いお弁当なんだろう",
+    "definition": "What a very brown lunch.",
+    "timestamp": "0:04:32",
+    "audio": "/audio/10/0.04.32.mp3"
+  },
+  "46": {
+    "speaker": "PANDA",
+    "character": "おばあちゃんのお弁当みたいだ",
+    "definition": "It's like a granny's lunch.",
+    "timestamp": "0:04:35",
+    "audio": "/audio/10/0.04.35.mp3"
+  },
+  "47": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと待って！",
+    "definition": "Wait a minute.",
+    "timestamp": "0:04:38",
+    "audio": "/audio/10/0.04.38.mp3"
+  },
+  "48": {
+    "speaker": "PENGUIN",
+    "character": "お弁当の話がしたいの？",
+    "definition": "You wanted to talk about his lunch?",
+    "timestamp": "0:04:40",
+    "audio": "/audio/10/0.04.40.mp3"
+  },
+  "49": {
+    "speaker": "PANDA",
+    "character": "もう まだ　話してる途中なんだから",
+    "definition": "Jeez. I'm still in the middle of my story.",
+    "timestamp": "0:04:43",
+    "audio": "/audio/10/0.04.43.mp3"
+  },
+  "50": {
+    "speaker": "PENGUIN",
+    "character": "頼むよ！ ヒマじゃないって言ってるでしょ",
+    "definition": "Come on. I don't have all day.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/10/0.04.47.mp3"
+  },
+  "51": {
+    "speaker": "PANDA",
+    "character": "ヒマでしょ？",
+    "definition": "You're not busy, though.",
+    "timestamp": "0:04:50",
+    "audio": "/audio/10/0.04.50.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "いつも　ここにいるじゃない",
+    "definition": "You're always here.",
+    "timestamp": "0:04:52",
+    "audio": "/audio/10/0.04.52.mp3"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんって ふだん　何してんの？",
+    "definition": "What do you do all day, Mr. Penguin?",
+    "timestamp": "0:04:55",
+    "audio": "/audio/10/0.04.55.mp3"
+  },
+  "54": {
+    "speaker": "PENGUIN",
+    "character": "い…　いいから 早く本題に入ってよ",
+    "definition": "J-Just hurry up and get to the point.",
+    "timestamp": "0:04:58",
+    "audio": "/audio/10/0.04.58.mp3"
+  },
+  "55": {
+    "speaker": "PANDA",
+    "character": "わかったよ",
+    "definition": "Okay.",
+    "timestamp": "0:05:02",
+    "audio": "/audio/10/0.05.02.mp3"
+  },
+  "56": {
+    "speaker": "FTPANDA",
+    "character": "パンダ君　今日は午後から小学生の団体が来るから",
+    "definition": "Panda, there'll be a group of elementary schoolers coming in this afternoon, so let's",
+    "timestamp": "0:05:07",
+    "audio": "/audio/10/0.05.07.mp3"
+  },
+  "57": {
+    "speaker": "",
+    "character": "サービスしようね",
+    "definition": "make sure to give them extra service.",
+    "timestamp": "0:05:12",
+    "audio": "/audio/10/0.05.12.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "はい　いつもより多めに　ゴロゴロしま～す",
+    "definition": "Okay! I'll make sure to roll around more than usual.",
+    "timestamp": "0:05:14",
+    "audio": "/audio/10/0.05.14.mp3"
+  },
+  "59": {
+    "speaker": "PANDA",
+    "character": "ねぇ　常勤パンダさん",
+    "definition": "Hey, Mr. Full-time Panda.",
+    "timestamp": "0:05:24",
+    "audio": "/audio/10/0.05.24.mp3"
+  },
+  "60": {
+    "speaker": "FTPANDA",
+    "character": "何？",
+    "definition": "Yes?",
+    "timestamp": "0:05:27",
+    "audio": "/audio/10/0.05.27.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "今日　半田さんの お弁当見ちゃったんだけどね",
+    "definition": "I saw Mr. Handa's lunch today.",
+    "timestamp": "0:05:28",
+    "audio": "/audio/10/0.05.28.mp3"
+  },
+  "62": {
+    "speaker": "PANDA",
+    "character": "茶色くてさ　おばあちゃんの お弁当みたいだったよ",
+    "definition": "It was really brown, and looked like a granny's lunch.",
+    "timestamp": "0:05:33",
+    "audio": "/audio/10/0.05.33.mp3"
+  },
+  "63": {
+    "speaker": "PANDA",
+    "character": "おいしかったけど",
+    "definition": "But it was really good.",
+    "timestamp": "0:05:38",
+    "audio": "/audio/10/0.05.38.mp3"
+  },
+  "64": {
+    "speaker": "FTPANDA",
+    "character": "食べちゃったの？",
+    "definition": "You ate it?",
+    "timestamp": "0:05:41",
+    "audio": "/audio/10/0.05.41.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "うん",
+    "definition": "Yup!",
+    "timestamp": "0:05:43",
+    "audio": "/audio/10/0.05.43.mp3"
+  },
+  "66": {
+    "speaker": "FTPANDA",
+    "character": "食べちゃったの…",
+    "definition": "You ate it...",
+    "timestamp": "0:05:45",
+    "audio": "/audio/10/0.05.45.mp3"
+  },
+  "67": {
+    "speaker": "PANDA",
+    "character": "うん！",
+    "definition": "Yup. The lunch was really good, but how do I put it...",
+    "timestamp": "0:05:47",
+    "audio": "/audio/10/0.05.47.mp3"
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "男が男のために 作ったお弁当というか",
+    "definition": "It really seemed like a lunch prepared by a guy for a guy...",
+    "timestamp": "0:05:53",
+    "audio": "/audio/10/0.05.53.mp3"
+  },
+  "69": {
+    "speaker": "FTPANDA",
+    "character": "まぁ　半田さんが 自分のために作った弁当だからね",
+    "definition": "Well, it was a lunch that Mr. Handa put together for himself.",
+    "timestamp": "0:05:57",
+    "audio": "/audio/10/0.05.57.mp3"
+  },
+  "70": {
+    "speaker": "PANDA",
+    "character": "というより　おばあちゃんが おばあちゃんのために作ったお弁当というか",
+    "definition": "But it seemed like a lunch that a granny made for a granny.",
+    "timestamp": "0:06:01",
+    "audio": "/audio/10/0.06.01.mp3"
+  },
+  "71": {
+    "speaker": "PANDA",
+    "character": "ひと言でいうと　モテなさそう",
+    "definition": "In a word, it was unappealing. It seemed like a really unappealing lunch.",
+    "timestamp": "0:06:08",
+    "audio": "/audio/10/0.06.08.mp3"
+  },
+  "72": {
+    "speaker": "FTPANDA",
+    "character": "見たかったな そのモテなさそうな弁当",
+    "definition": "I wish I had seen this unappealing lunch.",
+    "timestamp": "0:06:16",
+    "audio": "/audio/10/0.06.16.mp3"
+  },
+  "73": {
+    "speaker": "HANDA",
+    "character": "聞こえてますよ",
+    "definition": "I can hear you.",
+    "timestamp": "0:06:20",
+    "audio": "/audio/10/0.06.20.mp3"
+  },
+  "74": {
+    "speaker": "FTPANDA",
+    "character": "聞こえるように言ったんだよ",
+    "definition": "We said it so you would hear.",
+    "timestamp": "0:06:22",
+    "audio": "/audio/10/0.06.22.mp3"
+  },
+  "75": {
+    "speaker": "FTPANDA",
+    "character": "半田さん　今度そのモテなさそうな弁当私にも見せてよ",
+    "definition": "Could you show me this unappealing lunch next time, Mr. Handa?",
+    "timestamp": "0:06:24",
+    "audio": "/audio/10/0.06.24.mp3"
+  },
+  "76": {
+    "speaker": "HANDA",
+    "character": "ちょっと　失礼だな",
+    "definition": "Hey, that's quite rude.",
+    "timestamp": "0:06:30",
+    "audio": "/audio/10/0.06.30.mp3"
+  },
+  "77": {
+    "speaker": "PANDA",
+    "character": "じゃあ　モテるの？",
+    "definition": "Then are you popular?",
+    "timestamp": "0:06:33",
+    "audio": "/audio/10/0.06.33.mp3"
+  },
+  "78": {
+    "speaker": "PANDA",
+    "character": "最近　女性と喋った？",
+    "definition": "Have you talked to a girl recently?",
+    "timestamp": "0:06:36",
+    "audio": "/audio/10/0.06.36.mp3"
+  },
+  "79": {
+    "speaker": "HANDA",
+    "character": "何　急に",
+    "definition": "What are you talking about all of a sudden?",
+    "timestamp": "0:06:39",
+    "audio": "/audio/10/0.06.39.mp3"
+  },
+  "80": {
+    "speaker": "PANDA",
+    "character": "だから　最近　女性と喋った？",
+    "definition": "I'm asking you if you've talked to a girl recently. Huh? U-Um... Oh!",
+    "timestamp": "0:06:41",
+    "audio": "/audio/10/0.06.41.mp3"
+  },
+  "81": {
+    "speaker": "PANDA",
+    "character": "お母さん以外だよ",
+    "definition": "Other than your mom. U-Um... Oh!",
+    "timestamp": "0:06:48",
+    "audio": "/audio/10/0.06.48.mp3"
+  },
+  "82": {
+    "speaker": "PANDA",
+    "character": "動物以外だよ",
+    "definition": "Other than animals. Um, um...",
+    "timestamp": "0:06:56",
+    "audio": "/audio/10/0.06.56.mp3"
+  },
+  "83": {
+    "speaker": "PANDA",
+    "character": "ほらね",
+    "definition": "You see?",
+    "timestamp": "0:07:02",
+    "audio": "/audio/10/0.07.02.mp3"
+  },
+  "84": {
+    "speaker": "HANDA",
+    "character": "おかしいな",
+    "definition": "How weird.",
+    "timestamp": "0:07:05",
+    "audio": "/audio/10/0.07.05.mp3"
+  },
+  "85": {
+    "speaker": "PANDA",
+    "character": "そんなモテない半田さんのために",
+    "definition": "Since you're so unappealing, I asked Kirino for you.",
+    "timestamp": "0:07:07",
+    "audio": "/audio/10/0.07.07.mp3"
+  },
+  "86": {
+    "speaker": "HANDA",
+    "character": "え　何を",
+    "definition": "Huh? Asked him what?",
+    "timestamp": "0:07:13",
+    "audio": "/audio/10/0.07.13.mp3"
+  },
+  "87": {
+    "speaker": "KIRINO",
+    "character": "半田さん！",
+    "definition": "Mr. Handa! It's done!",
+    "timestamp": "0:07:15",
+    "audio": "/audio/10/0.07.15.mp3"
+  },
+  "88": {
+    "speaker": "HANDA",
+    "character": "何だ？",
+    "definition": "What?",
+    "timestamp": "0:07:19",
+    "audio": "/audio/10/0.07.19.mp3"
+  },
+  "89": {
+    "speaker": "KIRINO",
+    "character": "合コンですよ 半田さんがやりたいって　パンダくんが",
+    "definition": "The group blind date! Panda said you wanted to do it. I never said that. I'm not going. What? Hold on a minute. I set this up for you, Mr. Handa. The girls are all offices ladies.",
+    "timestamp": "0:07:21",
+    "audio": "/audio/10/0.07.21.mp3"
+  },
+  "90": {
+    "speaker": "HANDA",
+    "character": "俺　忙しいから",
+    "definition": "But I'm busy.",
+    "timestamp": "0:07:37",
+    "audio": "/audio/10/0.07.37.mp3"
+  },
+  "91": {
+    "speaker": "KIRINO",
+    "character": "何かあるんですか？",
+    "definition": "You have something going on?",
+    "timestamp": "0:07:39",
+    "audio": "/audio/10/0.07.39.mp3"
+  },
+  "92": {
+    "speaker": "HANDA",
+    "character": "帰って風呂の掃除しないと",
+    "definition": "I have to go home and clean my bathroom.",
+    "timestamp": "0:07:41",
+    "audio": "/audio/10/0.07.41.mp3"
+  },
+  "93": {
+    "speaker": "KIRINO",
+    "character": "それは忙しいに入りませんよ",
+    "definition": "That wouldn't fall under busy.",
+    "timestamp": "0:07:46",
+    "audio": "/audio/10/0.07.46.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "行くよね　半田さん",
+    "definition": "You're going, right, Mr. Handa?",
+    "timestamp": "0:07:49",
+    "audio": "/audio/10/0.07.49.mp3"
+  },
+  "95": {
+    "speaker": "PANDA",
+    "character": "桐野くん　半田さんをよろしくお願いします",
+    "definition": "Please look after Mr. Handa, Kirino.",
+    "timestamp": "0:07:53",
+    "audio": "/audio/10/0.07.53.mp3"
+  },
+  "96": {
+    "speaker": "HANDA",
+    "character": "もう　勝手に決めないで",
+    "definition": "Could you not make the decisions for me?",
+    "timestamp": "0:07:58",
+    "audio": "/audio/10/0.07.58.mp3"
+  },
+  "97": {
+    "speaker": "KIRINO",
+    "character": "行きましょうよ　半田さん",
+    "definition": "Let's go, Mr. Handa.",
+    "timestamp": "0:08:01",
+    "audio": "/audio/10/0.08.01.mp3"
+  },
+  "98": {
+    "speaker": "PANDA",
+    "character": "半田さん！",
+    "definition": "Mr. Handa! I-I won't say yes just because you're cute.",
+    "timestamp": "0:08:03",
+    "audio": "/audio/10/0.08.03.mp3"
+  },
+  "99": {
+    "speaker": "FTPANDA",
+    "character": "桐野くんはね パンダくんに言われて",
+    "definition": "Kirino set this up for you because Panda asked him to, even though he's never been to one.",
+    "timestamp": "0:08:08",
+    "audio": "/audio/10/0.08.08.mp3"
+  },
+  "100": {
+    "speaker": "KIRINO",
+    "character": "ちょっとくらいは やったことありますけど",
+    "definition": "I've been to a few...",
+    "timestamp": "0:08:17",
+    "audio": "/audio/10/0.08.17.mp3"
+  },
+  "101": {
+    "speaker": "PANDAS",
+    "character": "半田さん行こうよ！",
+    "definition": "Mr. Handa, you should totally go.",
+    "timestamp": "0:08:21",
+    "audio": "/audio/10/0.08.21.mp3"
+  },
+  "102": {
+    "speaker": "KIRINO",
+    "character": "もういいよ　２人とも",
+    "definition": "Don't worry about it, you two.",
+    "timestamp": "0:08:26",
+    "audio": "/audio/10/0.08.26.mp3"
+  },
+  "103": {
+    "speaker": "KIRINO",
+    "character": "わかりました",
+    "definition": "All right, I understand.",
+    "timestamp": "0:08:28",
+    "audio": "/audio/10/0.08.28.mp3"
+  },
+  "104": {
+    "speaker": "KIRINO",
+    "character": "半田さんが どうしても嫌なら　断ります",
+    "definition": "If you really don't want to go that much, I'll cancel. A-All right, I'll go!",
+    "timestamp": "0:08:30",
+    "audio": "/audio/10/0.08.30.mp3"
+  },
+  "105": {
+    "speaker": "KIRINO",
+    "character": "ホントですか！",
+    "definition": "Really?!",
+    "timestamp": "0:08:36",
+    "audio": "/audio/10/0.08.36.mp3"
+  },
+  "106": {
+    "speaker": "KIRINO",
+    "character": "よかった",
+    "definition": "Thank goodness.",
+    "timestamp": "0:08:37",
+    "audio": "/audio/10/0.08.37.mp3"
+  },
+  "107": {
+    "speaker": "KIRINO",
+    "character": "男性チームは　僕の友人が来て ３対３です",
+    "definition": "The guys' side will be us and my friend, so it'll be 3 and 3.",
+    "timestamp": "0:08:39",
+    "audio": "/audio/10/0.08.39.mp3"
+  },
+  "108": {
+    "speaker": "KIRINO",
+    "character": "じゃあ　今晩７時ですから",
+    "definition": "It'll be at 7PM. Okay.",
+    "timestamp": "0:08:43",
+    "audio": "/audio/10/0.08.43.mp3"
+  },
+  "109": {
+    "speaker": "PANDA",
+    "character": "半田さん　ＯＬさんにお弁当見せちゃダメだよ",
+    "definition": "You can't show the office ladies your lunch.",
+    "timestamp": "0:08:47",
+    "audio": "/audio/10/0.08.47.mp3"
+  },
+  "110": {
+    "speaker": "HANDA",
+    "character": "見せないよ",
+    "definition": "I-I won't.",
+    "timestamp": "0:08:52",
+    "audio": "/audio/10/0.08.52.mp3"
+  },
+  "111": {
+    "speaker": "HANDA",
+    "character": "お疲れ様",
+    "definition": "Thanks for your hard work today.",
+    "timestamp": "0:08:56",
+    "audio": "/audio/10/0.08.56.mp3"
+  },
+  "112": {
+    "speaker": "PANDA",
+    "character": "今日　合コン頑張ってね",
+    "definition": "Good luck at your group blind date tonight!",
+    "timestamp": "0:08:58",
+    "audio": "/audio/10/0.08.58.mp3"
+  },
+  "113": {
+    "speaker": "HANDA",
+    "character": "シーッ！　声が大きいよ",
+    "definition": "Shhhhh! You're too loud!",
+    "timestamp": "0:09:00",
+    "audio": "/audio/10/0.09.00.mp3"
+  },
+  "114": {
+    "speaker": "PANDA",
+    "character": "ごめん　ごめん",
+    "definition": "Sorry, sorry.",
+    "timestamp": "0:09:04",
+    "audio": "/audio/10/0.09.04.mp3"
+  },
+  "115": {
+    "speaker": "HANDA",
+    "character": "じゃあ　また明日",
+    "definition": "All right, see you tomorrow. Okay.",
+    "timestamp": "0:09:06",
+    "audio": "/audio/10/0.09.06.mp3"
+  },
+  "116": {
+    "speaker": "",
+    "character": "これで 半田さんのお弁当も変わるな",
+    "definition": "This will change Mr. Handa's lunch for sure. Wait, what? Are you serious? All right, got it.",
+    "timestamp": "0:09:09",
+    "audio": "/audio/10/0.09.09.mp3"
+  },
+  "117": {
+    "speaker": "KIRINO",
+    "character": "困ったな",
+    "definition": "This isn't good.",
+    "timestamp": "0:09:21",
+    "audio": "/audio/10/0.09.21.mp3"
+  },
+  "118": {
+    "speaker": "PANDA",
+    "character": "どうしたの？",
+    "definition": "What happened?",
+    "timestamp": "0:09:23",
+    "audio": "/audio/10/0.09.23.mp3"
+  },
+  "119": {
+    "speaker": "KIRINO",
+    "character": "今日の合コンなんだけど 友達が来られなくなっちゃって",
+    "definition": "It's about tonight's group blind date, my friend can't make it.",
+    "timestamp": "0:09:25",
+    "audio": "/audio/10/0.09.25.mp3"
+  },
+  "120": {
+    "speaker": "KIRINO",
+    "character": "今からじゃ　メンバー見つからないよ",
+    "definition": "It's too late to find a replacement.",
+    "timestamp": "0:09:31",
+    "audio": "/audio/10/0.09.31.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "桐野くん　大丈夫だよ",
+    "definition": "It'll be okay, Kirino. I have a plan.",
+    "timestamp": "0:09:35",
+    "audio": "/audio/10/0.09.35.mp3"
+  },
+  "122": {
+    "speaker": "KIRINO",
+    "character": "ホント？",
+    "definition": "Really?",
+    "timestamp": "0:09:42",
+    "audio": "/audio/10/0.09.42.mp3"
+  },
+  "123": {
+    "speaker": "PANDA",
+    "character": "うん　任せておいて",
+    "definition": "Yup. Leave it to me. Thank you, Panda. Thank you!",
+    "timestamp": "0:09:43",
+    "audio": "/audio/10/0.09.43.mp3"
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "そういうわけなんだ",
+    "definition": "So that's the deal.",
+    "timestamp": "0:09:50",
+    "audio": "/audio/10/0.09.50.mp3"
+  },
+  "125": {
+    "speaker": "PENGUIN",
+    "character": "ふ～ん　話はわかった",
+    "definition": "I got the point.",
+    "timestamp": "0:09:54",
+    "audio": "/audio/10/0.09.54.mp3"
+  },
+  "126": {
+    "speaker": "",
+    "character": "要するに 合コンのメンバーが必要なんだね",
+    "definition": "So you need members for the group blind date.",
+    "timestamp": "0:09:55",
+    "audio": "/audio/10/0.09.55.mp3"
+  },
+  "127": {
+    "speaker": "PANDA",
+    "character": "それでシロクマくんを誘おうと思うんだけど　どう思う？",
+    "definition": "So I'm thinking about asking Polar Bear. What do you think?",
+    "timestamp": "0:09:59",
+    "audio": "/audio/10/0.09.59.mp3"
+  },
+  "128": {
+    "speaker": "PENGUIN",
+    "character": "えっ！？　僕じゃなくて？",
+    "definition": "What?! Not me?!",
+    "timestamp": "0:10:04",
+    "audio": "/audio/10/0.10.04.mp3"
+  },
+  "129": {
+    "speaker": "PANDA",
+    "character": "シロクマくん　今日　ヒマ？",
+    "definition": "Are you free today, Polar Bear?",
+    "timestamp": "0:10:06",
+    "audio": "/audio/10/0.10.06.mp3"
+  },
+  "130": {
+    "speaker": "PANDA",
+    "character": "今日　ヒマ？",
+    "definition": "Are you free today?",
+    "timestamp": "0:10:10",
+    "audio": "/audio/10/0.10.10.mp3"
+  },
+  "131": {
+    "speaker": "PENGUIN",
+    "character": "僕じゃないんだ…",
+    "definition": "So it's not me.",
+    "timestamp": "0:10:13",
+    "audio": "/audio/10/0.10.13.mp3"
+  },
+  "132": {
+    "speaker": "PENGUIN",
+    "character": "僕　結構　話　聞いてたのに",
+    "definition": "And I was listening so intently, too.",
+    "timestamp": "0:10:15",
+    "audio": "/audio/10/0.10.15.mp3"
+  },
+  "133": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　さっきから ヒマじゃない　ヒマじゃないって…",
+    "definition": "But you kept saying that you were busy, Mr. Penguin.",
+    "timestamp": "0:10:19",
+    "audio": "/audio/10/0.10.19.mp3"
+  },
+  "134": {
+    "speaker": "PENGUIN",
+    "character": "いや　まあ　そうだけど…",
+    "definition": "Well, yeah, but...",
+    "timestamp": "0:10:24",
+    "audio": "/audio/10/0.10.24.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "やりくりすれば　合コンに行けないことも ないんじゃないかな",
+    "definition": "I think I could make a few changes to go to the group blind date.",
+    "timestamp": "0:10:27",
+    "audio": "/audio/10/0.10.27.mp3"
+  },
+  "136": {
+    "speaker": "PANDA",
+    "character": "ヒマじゃないんでしょ？",
+    "definition": "You're busy, right?",
+    "timestamp": "0:10:31",
+    "audio": "/audio/10/0.10.31.mp3"
+  },
+  "137": {
+    "speaker": "PENGUIN",
+    "character": "ああ　僕　ヒマじゃないからね",
+    "definition": "Yeah, I guess I'm busy. You go have fun, then.",
+    "timestamp": "0:10:35",
+    "audio": "/audio/10/0.10.35.mp3"
+  },
+  "138": {
+    "speaker": "HANDA",
+    "character": "パンダくんにシロクマさん？",
+    "definition": "Panda and Mr. Polar Bear? Why?",
+    "timestamp": "0:10:46",
+    "audio": "/audio/10/0.10.46.mp3"
+  },
+  "139": {
+    "speaker": "KIRINO",
+    "character": "今日の男性チームです",
+    "definition": "This would be the guys' team.",
+    "timestamp": "0:10:51",
+    "audio": "/audio/10/0.10.51.mp3"
+  },
+  "140": {
+    "speaker": "PANDA",
+    "character": "半田さん　頑張ろうね",
+    "definition": "Let's do our best, Mr. Handa.",
+    "timestamp": "0:10:58",
+    "audio": "/audio/10/0.10.58.mp3"
+  },
+  "141": {
+    "speaker": "KIRINO",
+    "character": "半田さん　すみません 頑張りましょうね",
+    "definition": "Sorry, Mr. Handa. Let's do our best.",
+    "timestamp": "0:11:03",
+    "audio": "/audio/10/0.11.03.mp3"
+  },
+  "142": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ　行こうか",
+    "definition": "Well, let's go.",
+    "timestamp": "0:11:08",
+    "audio": "/audio/10/0.11.08.mp3"
+  }
+}

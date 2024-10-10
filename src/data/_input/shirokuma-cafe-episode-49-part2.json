@@ -1,0 +1,1997 @@
+{
+  "1": {
+    "speaker": "grizzly",
+    "character": "はい",
+    "definition": "Hello?",
+    "timestamp": "0:01:40",
+    "audio": "/audio/49/0.01.40.mp3"
+  },
+  "2": {
+    "speaker": "voice",
+    "character": "ただいま",
+    "definition": "We are currently conducting a phone survey.",
+    "timestamp": "0:01:41",
+    "audio": "/audio/49/0.01.41.mp3"
+  },
+  "3": {
+    "speaker": "voice",
+    "character": "自動音声に従って質問にお答えください",
+    "definition": "Please give your answers after the automated questions.",
+    "timestamp": "0:01:45",
+    "audio": "/audio/49/0.01.45.mp3"
+  },
+  "4": {
+    "speaker": "polar bear",
+    "character": "あなたは 最近寝不足でお悩みですか",
+    "definition": "Have you been suffering from a lack of sleep lately?",
+    "timestamp": "0:01:50",
+    "audio": "/audio/49/0.01.50.mp3"
+  },
+  "5": {
+    "speaker": "grizzly",
+    "character": "シロクマだろ",
+    "definition": "I know it's you, Polar Bear!",
+    "timestamp": "0:01:54",
+    "audio": "/audio/49/0.01.54.mp3"
+  },
+  "6": {
+    "speaker": "polar bear",
+    "character": "バレた",
+    "definition": "Was it that obvious?",
+    "timestamp": "0:01:57",
+    "audio": "/audio/49/0.01.57.mp3"
+  },
+  "7": {
+    "speaker": "polar bear",
+    "character": "この前 起きたばかりなのにまた寝てるの",
+    "definition": "You just woke up recently, and you're asleep again?",
+    "timestamp": "0:01:58",
+    "audio": "/audio/49/0.01.58.mp3"
+  },
+  "8": {
+    "speaker": "grizzly",
+    "character": "ああ 冬眠の二度寝だ",
+    "definition": "Yeah, I went back to bed to hibernate.",
+    "timestamp": "0:02:02",
+    "audio": "/audio/49/0.02.02.mp3"
+  },
+  "9": {
+    "speaker": "polar bear",
+    "character": "二度寝じゃないでしょ",
+    "definition": "Not just back. What?",
+    "timestamp": "0:02:05",
+    "audio": "/audio/49/0.02.05.mp3"
+  },
+  "10": {
+    "speaker": "polar bear",
+    "character": "もう八度寝くらいだよ",
+    "definition": "You've gone back about eight times.",
+    "timestamp": "0:02:09",
+    "audio": "/audio/49/0.02.09.mp3"
+  },
+  "11": {
+    "speaker": "grizzly",
+    "character": "お前が 何度も起こすからだろ",
+    "definition": "Because you keep waking me up!",
+    "timestamp": "0:02:11",
+    "audio": "/audio/49/0.02.11.mp3"
+  },
+  "12": {
+    "speaker": "grizzly",
+    "character": "寝かせろ",
+    "definition": "Let me sleep, damn it!",
+    "timestamp": "0:02:14",
+    "audio": "/audio/49/0.02.14.mp3"
+  },
+  "13": {
+    "speaker": "grizzly",
+    "character": "シロクマ…",
+    "definition": "Polar Bear...",
+    "timestamp": "0:02:30",
+    "audio": "/audio/49/0.02.30.mp3"
+  },
+  "14": {
+    "speaker": "grizzly",
+    "character": "いい加減にしやがれ",
+    "definition": "You really need to... ...stop that, damn it!",
+    "timestamp": "0:02:34",
+    "audio": "/audio/49/0.02.34.mp3"
+  },
+  "15": {
+    "speaker": "grizzly mama",
+    "character": "久しぶりね",
+    "definition": "It's been a while.",
+    "timestamp": "0:02:42",
+    "audio": "/audio/49/0.02.42.mp3"
+  },
+  "16": {
+    "speaker": "grizzly",
+    "character": "母さん",
+    "definition": "Mom...",
+    "timestamp": "0:02:45",
+    "audio": "/audio/49/0.02.45.mp3"
+  },
+  "17": {
+    "speaker": "grizzly mama",
+    "character": "もう 乱暴な言葉遣いはおよしなさい",
+    "definition": "You really need to stop with the harsh speech.",
+    "timestamp": "0:02:48",
+    "audio": "/audio/49/0.02.48.mp3"
+  },
+  "18": {
+    "speaker": "grizzly mama",
+    "character": "はい お土産よ",
+    "definition": "Here, I brought you a gift. I-I always tell you to let me know when you're coming.",
+    "timestamp": "0:02:52",
+    "audio": "/audio/49/0.02.52.mp3"
+  },
+  "19": {
+    "speaker": "grizzly mama",
+    "character": "冬眠してたのに",
+    "definition": "Even though you were hibernating?",
+    "timestamp": "0:03:00",
+    "audio": "/audio/49/0.03.00.mp3"
+  },
+  "20": {
+    "speaker": "grizzly mama",
+    "character": "驚かそうと思ってね",
+    "definition": "I thought I'd surprise you.",
+    "timestamp": "0:03:03",
+    "audio": "/audio/49/0.03.03.mp3"
+  },
+  "21": {
+    "speaker": "grizzly mama",
+    "character": "はい グリちゃん",
+    "definition": "Here you go, Little Grizz.",
+    "timestamp": "0:03:06",
+    "audio": "/audio/49/0.03.06.mp3"
+  },
+  "22": {
+    "speaker": "grizzly",
+    "character": "グリちゃんはいい加減やめてくれよ",
+    "definition": "I asked you not to call me that anymore. Maple syrup and Alaskan salmon!",
+    "timestamp": "0:03:09",
+    "audio": "/audio/49/0.03.09.mp3"
+  },
+  "23": {
+    "speaker": "grizzly",
+    "character": "サンキュー",
+    "definition": "Thanks!",
+    "timestamp": "0:03:18",
+    "audio": "/audio/49/0.03.18.mp3"
+  },
+  "24": {
+    "speaker": "grizzly",
+    "character": "いつ帰国したんだ",
+    "definition": "When'd you get back?",
+    "timestamp": "0:03:25",
+    "audio": "/audio/49/0.03.25.mp3"
+  },
+  "25": {
+    "speaker": "grizzly mama",
+    "character": "昨日の最終便",
+    "definition": "On the last flight yesterday.",
+    "timestamp": "0:03:27",
+    "audio": "/audio/49/0.03.27.mp3"
+  },
+  "26": {
+    "speaker": "grizzly mama",
+    "character": "やっぱり 我が家は落ち着くわね",
+    "definition": "Being at home really is relaxing.",
+    "timestamp": "0:03:30",
+    "audio": "/audio/49/0.03.30.mp3"
+  },
+  "27": {
+    "speaker": "grizzly mama",
+    "character": "このまま住んじゃおうかしら",
+    "definition": "Maybe I'll move back in.",
+    "timestamp": "0:03:33",
+    "audio": "/audio/49/0.03.33.mp3"
+  },
+  "28": {
+    "speaker": "grizzly",
+    "character": "冗談だろ じいちゃんの生まれ故郷で",
+    "definition": "Please. You were the one who moved overseas,",
+    "timestamp": "0:03:35",
+    "audio": "/audio/49/0.03.35.mp3"
+  },
+  "29": {
+    "speaker": "grizzly",
+    "character": "ロハスな田舎暮らしをするって海外移住したくせに",
+    "definition": "so you could have a LOHAS-style county life where grandpa was born.",
+    "timestamp": "0:03:39",
+    "audio": "/audio/49/0.03.39.mp3"
+  },
+  "30": {
+    "speaker": "grizzly mama",
+    "character": "どう 本場のメープルシロップは",
+    "definition": "Well? How does the authentic maple syrup taste?",
+    "timestamp": "0:03:46",
+    "audio": "/audio/49/0.03.46.mp3"
+  },
+  "31": {
+    "speaker": "grizzly mama",
+    "character": "春に収穫した旬のものよ",
+    "definition": "It's fresh from this spring.",
+    "timestamp": "0:03:50",
+    "audio": "/audio/49/0.03.50.mp3"
+  },
+  "32": {
+    "speaker": "grizzly",
+    "character": "うめぇ",
+    "definition": "So good...",
+    "timestamp": "0:03:53",
+    "audio": "/audio/49/0.03.53.mp3"
+  },
+  "33": {
+    "speaker": "grizzly mama",
+    "character": "あら お客様かしらあ…",
+    "definition": "Oh? It looks like you've got a visitor. Oh, don't worry about it, Mom. I'll get it.",
+    "timestamp": "0:03:59",
+    "audio": "/audio/49/0.03.59.mp3"
+  },
+  "34": {
+    "speaker": "grizzly",
+    "character": "こら シロクマ",
+    "definition": "Damn it, Polar Bear!",
+    "timestamp": "0:04:10",
+    "audio": "/audio/49/0.04.10.mp3"
+  },
+  "35": {
+    "speaker": "polar bear",
+    "character": "シロクマ",
+    "definition": "Polar Bear {\\i1}(shirokuma){\\i0}?",
+    "timestamp": "0:04:15",
+    "audio": "/audio/49/0.04.15.mp3"
+  },
+  "36": {
+    "speaker": "grizzly",
+    "character": "それは 広島だろうが",
+    "definition": "That's Hiroshima! What are you up to {\\i1}(nanimon){\\i0}?!",
+    "timestamp": "0:04:16",
+    "audio": "/audio/49/0.04.16.mp3"
+  },
+  "37": {
+    "speaker": "grizzly",
+    "character": "それは イロモンだ",
+    "definition": "That's a traditional variety act {\\i1}(iromon){\\i0}!",
+    "timestamp": "0:04:22",
+    "audio": "/audio/49/0.04.22.mp3"
+  },
+  "38": {
+    "speaker": "grizzly",
+    "character": "それは伊賀者だ",
+    "definition": "That's an Iga ninja {\\i1}(iga mono){\\i0}!",
+    "timestamp": "0:04:26",
+    "audio": "/audio/49/0.04.26.mp3"
+  },
+  "39": {
+    "speaker": "grizzly mama",
+    "character": "これは鍋物だ～",
+    "definition": "And this is for hot pot {\\i1}(nabemono){\\i0}! Hello, Polar Bear.",
+    "timestamp": "0:04:30",
+    "audio": "/audio/49/0.04.30.mp3"
+  },
+  "40": {
+    "speaker": "polar bear",
+    "character": "あっ どうも ご無沙汰してます",
+    "definition": "Oh, hello. It's been a very long time.",
+    "timestamp": "0:04:37",
+    "audio": "/audio/49/0.04.37.mp3"
+  },
+  "41": {
+    "speaker": "baby emp",
+    "character": "お花見電車が通過しま～す",
+    "definition": "The cherry blossom viewing train is coming through!",
+    "timestamp": "0:04:46",
+    "audio": "/audio/49/0.04.46.mp3"
+  },
+  "42": {
+    "speaker": "baby king",
+    "character": "しま～す",
+    "definition": "Through...",
+    "timestamp": "0:04:49",
+    "audio": "/audio/49/0.04.49.mp3"
+  },
+  "43": {
+    "speaker": "polar bear",
+    "character": "もう春ですし",
+    "definition": "Since it's spring already,",
+    "timestamp": "0:04:50",
+    "audio": "/audio/49/0.04.50.mp3"
+  },
+  "44": {
+    "speaker": "polar bear",
+    "character": "鍋ではなく ムニエルにしてみました",
+    "definition": "I made it meunière instead of in a hot pot.",
+    "timestamp": "0:04:53",
+    "audio": "/audio/49/0.04.53.mp3"
+  },
+  "45": {
+    "speaker": "grizzly mama",
+    "character": "まあ おいしそう",
+    "definition": "My, it looks delicious.",
+    "timestamp": "0:04:56",
+    "audio": "/audio/49/0.04.56.mp3"
+  },
+  "46": {
+    "speaker": "panda mama",
+    "character": "いいの 私たちまでいただいちゃって",
+    "definition": "Are you sure we can have some, as well?",
+    "timestamp": "0:04:59",
+    "audio": "/audio/49/0.04.59.mp3"
+  },
+  "47": {
+    "speaker": "grizzly mama",
+    "character": "どうぞ めしあがってください",
+    "definition": "Please, eat up.",
+    "timestamp": "0:05:03",
+    "audio": "/audio/49/0.05.03.mp3"
+  },
+  "48": {
+    "speaker": "panda mama",
+    "character": "じゃあ…",
+    "definition": "Well, then...",
+    "timestamp": "0:05:06",
+    "audio": "/audio/49/0.05.06.mp3"
+  },
+  "49": {
+    "speaker": "lady",
+    "character": "おいしい",
+    "definition": "It's delicious!",
+    "timestamp": "0:05:10",
+    "audio": "/audio/49/0.05.10.mp3"
+  },
+  "50": {
+    "speaker": "king",
+    "character": "うん さすが本場産の天然物だわね",
+    "definition": "Nothing better than getting fish fresh from its natural habitat.",
+    "timestamp": "0:05:11",
+    "audio": "/audio/49/0.05.11.mp3"
+  },
+  "51": {
+    "speaker": "panda mama",
+    "character": "それにしてもグリズリーさんのお母さんにしては",
+    "definition": "But, my, you seem rather young to be Mr. Grizzly's mother.",
+    "timestamp": "0:05:15",
+    "audio": "/audio/49/0.05.15.mp3"
+  },
+  "52": {
+    "speaker": "king",
+    "character": "そう言われれば…",
+    "definition": "Now that you mention it...",
+    "timestamp": "0:05:20",
+    "audio": "/audio/49/0.05.20.mp3"
+  },
+  "53": {
+    "speaker": "king",
+    "character": "失礼ですけど おいくつ",
+    "definition": "I hope you don't mind me asking, but how old are you?",
+    "timestamp": "0:05:23",
+    "audio": "/audio/49/0.05.23.mp3"
+  },
+  "54": {
+    "speaker": "grizzly mama",
+    "character": "えっ 今年 １７歳です",
+    "definition": "Oh? Well, this year... I'm seventeen.",
+    "timestamp": "0:05:25",
+    "audio": "/audio/49/0.05.25.mp3"
+  },
+  "55": {
+    "speaker": "lady",
+    "character": "１７歳",
+    "definition": "Seventeen?",
+    "timestamp": "0:05:30",
+    "audio": "/audio/49/0.05.30.mp3"
+  },
+  "56": {
+    "speaker": "panda mama",
+    "character": "えっ 見えないわ",
+    "definition": "What? You don't look it at all!",
+    "timestamp": "0:05:32",
+    "audio": "/audio/49/0.05.32.mp3"
+  },
+  "57": {
+    "speaker": "panda mama",
+    "character": "私より年上",
+    "definition": "You're older than me?",
+    "timestamp": "0:05:35",
+    "audio": "/audio/49/0.05.35.mp3"
+  },
+  "58": {
+    "speaker": "grizzly mama",
+    "character": "クマですから",
+    "definition": "Well, I am a bear.",
+    "timestamp": "0:05:39",
+    "audio": "/audio/49/0.05.39.mp3"
+  },
+  "59": {
+    "speaker": "king",
+    "character": "毛並みも艶やかで 若々しいわ",
+    "definition": "Your fur is so sleek and youthful!",
+    "timestamp": "0:05:41",
+    "audio": "/audio/49/0.05.41.mp3"
+  },
+  "60": {
+    "speaker": "panda mama",
+    "character": "キューティクルの秘訣 教えてくださらない",
+    "definition": "Could you tell me your secret behind your cuticles?",
+    "timestamp": "0:05:44",
+    "audio": "/audio/49/0.05.44.mp3"
+  },
+  "61": {
+    "speaker": "grizzly mama",
+    "character": "いえ 特別なことは何も",
+    "definition": "Oh, I don't do anything special, really.",
+    "timestamp": "0:05:47",
+    "audio": "/audio/49/0.05.47.mp3"
+  },
+  "62": {
+    "speaker": "king",
+    "character": "あら 田中さん どうしたの",
+    "definition": "What's the matter, Ms. Tanaka? Oh... It's just I'm the oldest...",
+    "timestamp": "0:05:52",
+    "audio": "/audio/49/0.05.52.mp3"
+  },
+  "63": {
+    "speaker": "penguin",
+    "character": "はじめまして ペンギンです",
+    "definition": "Nice to meet you. I'm Penguin.",
+    "timestamp": "0:05:59",
+    "audio": "/audio/49/0.05.59.mp3"
+  },
+  "64": {
+    "speaker": "panda",
+    "character": "パンダです",
+    "definition": "I'm Panda. I'm always taking care of Mr. Grizzly.",
+    "timestamp": "0:06:02",
+    "audio": "/audio/49/0.06.02.mp3"
+  },
+  "65": {
+    "speaker": "panda mama",
+    "character": "違うでしょ 「お世話になってます」でしょ",
+    "definition": "No, you mean that he's always taking care of you...",
+    "timestamp": "0:06:07",
+    "audio": "/audio/49/0.06.07.mp3"
+  },
+  "66": {
+    "speaker": "grizzly mama",
+    "character": "はじめまして グリちゃんの母です",
+    "definition": "Nice to meet you. I'm Little Grizz's mother.",
+    "timestamp": "0:06:11",
+    "audio": "/audio/49/0.06.11.mp3"
+  },
+  "67": {
+    "speaker": "both",
+    "character": "グリちゃん",
+    "definition": "Little Grizz?",
+    "timestamp": "0:06:14",
+    "audio": "/audio/49/0.06.14.mp3"
+  },
+  "68": {
+    "speaker": "grizzly",
+    "character": "母さん余計なこと言うんじゃねえ",
+    "definition": "Mom! Don't call me that!",
+    "timestamp": "0:06:18",
+    "audio": "/audio/49/0.06.18.mp3"
+  },
+  "69": {
+    "speaker": "polar bear",
+    "character": "グリちゃん",
+    "definition": "\"Little Grizz\"?",
+    "timestamp": "0:06:21",
+    "audio": "/audio/49/0.06.21.mp3"
+  },
+  "70": {
+    "speaker": "sasako",
+    "character": "へえ～ グリちゃんですか",
+    "definition": "Oh, I see. \"Little Grizz.\"",
+    "timestamp": "0:06:23",
+    "audio": "/audio/49/0.06.23.mp3"
+  },
+  "71": {
+    "speaker": "baby emp",
+    "character": "ご乗車の方はお急ぎくださ～い",
+    "definition": "All passengers please hurry on board.",
+    "timestamp": "0:06:28",
+    "audio": "/audio/49/0.06.28.mp3"
+  },
+  "72": {
+    "speaker": "baby king",
+    "character": "くださ～い",
+    "definition": "Board...",
+    "timestamp": "0:06:31",
+    "audio": "/audio/49/0.06.31.mp3"
+  },
+  "73": {
+    "speaker": "grizzly",
+    "character": "出発進行",
+    "definition": "All aboard!",
+    "timestamp": "0:06:34",
+    "audio": "/audio/49/0.06.34.mp3"
+  },
+  "74": {
+    "speaker": "baby emp",
+    "character": "特急",
+    "definition": "Express!",
+    "timestamp": "0:06:36",
+    "audio": "/audio/49/0.06.36.mp3"
+  },
+  "75": {
+    "speaker": "king",
+    "character": "また来るわね",
+    "definition": "We'll come again. Thank you for the food.",
+    "timestamp": "0:06:48",
+    "audio": "/audio/49/0.06.48.mp3"
+  },
+  "76": {
+    "speaker": "baby emp",
+    "character": "た～じゃあね",
+    "definition": "Bye! See you later!",
+    "timestamp": "0:06:51",
+    "audio": "/audio/49/0.06.51.mp3"
+  },
+  "77": {
+    "speaker": "grizzly",
+    "character": "じゃあ 俺は店に行くから",
+    "definition": "Well, I'm going to the bar, so you can head home.",
+    "timestamp": "0:06:54",
+    "audio": "/audio/49/0.06.54.mp3"
+  },
+  "78": {
+    "speaker": "baby emp",
+    "character": "じゃあ 俺は店に行くから",
+    "definition": "{\\a6}Bye!",
+    "timestamp": "0:06:54",
+    "audio": "/audio/49/0.06.54.mp3"
+  },
+  "79": {
+    "speaker": "grizzly mama",
+    "character": "はい",
+    "definition": "All right.",
+    "timestamp": "0:06:58",
+    "audio": "/audio/49/0.06.58.mp3"
+  },
+  "80": {
+    "speaker": "baby emp",
+    "character": "はい",
+    "definition": "{\\a6}See you later! Do your best at work. Yeah.",
+    "timestamp": "0:06:58",
+    "audio": "/audio/49/0.06.58.mp3"
+  },
+  "81": {
+    "speaker": "grizzly",
+    "character": "まったく 調子狂うぜ",
+    "definition": "Jeez... This is totally throwing things off.",
+    "timestamp": "0:07:05",
+    "audio": "/audio/49/0.07.05.mp3"
+  },
+  "82": {
+    "speaker": "grizzly",
+    "character": "久しぶりに打ってから行くか",
+    "definition": "Guess I'll knock a few out before I head in.",
+    "timestamp": "0:07:12",
+    "audio": "/audio/49/0.07.12.mp3"
+  },
+  "83": {
+    "speaker": "grizzly",
+    "character": "ふぅ～ スッキリしたぜ",
+    "definition": "Man, that felt great! Sorry to leave you with the bar, Otter.",
+    "timestamp": "0:07:22",
+    "audio": "/audio/49/0.07.22.mp3"
+  },
+  "84": {
+    "speaker": "grizzly mama",
+    "character": "お待ちどおさま",
+    "definition": "Thanks for waiting.",
+    "timestamp": "0:07:30",
+    "audio": "/audio/49/0.07.30.mp3"
+  },
+  "85": {
+    "speaker": "",
+    "character": "はい バーボン",
+    "definition": "Here's your bourbon.",
+    "timestamp": "0:07:32",
+    "audio": "/audio/49/0.07.32.mp3"
+  },
+  "86": {
+    "speaker": "wild animal",
+    "character": "ありがとう ママ",
+    "definition": "Thanks, Ma'am.",
+    "timestamp": "0:07:34",
+    "audio": "/audio/49/0.07.34.mp3"
+  },
+  "87": {
+    "speaker": "grizzly",
+    "character": "母さん なんでいるんだ",
+    "definition": "Mom! Why are you here?!",
+    "timestamp": "0:07:36",
+    "audio": "/audio/49/0.07.36.mp3"
+  },
+  "88": {
+    "speaker": "grizzly mama",
+    "character": "どう 似合ってる",
+    "definition": "Well? How do I look?",
+    "timestamp": "0:07:39",
+    "audio": "/audio/49/0.07.39.mp3"
+  },
+  "89": {
+    "speaker": "grizzly",
+    "character": "カワウソ どういうことだ",
+    "definition": "What the hell, Otter?",
+    "timestamp": "0:07:43",
+    "audio": "/audio/49/0.07.43.mp3"
+  },
+  "90": {
+    "speaker": "otter",
+    "character": "いやぁ 助かるでやんす",
+    "definition": "She's been a lot of help.",
+    "timestamp": "0:07:45",
+    "audio": "/audio/49/0.07.45.mp3"
+  },
+  "91": {
+    "speaker": "tiger",
+    "character": "マスター 寝不足なんだって",
+    "definition": "I heard you're not sleeping well.",
+    "timestamp": "0:07:48",
+    "audio": "/audio/49/0.07.48.mp3"
+  },
+  "92": {
+    "speaker": "lion",
+    "character": "代わりに店に立ってくれるなんて",
+    "definition": "She's an amazing mom",
+    "timestamp": "0:07:50",
+    "audio": "/audio/49/0.07.50.mp3"
+  },
+  "93": {
+    "speaker": "lion",
+    "character": "いいおふくろさんじゃない",
+    "definition": "to help you with the bar.",
+    "timestamp": "0:07:53",
+    "audio": "/audio/49/0.07.53.mp3"
+  },
+  "94": {
+    "speaker": "wolf",
+    "character": "ママ ふきのとうの春巻きおいしいよ",
+    "definition": "These fuki bud spring rolls are delicious.",
+    "timestamp": "0:07:56",
+    "audio": "/audio/49/0.07.56.mp3"
+  },
+  "95": {
+    "speaker": "grizzly",
+    "character": "ふきのとう",
+    "definition": "Fuki buds?!",
+    "timestamp": "0:07:59",
+    "audio": "/audio/49/0.07.59.mp3"
+  },
+  "96": {
+    "speaker": "tiger",
+    "character": "ママ 助六寿司もうまいぜ",
+    "definition": "The inari and roll sushi plate is great, too.",
+    "timestamp": "0:08:01",
+    "audio": "/audio/49/0.08.01.mp3"
+  },
+  "97": {
+    "speaker": "grizzly",
+    "character": "助六",
+    "definition": "Inari and roll sushi plate?!",
+    "timestamp": "0:08:04",
+    "audio": "/audio/49/0.08.04.mp3"
+  },
+  "98": {
+    "speaker": "lion",
+    "character": "ママ 味噌汁おかわり",
+    "definition": "Could I get another miso soup?",
+    "timestamp": "0:08:05",
+    "audio": "/audio/49/0.08.05.mp3"
+  },
+  "99": {
+    "speaker": "grizzly",
+    "character": "味噌汁",
+    "definition": "Miso soup?!",
+    "timestamp": "0:08:08",
+    "audio": "/audio/49/0.08.08.mp3"
+  },
+  "100": {
+    "speaker": "lion",
+    "character": "ただの味噌汁じゃねえよな",
+    "definition": "Not just any miso soup...",
+    "timestamp": "0:08:10",
+    "audio": "/audio/49/0.08.10.mp3"
+  },
+  "101": {
+    "speaker": "lion",
+    "character": "おふくろの味だ",
+    "definition": "It's a mother's cooking.",
+    "timestamp": "0:08:13",
+    "audio": "/audio/49/0.08.13.mp3"
+  },
+  "102": {
+    "speaker": "three",
+    "character": "おっかさ～ん",
+    "definition": "Mom! Who asked you to make healthy family cooking?",
+    "timestamp": "0:08:26",
+    "audio": "/audio/49/0.08.26.mp3"
+  },
+  "103": {
+    "speaker": "grizzly",
+    "character": "うちは 小料理屋じゃねえ",
+    "definition": "This ain't a small restaurant!",
+    "timestamp": "0:08:35",
+    "audio": "/audio/49/0.08.35.mp3"
+  },
+  "104": {
+    "speaker": "grizzly mama",
+    "character": "ごめんね",
+    "definition": "I'm sorry.",
+    "timestamp": "0:08:46",
+    "audio": "/audio/49/0.08.46.mp3"
+  },
+  "105": {
+    "speaker": "grizzly mama",
+    "character": "じゃあ マスターも来たし私は帰るわね",
+    "definition": "Well, the bar keep is back, so I'll head home.",
+    "timestamp": "0:08:50",
+    "audio": "/audio/49/0.08.50.mp3"
+  },
+  "106": {
+    "speaker": "grizzly mama",
+    "character": "皆さんこれからもグリズリーバーをごひいきに",
+    "definition": "Everyone, please keep visiting Grizzly's Bar.",
+    "timestamp": "0:08:54",
+    "audio": "/audio/49/0.08.54.mp3"
+  },
+  "107": {
+    "speaker": "tiger",
+    "character": "マスター",
+    "definition": "Bar keep.",
+    "timestamp": "0:09:11",
+    "audio": "/audio/49/0.09.11.mp3"
+  },
+  "108": {
+    "speaker": "grizzly",
+    "character": "何だ",
+    "definition": "What?",
+    "timestamp": "0:09:13",
+    "audio": "/audio/49/0.09.13.mp3"
+  },
+  "109": {
+    "speaker": "tiger",
+    "character": "飲んでみなよ",
+    "definition": "Have a taste.",
+    "timestamp": "0:09:16",
+    "audio": "/audio/49/0.09.16.mp3"
+  },
+  "110": {
+    "speaker": "lion",
+    "character": "な うまいだろ",
+    "definition": "See? It's good, ain't it?",
+    "timestamp": "0:09:32",
+    "audio": "/audio/49/0.09.32.mp3"
+  },
+  "111": {
+    "speaker": "grizzly",
+    "character": "おい 待てよ",
+    "definition": "Hey, wait a sec!",
+    "timestamp": "0:09:40",
+    "audio": "/audio/49/0.09.40.mp3"
+  },
+  "112": {
+    "speaker": "",
+    "character": "母さん",
+    "definition": "Mom! This is pretty good.",
+    "timestamp": "0:09:43",
+    "audio": "/audio/49/0.09.43.mp3"
+  },
+  "113": {
+    "speaker": "aligator",
+    "character": "たまにはこういう味もいいよね",
+    "definition": "This isn't bad once in a while.",
+    "timestamp": "0:09:50",
+    "audio": "/audio/49/0.09.50.mp3"
+  },
+  "114": {
+    "speaker": "grizzly",
+    "character": "あぁ そうだな",
+    "definition": "Got that right.",
+    "timestamp": "0:09:53",
+    "audio": "/audio/49/0.09.53.mp3"
+  },
+  "115": {
+    "speaker": "otter",
+    "character": "ママ ジンライムおかわりでやんす",
+    "definition": "Could I get another gin lime?",
+    "timestamp": "0:09:55",
+    "audio": "/audio/49/0.09.55.mp3"
+  },
+  "116": {
+    "speaker": "grizzly mama",
+    "character": "はい",
+    "definition": "Sure.",
+    "timestamp": "0:09:58",
+    "audio": "/audio/49/0.09.58.mp3"
+  },
+  "117": {
+    "speaker": "chin",
+    "character": "このイワシの生姜煮  絶品だよ ママ",
+    "definition": "These ginger sardines are fantastic.",
+    "timestamp": "0:09:59",
+    "audio": "/audio/49/0.09.59.mp3"
+  },
+  "118": {
+    "speaker": "grizzly mama",
+    "character": "ありがとうございます",
+    "definition": "Thank you very much.",
+    "timestamp": "0:10:03",
+    "audio": "/audio/49/0.10.03.mp3"
+  },
+  "119": {
+    "speaker": "donkey",
+    "character": "だし巻き卵も美味ですね",
+    "definition": "The Japanese style omelettes are wonderful, too. Bar keep, this is the owner of the bakery I'm training at, Ms. Donkey.",
+    "timestamp": "0:10:05",
+    "audio": "/audio/49/0.10.05.mp3"
+  },
+  "120": {
+    "speaker": "donkey",
+    "character": "はじめまして",
+    "definition": "Nice to meet you. Welcome.",
+    "timestamp": "0:10:13",
+    "audio": "/audio/49/0.10.13.mp3"
+  },
+  "121": {
+    "speaker": "wolf",
+    "character": "店長 これを使って和風の惣菜パンを作りませんか",
+    "definition": "Why don't we try to make a Japanese style bakery dish with these?",
+    "timestamp": "0:10:17",
+    "audio": "/audio/49/0.10.17.mp3"
+  },
+  "122": {
+    "speaker": "donkey",
+    "character": "だし巻きサンド いいですね",
+    "definition": "Japanese style omelette sandwiches? Sounds great.",
+    "timestamp": "0:10:21",
+    "audio": "/audio/49/0.10.21.mp3"
+  },
+  "123": {
+    "speaker": "polar bear",
+    "character": "グリちゃ",
+    "definition": "Little Grizz!",
+    "timestamp": "0:10:26",
+    "audio": "/audio/49/0.10.26.mp3"
+  },
+  "124": {
+    "speaker": "polar bear",
+    "character": "スコッチ おかわり",
+    "definition": "Could I get another scotch?",
+    "timestamp": "0:10:29",
+    "audio": "/audio/49/0.10.29.mp3"
+  },
+  "125": {
+    "speaker": "penguin",
+    "character": "グリちゃん シャンディガフ",
+    "definition": "Could I get another Shandygaff, Little Grizz?",
+    "timestamp": "0:10:31",
+    "audio": "/audio/49/0.10.31.mp3"
+  },
+  "126": {
+    "speaker": "panda",
+    "character": "笹ジュース グリちゃん",
+    "definition": "I want bamboo grass juice, Little Grizz.",
+    "timestamp": "0:10:33",
+    "audio": "/audio/49/0.10.33.mp3"
+  },
+  "127": {
+    "speaker": "grizzly",
+    "character": "テメエら また…",
+    "definition": "Why you...",
+    "timestamp": "0:10:36",
+    "audio": "/audio/49/0.10.36.mp3"
+  },
+  "128": {
+    "speaker": "sasako",
+    "character": "カルーアミルクください グリちゃん",
+    "definition": "Could I get a Kahlua milk, Little Grizz? Even you, Sasako?!",
+    "timestamp": "0:10:38",
+    "audio": "/audio/49/0.10.38.mp3"
+  },
+  "129": {
+    "speaker": "grizzly",
+    "character": "ったく しようがねえな",
+    "definition": "Damn it. Looks like I have no choice.",
+    "timestamp": "0:10:43",
+    "audio": "/audio/49/0.10.43.mp3"
+  },
+  "130": {
+    "speaker": "aligator",
+    "character": "テキーラ グリちゃん",
+    "definition": "Tequila, Little Grizz.",
+    "timestamp": "0:10:46",
+    "audio": "/audio/49/0.10.46.mp3"
+  },
+  "131": {
+    "speaker": "grizzly",
+    "character": "お前は許さねえ",
+    "definition": "I ain't going to let you get away with that!",
+    "timestamp": "0:10:48",
+    "audio": "/audio/49/0.10.48.mp3"
+  },
+  "132": {
+    "speaker": "aligator",
+    "character": "なんで",
+    "definition": "Why?!",
+    "timestamp": "0:10:49",
+    "audio": "/audio/49/0.10.49.mp3"
+  },
+  "133": {
+    "speaker": "grizzly",
+    "character": "グリちゃんじゃねえ",
+    "definition": "My name ain't Little Grizz...",
+    "timestamp": "0:11:15",
+    "audio": "/audio/49/0.11.15.mp3"
+  },
+  "134": {
+    "speaker": "grizzly mama",
+    "character": "おやすみ グリちゃん",
+    "definition": "Good night, Little Grizz.",
+    "timestamp": "0:11:47",
+    "audio": "/audio/49/0.11.47.mp3"
+  },
+  "135": {
+    "speaker": "sasako",
+    "character": "え タイムカプセルですか",
+    "definition": "What? A time capsule?",
+    "timestamp": "0:12:02",
+    "audio": "/audio/49/0.12.02.mp3"
+  },
+  "136": {
+    "speaker": "llama",
+    "character": "はい 昔 自分宛てに出した手紙が届きまして",
+    "definition": "Yes. I sent a letter to myself years ago, and it just arrived.",
+    "timestamp": "0:12:05",
+    "audio": "/audio/49/0.12.05.mp3"
+  },
+  "137": {
+    "speaker": "sasako",
+    "character": "あっ もののけの森",
+    "definition": "Wow! The Mononoke Forest! You left a time capsule there? Yes.",
+    "timestamp": "0:12:10",
+    "audio": "/audio/49/0.12.10.mp3"
+  },
+  "138": {
+    "speaker": "penguin",
+    "character": "なんで 笹子さんが知ってるの",
+    "definition": "How does Miss Sasako know about this?",
+    "timestamp": "0:12:16",
+    "audio": "/audio/49/0.12.16.mp3"
+  },
+  "139": {
+    "speaker": "polar bear",
+    "character": "むかしむかし 昔笹子さんとラマさんは",
+    "definition": "Long, long ago... Miss Sasako and Mr. Llama lived in the same city.",
+    "timestamp": "0:12:19",
+    "audio": "/audio/49/0.12.19.mp3"
+  },
+  "140": {
+    "speaker": "penguin",
+    "character": "なんで 昔ばなし風",
+    "definition": "Why are you saying it like an old folktale?",
+    "timestamp": "0:12:26",
+    "audio": "/audio/49/0.12.26.mp3"
+  },
+  "141": {
+    "speaker": "polar bear",
+    "character": "{\\an8}歌は やめよう",
+    "definition": "{\\a6}Little boy...",
+    "timestamp": "0:12:29",
+    "audio": "/audio/49/0.12.29.mp3"
+  },
+  "142": {
+    "speaker": "penguin",
+    "character": "{\\an8}歌は やめよう",
+    "definition": "Let's not sing the song!",
+    "timestamp": "0:12:29",
+    "audio": "/audio/49/0.12.29.mp3"
+  },
+  "143": {
+    "speaker": "panda",
+    "character": "わかった 「まんが日本…」",
+    "definition": "I got it! \"Manga Japanese Folkta—\"",
+    "timestamp": "0:12:32",
+    "audio": "/audio/49/0.12.32.mp3"
+  },
+  "144": {
+    "speaker": "penguin",
+    "character": "イントロクイズじゃないんだから",
+    "definition": "This isn't a song intro quiz!",
+    "timestamp": "0:12:35",
+    "audio": "/audio/49/0.12.35.mp3"
+  },
+  "145": {
+    "speaker": "sasako",
+    "character": "ラマさん 何を埋めたんですか",
+    "definition": "What did you bury, Mr. Llama?",
+    "timestamp": "0:12:37",
+    "audio": "/audio/49/0.12.37.mp3"
+  },
+  "146": {
+    "speaker": "llama",
+    "character": "それが もう覚えてなくて…",
+    "definition": "The thing is, I don't remember at all.",
+    "timestamp": "0:12:40",
+    "audio": "/audio/49/0.12.40.mp3"
+  },
+  "147": {
+    "speaker": "llama",
+    "character": "明日 掘り返しに行くので 何が出てくるか楽しみです",
+    "definition": "I'm going to go dig it up tomorrow, so it'll be exciting.",
+    "timestamp": "0:12:43",
+    "audio": "/audio/49/0.12.43.mp3"
+  },
+  "148": {
+    "speaker": "llama",
+    "character": "シロクマさん お店はいいんですか",
+    "definition": "What about the café, Mr. Polar Bear? Don't worry. The Café's other name is the Fickle Café.",
+    "timestamp": "0:12:53",
+    "audio": "/audio/49/0.12.53.mp3"
+  },
+  "149": {
+    "speaker": "puppet",
+    "character": "それ ダメな気まぐれですから",
+    "definition": "That's not a good fickle!",
+    "timestamp": "0:13:02",
+    "audio": "/audio/49/0.13.02.mp3"
+  },
+  "150": {
+    "speaker": "polar bear",
+    "character": "笹子さん ミクロ系になったね",
+    "definition": "You've turned micro, Miss Sasako.",
+    "timestamp": "0:13:06",
+    "audio": "/audio/49/0.13.06.mp3"
+  },
+  "151": {
+    "speaker": "polar bear",
+    "character": "略して ミクロ笹子さんだね",
+    "definition": "I guess shortened it'd be Micro Miss Sasako.",
+    "timestamp": "0:13:10",
+    "audio": "/audio/49/0.13.10.mp3"
+  },
+  "152": {
+    "speaker": "llama",
+    "character": "略してませんね",
+    "definition": "That's not shortened, at all.",
+    "timestamp": "0:13:13",
+    "audio": "/audio/49/0.13.13.mp3"
+  },
+  "153": {
+    "speaker": "puppet",
+    "character": "ミクロ笹子です",
+    "definition": "I'm Micro Sasako.",
+    "timestamp": "0:13:15",
+    "audio": "/audio/49/0.13.15.mp3"
+  },
+  "154": {
+    "speaker": "sasako",
+    "character": "ペンギンさん やめてくれませんか",
+    "definition": "Could you stop that, Mr. Penguin?",
+    "timestamp": "0:13:17",
+    "audio": "/audio/49/0.13.17.mp3"
+  },
+  "155": {
+    "speaker": "penguin",
+    "character": "なんで 昨日 徹夜してまで作ってきたのに",
+    "definition": "Why? Even though I stayed up all night making it?",
+    "timestamp": "0:13:20",
+    "audio": "/audio/49/0.13.20.mp3"
+  },
+  "156": {
+    "speaker": "panda",
+    "character": "すごい 一夜づけだね",
+    "definition": "Wow! Talk about cramming!",
+    "timestamp": "0:13:24",
+    "audio": "/audio/49/0.13.24.mp3"
+  },
+  "157": {
+    "speaker": "llama",
+    "character": "ほめてませんね それ",
+    "definition": "That's not really a compliment.",
+    "timestamp": "0:13:27",
+    "audio": "/audio/49/0.13.27.mp3"
+  },
+  "158": {
+    "speaker": "puppet",
+    "character": "僕も いるよ",
+    "definition": "I'm here... too...",
+    "timestamp": "0:13:30",
+    "audio": "/audio/49/0.13.30.mp3"
+  },
+  "159": {
+    "speaker": "polar bear",
+    "character": "点呼 １",
+    "definition": "Count-off. One.",
+    "timestamp": "0:13:37",
+    "audio": "/audio/49/0.13.37.mp3"
+  },
+  "160": {
+    "speaker": "sasako",
+    "character": "3",
+    "definition": "Two.",
+    "timestamp": "0:13:40",
+    "audio": "/audio/49/0.13.40.mp3"
+  },
+  "161": {
+    "speaker": "llama",
+    "character": "3",
+    "definition": "Three.",
+    "timestamp": "0:13:40",
+    "audio": "/audio/49/0.13.40.mp3"
+  },
+  "162": {
+    "speaker": "puppet",
+    "character": "4",
+    "definition": "Four!",
+    "timestamp": "0:13:42",
+    "audio": "/audio/49/0.13.42.mp3"
+  },
+  "163": {
+    "speaker": "puppet",
+    "character": "5",
+    "definition": "Five...",
+    "timestamp": "0:13:43",
+    "audio": "/audio/49/0.13.43.mp3"
+  },
+  "164": {
+    "speaker": "polar bear",
+    "character": "５人全員いるね",
+    "definition": "So the five of us are all here.",
+    "timestamp": "0:13:44",
+    "audio": "/audio/49/0.13.44.mp3"
+  },
+  "165": {
+    "speaker": "sasako",
+    "character": "あれ パンダ君は",
+    "definition": "Oh? Where's Panda? So cute!",
+    "timestamp": "0:13:48",
+    "audio": "/audio/49/0.13.48.mp3"
+  },
+  "166": {
+    "speaker": "guy",
+    "character": "網棚で寝るパンダなんてレアだな",
+    "definition": "It's rare to see a panda sleeping in the luggage rack.",
+    "timestamp": "0:13:55",
+    "audio": "/audio/49/0.13.55.mp3"
+  },
+  "167": {
+    "speaker": "girl",
+    "character": "ブログにアップしよう",
+    "definition": "I'm totally uploading this to my blog!",
+    "timestamp": "0:13:57",
+    "audio": "/audio/49/0.13.57.mp3"
+  },
+  "168": {
+    "speaker": "penguin",
+    "character": "網棚で寝るパンダが 検索ワードランキングで急上昇してるよ",
+    "definition": "Searches for \"Panda sleeping in the luggage rack\" is are spiking across the Internet.",
+    "timestamp": "0:14:01",
+    "audio": "/audio/49/0.14.01.mp3"
+  },
+  "169": {
+    "speaker": "polar bear",
+    "character": "パンダ君をペンギンさんと回収してくるから",
+    "definition": "I'll go fetch Panda with Mr. Penguin,",
+    "timestamp": "0:14:06",
+    "audio": "/audio/49/0.14.06.mp3"
+  },
+  "170": {
+    "speaker": "polar bear",
+    "character": "ラマさんと先に行ってて",
+    "definition": "so go on ahead with Mr. Llama.",
+    "timestamp": "0:14:10",
+    "audio": "/audio/49/0.14.10.mp3"
+  },
+  "171": {
+    "speaker": "sasako",
+    "character": "はい じゃあ ラマさん…",
+    "definition": "Right... All right, Mr. Llama...",
+    "timestamp": "0:14:12",
+    "audio": "/audio/49/0.14.12.mp3"
+  },
+  "172": {
+    "speaker": "llama",
+    "character": "ベンチの下で寝るラマはいかがでしょう",
+    "definition": "How about a llama sleeping under a bench?",
+    "timestamp": "0:14:19",
+    "audio": "/audio/49/0.14.19.mp3"
+  },
+  "173": {
+    "speaker": "penguin",
+    "character": "じゃあ 旅の記念に１枚",
+    "definition": "Well, I guess I'll take oneto remember it by.",
+    "timestamp": "0:14:24",
+    "audio": "/audio/49/0.14.24.mp3"
+  },
+  "174": {
+    "speaker": "sasako",
+    "character": "懐かしいな",
+    "definition": "It's so nostalgic. Indeed.",
+    "timestamp": "0:14:37",
+    "audio": "/audio/49/0.14.37.mp3"
+  },
+  "175": {
+    "speaker": "sasako",
+    "character": "あすなろベーカリー",
+    "definition": "The Asunaro Bakery!",
+    "timestamp": "0:14:45",
+    "audio": "/audio/49/0.14.45.mp3"
+  },
+  "176": {
+    "speaker": "llama",
+    "character": "クリームパン 葉っぱの形は昔のまんまですね",
+    "definition": "Looks like the cream bread is still shaped like a leaf. Since we're here, how about we buy five of them? Five of them?",
+    "timestamp": "0:14:50",
+    "audio": "/audio/49/0.14.50.mp3"
+  },
+  "177": {
+    "speaker": "sasako",
+    "character": "みんなのぶんもです",
+    "definition": "Enough for everyone! So the swings were this small...",
+    "timestamp": "0:15:01",
+    "audio": "/audio/49/0.15.01.mp3"
+  },
+  "178": {
+    "speaker": "llama",
+    "character": "昔は 僕も余裕で乗れたんですけどね",
+    "definition": "I used to be able to sit on it  without any problem, too.",
+    "timestamp": "0:15:15",
+    "audio": "/audio/49/0.15.15.mp3"
+  },
+  "179": {
+    "speaker": "sasako",
+    "character": "どうやって乗ってたんですか",
+    "definition": "How did you sit on it?",
+    "timestamp": "0:15:20",
+    "audio": "/audio/49/0.15.20.mp3"
+  },
+  "180": {
+    "speaker": "llama",
+    "character": "ご想像にお任せします",
+    "definition": "I'll leave that up to your imagination. Wow, that's amazing, Mr. Llama!",
+    "timestamp": "0:15:24",
+    "audio": "/audio/49/0.15.24.mp3"
+  },
+  "181": {
+    "speaker": "sasako",
+    "character": "昔も砂場が好きだったんですか",
+    "definition": "Did you always like sandboxes?",
+    "timestamp": "0:15:36",
+    "audio": "/audio/49/0.15.36.mp3"
+  },
+  "182": {
+    "speaker": "llama",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:15:38",
+    "audio": "/audio/49/0.15.38.mp3"
+  },
+  "183": {
+    "speaker": "llama",
+    "character": "いつの日か サグラダファミリアを造るのが目標です",
+    "definition": "My goal one day is to make the Sagrada Família. I see...",
+    "timestamp": "0:15:41",
+    "audio": "/audio/49/0.15.41.mp3"
+  },
+  "184": {
+    "speaker": "sasako",
+    "character": "アライグマさん",
+    "definition": "Ms. Raccoon!",
+    "timestamp": "0:15:50",
+    "audio": "/audio/49/0.15.50.mp3"
+  },
+  "185": {
+    "speaker": "sasako",
+    "character": "笹子です",
+    "definition": "It's me, Sasako!",
+    "timestamp": "0:15:53",
+    "audio": "/audio/49/0.15.53.mp3"
+  },
+  "186": {
+    "speaker": "raccoon",
+    "character": "ああ 浜の湯の裏に住んでた",
+    "definition": "Oh! The one that lived behind Hama no Yu.",
+    "timestamp": "0:15:57",
+    "audio": "/audio/49/0.15.57.mp3"
+  },
+  "187": {
+    "speaker": "sasako",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:16:00",
+    "audio": "/audio/49/0.16.00.mp3"
+  },
+  "188": {
+    "speaker": "raccoon",
+    "character": "迷子で有名な 笹子ちゃん",
+    "definition": "Sasako who was famous for getting lost!",
+    "timestamp": "0:16:01",
+    "audio": "/audio/49/0.16.01.mp3"
+  },
+  "189": {
+    "speaker": "sassako",
+    "character": "はい…",
+    "definition": "Yes... Didn't you end up going over to the next city",
+    "timestamp": "0:16:05",
+    "audio": "/audio/49/0.16.05.mp3"
+  },
+  "190": {
+    "speaker": "raccoon",
+    "character": "隣町まで行っちゃったのよね",
+    "definition": "because you wanted to see the wind station's turbine up close?",
+    "timestamp": "0:16:10",
+    "audio": "/audio/49/0.16.10.mp3"
+  },
+  "191": {
+    "speaker": "sasako",
+    "character": "はい…",
+    "definition": "Yes...",
+    "timestamp": "0:16:13",
+    "audio": "/audio/49/0.16.13.mp3"
+  },
+  "192": {
+    "speaker": "raccoon",
+    "character": "ちゃんとやってる アンタ放浪癖があるから",
+    "definition": "How ya been? You've always had a habit of wandering off",
+    "timestamp": "0:16:16",
+    "audio": "/audio/49/0.16.16.mp3"
+  },
+  "193": {
+    "speaker": "",
+    "character": "昔から 心配してたのよ",
+    "definition": "so I always worried about you.",
+    "timestamp": "0:16:19",
+    "audio": "/audio/49/0.16.19.mp3"
+  },
+  "194": {
+    "speaker": "sasako",
+    "character": "はい… なんとか",
+    "definition": "Yes... I'm doing okay.",
+    "timestamp": "0:16:22",
+    "audio": "/audio/49/0.16.22.mp3"
+  },
+  "195": {
+    "speaker": "llama",
+    "character": "どうも お久しぶりです",
+    "definition": "Hello, it's been a while.",
+    "timestamp": "0:16:25",
+    "audio": "/audio/49/0.16.25.mp3"
+  },
+  "196": {
+    "speaker": "raccoon",
+    "character": "ん アンタは",
+    "definition": "Who are you?",
+    "timestamp": "0:16:27",
+    "audio": "/audio/49/0.16.27.mp3"
+  },
+  "197": {
+    "speaker": "llama",
+    "character": "いつも アライグマさんに怒られて",
+    "definition": "I'm Llama, the one you'd",
+    "timestamp": "0:16:29",
+    "audio": "/audio/49/0.16.29.mp3"
+  },
+  "198": {
+    "speaker": "",
+    "character": "洗い物をさせられた ラマです",
+    "definition": "always yell at and make help you clean.",
+    "timestamp": "0:16:32",
+    "audio": "/audio/49/0.16.32.mp3"
+  },
+  "199": {
+    "speaker": "raccoon",
+    "character": "あの やんちゃな",
+    "definition": "Oh, the little troublemaker!",
+    "timestamp": "0:16:35",
+    "audio": "/audio/49/0.16.35.mp3"
+  },
+  "200": {
+    "speaker": "llama",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:16:37",
+    "audio": "/audio/49/0.16.37.mp3"
+  },
+  "201": {
+    "speaker": "llama",
+    "character": "ご無沙汰してます",
+    "definition": "It's been a while. Well, haven't you calmed down a bit? I may not look it, but I'm an adult now.",
+    "timestamp": "0:16:39",
+    "audio": "/audio/49/0.16.39.mp3"
+  },
+  "202": {
+    "speaker": "raccoon",
+    "character": "でも 落ち着きすぎて",
+    "definition": "But you've calmed down so much, you look rather dull now.",
+    "timestamp": "0:16:46",
+    "audio": "/audio/49/0.16.46.mp3"
+  },
+  "203": {
+    "speaker": "sasako",
+    "character": "アライグマさんの毒舌 変わりませんね",
+    "definition": "Ms. Raccoon's sharp tongue hasn't changed.",
+    "timestamp": "0:16:58",
+    "audio": "/audio/49/0.16.58.mp3"
+  },
+  "204": {
+    "speaker": "llama",
+    "character": "ええ",
+    "definition": "Indeed.",
+    "timestamp": "0:17:01",
+    "audio": "/audio/49/0.17.01.mp3"
+  },
+  "205": {
+    "speaker": "llama",
+    "character": "まるで 時間旅行で",
+    "definition": "It's as if we've time traveled back to the town from our memories.",
+    "timestamp": "0:17:09",
+    "audio": "/audio/49/0.17.09.mp3"
+  },
+  "206": {
+    "speaker": "sasako",
+    "character": "ラマさんって ロマンチストなんですね",
+    "definition": "You're a romantic, Mr. Llama.",
+    "timestamp": "0:17:17",
+    "audio": "/audio/49/0.17.17.mp3"
+  },
+  "207": {
+    "speaker": "llama",
+    "character": "そうですか",
+    "definition": "Am I?",
+    "timestamp": "0:17:19",
+    "audio": "/audio/49/0.17.19.mp3"
+  },
+  "208": {
+    "speaker": "polar bear",
+    "character": "笹子さん どこにいるの",
+    "definition": "Miss Sasako, where are you?",
+    "timestamp": "0:17:37",
+    "audio": "/audio/49/0.17.37.mp3"
+  },
+  "209": {
+    "speaker": "polar bear",
+    "character": "なかなか来ないから お風呂に入っちゃったよ",
+    "definition": "You were taking a while, so we decided to take a bath.",
+    "timestamp": "0:17:40",
+    "audio": "/audio/49/0.17.40.mp3"
+  },
+  "210": {
+    "speaker": "panda",
+    "character": "いいお湯だったね",
+    "definition": "That was a great bath.",
+    "timestamp": "0:17:52",
+    "audio": "/audio/49/0.17.52.mp3"
+  },
+  "211": {
+    "speaker": "penguin",
+    "character": "たまにはあったかいお風呂もいいよね",
+    "definition": "A hot bath is great once in a while.",
+    "timestamp": "0:17:55",
+    "audio": "/audio/49/0.17.55.mp3"
+  },
+  "212": {
+    "speaker": "polar bear",
+    "character": "笹子さん なつかしいでしょ",
+    "definition": "Isn't it nostalgic, Miss Sasako?",
+    "timestamp": "0:17:58",
+    "audio": "/audio/49/0.17.58.mp3"
+  },
+  "213": {
+    "speaker": "polar bear",
+    "character": "ひとっ風呂 浴びてきなよ",
+    "definition": "Why don't you have a quick bath? No, I'm fine...",
+    "timestamp": "0:18:01",
+    "audio": "/audio/49/0.18.01.mp3"
+  },
+  "214": {
+    "speaker": "penguin",
+    "character": "結局 何を埋めたか思い出せないまま",
+    "definition": "So you still can't remember what you buried?",
+    "timestamp": "0:18:14",
+    "audio": "/audio/49/0.18.14.mp3"
+  },
+  "215": {
+    "speaker": "llama",
+    "character": "ええ",
+    "definition": "Indeed.",
+    "timestamp": "0:18:18",
+    "audio": "/audio/49/0.18.18.mp3"
+  },
+  "216": {
+    "speaker": "sasako",
+    "character": "土偶ですかね",
+    "definition": "Maybe it was a clay figure.",
+    "timestamp": "0:18:19",
+    "audio": "/audio/49/0.18.19.mp3"
+  },
+  "217": {
+    "speaker": "penguin",
+    "character": "ハズレに１万トゥグルグ賭けるよ",
+    "definition": "I bet 10,000 tugrik that it's not.",
+    "timestamp": "0:18:22",
+    "audio": "/audio/49/0.18.22.mp3"
+  },
+  "218": {
+    "speaker": "panda",
+    "character": "ポイントカードだよ",
+    "definition": "It's gotta be point cards!",
+    "timestamp": "0:18:25",
+    "audio": "/audio/49/0.18.25.mp3"
+  },
+  "219": {
+    "speaker": "penguin",
+    "character": "もう期限切れかな",
+    "definition": "I think they might have expired...",
+    "timestamp": "0:18:28",
+    "audio": "/audio/49/0.18.28.mp3"
+  },
+  "220": {
+    "speaker": "polar bear",
+    "character": "埋蔵金",
+    "definition": "Buried treasure.",
+    "timestamp": "0:18:31",
+    "audio": "/audio/49/0.18.31.mp3"
+  },
+  "221": {
+    "speaker": "penguin",
+    "character": "それは徳川でしょ",
+    "definition": "You're thinking of Tokugawa. My heart is beating fast.",
+    "timestamp": "0:18:33",
+    "audio": "/audio/49/0.18.33.mp3"
+  },
+  "222": {
+    "speaker": "sasako",
+    "character": "みんな もうすぐですよ",
+    "definition": "We're almost there, everyone.",
+    "timestamp": "0:18:39",
+    "audio": "/audio/49/0.18.39.mp3"
+  },
+  "223": {
+    "speaker": "sasako",
+    "character": "そこの角を曲がれば もののけの森です",
+    "definition": "As soon as we turn the corner... It's the Mononoke Forest.",
+    "timestamp": "0:18:42",
+    "audio": "/audio/49/0.18.42.mp3"
+  },
+  "224": {
+    "speaker": "penguin",
+    "character": "これじゃあ タイムカプセルは掘り返せないね",
+    "definition": "Probably not going to be able to dig up the time capsule now.",
+    "timestamp": "0:18:54",
+    "audio": "/audio/49/0.18.54.mp3"
+  },
+  "225": {
+    "speaker": "sasako",
+    "character": "一本杉だけ残したんですね",
+    "definition": "Looks like they left the cedar.",
+    "timestamp": "0:18:58",
+    "audio": "/audio/49/0.18.58.mp3"
+  },
+  "226": {
+    "speaker": "llama",
+    "character": "あの下に埋めたんですが",
+    "definition": "I buried it under there...",
+    "timestamp": "0:19:01",
+    "audio": "/audio/49/0.19.01.mp3"
+  },
+  "227": {
+    "speaker": "panda",
+    "character": "僕 お腹空いた",
+    "definition": "I'm hungry.",
+    "timestamp": "0:19:10",
+    "audio": "/audio/49/0.19.10.mp3"
+  },
+  "228": {
+    "speaker": "sasako",
+    "character": "パン食べる",
+    "definition": "Would you like some bread?",
+    "timestamp": "0:19:13",
+    "audio": "/audio/49/0.19.13.mp3"
+  },
+  "229": {
+    "speaker": "panda",
+    "character": "おいしいね",
+    "definition": "It's delicious!",
+    "timestamp": "0:19:20",
+    "audio": "/audio/49/0.19.20.mp3"
+  },
+  "230": {
+    "speaker": "polar bear",
+    "character": "素朴な味わいがいいね",
+    "definition": "The simplicity of the taste is great.",
+    "timestamp": "0:19:22",
+    "audio": "/audio/49/0.19.22.mp3"
+  },
+  "231": {
+    "speaker": "sasako",
+    "character": "カスタードクリームがたっぷりでしょ",
+    "definition": "There's a lot of custard cream in it, isn't there?",
+    "timestamp": "0:19:25",
+    "audio": "/audio/49/0.19.25.mp3"
+  },
+  "232": {
+    "speaker": "llama",
+    "character": "味は昔のままですね",
+    "definition": "The taste hasn't changed at all.",
+    "timestamp": "0:19:28",
+    "audio": "/audio/49/0.19.28.mp3"
+  },
+  "233": {
+    "speaker": "panda",
+    "character": "なに スーパーマン",
+    "definition": "What? Do you see Superman?",
+    "timestamp": "0:19:34",
+    "audio": "/audio/49/0.19.34.mp3"
+  },
+  "234": {
+    "speaker": "sasako",
+    "character": "違うよ",
+    "definition": "No.",
+    "timestamp": "0:19:37",
+    "audio": "/audio/49/0.19.37.mp3"
+  },
+  "235": {
+    "speaker": "sasako",
+    "character": "ほら あそこに風車が見えるでしょ",
+    "definition": "Look. You can see the windmill, right?",
+    "timestamp": "0:19:39",
+    "audio": "/audio/49/0.19.39.mp3"
+  },
+  "236": {
+    "speaker": "sasako",
+    "character": "あれ 思い出の風車なんだよ",
+    "definition": "That's a very memorable windmill to me.",
+    "timestamp": "0:19:43",
+    "audio": "/audio/49/0.19.43.mp3"
+  },
+  "237": {
+    "speaker": "penguin",
+    "character": "ラマさん 残念だったね",
+    "definition": "It's too bad though, Mr. Llama.",
+    "timestamp": "0:19:50",
+    "audio": "/audio/49/0.19.50.mp3"
+  },
+  "238": {
+    "speaker": "llama",
+    "character": "ええ",
+    "definition": "Indeed.",
+    "timestamp": "0:19:53",
+    "audio": "/audio/49/0.19.53.mp3"
+  },
+  "239": {
+    "speaker": "llama",
+    "character": "でも 久しぶりにこの町に来られたので よかったです",
+    "definition": "But it was great just being able to come back here.",
+    "timestamp": "0:19:55",
+    "audio": "/audio/49/0.19.55.mp3"
+  },
+  "240": {
+    "speaker": "polar bear",
+    "character": "あっ そうだ",
+    "definition": "Oh, I know.",
+    "timestamp": "0:20:00",
+    "audio": "/audio/49/0.20.00.mp3"
+  },
+  "241": {
+    "speaker": "penguin",
+    "character": "なに",
+    "definition": "What?",
+    "timestamp": "0:20:02",
+    "audio": "/audio/49/0.20.02.mp3"
+  },
+  "242": {
+    "speaker": "badger",
+    "character": "どうも 遅くなりました",
+    "definition": "Hello! Sorry for taking so long.",
+    "timestamp": "0:20:06",
+    "audio": "/audio/49/0.20.06.mp3"
+  },
+  "243": {
+    "speaker": "polar bear",
+    "character": "頼むね アナグマ君",
+    "definition": "We're counting on you, Badger.",
+    "timestamp": "0:20:09",
+    "audio": "/audio/49/0.20.09.mp3"
+  },
+  "244": {
+    "speaker": "badger",
+    "character": "穴掘りなら任せてください",
+    "definition": "Leave digging holes to me!",
+    "timestamp": "0:20:12",
+    "audio": "/audio/49/0.20.12.mp3"
+  },
+  "245": {
+    "speaker": "sasako",
+    "character": "一本杉の下です",
+    "definition": "It's right under the cedar.",
+    "timestamp": "0:20:14",
+    "audio": "/audio/49/0.20.14.mp3"
+  },
+  "246": {
+    "speaker": "llama",
+    "character": "よろしくお願いします",
+    "definition": "Thank you very much.",
+    "timestamp": "0:20:16",
+    "audio": "/audio/49/0.20.16.mp3"
+  },
+  "247": {
+    "speaker": "badger",
+    "character": "は～い",
+    "definition": "Okay!",
+    "timestamp": "0:20:18",
+    "audio": "/audio/49/0.20.18.mp3"
+  },
+  "248": {
+    "speaker": "badger",
+    "character": "お待たせしました",
+    "definition": "Sorry to keep you waiting.",
+    "timestamp": "0:20:34",
+    "audio": "/audio/49/0.20.34.mp3"
+  },
+  "249": {
+    "speaker": "polar bear",
+    "character": "出た 徳川の埋蔵金",
+    "definition": "Did you find it? Tokugawa's buried treasure?",
+    "timestamp": "0:20:36",
+    "audio": "/audio/49/0.20.36.mp3"
+  },
+  "250": {
+    "speaker": "penguin",
+    "character": "埋蔵金だったら 糸井さんが悔しがると思うな",
+    "definition": "I'm sure Mr. Itoi would be disappointed if it was found.",
+    "timestamp": "0:20:39",
+    "audio": "/audio/49/0.20.39.mp3"
+  },
+  "251": {
+    "speaker": "polar bear",
+    "character": "水野さんもね",
+    "definition": "Mr. Mizuno, too.",
+    "timestamp": "0:20:43",
+    "audio": "/audio/49/0.20.43.mp3"
+  },
+  "252": {
+    "speaker": "panda",
+    "character": "イトイさん ミズノさん",
+    "definition": "Mr. Itoi? Mr. Mizuno?",
+    "timestamp": "0:20:45",
+    "audio": "/audio/49/0.20.45.mp3"
+  },
+  "253": {
+    "speaker": "sasako",
+    "character": "パンダ君 いらない知識だよ",
+    "definition": "It's useless knowledge, Panda.",
+    "timestamp": "0:20:48",
+    "audio": "/audio/49/0.20.48.mp3"
+  },
+  "254": {
+    "speaker": "badger",
+    "character": "これですか",
+    "definition": "Is this it?",
+    "timestamp": "0:20:52",
+    "audio": "/audio/49/0.20.52.mp3"
+  },
+  "255": {
+    "speaker": "llama",
+    "character": "はい",
+    "definition": "Yes!",
+    "timestamp": "0:20:54",
+    "audio": "/audio/49/0.20.54.mp3"
+  },
+  "256": {
+    "speaker": "sasako",
+    "character": "何が入ってるんでしょうね",
+    "definition": "I wonder what's inside.",
+    "timestamp": "0:20:55",
+    "audio": "/audio/49/0.20.55.mp3"
+  },
+  "257": {
+    "speaker": "panda",
+    "character": "なに これ",
+    "definition": "What's that?",
+    "timestamp": "0:21:04",
+    "audio": "/audio/49/0.21.04.mp3"
+  },
+  "258": {
+    "speaker": "penguin",
+    "character": "カセットテープ",
+    "definition": "A cassette tape?",
+    "timestamp": "0:21:06",
+    "audio": "/audio/49/0.21.06.mp3"
+  },
+  "259": {
+    "speaker": "polar bear",
+    "character": "お疲れさま",
+    "definition": "Thanks for your hard work.",
+    "timestamp": "0:21:12",
+    "audio": "/audio/49/0.21.12.mp3"
+  },
+  "260": {
+    "speaker": "polar bear",
+    "character": "今が旬の アミガサタケのクリームパスタ どうぞ",
+    "definition": "Here's some pasta with cream sauce, with seasonal mushrooms. Eat up.",
+    "timestamp": "0:21:15",
+    "audio": "/audio/49/0.21.15.mp3"
+  },
+  "261": {
+    "speaker": "badger",
+    "character": "キノコ大好きです いただきます",
+    "definition": "I love mushrooms! Thank you for the food!",
+    "timestamp": "0:21:20",
+    "audio": "/audio/49/0.21.20.mp3"
+  },
+  "262": {
+    "speaker": "panda",
+    "character": "何が録音されてるの",
+    "definition": "What's recorded on here?",
+    "timestamp": "0:21:23",
+    "audio": "/audio/49/0.21.23.mp3"
+  },
+  "263": {
+    "speaker": "penguin",
+    "character": "志ん生だよ きっと",
+    "definition": "It's probably Shinshou's traditional storytelling.",
+    "timestamp": "0:21:26",
+    "audio": "/audio/49/0.21.26.mp3"
+  },
+  "264": {
+    "speaker": "llama",
+    "character": "落語ではありません",
+    "definition": "It's not traditional story telling.",
+    "timestamp": "0:21:28",
+    "audio": "/audio/49/0.21.28.mp3"
+  },
+  "265": {
+    "speaker": "panda",
+    "character": "じゃあ 何",
+    "definition": "Then what is it?",
+    "timestamp": "0:21:30",
+    "audio": "/audio/49/0.21.30.mp3"
+  },
+  "266": {
+    "speaker": "llama",
+    "character": "聴いてみての お楽しみです",
+    "definition": "We'll just have to listen and see.",
+    "timestamp": "0:21:33",
+    "audio": "/audio/49/0.21.33.mp3"
+  },
+  "267": {
+    "speaker": "sasako",
+    "character": "シロクマさん これですか",
+    "definition": "Is this it, Mr. Polar Bear?",
+    "timestamp": "0:21:36",
+    "audio": "/audio/49/0.21.36.mp3"
+  },
+  "268": {
+    "speaker": "polar bear",
+    "character": "ありがとう よく見つけたね",
+    "definition": "Thanks. I'm surprised you found it.",
+    "timestamp": "0:21:39",
+    "audio": "/audio/49/0.21.39.mp3"
+  },
+  "269": {
+    "speaker": "polar bear",
+    "character": "じゃあ 再生するよ",
+    "definition": "Okay, here goes.",
+    "timestamp": "0:21:47",
+    "audio": "/audio/49/0.21.47.mp3"
+  },
+  "270": {
+    "speaker": "llama",
+    "character": "「ラマママ リャママラミャ ラッミャママミャラマンボー」",
+    "definition": "{\\a6}Llama ma ma, llama ma ma, llama ma ma ma... {\\a6}Llamambo! {\\a6}Llama ma ma, llama ma ma, llama ma ma ma...",
+    "timestamp": "0:21:55",
+    "audio": "/audio/49/0.21.55.mp3"
+  },
+  "271": {
+    "speaker": "penguin",
+    "character": "何 これ",
+    "definition": "What is this? {\\a6}Llamambo!",
+    "timestamp": "0:22:01",
+    "audio": "/audio/49/0.22.01.mp3"
+  },
+  "272": {
+    "speaker": "llama",
+    "character": "僕が作詞作曲しました",
+    "definition": "It's a song I wrote. They called me the Third Avenue Mozart when I was a kid.",
+    "timestamp": "0:22:03",
+    "audio": "/audio/49/0.22.03.mp3"
+  },
+  "273": {
+    "speaker": "penguin",
+    "character": "そう すごいね…",
+    "definition": "Wow. Amazing.",
+    "timestamp": "0:22:12",
+    "audio": "/audio/49/0.22.12.mp3"
+  },
+  "274": {
+    "speaker": "penguin",
+    "character": "シロクマ君 カフェモカおかわり",
+    "definition": "Could I get another café mocha, Polar Bear?",
+    "timestamp": "0:22:15",
+    "audio": "/audio/49/0.22.15.mp3"
+  },
+  "275": {
+    "speaker": "panda",
+    "character": "ペンギンさん ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/49/0.23.58.mp3"
+  },
+  "276": {
+    "speaker": "penguin",
+    "character": "何 パンダくん",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/49/0.23.59.mp3"
+  },
+  "277": {
+    "speaker": "panda",
+    "character": "僕のかわいいに いつ補償金が出るかな",
+    "definition": "When do you think I'll get a subsidy for my cuteness?",
+    "timestamp": "0:24:01",
+    "audio": "/audio/49/0.24.01.mp3"
+  },
+  "278": {
+    "speaker": "penguin",
+    "character": "たぶんぜっと出ないかな",
+    "definition": "Don't think you ever will.",
+    "timestamp": "0:24:04",
+    "audio": "/audio/49/0.24.04.mp3"
+  },
+  "279": {
+    "speaker": "panda",
+    "character": "じゃあ二百円あげるから二万円ちょうだい",
+    "definition": "Okay, then I'll give you 200 yen, so could you give me 20,000 yen in return?",
+    "timestamp": "0:24:06",
+    "audio": "/audio/49/0.24.06.mp3"
+  },
+  "280": {
+    "speaker": "penguin",
+    "character": "その取り引きでyesと言う地球人はたぶんいないかな",
+    "definition": "I don't think anyone on Earth would say yes to that trade.",
+    "timestamp": "0:24:09",
+    "audio": "/audio/49/0.24.09.mp3"
+  },
+  "281": {
+    "speaker": "sasako",
+    "character": "お汁粉とぜんざいで何が違うですか",
+    "definition": "How are red bean soup and red-bean soup different? We can discuss that later.",
+    "timestamp": "0:24:12",
+    "audio": "/audio/49/0.24.12.mp3"
+  },
+  "282": {
+    "speaker": "penguin",
+    "character": "シロクマくん 終ろ",
+    "definition": "Let's end this, Polar Bear.",
+    "timestamp": "0:24:16",
+    "audio": "/audio/49/0.24.16.mp3"
+  },
+  "283": {
+    "speaker": "polar bear",
+    "character": "来週のシロクマカフェイ二十四時は",
+    "definition": "Next week's Polar Bear Café 24 o'clock...",
+    "timestamp": "0:24:18",
+    "audio": "/audio/49/0.24.18.mp3"
+  },
+  "284": {
+    "speaker": "penguin",
+    "character": "最終回も普通に予告しないんだね",
+    "definition": "Not gonna even announce the last episode correctly, huh?",
+    "timestamp": "0:24:20",
+    "audio": "/audio/49/0.24.20.mp3"
+  },
+  "285": {
+    "speaker": "sasako",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:23",
+    "audio": "/audio/49/0.24.23.mp3"
+  }
+}

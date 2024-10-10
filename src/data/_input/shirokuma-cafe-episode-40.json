@@ -1,0 +1,1794 @@
+{
+  "1": {
+    "speaker": "sasako",
+    "character": "お疲れさまでした",
+    "definition": "Thank you for all of your hard work.",
+    "timestamp": "0:01:38",
+    "audio": "/audio/40/0.01.38.mp3"
+  },
+  "2": {
+    "speaker": "polar bear",
+    "character": "はい　お疲れさま",
+    "definition": "Thank you, too.",
+    "timestamp": "0:01:40",
+    "audio": "/audio/40/0.01.40.mp3"
+  },
+  "3": {
+    "speaker": "polar bear",
+    "character": "明日は　休日だから楽しんできてね",
+    "definition": "Tomorrow's your day off, so enjoy it.",
+    "timestamp": "0:01:42",
+    "audio": "/audio/40/0.01.42.mp3"
+  },
+  "4": {
+    "speaker": "sasako",
+    "character": "はい",
+    "definition": "I will.",
+    "timestamp": "0:01:45",
+    "audio": "/audio/40/0.01.45.mp3"
+  },
+  "5": {
+    "speaker": "sasako",
+    "character": "このところ毎日冷えますね",
+    "definition": "It's a bit chilly lately.",
+    "timestamp": "0:01:51",
+    "audio": "/audio/40/0.01.51.mp3"
+  },
+  "6": {
+    "speaker": "polar bear",
+    "character": "そうだね",
+    "definition": "It has been.",
+    "timestamp": "0:01:54",
+    "audio": "/audio/40/0.01.54.mp3"
+  },
+  "7": {
+    "speaker": "sasako",
+    "character": "帰ったら　ゆっくりお風呂入って 疲れ取ろうっと",
+    "definition": "When I get home, I'm going to take a nice, hot bath and relax.",
+    "timestamp": "0:01:55",
+    "audio": "/audio/40/0.01.55.mp3"
+  },
+  "8": {
+    "speaker": "polar bear",
+    "character": "いいね",
+    "definition": "Sounds good.",
+    "timestamp": "0:01:59",
+    "audio": "/audio/40/0.01.59.mp3"
+  },
+  "9": {
+    "speaker": "sasako",
+    "character": "それじゃ　おやすみなさい",
+    "definition": "Well, then good night.",
+    "timestamp": "0:02:01",
+    "audio": "/audio/40/0.02.01.mp3"
+  },
+  "10": {
+    "speaker": "polar bear",
+    "character": "うん　おやすみ",
+    "definition": "Yes. Good night.",
+    "timestamp": "0:02:03",
+    "audio": "/audio/40/0.02.03.mp3"
+  },
+  "11": {
+    "speaker": "polar bear",
+    "character": "僕も　お風呂は大好きなんだ",
+    "definition": "I love baths, too. Ice baths are the best!",
+    "timestamp": "0:02:09",
+    "audio": "/audio/40/0.02.09.mp3"
+  },
+  "12": {
+    "speaker": "polar bear",
+    "character": "ちょっと狭いね",
+    "definition": "This may be a little cramped.",
+    "timestamp": "0:02:33",
+    "audio": "/audio/40/0.02.33.mp3"
+  },
+  "13": {
+    "speaker": "polar bear",
+    "character": "本当は　プカプカ　ユラユラしたいのに",
+    "definition": "I'd like to have more room.",
+    "timestamp": "0:02:34",
+    "audio": "/audio/40/0.02.34.mp3"
+  },
+  "14": {
+    "speaker": "polar bear",
+    "character": "あっ",
+    "definition": "Oh.",
+    "timestamp": "0:02:39",
+    "audio": "/audio/40/0.02.39.mp3"
+  },
+  "15": {
+    "speaker": "penguin",
+    "character": "おっと　さっきのそばに入ってたにしんは　何匹だった",
+    "definition": "Hey. How many sardines were in that soba?",
+    "timestamp": "0:02:42",
+    "audio": "/audio/40/0.02.42.mp3"
+  },
+  "16": {
+    "speaker": "penguin",
+    "character": "へえ　ニシンが８匹で９　１０　１１…",
+    "definition": "Yes... There were eight sardines and... Nine, ten, eleven...",
+    "timestamp": "0:02:48",
+    "audio": "/audio/40/0.02.48.mp3"
+  },
+  "17": {
+    "speaker": "panda",
+    "character": "どうしたの　ペンギンさん",
+    "definition": "What's wrong, Mr. Penguin?",
+    "timestamp": "0:02:54",
+    "audio": "/audio/40/0.02.54.mp3"
+  },
+  "18": {
+    "speaker": "penguin",
+    "character": "ああ　パンダ君か",
+    "definition": "Oh, it's you, Panda.",
+    "timestamp": "0:02:59",
+    "audio": "/audio/40/0.02.59.mp3"
+  },
+  "19": {
+    "speaker": "panda",
+    "character": "なにブツブツ１人でしゃべってるの",
+    "definition": "Why are you mumbling to yourself?",
+    "timestamp": "0:03:01",
+    "audio": "/audio/40/0.03.01.mp3"
+  },
+  "20": {
+    "speaker": "panda",
+    "character": "また　寝言",
+    "definition": "Are you talking nonsense again?",
+    "timestamp": "0:03:04",
+    "audio": "/audio/40/0.03.04.mp3"
+  },
+  "21": {
+    "speaker": "penguin",
+    "character": "パンダ君と一緒にしないで",
+    "definition": "Don't compare me to you!",
+    "timestamp": "0:03:06",
+    "audio": "/audio/40/0.03.06.mp3"
+  },
+  "22": {
+    "speaker": "penguin",
+    "character": "今　僕がやってたのは『にしんそば』っていう落語でね",
+    "definition": "I was just performing a story called \"Sardine Soba.\"",
+    "timestamp": "0:03:08",
+    "audio": "/audio/40/0.03.08.mp3"
+  },
+  "23": {
+    "speaker": "panda",
+    "character": "歩きながら食べちゃダメって お母さんに怒られない",
+    "definition": "Won't your mom get mad at you for eating and walking at the same time?",
+    "timestamp": "0:03:13",
+    "audio": "/audio/40/0.03.13.mp3"
+  },
+  "24": {
+    "speaker": "penguin",
+    "character": "食べてないよ これは落語でね",
+    "definition": "I'm not eating! This is comedic story-telling...",
+    "timestamp": "0:03:19",
+    "audio": "/audio/40/0.03.19.mp3"
+  },
+  "25": {
+    "speaker": "panda",
+    "character": "ペンギンさん目をつぶって歩いていると 人のお家に入っちゃうよ",
+    "definition": "Mr. Penguin. If you walk around with your eyes closed, you might end up in someone else's house.",
+    "timestamp": "0:03:23",
+    "audio": "/audio/40/0.03.23.mp3"
+  },
+  "26": {
+    "speaker": "penguin",
+    "character": "入んないよ",
+    "definition": "No, I won't.",
+    "timestamp": "0:03:30",
+    "audio": "/audio/40/0.03.30.mp3"
+  },
+  "27": {
+    "speaker": "",
+    "character": "だいたい　ちゃんとパッチリ開いてるから",
+    "definition": "Not to mention my eyes are wide open.",
+    "timestamp": "0:03:31",
+    "audio": "/audio/40/0.03.31.mp3"
+  },
+  "28": {
+    "speaker": "panda",
+    "character": "えぇ　見えないな",
+    "definition": "What? I can't see them at all.",
+    "timestamp": "0:03:35",
+    "audio": "/audio/40/0.03.35.mp3"
+  },
+  "29": {
+    "speaker": "penguin",
+    "character": "そっちだってよくわかんないでしょ",
+    "definition": "Well, we can't really see your eyes, either.",
+    "timestamp": "0:03:39",
+    "audio": "/audio/40/0.03.39.mp3"
+  },
+  "30": {
+    "speaker": "panda",
+    "character": "つぶらな瞳って言ってよ",
+    "definition": "Call them cute and round.",
+    "timestamp": "0:03:41",
+    "audio": "/audio/40/0.03.41.mp3"
+  },
+  "31": {
+    "speaker": "penguin",
+    "character": "というか　パンダ君がなんでここにいるの",
+    "definition": "Or rather, what are you doing here?",
+    "timestamp": "0:03:45",
+    "audio": "/audio/40/0.03.45.mp3"
+  },
+  "32": {
+    "speaker": "panda",
+    "character": "ここ　僕んちだよ",
+    "definition": "This is my house.",
+    "timestamp": "0:03:49",
+    "audio": "/audio/40/0.03.49.mp3"
+  },
+  "33": {
+    "speaker": "panda",
+    "character": "ペンギンさん　僕んちに何か用",
+    "definition": "Did you need something, Mr. Penguin?",
+    "timestamp": "0:03:58",
+    "audio": "/audio/40/0.03.58.mp3"
+  },
+  "34": {
+    "speaker": "penguin",
+    "character": "ごめんなさい",
+    "definition": "I'm sorry.",
+    "timestamp": "0:04:02",
+    "audio": "/audio/40/0.04.02.mp3"
+  },
+  "35": {
+    "speaker": "panda",
+    "character": "寒くなったね",
+    "definition": "It's gotten cold.",
+    "timestamp": "0:04:08",
+    "audio": "/audio/40/0.04.08.mp3"
+  },
+  "36": {
+    "speaker": "penguin",
+    "character": "そうだね",
+    "definition": "It has.",
+    "timestamp": "0:04:10",
+    "audio": "/audio/40/0.04.10.mp3"
+  },
+  "37": {
+    "speaker": "",
+    "character": "さっきの話だけど　僕ね",
+    "definition": "Continuing what we were talking about earlier, but I'm thinking about doing some comedic storytelling at a party.",
+    "timestamp": "0:04:12",
+    "audio": "/audio/40/0.04.12.mp3"
+  },
+  "38": {
+    "speaker": "panda",
+    "character": "パーティーも寒くなりそうだね",
+    "definition": "It might get cold at the party, too.",
+    "timestamp": "0:04:18",
+    "audio": "/audio/40/0.04.18.mp3"
+  },
+  "39": {
+    "speaker": "penguin",
+    "character": "キミにしては珍しいウイットはいらないから",
+    "definition": "We don't need the rare witty comment from you.",
+    "timestamp": "0:04:21",
+    "audio": "/audio/40/0.04.21.mp3"
+  },
+  "40": {
+    "speaker": "penguin",
+    "character": "だいたい　なんで寒くなるって決めつけるの",
+    "definition": "Not to mention, how do you know it'll be dull?",
+    "timestamp": "0:04:25",
+    "audio": "/audio/40/0.04.25.mp3"
+  },
+  "41": {
+    "speaker": "penguin",
+    "character": "バカウケするとか考えないわけ",
+    "definition": "You don't think it might actually be super funny?",
+    "timestamp": "0:04:28",
+    "audio": "/audio/40/0.04.28.mp3"
+  },
+  "42": {
+    "speaker": "panda",
+    "character": "そうかな",
+    "definition": "I doubt that.",
+    "timestamp": "0:04:31",
+    "audio": "/audio/40/0.04.31.mp3"
+  },
+  "43": {
+    "speaker": "penguin",
+    "character": "そんなこと言うのはパンダ君だけだよ",
+    "definition": "You're the only one that thinks that.",
+    "timestamp": "0:04:32",
+    "audio": "/audio/40/0.04.32.mp3"
+  },
+  "44": {
+    "speaker": "panda",
+    "character": "じゃあ　誰かに聞いてもらう",
+    "definition": "Then do you want to have someone listen to it?",
+    "timestamp": "0:04:36",
+    "audio": "/audio/40/0.04.36.mp3"
+  },
+  "45": {
+    "speaker": "penguin",
+    "character": "そうだね",
+    "definition": "Good idea.",
+    "timestamp": "0:04:39",
+    "audio": "/audio/40/0.04.39.mp3"
+  },
+  "46": {
+    "speaker": "penguin",
+    "character": "じゃあ　パンダ君　聞いてよ",
+    "definition": "Okay, then listen to this, Panda.",
+    "timestamp": "0:04:40",
+    "audio": "/audio/40/0.04.40.mp3"
+  },
+  "47": {
+    "speaker": "penguin",
+    "character": "え　では毎度ばかばかしい小話を１つ…",
+    "definition": "Well, let's start off with another slightly idiotic tale...",
+    "timestamp": "0:04:43",
+    "audio": "/audio/40/0.04.43.mp3"
+  },
+  "48": {
+    "speaker": "panda",
+    "character": "いらないよ",
+    "definition": "Nah.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/40/0.04.47.mp3"
+  },
+  "49": {
+    "speaker": "penguin",
+    "character": "ちょっと聞いてよ",
+    "definition": "Hey, listen!",
+    "timestamp": "0:04:50",
+    "audio": "/audio/40/0.04.50.mp3"
+  },
+  "50": {
+    "speaker": "penguin",
+    "character": "どうしたの",
+    "definition": "What's wrong?",
+    "timestamp": "0:04:55",
+    "audio": "/audio/40/0.04.55.mp3"
+  },
+  "51": {
+    "speaker": "panda",
+    "character": "休みだって",
+    "definition": "It says they're closed.",
+    "timestamp": "0:05:00",
+    "audio": "/audio/40/0.05.00.mp3"
+  },
+  "52": {
+    "speaker": "penguin",
+    "character": "シロクマ君　すぐ休んじゃうんだね",
+    "definition": "Polar Bear doesn't hesitate to close up, does he?",
+    "timestamp": "0:05:02",
+    "audio": "/audio/40/0.05.02.mp3"
+  },
+  "53": {
+    "speaker": "penguin",
+    "character": "シロクマ君に",
+    "definition": "You want Polar Bear to listen?",
+    "timestamp": "0:05:07",
+    "audio": "/audio/40/0.05.07.mp3"
+  },
+  "54": {
+    "speaker": "panda",
+    "character": "うん　ペンギンさんのつまんない落語を聞いてもらおうと思って",
+    "definition": "Yeah. I thought we'd have him listen to your boring stories.",
+    "timestamp": "0:05:10",
+    "audio": "/audio/40/0.05.10.mp3"
+  },
+  "55": {
+    "speaker": "penguin",
+    "character": "つまんなくないよ　大爆笑だよあ…",
+    "definition": "They aren't boring! They're hilarious!",
+    "timestamp": "0:05:16",
+    "audio": "/audio/40/0.05.16.mp3"
+  },
+  "56": {
+    "speaker": "penguin",
+    "character": "あれ",
+    "definition": "Huh? I wonder what Polar Bear's doing in the yard.",
+    "timestamp": "0:05:22",
+    "audio": "/audio/40/0.05.22.mp3"
+  },
+  "57": {
+    "speaker": "penguin",
+    "character": "大きな布　持ってるね",
+    "definition": "He's got a big cloth.",
+    "timestamp": "0:05:27",
+    "audio": "/audio/40/0.05.27.mp3"
+  },
+  "58": {
+    "speaker": "panda",
+    "character": "家出　止めなくちゃ",
+    "definition": "Maybe he's running away? We've got to stop him!",
+    "timestamp": "0:05:30",
+    "audio": "/audio/40/0.05.30.mp3"
+  },
+  "59": {
+    "speaker": "penguin",
+    "character": "パンダ君じゃないんだから",
+    "definition": "He's not you, you know.",
+    "timestamp": "0:05:34",
+    "audio": "/audio/40/0.05.34.mp3"
+  },
+  "60": {
+    "speaker": "panda",
+    "character": "じゃあ　泥棒",
+    "definition": "Then maybe he's a thief?",
+    "timestamp": "0:05:36",
+    "audio": "/audio/40/0.05.36.mp3"
+  },
+  "61": {
+    "speaker": "penguin",
+    "character": "自分の家で何を盗むの",
+    "definition": "What's he going to steal from his own place?",
+    "timestamp": "0:05:38",
+    "audio": "/audio/40/0.05.38.mp3"
+  },
+  "62": {
+    "speaker": "panda",
+    "character": "そうか　わかったよ きっと　サンタさんだ",
+    "definition": "Oh, I know! He must be Santa!",
+    "timestamp": "0:05:45",
+    "audio": "/audio/40/0.05.45.mp3"
+  },
+  "63": {
+    "speaker": "panda",
+    "character": "かついでるのはプレゼントの入った袋だよ",
+    "definition": "What he's holding is his bag of presents!",
+    "timestamp": "0:05:54",
+    "audio": "/audio/40/0.05.54.mp3"
+  },
+  "64": {
+    "speaker": "penguin",
+    "character": "クリスマスは　とっくに過ぎたでしょ",
+    "definition": "Christmas came and went a long time ago!",
+    "timestamp": "0:05:59",
+    "audio": "/audio/40/0.05.59.mp3"
+  },
+  "65": {
+    "speaker": "panda",
+    "character": "きっと僕へのプレゼントが入ってるよ",
+    "definition": "There must be a present for me in there! Hey, wait! Panda?!",
+    "timestamp": "0:06:02",
+    "audio": "/audio/40/0.06.02.mp3"
+  },
+  "66": {
+    "speaker": "polar bear",
+    "character": "このへんかな…",
+    "definition": "Maybe right here...",
+    "timestamp": "0:06:10",
+    "audio": "/audio/40/0.06.10.mp3"
+  },
+  "67": {
+    "speaker": "polar bear",
+    "character": "うん この木とこの木の距離がちょうどよさそう",
+    "definition": "Yes. The distance between these trees is about perfect. I wonder what's in here. Hey, it's empty.",
+    "timestamp": "0:06:11",
+    "audio": "/audio/40/0.06.11.mp3"
+  },
+  "68": {
+    "speaker": "polar bear",
+    "character": "あれ　パンダ君　ペンギンさん",
+    "definition": "Oh, Panda and Mr. Penguin. Hey.",
+    "timestamp": "0:06:24",
+    "audio": "/audio/40/0.06.24.mp3"
+  },
+  "69": {
+    "speaker": "panda",
+    "character": "プレゼントはどこ",
+    "definition": "Where's my present?",
+    "timestamp": "0:06:27",
+    "audio": "/audio/40/0.06.27.mp3"
+  },
+  "70": {
+    "speaker": "polar bear",
+    "character": "えっ　プレゼント",
+    "definition": "What? A present?",
+    "timestamp": "0:06:30",
+    "audio": "/audio/40/0.06.30.mp3"
+  },
+  "71": {
+    "speaker": "panda",
+    "character": "うん　これ　プレゼントの袋でしょ",
+    "definition": "Yeah! This is a bag of presents, right?",
+    "timestamp": "0:06:33",
+    "audio": "/audio/40/0.06.33.mp3"
+  },
+  "72": {
+    "speaker": "polar bear",
+    "character": "ああ　これはね 癒やしグッズなんだよ",
+    "definition": "Oh, this is for relaxing.",
+    "timestamp": "0:06:38",
+    "audio": "/audio/40/0.06.38.mp3"
+  },
+  "73": {
+    "speaker": "panda",
+    "character": "癒やし",
+    "definition": "Relaxing?",
+    "timestamp": "0:06:43",
+    "audio": "/audio/40/0.06.43.mp3"
+  },
+  "74": {
+    "speaker": "polar bear",
+    "character": "そう　見てて",
+    "definition": "Yeah, watch.",
+    "timestamp": "0:06:44",
+    "audio": "/audio/40/0.06.44.mp3"
+  },
+  "75": {
+    "speaker": "polar bear",
+    "character": "木にクッションをあててロープを結ぶっと　そして…",
+    "definition": "I'm going to put a cushion on the tree and then tie this end. And then...",
+    "timestamp": "0:06:52",
+    "audio": "/audio/40/0.06.52.mp3"
+  },
+  "76": {
+    "speaker": "panda",
+    "character": "あっ　ハンモックだ",
+    "definition": "Oh! A hammock!",
+    "timestamp": "0:07:04",
+    "audio": "/audio/40/0.07.04.mp3"
+  },
+  "77": {
+    "speaker": "polar bear",
+    "character": "そう",
+    "definition": "Yup.",
+    "timestamp": "0:07:06",
+    "audio": "/audio/40/0.07.06.mp3"
+  },
+  "78": {
+    "speaker": "panda",
+    "character": "ねぇ　シロクマ君　乗ってみていい",
+    "definition": "Hey, Polar Bear, could I get in?",
+    "timestamp": "0:07:08",
+    "audio": "/audio/40/0.07.08.mp3"
+  },
+  "79": {
+    "speaker": "polar bear",
+    "character": "どうぞ",
+    "definition": "Sure.",
+    "timestamp": "0:07:12",
+    "audio": "/audio/40/0.07.12.mp3"
+  },
+  "80": {
+    "speaker": "penguin",
+    "character": "ねぇ　シロクマ君",
+    "definition": "Hey, Polar Bear.",
+    "timestamp": "0:07:13",
+    "audio": "/audio/40/0.07.13.mp3"
+  },
+  "81": {
+    "speaker": "polar bear",
+    "character": "ペンギンさんも　どうぞ",
+    "definition": "You can get in, too, Mr. Penguin.",
+    "timestamp": "0:07:16",
+    "audio": "/audio/40/0.07.16.mp3"
+  },
+  "82": {
+    "speaker": "penguin",
+    "character": "ありがとう",
+    "definition": "Thanks!",
+    "timestamp": "0:07:19",
+    "audio": "/audio/40/0.07.19.mp3"
+  },
+  "83": {
+    "speaker": "panda",
+    "character": "ペンギンさん　よかったら先に…",
+    "definition": "Mr. Penguin, if you want, you can go ahead...",
+    "timestamp": "0:07:22",
+    "audio": "/audio/40/0.07.22.mp3"
+  },
+  "84": {
+    "speaker": "penguin",
+    "character": "いいの",
+    "definition": "Really?",
+    "timestamp": "0:07:26",
+    "audio": "/audio/40/0.07.26.mp3"
+  },
+  "85": {
+    "speaker": "panda",
+    "character": "僕が乗ると こそこで見てていいよ",
+    "definition": "...and watch me get in.",
+    "timestamp": "0:07:27",
+    "audio": "/audio/40/0.07.27.mp3"
+  },
+  "86": {
+    "speaker": "penguin",
+    "character": "なに　その新しい譲り方",
+    "definition": "Really? What is this?",
+    "timestamp": "0:07:31",
+    "audio": "/audio/40/0.07.31.mp3"
+  },
+  "87": {
+    "speaker": "polar bear",
+    "character": "大きいから一緒に乗れるよ",
+    "definition": "It's big, so we can in together.",
+    "timestamp": "0:07:35",
+    "audio": "/audio/40/0.07.35.mp3"
+  },
+  "88": {
+    "speaker": "penguin",
+    "character": "そっか",
+    "definition": "I see! Yay!",
+    "timestamp": "0:07:38",
+    "audio": "/audio/40/0.07.38.mp3"
+  },
+  "89": {
+    "speaker": "penguin",
+    "character": "揺れるね",
+    "definition": "It's swaying!",
+    "timestamp": "0:07:43",
+    "audio": "/audio/40/0.07.43.mp3"
+  },
+  "90": {
+    "speaker": "panda",
+    "character": "楽しいよ",
+    "definition": "This is fun!",
+    "timestamp": "0:07:45",
+    "audio": "/audio/40/0.07.45.mp3"
+  },
+  "91": {
+    "speaker": "polar bear",
+    "character": "ああ　あんまり大きく揺らすと…",
+    "definition": "Oh, if it sways too much...",
+    "timestamp": "0:07:47",
+    "audio": "/audio/40/0.07.47.mp3"
+  },
+  "92": {
+    "speaker": "",
+    "character": "落ちた",
+    "definition": "We fell out...",
+    "timestamp": "0:07:56",
+    "audio": "/audio/40/0.07.56.mp3"
+  },
+  "93": {
+    "speaker": "penguin",
+    "character": "パンダ君　重い",
+    "definition": "You're heavy, Panda!",
+    "timestamp": "0:07:59",
+    "audio": "/audio/40/0.07.59.mp3"
+  },
+  "94": {
+    "speaker": "polar bear",
+    "character": "ハンモックの寝方はね　こう",
+    "definition": "The way you lay in a hammock is... Like this.",
+    "timestamp": "0:08:01",
+    "audio": "/audio/40/0.08.01.mp3"
+  },
+  "95": {
+    "speaker": "polar bear",
+    "character": "まず　中央にそっと座って そのまま後ろにゴロンとする",
+    "definition": "First, you sit in the center carefully, and then roll back.",
+    "timestamp": "0:08:06",
+    "audio": "/audio/40/0.08.06.mp3"
+  },
+  "96": {
+    "speaker": "polar bear",
+    "character": "横か斜めに寝ると 落ちにくいし 快適だよ",
+    "definition": "If you lay sideways or at an angle, it's harder to slip out and is ideal.",
+    "timestamp": "0:08:11",
+    "audio": "/audio/40/0.08.11.mp3"
+  },
+  "97": {
+    "speaker": "panda",
+    "character": "ホントだ",
+    "definition": "You're right!",
+    "timestamp": "0:08:16",
+    "audio": "/audio/40/0.08.16.mp3"
+  },
+  "98": {
+    "speaker": "penguin",
+    "character": "落ちる前に言ってほしかったよ",
+    "definition": "It would've been nice if you had told us that earlier.",
+    "timestamp": "0:08:19",
+    "audio": "/audio/40/0.08.19.mp3"
+  },
+  "99": {
+    "speaker": "polar bear",
+    "character": "お待たせ",
+    "definition": "Thanks for waiting.",
+    "timestamp": "0:08:27",
+    "audio": "/audio/40/0.08.27.mp3"
+  },
+  "100": {
+    "speaker": "panda",
+    "character": "おいしい",
+    "definition": "It's delicious.",
+    "timestamp": "0:08:31",
+    "audio": "/audio/40/0.08.31.mp3"
+  },
+  "101": {
+    "speaker": "penguin",
+    "character": "こういう場所で飲むコーヒーもいいね",
+    "definition": "Having coffee like this isn't bad at all.",
+    "timestamp": "0:08:33",
+    "audio": "/audio/40/0.08.33.mp3"
+  },
+  "102": {
+    "speaker": "polar bear",
+    "character": "でしょ",
+    "definition": "Right?",
+    "timestamp": "0:08:36",
+    "audio": "/audio/40/0.08.36.mp3"
+  },
+  "103": {
+    "speaker": "panda",
+    "character": "なんか　いいねぇ",
+    "definition": "This is nice.",
+    "timestamp": "0:08:46",
+    "audio": "/audio/40/0.08.46.mp3"
+  },
+  "104": {
+    "speaker": "polar bear",
+    "character": "そうだね",
+    "definition": "Sure is.",
+    "timestamp": "0:08:49",
+    "audio": "/audio/40/0.08.49.mp3"
+  },
+  "105": {
+    "speaker": "penguin",
+    "character": "癒やされるねぇ",
+    "definition": "This is relaxing.",
+    "timestamp": "0:08:55",
+    "audio": "/audio/40/0.08.55.mp3"
+  },
+  "106": {
+    "speaker": "panda",
+    "character": "ペンギンさん　そういえば僕たち　何しにきたんだっけ",
+    "definition": "By the way, Mr. Penguin, why did we come here again? Why {\\i1}did{\\i0} you come here?",
+    "timestamp": "0:09:05",
+    "audio": "/audio/40/0.09.05.mp3"
+  },
+  "107": {
+    "speaker": "penguin",
+    "character": "あっ　そうそう",
+    "definition": "Oh, that's right.",
+    "timestamp": "0:09:12",
+    "audio": "/audio/40/0.09.12.mp3"
+  },
+  "108": {
+    "speaker": "",
+    "character": "今度　僕がパーティーでやる予定の落語をね",
+    "definition": "I'm practicing my comedic storytelling for the next party and...",
+    "timestamp": "0:09:14",
+    "audio": "/audio/40/0.09.14.mp3"
+  },
+  "109": {
+    "speaker": "panda",
+    "character": "たしか　どうでもいいことだよ",
+    "definition": "I think it wasn't anything important. What?!",
+    "timestamp": "0:09:18",
+    "audio": "/audio/40/0.09.18.mp3"
+  },
+  "110": {
+    "speaker": "polar bear",
+    "character": "そうか どうでもいいことなんだね",
+    "definition": "I see. So, it wasn't important.",
+    "timestamp": "0:09:22",
+    "audio": "/audio/40/0.09.22.mp3"
+  },
+  "111": {
+    "speaker": "penguin",
+    "character": "あっ　どうでもよくないよ",
+    "definition": "It does matter!",
+    "timestamp": "0:09:25",
+    "audio": "/audio/40/0.09.25.mp3"
+  },
+  "112": {
+    "speaker": "polar bear",
+    "character": "このユラユラ海に浮かんでいるみたい",
+    "definition": "The way the hammock is swaying, I feel like I'm floating in the ocean.",
+    "timestamp": "0:09:52",
+    "audio": "/audio/40/0.09.52.mp3"
+  },
+  "113": {
+    "speaker": "polar bear",
+    "character": "北極の海を泳ぎ回っていた頃を思い出すな",
+    "definition": "It reminds me of when I was swimming around in the arctic ocean.",
+    "timestamp": "0:10:14",
+    "audio": "/audio/40/0.10.14.mp3"
+  },
+  "114": {
+    "speaker": "polar bear",
+    "character": "今度から　ここで北極気分を味わおうっと",
+    "definition": "Now I'll enjoy that feeling from here.",
+    "timestamp": "0:10:20",
+    "audio": "/audio/40/0.10.20.mp3"
+  },
+  "115": {
+    "speaker": "sasako",
+    "character": "寒い",
+    "definition": "It's so cold!",
+    "timestamp": "0:10:37",
+    "audio": "/audio/40/0.10.37.mp3"
+  },
+  "116": {
+    "speaker": "sasako",
+    "character": "今日は積もったな",
+    "definition": "It snowed quite a bit today.",
+    "timestamp": "0:10:39",
+    "audio": "/audio/40/0.10.39.mp3"
+  },
+  "117": {
+    "speaker": "sasako",
+    "character": "に　庭に何か巨大なものが",
+    "definition": "S-Something very large is in the yard!",
+    "timestamp": "0:10:51",
+    "audio": "/audio/40/0.10.51.mp3"
+  },
+  "118": {
+    "speaker": "polar bear",
+    "character": "あぁ　笹子さん　おはよう",
+    "definition": "Oh, good morning, Miss Sasako.",
+    "timestamp": "0:11:03",
+    "audio": "/audio/40/0.11.03.mp3"
+  },
+  "119": {
+    "speaker": "sasako",
+    "character": "シロクマさん",
+    "definition": "Mr. Polar Bear?",
+    "timestamp": "0:11:06",
+    "audio": "/audio/40/0.11.06.mp3"
+  },
+  "120": {
+    "speaker": "polar bear",
+    "character": "今朝は快適な冷え具合だね",
+    "definition": "It's wonderfully chilly this morning.",
+    "timestamp": "0:11:09",
+    "audio": "/audio/40/0.11.09.mp3"
+  },
+  "121": {
+    "speaker": "polar bear",
+    "character": "あぁ　よく寝た",
+    "definition": "I slept so well.",
+    "timestamp": "0:11:18",
+    "audio": "/audio/40/0.11.18.mp3"
+  },
+  "122": {
+    "speaker": "sasako",
+    "character": "シロクマさん　さすが北極仕様ですね",
+    "definition": "Mr. Polar Bear... Nothing less from someone from the Arctic...",
+    "timestamp": "0:11:22",
+    "audio": "/audio/40/0.11.22.mp3"
+  },
+  "123": {
+    "speaker": "everyone",
+    "character": "パンダママのガーデニング",
+    "definition": "Panda Mama's Gardening. Hello?",
+    "timestamp": "0:11:29",
+    "audio": "/audio/40/0.11.29.mp3"
+  },
+  "124": {
+    "speaker": "polar bear",
+    "character": "あっ　グリズリー君　シロクマだけど",
+    "definition": "Oh, Grizzly? It's Polar Bear.",
+    "timestamp": "0:11:59",
+    "audio": "/audio/40/0.11.59.mp3"
+  },
+  "125": {
+    "speaker": "grizzly",
+    "character": "また　お前かよ",
+    "definition": "You again?",
+    "timestamp": "0:12:04",
+    "audio": "/audio/40/0.12.04.mp3"
+  },
+  "126": {
+    "speaker": "polar bear",
+    "character": "グリズリー君　鏡餅",
+    "definition": "Grizzly, should I grill the New Year's rice cakes or make them into ozouni soup?",
+    "timestamp": "0:12:06",
+    "audio": "/audio/40/0.12.06.mp3"
+  },
+  "127": {
+    "speaker": "grizzly",
+    "character": "なんで俺に聞くんだよ",
+    "definition": "Why are you asking me?",
+    "timestamp": "0:12:15",
+    "audio": "/audio/40/0.12.15.mp3"
+  },
+  "128": {
+    "speaker": "grizzly",
+    "character": "俺は冬眠中だって言ってんだろ",
+    "definition": "I told you, I'm hibernating, damn it!",
+    "timestamp": "0:12:19",
+    "audio": "/audio/40/0.12.19.mp3"
+  },
+  "129": {
+    "speaker": "polar bear",
+    "character": "どっちがいいか悩んでて 最近　眠れないんだけど",
+    "definition": "I can't decide between the two and I've been losing sleep over this.",
+    "timestamp": "0:12:22",
+    "audio": "/audio/40/0.12.22.mp3"
+  },
+  "130": {
+    "speaker": "polar bear",
+    "character": "どうすればいいと思う",
+    "definition": "What do you think I should do?",
+    "timestamp": "0:12:27",
+    "audio": "/audio/40/0.12.27.mp3"
+  },
+  "131": {
+    "speaker": "grizzly",
+    "character": "いいから俺を眠らせろ",
+    "definition": "Shut up and let me sleep!",
+    "timestamp": "0:12:30",
+    "audio": "/audio/40/0.12.30.mp3"
+  },
+  "132": {
+    "speaker": "panda mama",
+    "character": "起きなさい　もうお昼よ",
+    "definition": "Get up. It's already noon.",
+    "timestamp": "0:12:43",
+    "audio": "/audio/40/0.12.43.mp3"
+  },
+  "133": {
+    "speaker": "panda",
+    "character": "もうちょっと寝かせてよ",
+    "definition": "Let me sleep just a little longer...",
+    "timestamp": "0:12:48",
+    "audio": "/audio/40/0.12.48.mp3"
+  },
+  "134": {
+    "speaker": "panda mama",
+    "character": "いいかげんにしなさい",
+    "definition": "That's enough.",
+    "timestamp": "0:12:51",
+    "audio": "/audio/40/0.12.51.mp3"
+  },
+  "135": {
+    "speaker": "panda mama",
+    "character": "あなた　いったい一日どれだけ寝れば気が済むの",
+    "definition": "How long do you have to sleep to be satisfied?",
+    "timestamp": "0:12:53",
+    "audio": "/audio/40/0.12.53.mp3"
+  },
+  "136": {
+    "speaker": "Panda",
+    "character": "起きてる時間以外",
+    "definition": "Anytime I'm not awake.",
+    "timestamp": "0:12:59",
+    "audio": "/audio/40/0.12.59.mp3"
+  },
+  "137": {
+    "speaker": "panda mama",
+    "character": "まったく　そんなにいつも寝てばっかりで",
+    "definition": "Goodness. You do nothing but sleep.",
+    "timestamp": "0:13:01",
+    "audio": "/audio/40/0.13.01.mp3"
+  },
+  "138": {
+    "speaker": "panda mama",
+    "character": "冬眠でもするつもり",
+    "definition": "Do you plan on hibernating?",
+    "timestamp": "0:13:05",
+    "audio": "/audio/40/0.13.05.mp3"
+  },
+  "139": {
+    "speaker": "panda",
+    "character": "お母さん　クマとかは冬眠じゃなくて冬ごもりって言うんだよ",
+    "definition": "Mom, bears don't call it hibernating. They call it staying in for the winter.",
+    "timestamp": "0:13:08",
+    "audio": "/audio/40/0.13.08.mp3"
+  },
+  "140": {
+    "speaker": "panda mama",
+    "character": "あら　そうなの",
+    "definition": "Oh, really?",
+    "timestamp": "0:13:15",
+    "audio": "/audio/40/0.13.15.mp3"
+  },
+  "141": {
+    "speaker": "panda",
+    "character": "そうなの",
+    "definition": "Yup.",
+    "timestamp": "0:13:17",
+    "audio": "/audio/40/0.13.17.mp3"
+  },
+  "142": {
+    "speaker": "panda",
+    "character": "パンダは冬ごもりはできないって言われてるけど",
+    "definition": "They say that pandas can't stay indoors for the winter,",
+    "timestamp": "0:13:19",
+    "audio": "/audio/40/0.13.19.mp3"
+  },
+  "143": {
+    "speaker": "panda",
+    "character": "僕　頑張って挑戦してみるよ",
+    "definition": "but I'll do my best to try!",
+    "timestamp": "0:13:23",
+    "audio": "/audio/40/0.13.23.mp3"
+  },
+  "144": {
+    "speaker": "panda",
+    "character": "じゃあ　春になったら起こしてね",
+    "definition": "Okay, wake me up in the spring. Don't suck me up!",
+    "timestamp": "0:13:27",
+    "audio": "/audio/40/0.13.27.mp3"
+  },
+  "145": {
+    "speaker": "panda mama",
+    "character": "さて　掃除が一段落したらと…",
+    "definition": "Well, then... Since I'm done with the cleaning for now...",
+    "timestamp": "0:13:43",
+    "audio": "/audio/40/0.13.43.mp3"
+  },
+  "146": {
+    "speaker": "panda mama",
+    "character": "しばし　私の大切な時間",
+    "definition": "I'll take a moment to enjoy myself.",
+    "timestamp": "0:13:55",
+    "audio": "/audio/40/0.13.55.mp3"
+  },
+  "147": {
+    "speaker": "panda",
+    "character": "ああ　お母さん",
+    "definition": "Oh, it's mom.",
+    "timestamp": "0:14:01",
+    "audio": "/audio/40/0.14.01.mp3"
+  },
+  "148": {
+    "speaker": "panda",
+    "character": "また庭を耕してるんだ",
+    "definition": "She's cultivating the yard again.",
+    "timestamp": "0:14:03",
+    "audio": "/audio/40/0.14.03.mp3"
+  },
+  "149": {
+    "speaker": "panda",
+    "character": "好きだな",
+    "definition": "She sure likes that. Oh, my.",
+    "timestamp": "0:14:06",
+    "audio": "/audio/40/0.14.06.mp3"
+  },
+  "150": {
+    "speaker": "panda mama",
+    "character": "ガーデニングと呼んでちょうだい",
+    "definition": "Call it \"gardening.\"",
+    "timestamp": "0:14:11",
+    "audio": "/audio/40/0.14.11.mp3"
+  },
+  "151": {
+    "speaker": "panda mama",
+    "character": "最近は　花や木だけじゃなくて",
+    "definition": "Lately, it's not just flowers and trees,",
+    "timestamp": "0:14:20",
+    "audio": "/audio/40/0.14.20.mp3"
+  },
+  "152": {
+    "speaker": "panda mama",
+    "character": "野菜なんかも作ってみたりしてるのよね",
+    "definition": "but I've started growing vegetables, too.",
+    "timestamp": "0:14:23",
+    "audio": "/audio/40/0.14.23.mp3"
+  },
+  "153": {
+    "speaker": "panda mama",
+    "character": "野菜って　たくさん収穫できると食費も浮いて嬉しいわね",
+    "definition": "It's nice when a lot of vegetables grow because we'll have so much more to eat.",
+    "timestamp": "0:14:30",
+    "audio": "/audio/40/0.14.30.mp3"
+  },
+  "154": {
+    "speaker": "panda mama",
+    "character": "はぁ　お花と菜園とで結構　忙しいわ",
+    "definition": "The flowers and the vegetable garden keep me rather busy.",
+    "timestamp": "0:14:37",
+    "audio": "/audio/40/0.14.37.mp3"
+  },
+  "155": {
+    "speaker": "panda mama",
+    "character": "チュ　チューリップの芽がちぎれてる",
+    "definition": "Th-The tulip buds are gone!",
+    "timestamp": "0:14:50",
+    "audio": "/audio/40/0.14.50.mp3"
+  },
+  "156": {
+    "speaker": "panda mama",
+    "character": "なんで",
+    "definition": "How...",
+    "timestamp": "0:14:54",
+    "audio": "/audio/40/0.14.54.mp3"
+  },
+  "157": {
+    "speaker": "panda",
+    "character": "あ　それ　チューリップだったの",
+    "definition": "Oh, those were tulips?",
+    "timestamp": "0:14:55",
+    "audio": "/audio/40/0.14.55.mp3"
+  },
+  "158": {
+    "speaker": "panda",
+    "character": "僕　ネギだと思って さっき食べちゃった",
+    "definition": "I thought they were green onions and I ate them.",
+    "timestamp": "0:14:59",
+    "audio": "/audio/40/0.14.59.mp3"
+  },
+  "159": {
+    "speaker": "panda mama",
+    "character": "食べた",
+    "definition": "You ate them?!",
+    "timestamp": "0:15:04",
+    "audio": "/audio/40/0.15.04.mp3"
+  },
+  "160": {
+    "speaker": "panda",
+    "character": "どうりでネギの味じゃないと思った",
+    "definition": "No wonder they didn't taste like green onions.",
+    "timestamp": "0:15:06",
+    "audio": "/audio/40/0.15.06.mp3"
+  },
+  "161": {
+    "speaker": "panda mama",
+    "character": "ネギはあっちよ",
+    "definition": "The green onions are over there!",
+    "timestamp": "0:15:10",
+    "audio": "/audio/40/0.15.10.mp3"
+  },
+  "162": {
+    "speaker": "panda",
+    "character": "あ　ホントだ",
+    "definition": "Oh, you're right.",
+    "timestamp": "0:15:12",
+    "audio": "/audio/40/0.15.12.mp3"
+  },
+  "163": {
+    "speaker": "panda mama",
+    "character": "な　なんてことなの…",
+    "definition": "H-How could this happen?",
+    "timestamp": "0:15:15",
+    "audio": "/audio/40/0.15.15.mp3"
+  },
+  "164": {
+    "speaker": "panda mama",
+    "character": "春になったら　かわいいお花がつくはずだったのに",
+    "definition": "Cute little flowers should have bloomed in the spring.",
+    "timestamp": "0:15:17",
+    "audio": "/audio/40/0.15.17.mp3"
+  },
+  "165": {
+    "speaker": "panda mama",
+    "character": "ひどいわ",
+    "definition": "How could you?!",
+    "timestamp": "0:15:21",
+    "audio": "/audio/40/0.15.21.mp3"
+  },
+  "166": {
+    "speaker": "panda mama",
+    "character": "ターシャ・パンダーさんばりのお庭にするはずだったのに…",
+    "definition": "And I wanted to make a garden like Ms. Tasha Panda.",
+    "timestamp": "0:15:32",
+    "audio": "/audio/40/0.15.32.mp3"
+  },
+  "167": {
+    "speaker": "panda mama",
+    "character": "こんなお庭では　ターシャ・パンダーさんに顔向けできないわ",
+    "definition": "With a garden like this, how will I ever face Ms. Tasha Panda?",
+    "timestamp": "0:15:38",
+    "audio": "/audio/40/0.15.38.mp3"
+  },
+  "168": {
+    "speaker": "panda mama",
+    "character": "ああ　あの子ったら　バカ　バカ　バカ",
+    "definition": "Oh, that foolish child...",
+    "timestamp": "0:15:43",
+    "audio": "/audio/40/0.15.43.mp3"
+  },
+  "169": {
+    "speaker": "penguin",
+    "character": "いつ　むー　なな",
+    "definition": "Five, six, seven...",
+    "timestamp": "0:15:49",
+    "audio": "/audio/40/0.15.49.mp3"
+  },
+  "170": {
+    "speaker": "penguin",
+    "character": "おっと　さっきのそばに入ってたにしんは何匹だった",
+    "definition": "Hey, how many sardines were in that soba?",
+    "timestamp": "0:15:53",
+    "audio": "/audio/40/0.15.53.mp3"
+  },
+  "171": {
+    "speaker": "penguin",
+    "character": "へぇ　４匹で",
+    "definition": "There were four.",
+    "timestamp": "0:15:58",
+    "audio": "/audio/40/0.15.58.mp3"
+  },
+  "172": {
+    "speaker": "polar bear",
+    "character": "え　減ったよね",
+    "definition": "Hey, there's less.",
+    "timestamp": "0:16:00",
+    "audio": "/audio/40/0.16.00.mp3"
+  },
+  "173": {
+    "speaker": "penguin",
+    "character": "いつ…",
+    "definition": "One... Ack! Hey! Don't butt in at the best part, Polar Bear!",
+    "timestamp": "0:16:01",
+    "audio": "/audio/40/0.16.01.mp3"
+  },
+  "174": {
+    "speaker": "polar bear",
+    "character": "ごめんごめん",
+    "definition": "Sorry about that.",
+    "timestamp": "0:16:08",
+    "audio": "/audio/40/0.16.08.mp3"
+  },
+  "175": {
+    "speaker": "penguin",
+    "character": "ったく　ちゃんと聞いてたの",
+    "definition": "Jeez. Were you even listening?",
+    "timestamp": "0:16:10",
+    "audio": "/audio/40/0.16.10.mp3"
+  },
+  "176": {
+    "speaker": "penguin",
+    "character": "そういえば　２人とも一度も笑ってないよね",
+    "definition": "Come to think of it, neither of you even laughed once, did you?",
+    "timestamp": "0:16:13",
+    "audio": "/audio/40/0.16.13.mp3"
+  },
+  "177": {
+    "speaker": "penguin",
+    "character": "なんで",
+    "definition": "Why?",
+    "timestamp": "0:16:20",
+    "audio": "/audio/40/0.16.20.mp3"
+  },
+  "178": {
+    "speaker": "polar bear",
+    "character": "そうだね…",
+    "definition": "Well... Um...",
+    "timestamp": "0:16:22",
+    "audio": "/audio/40/0.16.22.mp3"
+  },
+  "179": {
+    "speaker": "penguin",
+    "character": "笑いどころわかってないんじゃない",
+    "definition": "I don't think you know where you're supposed to laugh.",
+    "timestamp": "0:16:26",
+    "audio": "/audio/40/0.16.26.mp3"
+  },
+  "180": {
+    "speaker": "penguin",
+    "character": "しかたないな",
+    "definition": "I guess I don't have a choice.",
+    "timestamp": "0:16:29",
+    "audio": "/audio/40/0.16.29.mp3"
+  },
+  "181": {
+    "speaker": "penguin",
+    "character": "１０回目だけどもう一度　最初からやるよ",
+    "definition": "This is the tenth time, but I'm starting from the top again.",
+    "timestamp": "0:16:30",
+    "audio": "/audio/40/0.16.30.mp3"
+  },
+  "182": {
+    "speaker": "sasako",
+    "character": "えっ　いえ別に…",
+    "definition": "Huh? Wait, you don't...",
+    "timestamp": "0:16:35",
+    "audio": "/audio/40/0.16.35.mp3"
+  },
+  "183": {
+    "speaker": "sasako",
+    "character": "あっ　パンダ君 いらっしゃい",
+    "definition": "Oh, hello, Panda. Welcome.",
+    "timestamp": "0:16:39",
+    "audio": "/audio/40/0.16.39.mp3"
+  },
+  "184": {
+    "speaker": "polar bear",
+    "character": "どうしたの　元気ないね",
+    "definition": "What's the matter? You seem down.",
+    "timestamp": "0:16:45",
+    "audio": "/audio/40/0.16.45.mp3"
+  },
+  "185": {
+    "speaker": "penguin",
+    "character": "うん…じゃあ　元気づけに　僕の落語を聞かせてあげるよ",
+    "definition": "How about I cheer you up with one of my comedic stories?",
+    "timestamp": "0:16:48",
+    "audio": "/audio/40/0.16.48.mp3"
+  },
+  "186": {
+    "speaker": "polar bear",
+    "character": "聞かせないほうがいいかもね",
+    "definition": "Maybe we should skip that. Why?!",
+    "timestamp": "0:16:53",
+    "audio": "/audio/40/0.16.53.mp3"
+  },
+  "187": {
+    "speaker": "panda",
+    "character": "実はね…",
+    "definition": "Well, you see...",
+    "timestamp": "0:16:57",
+    "audio": "/audio/40/0.16.57.mp3"
+  },
+  "188": {
+    "speaker": "panda",
+    "character": "さっきお母さんの植えたチューリップを",
+    "definition": "I accidentally ate my mom's tulips because",
+    "timestamp": "0:17:01",
+    "audio": "/audio/40/0.17.01.mp3"
+  },
+  "189": {
+    "speaker": "",
+    "character": "ネギと間違えて食べちゃったんだよ",
+    "definition": "I thought they were green onions.",
+    "timestamp": "0:17:04",
+    "audio": "/audio/40/0.17.04.mp3"
+  },
+  "190": {
+    "speaker": "polar bear",
+    "character": "え",
+    "definition": "What?",
+    "timestamp": "0:17:08",
+    "audio": "/audio/40/0.17.08.mp3"
+  },
+  "191": {
+    "speaker": "sasako",
+    "character": "それはお母さん　怒ったんじゃない",
+    "definition": "I'm guessing that your mom was a little mad about that.",
+    "timestamp": "0:17:10",
+    "audio": "/audio/40/0.17.10.mp3"
+  },
+  "192": {
+    "speaker": "panda",
+    "character": "うん　だからここに逃げてきたの",
+    "definition": "Yeah... that's why I ran away to here.",
+    "timestamp": "0:17:13",
+    "audio": "/audio/40/0.17.13.mp3"
+  },
+  "193": {
+    "speaker": "penguin",
+    "character": "キミ　なんでも食べちゃうんだね",
+    "definition": "You eat anything, don't you?",
+    "timestamp": "0:17:17",
+    "audio": "/audio/40/0.17.17.mp3"
+  },
+  "194": {
+    "speaker": "panda",
+    "character": "それでね　シロクマ君",
+    "definition": "So, I was wondering, Polar Bear...",
+    "timestamp": "0:17:20",
+    "audio": "/audio/40/0.17.20.mp3"
+  },
+  "195": {
+    "speaker": "polar bear",
+    "character": "なに",
+    "definition": "Yes?",
+    "timestamp": "0:17:23",
+    "audio": "/audio/40/0.17.23.mp3"
+  },
+  "196": {
+    "speaker": "panda",
+    "character": "代わりのお花 何か分けてくれない",
+    "definition": "Could you spare some of your flowers?",
+    "timestamp": "0:17:24",
+    "audio": "/audio/40/0.17.24.mp3"
+  },
+  "197": {
+    "speaker": "polar bear",
+    "character": "食べたのって　どんなチューリップ",
+    "definition": "What kind of tulips did you eat? I already ate them, so I have no idea. Oh, I see.",
+    "timestamp": "0:17:29",
+    "audio": "/audio/40/0.17.29.mp3"
+  },
+  "198": {
+    "speaker": "penguin",
+    "character": "お母さんが喜びそうな花にしたらいいんじゃない",
+    "definition": "How about picking out some flowers that your mom will like?",
+    "timestamp": "0:17:40",
+    "audio": "/audio/40/0.17.40.mp3"
+  },
+  "199": {
+    "speaker": "panda",
+    "character": "あっそうか",
+    "definition": "Oh, good idea.",
+    "timestamp": "0:17:44",
+    "audio": "/audio/40/0.17.44.mp3"
+  },
+  "200": {
+    "speaker": "panda",
+    "character": "でも　どんな花ならお母さん　喜ぶのかな",
+    "definition": "But I wonder what kind of flowers she'll like.",
+    "timestamp": "0:17:46",
+    "audio": "/audio/40/0.17.46.mp3"
+  },
+  "201": {
+    "speaker": "penguin",
+    "character": "こんにちは",
+    "definition": "Hello.",
+    "timestamp": "0:18:00",
+    "audio": "/audio/40/0.18.00.mp3"
+  },
+  "202": {
+    "speaker": "rinrin",
+    "character": "いらっしゃい　パンダ君",
+    "definition": "Welcome, Panda!",
+    "timestamp": "0:18:02",
+    "audio": "/audio/40/0.18.02.mp3"
+  },
+  "203": {
+    "speaker": "rinrin",
+    "character": "今日は何かな",
+    "definition": "What can I get you today?",
+    "timestamp": "0:18:04",
+    "audio": "/audio/40/0.18.04.mp3"
+  },
+  "204": {
+    "speaker": "rinrin",
+    "character": "ほら　笹があるよ すっごくおいしいよ",
+    "definition": "Look! I've got bamboo grass, too! It's scrumptious!",
+    "timestamp": "0:18:06",
+    "audio": "/audio/40/0.18.06.mp3"
+  },
+  "205": {
+    "speaker": "panda",
+    "character": "別にリンリンに用はないやい",
+    "definition": "I don't need anything from you, Rin Rin.",
+    "timestamp": "0:18:10",
+    "audio": "/audio/40/0.18.10.mp3"
+  },
+  "206": {
+    "speaker": "rinrin",
+    "character": "えっ　そうなの",
+    "definition": "Oh, I see... Don't be like that, Panda.",
+    "timestamp": "0:18:13",
+    "audio": "/audio/40/0.18.13.mp3"
+  },
+  "207": {
+    "speaker": "penguin",
+    "character": "今日は用があって来たんでしょ",
+    "definition": "You came here because you need somethig, right?",
+    "timestamp": "0:18:17",
+    "audio": "/audio/40/0.18.17.mp3"
+  },
+  "208": {
+    "speaker": "rinrin",
+    "character": "どうしたの",
+    "definition": "What's wrong?",
+    "timestamp": "0:18:25",
+    "audio": "/audio/40/0.18.25.mp3"
+  },
+  "209": {
+    "speaker": "rinrin",
+    "character": "なるほど",
+    "definition": "I see...",
+    "timestamp": "0:18:30",
+    "audio": "/audio/40/0.18.30.mp3"
+  },
+  "210": {
+    "speaker": "penguin",
+    "character": "だから　どんな花を植えたら",
+    "definition": "So I brought him here",
+    "timestamp": "0:18:32",
+    "audio": "/audio/40/0.18.32.mp3"
+  },
+  "211": {
+    "speaker": "",
+    "character": "パンダ君のお母さんの機嫌が直るかを知りたくて",
+    "definition": "so you could maybe help us pick out some flowers",
+    "timestamp": "0:18:34",
+    "audio": "/audio/40/0.18.34.mp3"
+  },
+  "212": {
+    "speaker": "",
+    "character": "この店に連れてきたんだよ",
+    "definition": "that might cheer his mom up. You garden at home, too, right? So do you know something my mom would like? I might know...",
+    "timestamp": "0:18:38",
+    "audio": "/audio/40/0.18.38.mp3"
+  },
+  "213": {
+    "speaker": "",
+    "character": "でも　パンダ君のお母さんの機嫌を直すには",
+    "definition": "But would it be enough to just plant flowers your mom may like?",
+    "timestamp": "0:18:53",
+    "audio": "/audio/40/0.18.53.mp3"
+  },
+  "214": {
+    "speaker": "penguin",
+    "character": "それも　そうだよね",
+    "definition": "Well, you've got a point.",
+    "timestamp": "0:19:01",
+    "audio": "/audio/40/0.19.01.mp3"
+  },
+  "215": {
+    "speaker": "panda",
+    "character": "そうだ",
+    "definition": "I know!",
+    "timestamp": "0:19:14",
+    "audio": "/audio/40/0.19.14.mp3"
+  },
+  "216": {
+    "speaker": "panda",
+    "character": "お母さん",
+    "definition": "Mom.",
+    "timestamp": "0:19:24",
+    "audio": "/audio/40/0.19.24.mp3"
+  },
+  "217": {
+    "speaker": "panda mama",
+    "character": "なあに",
+    "definition": "What is it?",
+    "timestamp": "0:19:26",
+    "audio": "/audio/40/0.19.26.mp3"
+  },
+  "218": {
+    "speaker": "panda",
+    "character": "昨日は　チューリップ食べちゃってごめんなさい",
+    "definition": "I'm really sorry for eating your tulips yesterday. Oh.",
+    "timestamp": "0:19:32",
+    "audio": "/audio/40/0.19.32.mp3"
+  },
+  "219": {
+    "speaker": "panda",
+    "character": "別のお花を植えたので許してほしいです",
+    "definition": "I planted some other flowers, so please forgive me.",
+    "timestamp": "0:19:40",
+    "audio": "/audio/40/0.19.40.mp3"
+  },
+  "220": {
+    "speaker": "panda mama",
+    "character": "わかったわ　見せてちょうだい",
+    "definition": "Oh, all right. Show them to me. He should be showing her the flowers right about now.",
+    "timestamp": "0:19:46",
+    "audio": "/audio/40/0.19.46.mp3"
+  },
+  "221": {
+    "speaker": "rinrin",
+    "character": "お花　喜んでもらえてればいいんですが…",
+    "definition": "I hope she likes them.",
+    "timestamp": "0:19:57",
+    "audio": "/audio/40/0.19.57.mp3"
+  },
+  "222": {
+    "speaker": "polar bear",
+    "character": "きっと大丈夫だよ",
+    "definition": "I'm sure it'll be fine.",
+    "timestamp": "0:20:03",
+    "audio": "/audio/40/0.20.03.mp3"
+  },
+  "223": {
+    "speaker": "sasako",
+    "character": "早く結果が知りたいですね",
+    "definition": "I'd love to hear the results soon.",
+    "timestamp": "0:20:05",
+    "audio": "/audio/40/0.20.05.mp3"
+  },
+  "224": {
+    "speaker": "penguin",
+    "character": "そうだ パンダ君の結果を待ってる間",
+    "definition": "Oh, I know. While we're waiting for Panda's results,",
+    "timestamp": "0:20:08",
+    "audio": "/audio/40/0.20.08.mp3"
+  },
+  "225": {
+    "speaker": "penguin",
+    "character": "僕が落語を聞かせてあげようか",
+    "definition": "I'll do some of my comedic storytelling.",
+    "timestamp": "0:20:11",
+    "audio": "/audio/40/0.20.11.mp3"
+  },
+  "226": {
+    "speaker": "rinrin",
+    "character": "落語",
+    "definition": "Comedic storytelling?",
+    "timestamp": "0:20:14",
+    "audio": "/audio/40/0.20.14.mp3"
+  },
+  "227": {
+    "speaker": "sasako",
+    "character": "えっ　またですか",
+    "definition": "Again?",
+    "timestamp": "0:20:16",
+    "audio": "/audio/40/0.20.16.mp3"
+  },
+  "228": {
+    "speaker": "penguin",
+    "character": "じゃ　始めるよ お題は『にしんそば』",
+    "definition": "All right, here we go. The title is Sardine Soba.",
+    "timestamp": "0:20:17",
+    "audio": "/audio/40/0.20.17.mp3"
+  },
+  "229": {
+    "speaker": "penguin",
+    "character": "ある晩のこと　そば屋が屋台を引いてるってえと",
+    "definition": "One night, a soba stand owner was setting up,",
+    "timestamp": "0:20:21",
+    "audio": "/audio/40/0.20.21.mp3"
+  },
+  "230": {
+    "speaker": "penguin",
+    "character": "現れた客が声をかけて",
+    "definition": "when a customer called out, \"Hey, soba stand owner...\"",
+    "timestamp": "0:20:25",
+    "audio": "/audio/40/0.20.25.mp3"
+  },
+  "231": {
+    "speaker": "polar bear",
+    "character": "お後が　よろしいようで",
+    "definition": "And that's all from me...",
+    "timestamp": "0:20:29",
+    "audio": "/audio/40/0.20.29.mp3"
+  },
+  "232": {
+    "speaker": "penguin",
+    "character": "始めたばっかりだよ",
+    "definition": "Hey! I just started, Polar Bear!",
+    "timestamp": "0:20:33",
+    "audio": "/audio/40/0.20.33.mp3"
+  },
+  "233": {
+    "speaker": "penguin",
+    "character": "いいや　カフェモカおかわり",
+    "definition": "Never mind. Can I get another café mocha?",
+    "timestamp": "0:20:39",
+    "audio": "/audio/40/0.20.39.mp3"
+  },
+  "234": {
+    "speaker": "polar bear",
+    "character": "はい",
+    "definition": "Sure.",
+    "timestamp": "0:20:42",
+    "audio": "/audio/40/0.20.42.mp3"
+  },
+  "235": {
+    "speaker": "panda",
+    "character": "こっち",
+    "definition": "Over here. Oh, some wild chrysanthemums and purples pansies?",
+    "timestamp": "0:20:44",
+    "audio": "/audio/40/0.20.44.mp3"
+  },
+  "236": {
+    "speaker": "panda mama",
+    "character": "ずいぶん渋い取り合わせね",
+    "definition": "Quite a stoic arrangement.",
+    "timestamp": "0:21:06",
+    "audio": "/audio/40/0.21.06.mp3"
+  },
+  "237": {
+    "speaker": "panda",
+    "character": "お母さん　ここに上がって見て",
+    "definition": "Climb up here, Mom.",
+    "timestamp": "0:21:13",
+    "audio": "/audio/40/0.21.13.mp3"
+  },
+  "238": {
+    "speaker": "panda mama",
+    "character": "何かしら",
+    "definition": "What is it? Oh my...",
+    "timestamp": "0:21:16",
+    "audio": "/audio/40/0.21.16.mp3"
+  },
+  "239": {
+    "speaker": "panda mama",
+    "character": "わ…　私の顔になってるわ",
+    "definition": "I-It's my face!",
+    "timestamp": "0:21:33",
+    "audio": "/audio/40/0.21.33.mp3"
+  },
+  "240": {
+    "speaker": "panda",
+    "character": "どうかな",
+    "definition": "I wonder... if she likes them...",
+    "timestamp": "0:21:42",
+    "audio": "/audio/40/0.21.42.mp3"
+  },
+  "241": {
+    "speaker": "panda mama",
+    "character": "ターシャ・パンダーさんのようにはならなかったけど…",
+    "definition": "It didn't end up like Ms. Tasha Panda's,",
+    "timestamp": "0:22:00",
+    "audio": "/audio/40/0.22.00.mp3"
+  },
+  "242": {
+    "speaker": "panda mama",
+    "character": "でも　私らしいすてきなお庭になったわ",
+    "definition": "but it's become my very own one-of-a-kind garden.",
+    "timestamp": "0:22:08",
+    "audio": "/audio/40/0.22.08.mp3"
+  },
+  "243": {
+    "speaker": "panda mama",
+    "character": "ありがとう",
+    "definition": "Thank you.",
+    "timestamp": "0:22:17",
+    "audio": "/audio/40/0.22.17.mp3"
+  },
+  "244": {
+    "speaker": "panda",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/40/0.23.58.mp3"
+  },
+  "245": {
+    "speaker": "penguin",
+    "character": "何　パンダ君",
+    "definition": "What is it, Panda? I'll give you one minute, so show me everything you've got.",
+    "timestamp": "0:23:59",
+    "audio": "/audio/40/0.23.59.mp3"
+  },
+  "246": {
+    "speaker": "penguin",
+    "character": "それは調整しなくていいかな",
+    "definition": "I'd rather not give that a try.",
+    "timestamp": "0:24:04",
+    "audio": "/audio/40/0.24.04.mp3"
+  },
+  "247": {
+    "speaker": "panda",
+    "character": "ペンギンさんのすべてって　一分もないんだね",
+    "definition": "I guess everything you have doesn't take a whole minute...",
+    "timestamp": "0:24:06",
+    "audio": "/audio/40/0.24.06.mp3"
+  },
+  "248": {
+    "speaker": "penguin",
+    "character": "僕　そういうニュアンスで言ったかな",
+    "definition": "Is that what I was hinting at?",
+    "timestamp": "0:24:09",
+    "audio": "/audio/40/0.24.09.mp3"
+  },
+  "249": {
+    "speaker": "sasako",
+    "character": "来週のしろくまカフェは",
+    "definition": "Next week's Polar Bear's Café...",
+    "timestamp": "0:24:11",
+    "audio": "/audio/40/0.24.11.mp3"
+  },
+  "250": {
+    "speaker": "penguin",
+    "character": "攻め込むね　笹子さん",
+    "definition": "Butting right in I see, Miss Sasako...",
+    "timestamp": "0:24:13",
+    "audio": "/audio/40/0.24.13.mp3"
+  },
+  "251": {
+    "speaker": "penguin",
+    "character": "白熊君　終えろ",
+    "definition": "Let's end this, Polar Bear.",
+    "timestamp": "0:24:15",
+    "audio": "/audio/40/0.24.15.mp3"
+  },
+  "252": {
+    "speaker": "polar bear",
+    "character": "来週のとっとこしろくまカフェは",
+    "definition": "Next week's Tottoko Polar Bear's Café",
+    "timestamp": "0:24:17",
+    "audio": "/audio/40/0.24.17.mp3"
+  },
+  "253": {
+    "speaker": "penguin",
+    "character": "とっとこやめとこう",
+    "definition": "Let's leave out \"Tottoko.\"",
+    "timestamp": "0:24:19",
+    "audio": "/audio/40/0.24.19.mp3"
+  },
+  "254": {
+    "speaker": "polar bear",
+    "character": "しろくまイライブンは",
+    "definition": "On Polar Bear Eleven—",
+    "timestamp": "0:24:20",
+    "audio": "/audio/40/0.24.20.mp3"
+  },
+  "255": {
+    "speaker": "penguin",
+    "character": "終わって",
+    "definition": "End!",
+    "timestamp": "0:24:21",
+    "audio": "/audio/40/0.24.21.mp3"
+  },
+  "256": {
+    "speaker": "Sasako",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/40/0.24.22.mp3"
+  }
+}

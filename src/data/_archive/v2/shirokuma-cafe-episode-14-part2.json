@@ -1,0 +1,1094 @@
+{
+  "126": {
+    "speaker": "SASAKO",
+    "character": "いらっしゃいませ",
+    "definition": "Welcome.",
+    "timestamp": "0:11:35",
+    "audio": "/audio/14/0.11.35.mp3"
+  },
+  "127": {
+    "speaker": "GUY",
+    "character": "あれ　今日白熊君は",
+    "definition": "Huh? Where's Polar Bear today?",
+    "timestamp": "0:11:38",
+    "audio": "/audio/14/0.11.38.mp3"
+  },
+  "128": {
+    "speaker": "SASAKO",
+    "character": "お出かけなんですよ",
+    "definition": "He's out for the day.",
+    "timestamp": "0:11:42",
+    "audio": "/audio/14/0.11.42.mp3"
+  },
+  "129": {
+    "speaker": "POLAR BEAR",
+    "character": "やってきました　海",
+    "definition": "Here we are, the beach! The beach!",
+    "timestamp": "0:11:51",
+    "audio": "/audio/14/0.11.51.mp3"
+  },
+  "130": {
+    "speaker": "PENGUIN",
+    "character": "夏は海だよね",
+    "definition": "You've gotta head to the beach in summer.",
+    "timestamp": "0:11:55",
+    "audio": "/audio/14/0.11.55.mp3"
+  },
+  "131": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　どう　このシャツおニュウなんだ",
+    "definition": "What do you think, Mr. Penguin? This is a new shirt.",
+    "timestamp": "0:11:58",
+    "audio": "/audio/14/0.11.58.mp3"
+  },
+  "132": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君　普段何にも着てないのに",
+    "definition": "But you don't usually wear clothes, Panda.",
+    "timestamp": "0:12:03",
+    "audio": "/audio/14/0.12.03.mp3"
+  },
+  "133": {
+    "speaker": "PANDA",
+    "character": "シーンにあわせた装い",
+    "definition": "I wanted to fit in with the setting.",
+    "timestamp": "0:12:06",
+    "audio": "/audio/14/0.12.06.mp3"
+  },
+  "134": {
+    "speaker": "PENGUIN",
+    "character": "何のシーンなんだか",
+    "definition": "And what setting would that be?",
+    "timestamp": "0:12:09",
+    "audio": "/audio/14/0.12.09.mp3"
+  },
+  "135": {
+    "speaker": "POLAR BEAR",
+    "character": "早く着替えて泳ごう",
+    "definition": "Let's get changed and go swimming already. Let's relax a little, Polar Bear.",
+    "timestamp": "0:12:11",
+    "audio": "/audio/14/0.12.11.mp3"
+  },
+  "136": {
+    "speaker": "OLD LADY",
+    "character": "あれ　パンダや",
+    "definition": "Huh? It's a panda!",
+    "timestamp": "0:12:19",
+    "audio": "/audio/14/0.12.19.mp3"
+  },
+  "137": {
+    "speaker": "OLD LADY",
+    "character": "ほんまや　海にパンダがいてるわ",
+    "definition": "That it is. Imagine that. A panda at the beach.",
+    "timestamp": "0:12:23",
+    "audio": "/audio/14/0.12.23.mp3"
+  },
+  "138": {
+    "speaker": "OLD LADY",
+    "character": "アロハ着て　可愛らしいな",
+    "definition": "Look at how cute he is in his Hawaiian shirt.",
+    "timestamp": "0:12:26",
+    "audio": "/audio/14/0.12.26.mp3"
+  },
+  "139": {
+    "speaker": "OLD LADY",
+    "character": "これからどこ行くん",
+    "definition": "Where ya headed?",
+    "timestamp": "0:12:29",
+    "audio": "/audio/14/0.12.29.mp3"
+  },
+  "140": {
+    "speaker": "OLD LADY",
+    "character": "飴ちゃ　あげようか",
+    "definition": "How's 'bout a candy? Thanks.",
+    "timestamp": "0:12:30",
+    "audio": "/audio/14/0.12.30.mp3"
+  },
+  "141": {
+    "speaker": "OLD LADY",
+    "character": "ほなな　気ィつけてな",
+    "definition": "See y'all again! Y'all be careful!",
+    "timestamp": "0:12:35",
+    "audio": "/audio/14/0.12.35.mp3"
+  },
+  "142": {
+    "speaker": "PANDA",
+    "character": "モテモテだよ",
+    "definition": "I'm so popular.",
+    "timestamp": "0:12:38",
+    "audio": "/audio/14/0.12.38.mp3"
+  },
+  "143": {
+    "speaker": "PANDA",
+    "character": "あれ　白熊君は",
+    "definition": "Huh? Where's Polar Bear?",
+    "timestamp": "0:12:40",
+    "audio": "/audio/14/0.12.40.mp3"
+  },
+  "144": {
+    "speaker": "PENGUIN",
+    "character": "あっち",
+    "definition": "Over there.",
+    "timestamp": "0:12:43",
+    "audio": "/audio/14/0.12.43.mp3"
+  },
+  "145": {
+    "speaker": "GIRL",
+    "character": "素敵",
+    "definition": "You're so amazing!",
+    "timestamp": "0:12:44",
+    "audio": "/audio/14/0.12.44.mp3"
+  },
+  "146": {
+    "speaker": "GIRL",
+    "character": "かっこいい",
+    "definition": "So cool!",
+    "timestamp": "0:12:46",
+    "audio": "/audio/14/0.12.46.mp3"
+  },
+  "147": {
+    "speaker": "PENGUIN",
+    "character": "モテモテだね",
+    "definition": "He's so popular. If we don't get in soon, it's going to get dark, Polar Bear!",
+    "timestamp": "0:12:48",
+    "audio": "/audio/14/0.12.48.mp3"
+  },
+  "148": {
+    "speaker": "PENGUIN",
+    "character": "さっきまでゆっくりしようって言ってたのに",
+    "definition": "You were just saying you wanted to relax.",
+    "timestamp": "0:12:56",
+    "audio": "/audio/14/0.12.56.mp3"
+  },
+  "149": {
+    "speaker": "PANDA",
+    "character": "やっぱり着替えるんだ",
+    "definition": "Tada! So, you did change.",
+    "timestamp": "0:13:01",
+    "audio": "/audio/14/0.13.01.mp3"
+  },
+  "150": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんこそ　いつも同じで飽きないの",
+    "definition": "Don't you get tired of always looking the same, Mr. Penguin?",
+    "timestamp": "0:13:05",
+    "audio": "/audio/14/0.13.05.mp3"
+  },
+  "151": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君だっていつもは大体同じじゃない",
+    "definition": "You pretty much always look the same, too, Panda.",
+    "timestamp": "0:13:08",
+    "audio": "/audio/14/0.13.08.mp3"
+  },
+  "152": {
+    "speaker": "POLAR BEAR",
+    "character": "まず　何しようか",
+    "definition": "What should we do first?",
+    "timestamp": "0:13:12",
+    "audio": "/audio/14/0.13.12.mp3"
+  },
+  "153": {
+    "speaker": "PENGUIN",
+    "character": "僕　魚とりに行く",
+    "definition": "I'm gonna go fishing.",
+    "timestamp": "0:13:15",
+    "audio": "/audio/14/0.13.15.mp3"
+  },
+  "154": {
+    "speaker": "PANDA",
+    "character": "僕はお昼寝",
+    "definition": "I'm gonna take a nap.",
+    "timestamp": "0:13:18",
+    "audio": "/audio/14/0.13.18.mp3"
+  },
+  "155": {
+    "speaker": "POLAR BEAR",
+    "character": "いい波だね",
+    "definition": "What a great wave.",
+    "timestamp": "0:13:25",
+    "audio": "/audio/14/0.13.25.mp3"
+  },
+  "156": {
+    "speaker": "PENGUIN",
+    "character": "皆　ばらばらだな",
+    "definition": "Everyone's doing their own thing.",
+    "timestamp": "0:13:29",
+    "audio": "/audio/14/0.13.29.mp3"
+  },
+  "157": {
+    "speaker": "PENGUIN",
+    "character": "せっかく皆で来てるんだからさ",
+    "definition": "Since we all came here together,",
+    "timestamp": "0:13:34",
+    "audio": "/audio/14/0.13.34.mp3"
+  },
+  "158": {
+    "speaker": "PENGUIN",
+    "character": "一緒になんかやろうよ",
+    "definition": "let's all do something together!",
+    "timestamp": "0:13:38",
+    "audio": "/audio/14/0.13.38.mp3"
+  },
+  "159": {
+    "speaker": "POLAR BEAR",
+    "character": "あっちでシーカヤックを貸してくれるらしいよ",
+    "definition": "I heard they rent out kayaks over there.",
+    "timestamp": "0:13:40",
+    "audio": "/audio/14/0.13.40.mp3"
+  },
+  "160": {
+    "speaker": "PENGUIN",
+    "character": "何それ",
+    "definition": "What's that?",
+    "timestamp": "0:13:43",
+    "audio": "/audio/14/0.13.43.mp3"
+  },
+  "161": {
+    "speaker": "PANDA",
+    "character": "知らないけど　やりたい",
+    "definition": "I don't know what it is, but I wanna do it! Horizon as far as the eye can see. This is great!",
+    "timestamp": "0:13:44",
+    "audio": "/audio/14/0.13.44.mp3"
+  },
+  "162": {
+    "speaker": "PENGUIN",
+    "character": "難しいよ白熊君　どうやるの",
+    "definition": "This is hard, Polar Bear! How do you do this?",
+    "timestamp": "0:13:56",
+    "audio": "/audio/14/0.13.56.mp3"
+  },
+  "163": {
+    "speaker": "POLAR BEAR",
+    "character": "水面深くまでパドルを入れないで",
+    "definition": "Without subermerging the paddle too deeply,",
+    "timestamp": "0:14:01",
+    "audio": "/audio/14/0.14.01.mp3"
+  },
+  "164": {
+    "speaker": "POLAR BEAR",
+    "character": "利き手側のブレード引き押せたら 同時に反対側を押し出す",
+    "definition": "you pull with your dominant hand and push with the opposite hand at the same time.",
+    "timestamp": "0:14:03",
+    "audio": "/audio/14/0.14.03.mp3"
+  },
+  "165": {
+    "speaker": "POLAR BEAR",
+    "character": "両肩のラインよりひじが回らないように",
+    "definition": "Don't let your elbows break the plane above your shoulders.",
+    "timestamp": "0:14:08",
+    "audio": "/audio/14/0.14.08.mp3"
+  },
+  "166": {
+    "speaker": "POLAR BEAR",
+    "character": "むしろ腰を回転…",
+    "definition": "Instead, move your lower back― Could you explain it more simply, please?!",
+    "timestamp": "0:14:11",
+    "audio": "/audio/14/0.14.11.mp3"
+  },
+  "167": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさんがいつも泳ぐときみたいに",
+    "definition": "Just paddle like you usually swim.",
+    "timestamp": "0:14:15",
+    "audio": "/audio/14/0.14.15.mp3"
+  },
+  "168": {
+    "speaker": "PENGUIN",
+    "character": "よーし",
+    "definition": "All right!",
+    "timestamp": "0:14:19",
+    "audio": "/audio/14/0.14.19.mp3"
+  },
+  "169": {
+    "speaker": "PENGUIN",
+    "character": "ね　見た　パンダ君",
+    "definition": "Hey, did you see that, Panda? I'm bored with this.",
+    "timestamp": "0:14:24",
+    "audio": "/audio/14/0.14.24.mp3"
+  },
+  "170": {
+    "speaker": "PENGUIN",
+    "character": "はやっ",
+    "definition": "Already?!",
+    "timestamp": "0:14:28",
+    "audio": "/audio/14/0.14.28.mp3"
+  },
+  "171": {
+    "speaker": "PANDA",
+    "character": "海しか見えないし　動かないよ",
+    "definition": "All you can see is the ocean and this thing isn't moving.",
+    "timestamp": "0:14:29",
+    "audio": "/audio/14/0.14.29.mp3"
+  },
+  "172": {
+    "speaker": "PENGUIN",
+    "character": "海に来てるんだし　漕いでないから当たり前じゃない",
+    "definition": "Well we're in the ocean and of course it's not moving since you aren't paddling!",
+    "timestamp": "0:14:33",
+    "audio": "/audio/14/0.14.33.mp3"
+  },
+  "173": {
+    "speaker": "POLAR BEAR",
+    "character": "こがなくていいやつ　乗る",
+    "definition": "Wanna try something you don't have to paddle? What should we do next?",
+    "timestamp": "0:14:36",
+    "audio": "/audio/14/0.14.36.mp3"
+  },
+  "174": {
+    "speaker": "PANDA",
+    "character": "やっぱり砂浜でまったりがいいよ",
+    "definition": "I wanna laze around on the beach.",
+    "timestamp": "0:14:52",
+    "audio": "/audio/14/0.14.52.mp3"
+  },
+  "175": {
+    "speaker": "PENGUIN",
+    "character": "のんびり干物作り",
+    "definition": "I'm going to leisurely dry some fish.",
+    "timestamp": "0:14:55",
+    "audio": "/audio/14/0.14.55.mp3"
+  },
+  "176": {
+    "speaker": "POLAR BEAR",
+    "character": "ウクレレ弾こうっと",
+    "definition": "I'm going to play the ukulele.",
+    "timestamp": "0:14:58",
+    "audio": "/audio/14/0.14.58.mp3"
+  },
+  "177": {
+    "speaker": "PANDA",
+    "character": "ねえ　僕の体を作ってよ",
+    "definition": "Hey, build me a body.",
+    "timestamp": "0:15:24",
+    "audio": "/audio/14/0.15.24.mp3"
+  },
+  "178": {
+    "speaker": "POLAR BEAR",
+    "character": "どんなの",
+    "definition": "What type of body?",
+    "timestamp": "0:15:28",
+    "audio": "/audio/14/0.15.28.mp3"
+  },
+  "179": {
+    "speaker": "PANDA",
+    "character": "マッチョでね　セクシーな感じがいいな",
+    "definition": "I want to look macho and sexy.",
+    "timestamp": "0:15:29",
+    "audio": "/audio/14/0.15.29.mp3"
+  },
+  "180": {
+    "speaker": "PENGUIN",
+    "character": "前に言ってた　逆三角形の足の長いやつ",
+    "definition": "Like your previous upside-down triangle body with the long legs?",
+    "timestamp": "0:15:33",
+    "audio": "/audio/14/0.15.33.mp3"
+  },
+  "181": {
+    "speaker": "CREEPY PANDA",
+    "character": "呼ばれて飛び出た　ドリームパンダ",
+    "definition": "I've been called, so here I am, the Dream Panda!",
+    "timestamp": "0:15:37",
+    "audio": "/audio/14/0.15.37.mp3"
+  },
+  "182": {
+    "speaker": "PANDA",
+    "character": "あれよりごつい感じ",
+    "definition": "Something a little more tough than that,",
+    "timestamp": "0:15:40",
+    "audio": "/audio/14/0.15.40.mp3"
+  },
+  "183": {
+    "speaker": "",
+    "character": "でもむきむきすぎないの",
+    "definition": "but not too muscular.",
+    "timestamp": "0:15:43",
+    "audio": "/audio/14/0.15.43.mp3"
+  },
+  "184": {
+    "speaker": "PENGUIN",
+    "character": "注文多いな",
+    "definition": "You're being really picky.",
+    "timestamp": "0:15:45",
+    "audio": "/audio/14/0.15.45.mp3"
+  },
+  "185": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "definition": "Leave it to me.",
+    "timestamp": "0:15:47",
+    "audio": "/audio/14/0.15.47.mp3"
+  },
+  "186": {
+    "speaker": "POLAR BEAR",
+    "character": "どう",
+    "definition": "How's that?",
+    "timestamp": "0:15:50",
+    "audio": "/audio/14/0.15.50.mp3"
+  },
+  "187": {
+    "speaker": "PENGUIN",
+    "character": "お相撲さんだね",
+    "definition": "He's totally a sumo wrestler.",
+    "timestamp": "0:15:52",
+    "audio": "/audio/14/0.15.52.mp3"
+  },
+  "188": {
+    "speaker": "POLAR BEAR",
+    "character": "ごつくてむきむきすぎない",
+    "definition": "He's tough, but not too muscular.",
+    "timestamp": "0:15:53",
+    "audio": "/audio/14/0.15.53.mp3"
+  },
+  "189": {
+    "speaker": "PANDA",
+    "character": "やだ",
+    "definition": "No!",
+    "timestamp": "0:15:56",
+    "audio": "/audio/14/0.15.56.mp3"
+  },
+  "190": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "definition": "Leave it to me.",
+    "timestamp": "0:15:58",
+    "audio": "/audio/14/0.15.58.mp3"
+  },
+  "191": {
+    "speaker": "PANDA",
+    "character": "ごつ過ぎるよ",
+    "definition": "This is too tough.",
+    "timestamp": "0:16:01",
+    "audio": "/audio/14/0.16.01.mp3"
+  },
+  "192": {
+    "speaker": "",
+    "character": "もっとかっこいいのがいいな",
+    "definition": "I want to look cooler.",
+    "timestamp": "0:16:03",
+    "audio": "/audio/14/0.16.03.mp3"
+  },
+  "193": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "definition": "Leave it to me.",
+    "timestamp": "0:16:06",
+    "audio": "/audio/14/0.16.06.mp3"
+  },
+  "194": {
+    "speaker": "PANDA",
+    "character": "かっこいいけど違う",
+    "definition": "This is cool, but not what I was thinking of.",
+    "timestamp": "0:16:10",
+    "audio": "/audio/14/0.16.10.mp3"
+  },
+  "195": {
+    "speaker": "PANDA",
+    "character": "モテモテがいい",
+    "definition": "I want to be popular!",
+    "timestamp": "0:16:13",
+    "audio": "/audio/14/0.16.13.mp3"
+  },
+  "196": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "definition": "Leave it to me.",
+    "timestamp": "0:16:14",
+    "audio": "/audio/14/0.16.14.mp3"
+  },
+  "197": {
+    "speaker": "PANDA",
+    "character": "これってモテモテ",
+    "definition": "Will I be popular?",
+    "timestamp": "0:16:20",
+    "audio": "/audio/14/0.16.20.mp3"
+  },
+  "198": {
+    "speaker": "POLAR BEAR",
+    "character": "うん　皆でお祝いしてるし",
+    "definition": "Yes. Everyone's celebrating your glory.",
+    "timestamp": "0:16:22",
+    "audio": "/audio/14/0.16.22.mp3"
+  },
+  "199": {
+    "speaker": "PENGUIN",
+    "character": "僕　必要",
+    "definition": "Am I really needed in this?",
+    "timestamp": "0:16:25",
+    "audio": "/audio/14/0.16.25.mp3"
+  },
+  "200": {
+    "speaker": "POLAR BEAR",
+    "character": "次は何しようか",
+    "definition": "What should we do next?",
+    "timestamp": "0:16:28",
+    "audio": "/audio/14/0.16.28.mp3"
+  },
+  "201": {
+    "speaker": "PANDA",
+    "character": "誰がやる",
+    "definition": "Who's going first?",
+    "timestamp": "0:16:33",
+    "audio": "/audio/14/0.16.33.mp3"
+  },
+  "202": {
+    "speaker": "PENGUIN",
+    "character": "白熊君　やりなよ",
+    "definition": "You should go, Polar Bear.",
+    "timestamp": "0:16:35",
+    "audio": "/audio/14/0.16.35.mp3"
+  },
+  "203": {
+    "speaker": "POLAR BEAR",
+    "character": "いいの",
+    "definition": "You sure?",
+    "timestamp": "0:16:38",
+    "audio": "/audio/14/0.16.38.mp3"
+  },
+  "204": {
+    "speaker": "PENGUIN",
+    "character": "何遠慮してるの",
+    "definition": "Why are you hesitating?",
+    "timestamp": "0:16:40",
+    "audio": "/audio/14/0.16.40.mp3"
+  },
+  "205": {
+    "speaker": "POLAR BEAR",
+    "character": "そうじゃなくて",
+    "definition": "I'm not hesitating, it's just... I know where it is even when I'm blindfolded.",
+    "timestamp": "0:16:44",
+    "audio": "/audio/14/0.16.44.mp3"
+  },
+  "206": {
+    "speaker": "POLAR BEAR",
+    "character": "鼻がいいから",
+    "definition": "My sense of smell is really good.",
+    "timestamp": "0:16:53",
+    "audio": "/audio/14/0.16.53.mp3"
+  },
+  "207": {
+    "speaker": "PENGUIN",
+    "character": "じゃあ　パンダ君",
+    "definition": "Then you go, Panda.",
+    "timestamp": "0:16:58",
+    "audio": "/audio/14/0.16.58.mp3"
+  },
+  "208": {
+    "speaker": "PANDA",
+    "character": "よーし",
+    "definition": "All right!",
+    "timestamp": "0:16:59",
+    "audio": "/audio/14/0.16.59.mp3"
+  },
+  "209": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君　寝てる",
+    "definition": "Panda? Are you asleep?",
+    "timestamp": "0:17:04",
+    "audio": "/audio/14/0.17.04.mp3"
+  },
+  "210": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダ君に目隠しはダメだね",
+    "definition": "Apparently blindfolding Panda is a bad idea.",
+    "timestamp": "0:17:07",
+    "audio": "/audio/14/0.17.07.mp3"
+  },
+  "211": {
+    "speaker": "PANDA",
+    "character": "右だよ　ペンギンさん",
+    "definition": "To your right, Mr. Penguin! Huh?! How far to the right?!",
+    "timestamp": "0:17:14",
+    "audio": "/audio/14/0.17.14.mp3"
+  },
+  "212": {
+    "speaker": "POLAR BEAR",
+    "character": "上半身を30度右にねじって　僅かに前傾姿勢をとる",
+    "definition": "Turn your upper body to the right 30 degrees, and then slightly bend your body forward.",
+    "timestamp": "0:17:20",
+    "audio": "/audio/14/0.17.20.mp3"
+  },
+  "213": {
+    "speaker": "POLAR BEAR",
+    "character": "そして　腕を目の高さに当てて…",
+    "definition": "Then raise your arms to about eye level...",
+    "timestamp": "0:17:25",
+    "audio": "/audio/14/0.17.25.mp3"
+  },
+  "214": {
+    "speaker": "PENGUIN",
+    "character": "もっと簡単に言ってくれる",
+    "definition": "Would you explain more simply?!",
+    "timestamp": "0:17:27",
+    "audio": "/audio/14/0.17.27.mp3"
+  },
+  "215": {
+    "speaker": "POLAR BEAR",
+    "character": "真ん前",
+    "definition": "Right in front of you.",
+    "timestamp": "0:17:30",
+    "audio": "/audio/14/0.17.30.mp3"
+  },
+  "216": {
+    "speaker": "PANDA",
+    "character": "そこだよ　ペンギンさん",
+    "definition": "Right there, Mr. Penguin!",
+    "timestamp": "0:17:31",
+    "audio": "/audio/14/0.17.31.mp3"
+  },
+  "217": {
+    "speaker": "PENGUIN",
+    "character": "ホント",
+    "definition": "Really?",
+    "timestamp": "0:17:34",
+    "audio": "/audio/14/0.17.34.mp3"
+  },
+  "218": {
+    "speaker": "POLAR BEAR",
+    "character": "ペン子さんにアタックするつもりで",
+    "definition": "Imagine you're going after Miss Penko!",
+    "timestamp": "0:17:36",
+    "audio": "/audio/14/0.17.36.mp3"
+  },
+  "219": {
+    "speaker": "PENGUIN",
+    "character": "ペン子さん",
+    "definition": "Miss Penko, um... D-Do you like dried fish, Miss Penko?",
+    "timestamp": "0:17:42",
+    "audio": "/audio/14/0.17.42.mp3"
+  },
+  "220": {
+    "speaker": "PENGUIN",
+    "character": "僕は好きです",
+    "definition": "I love them!",
+    "timestamp": "0:17:48",
+    "audio": "/audio/14/0.17.48.mp3"
+  },
+  "221": {
+    "speaker": "PENGUIN",
+    "character": "あの　干物が好き　というかペン子さんも　いいえ",
+    "definition": "I also love them, but, Miss Penko, I...",
+    "timestamp": "0:17:50",
+    "audio": "/audio/14/0.17.50.mp3"
+  },
+  "222": {
+    "speaker": "PENGUIN",
+    "character": "ペン子さんが　あ",
+    "definition": "I... Miss Penko! Miss Penko!",
+    "timestamp": "0:17:54",
+    "audio": "/audio/14/0.17.54.mp3"
+  },
+  "223": {
+    "speaker": "PENGUIN",
+    "character": "ペン子さん　聞いてくれますか",
+    "definition": "Mish Fenko! Will you hear meh out? Mish Fenko! Mish Fenko! Mish Fenko!",
+    "timestamp": "0:18:02",
+    "audio": "/audio/14/0.18.02.mp3"
+  },
+  "224": {
+    "speaker": "POLAR BEAR",
+    "character": "ペン子さん　ペン子さん",
+    "definition": "May you two live happily.",
+    "timestamp": "0:18:07",
+    "audio": "/audio/14/0.18.07.mp3"
+  },
+  "225": {
+    "speaker": "GUY",
+    "character": "ご注文は　お決まりですか",
+    "definition": "Are you ready to order?",
+    "timestamp": "0:18:23",
+    "audio": "/audio/14/0.18.23.mp3"
+  },
+  "226": {
+    "speaker": "PANDA",
+    "character": "竹　大盛り",
+    "definition": "A large serving of bamboo!",
+    "timestamp": "0:18:26",
+    "audio": "/audio/14/0.18.26.mp3"
+  },
+  "227": {
+    "speaker": "GUY",
+    "character": "ありません",
+    "definition": "We don't have that.",
+    "timestamp": "0:18:27",
+    "audio": "/audio/14/0.18.27.mp3"
+  },
+  "228": {
+    "speaker": "PANDA",
+    "character": "じゃあ　普通盛りでいいんです",
+    "definition": "Then a normal serving is just fine.",
+    "timestamp": "0:18:28",
+    "audio": "/audio/14/0.18.28.mp3"
+  },
+  "229": {
+    "speaker": "GUY",
+    "character": "すみません　どっちもありません",
+    "definition": "I'm sorry, we don't have either.",
+    "timestamp": "0:18:31",
+    "audio": "/audio/14/0.18.31.mp3"
+  },
+  "230": {
+    "speaker": "PANDA",
+    "character": "海の家名物　竹大盛り",
+    "definition": "Beach house special: large serving of bamboo.",
+    "timestamp": "0:18:34",
+    "audio": "/audio/14/0.18.34.mp3"
+  },
+  "231": {
+    "speaker": "PANDA",
+    "character": "絶対人気出るよ",
+    "definition": "It'll be a hit.",
+    "timestamp": "0:18:38",
+    "audio": "/audio/14/0.18.38.mp3"
+  },
+  "232": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君にだけでしょ",
+    "definition": "Just for you, Panda.",
+    "timestamp": "0:18:40",
+    "audio": "/audio/14/0.18.40.mp3"
+  },
+  "233": {
+    "speaker": "POLAR BEAR",
+    "character": "僕　このサーモンの軽いスモーク ミキュイ　ソース　クレソニエール",
+    "definition": "I'll have the lightly smoked salmon mie cuit with sauce cressonnière.",
+    "timestamp": "0:18:42",
+    "audio": "/audio/14/0.18.42.mp3"
+  },
+  "234": {
+    "speaker": "PENGUIN",
+    "character": "違うでしょ",
+    "definition": "That's not it.",
+    "timestamp": "0:18:48",
+    "audio": "/audio/14/0.18.48.mp3"
+  },
+  "235": {
+    "speaker": "PANDA",
+    "character": "じゃあ　僕もトッピング竹で",
+    "definition": "I'll have that, too, with bamboo topping.",
+    "timestamp": "0:18:50",
+    "audio": "/audio/14/0.18.50.mp3"
+  },
+  "236": {
+    "speaker": "PENGUIN",
+    "character": "ないから　そのトッピング",
+    "definition": "They don't have that topping.",
+    "timestamp": "0:18:53",
+    "audio": "/audio/14/0.18.53.mp3"
+  },
+  "237": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさんは",
+    "definition": "What about you, Mr. Penguin? Huh? I'll have the seafood ramen.",
+    "timestamp": "0:18:55",
+    "audio": "/audio/14/0.18.55.mp3"
+  },
+  "238": {
+    "speaker": "PENGUIN",
+    "character": "あつっ　あつあつあつ",
+    "definition": "Ow! Hot, hot, hot!",
+    "timestamp": "0:19:05",
+    "audio": "/audio/14/0.19.05.mp3"
+  },
+  "239": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんいつも生魚だもんね",
+    "definition": "Mr. Penguin does always eat raw fish.",
+    "timestamp": "0:19:07",
+    "audio": "/audio/14/0.19.07.mp3"
+  },
+  "240": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギン舌だね",
+    "definition": "He's got a penguin's tongue.",
+    "timestamp": "0:19:10",
+    "audio": "/audio/14/0.19.10.mp3"
+  },
+  "241": {
+    "speaker": "PENGUIN",
+    "character": "なにそれ",
+    "definition": "What do you mean?",
+    "timestamp": "0:19:13",
+    "audio": "/audio/14/0.19.13.mp3"
+  },
+  "242": {
+    "speaker": "POLAR BEAR",
+    "character": "猫舌のペンギン版",
+    "definition": "The penguin version of a cat's tongue. Saying I have a cat's tongue would be fine!",
+    "timestamp": "0:19:15",
+    "audio": "/audio/14/0.19.15.mp3"
+  },
+  "243": {
+    "speaker": "POLAR BEAR",
+    "character": "頑張って シーフードがペンギンさんを待ってるよ",
+    "definition": "You can do it. The seafood is waiting for you, Mr. Penguin. You should eat seafood in the ocean.",
+    "timestamp": "0:19:21",
+    "audio": "/audio/14/0.19.21.mp3"
+  },
+  "244": {
+    "speaker": "PENGUIN",
+    "character": "もっともなこと言わないでくれる",
+    "definition": "Could you not state the obvious? Hey, that's bad manners.",
+    "timestamp": "0:19:32",
+    "audio": "/audio/14/0.19.32.mp3"
+  },
+  "245": {
+    "speaker": "PENGUIN",
+    "character": "女の子に嫌われちゃうよ",
+    "definition": "Girls won't like you. See? Huh?",
+    "timestamp": "0:19:38",
+    "audio": "/audio/14/0.19.38.mp3"
+  },
+  "246": {
+    "speaker": "GIRL",
+    "character": "パンダさんが焼き蕎麦食べてる",
+    "definition": "Mr. Panda's eating yakisoba!",
+    "timestamp": "0:19:45",
+    "audio": "/audio/14/0.19.45.mp3"
+  },
+  "247": {
+    "speaker": "GIRL",
+    "character": "可愛い",
+    "definition": "How cute!",
+    "timestamp": "0:19:47",
+    "audio": "/audio/14/0.19.47.mp3"
+  },
+  "248": {
+    "speaker": "POLAR BEAR",
+    "character": "高評価だね",
+    "definition": "Very well-liked. Why?",
+    "timestamp": "0:19:49",
+    "audio": "/audio/14/0.19.49.mp3"
+  },
+  "249": {
+    "speaker": "PANDA",
+    "character": "シーンに合わせたふるまい",
+    "definition": "Because I'm one with the setting.",
+    "timestamp": "0:19:52",
+    "audio": "/audio/14/0.19.52.mp3"
+  },
+  "250": {
+    "speaker": "PENGUIN",
+    "character": "僕だってラーメン食べてるのに",
+    "definition": "But I'm eating ramen, too.",
+    "timestamp": "0:19:54",
+    "audio": "/audio/14/0.19.54.mp3"
+  },
+  "251": {
+    "speaker": "GUY",
+    "character": "ペンギンがラーメン食べてる",
+    "definition": "Whoa! That penguin is eating ramen!",
+    "timestamp": "0:20:01",
+    "audio": "/audio/14/0.20.01.mp3"
+  },
+  "252": {
+    "speaker": "GUY2",
+    "character": "何だあれ　珍しい",
+    "definition": "What's up with that? So weird!",
+    "timestamp": "0:20:03",
+    "audio": "/audio/14/0.20.03.mp3"
+  },
+  "253": {
+    "speaker": "POLAR BEAR",
+    "character": "低評価だね",
+    "definition": "Not well-liked.",
+    "timestamp": "0:20:06",
+    "audio": "/audio/14/0.20.06.mp3"
+  },
+  "254": {
+    "speaker": "PENGUIN",
+    "character": "何で",
+    "definition": "Why?!",
+    "timestamp": "0:20:08",
+    "audio": "/audio/14/0.20.08.mp3"
+  },
+  "255": {
+    "speaker": "PANDA",
+    "character": "おいしいね",
+    "definition": "Isn't this good?",
+    "timestamp": "0:20:18",
+    "audio": "/audio/14/0.20.18.mp3"
+  },
+  "256": {
+    "speaker": "PENGUIN",
+    "character": "やっぱりおいしく感じるシーンっていうのがあるのかもね",
+    "definition": "Maybe there's a setting that makes things delicious.",
+    "timestamp": "0:20:24",
+    "audio": "/audio/14/0.20.24.mp3"
+  },
+  "257": {
+    "speaker": "PENGUIN",
+    "character": "皆と一緒に風を感じながら",
+    "definition": "Sitting here with everyone, feeling the wind...",
+    "timestamp": "0:20:29",
+    "audio": "/audio/14/0.20.29.mp3"
+  },
+  "258": {
+    "speaker": "PENGUIN",
+    "character": "次はかき氷食べよう",
+    "definition": "Huh? Let's eat some shaved ice next.",
+    "timestamp": "0:20:33",
+    "audio": "/audio/14/0.20.33.mp3"
+  },
+  "259": {
+    "speaker": "PANDA",
+    "character": "僕　イチゴ味がいいな",
+    "definition": "I want strawberry flavored.",
+    "timestamp": "0:20:37",
+    "audio": "/audio/14/0.20.37.mp3"
+  },
+  "260": {
+    "speaker": "PENGUIN",
+    "character": "せっかくいいこと言ったのに",
+    "definition": "I was saying something really good!",
+    "timestamp": "0:20:40",
+    "audio": "/audio/14/0.20.40.mp3"
+  },
+  "261": {
+    "speaker": "PENGUIN",
+    "character": "もう　皆ばらばらだよ",
+    "definition": "Jeez, we all got different things.",
+    "timestamp": "0:20:44",
+    "audio": "/audio/14/0.20.44.mp3"
+  },
+  "262": {
+    "speaker": "PENGUIN",
+    "character": "ホント自分勝手っていうか　チームワークがないっていうか",
+    "definition": "Everyone's so selfish. No teamwork whatsoever.",
+    "timestamp": "0:20:47",
+    "audio": "/audio/14/0.20.47.mp3"
+  },
+  "263": {
+    "speaker": "PENGUIN",
+    "character": "ばらばらだよ",
+    "definition": "We're all disorganized.",
+    "timestamp": "0:20:53",
+    "audio": "/audio/14/0.20.53.mp3"
+  },
+  "264": {
+    "speaker": "PANDA",
+    "character": "楽しかったね",
+    "definition": "That was fun, wasn't it?",
+    "timestamp": "0:21:35",
+    "audio": "/audio/14/0.21.35.mp3"
+  },
+  "265": {
+    "speaker": "PENGUIN",
+    "character": "そうだね　干物も作れたし",
+    "definition": "It was. And I was able to make dried fish.",
+    "timestamp": "0:21:37",
+    "audio": "/audio/14/0.21.37.mp3"
+  },
+  "266": {
+    "speaker": "POLAR BEAR",
+    "character": "海って　いいよね",
+    "definition": "The beach sure is great.",
+    "timestamp": "0:21:41",
+    "audio": "/audio/14/0.21.41.mp3"
+  },
+  "267": {
+    "speaker": "VOICE",
+    "character": "本日の列車は運行を終了しました",
+    "definition": "This ends our daily train schedule.",
+    "timestamp": "0:22:03",
+    "audio": "/audio/14/0.22.03.mp3"
+  },
+  "268": {
+    "speaker": "PENGUIN",
+    "character": "寝過ごした",
+    "definition": "We overslept.",
+    "timestamp": "0:22:07",
+    "audio": "/audio/14/0.22.07.mp3"
+  },
+  "269": {
+    "speaker": "POLAR BEAR",
+    "character": "山も　いいよね",
+    "definition": "The mountains are a great place, too.",
+    "timestamp": "0:22:09",
+    "audio": "/audio/14/0.22.09.mp3"
+  },
+  "270": {
+    "speaker": "PANDA",
+    "character": "次は何する",
+    "definition": "What should we do next?",
+    "timestamp": "0:22:12",
+    "audio": "/audio/14/0.22.12.mp3"
+  },
+  "271": {
+    "speaker": "PENGUIN",
+    "character": "干物食べる",
+    "definition": "Want some dried fish?",
+    "timestamp": "0:22:15",
+    "audio": "/audio/14/0.22.15.mp3"
+  },
+  "272": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/14/0.23.58.mp3"
+  },
+  "273": {
+    "speaker": "PENGUIN",
+    "character": "なに　パンダ君",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/14/0.23.59.mp3"
+  },
+  "274": {
+    "speaker": "PANDA",
+    "character": "本当に興味がない相手と喋る時って話題が思いつかないもんだね",
+    "definition": "It's hard to think of something fun to talk about when you're talking to someone you're not interested in.",
+    "timestamp": "0:24:01",
+    "audio": "/audio/14/0.24.01.mp3"
+  },
+  "275": {
+    "speaker": "PENGUIN",
+    "character": "それ僕に発表しないでくれる",
+    "definition": "Could you not announce that to me?",
+    "timestamp": "0:24:05",
+    "audio": "/audio/14/0.24.05.mp3"
+  },
+  "276": {
+    "speaker": "PANDA",
+    "character": "じゃ 得意な白熊君の物まね見せてよ",
+    "definition": "Then show me one of your best impersonations of Polar Bear. What?!",
+    "timestamp": "0:24:08",
+    "audio": "/audio/14/0.24.08.mp3"
+  },
+  "277": {
+    "speaker": "PENGUIN",
+    "character": "次回の白熊カフェは…",
+    "definition": "Next time on Polar Bear's Café—",
+    "timestamp": "0:24:12",
+    "audio": "/audio/14/0.24.12.mp3"
+  },
+  "278": {
+    "speaker": "PANDA",
+    "character": "白熊君　終わろう",
+    "definition": "Let's end this, Polar Bear. What?!",
+    "timestamp": "0:24:13",
+    "audio": "/audio/14/0.24.13.mp3"
+  },
+  "279": {
+    "speaker": "POLAR BEAR",
+    "character": "次回の白熊カフェは朝の五時半からお送りします",
+    "definition": "Next time, Polar Bear's Café... will air at 5:30 AM.",
+    "timestamp": "0:24:15",
+    "audio": "/audio/14/0.24.15.mp3"
+  },
+  "280": {
+    "speaker": "PENGUIN",
+    "character": "夕方！夕方の五時半！",
+    "definition": "PM! 5:30 PM!",
+    "timestamp": "0:24:19",
+    "audio": "/audio/14/0.24.19.mp3"
+  },
+  "281": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:21",
+    "audio": "/audio/14/0.24.21.mp3"
+  }
+}

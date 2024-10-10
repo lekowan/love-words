@@ -1,0 +1,898 @@
+{
+  "1": {
+    "speaker": "PANDA",
+    "character": "ねぇ　シロクマくん",
+    "definition": "Hey, Polar Bear.",
+    "timestamp": "0:01:42",
+    "audio": "/audio/04/0.01.42.mp3"
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "それ　楽しい？(^^)",
+    "definition": "Is that fun?",
+    "timestamp": "0:01:45",
+    "audio": "/audio/04/0.01.45.mp3"
+  },
+  "3": {
+    "speaker": "POLAR BEAR",
+    "character": "そういう時もあるね",
+    "definition": "It can be at times.",
+    "timestamp": "0:01:47",
+    "audio": "/audio/04/0.01.47.mp3"
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "どんな時？",
+    "definition": "Like when?",
+    "timestamp": "0:01:50",
+    "audio": "/audio/04/0.01.50.mp3"
+  },
+  "5": {
+    "speaker": "POLAR BEAR",
+    "character": "こんなのが折れた時",
+    "definition": "Like when I'm able to make something like this. It's a polar bear.",
+    "timestamp": "0:01:52",
+    "audio": "/audio/04/0.01.52.mp3"
+  },
+  "6": {
+    "speaker": "PANDA",
+    "character": "ねぇ　どうやったの？",
+    "definition": "Hey, how'd you make it?",
+    "timestamp": "0:01:58",
+    "audio": "/audio/04/0.01.58.mp3"
+  },
+  "7": {
+    "speaker": "POLAR BEAR",
+    "character": "秘密 (#^.^#)",
+    "definition": "It's a secret.",
+    "timestamp": "0:02:00",
+    "audio": "/audio/04/0.02.00.mp3"
+  },
+  "8": {
+    "speaker": "PENGUIN",
+    "character": "器用だね",
+    "definition": "You're quite talented.",
+    "timestamp": "0:02:01",
+    "audio": "/audio/04/0.02.01.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "写真撮っていいかな？",
+    "definition": "Can I take a picture?",
+    "timestamp": "0:02:03",
+    "audio": "/audio/04/0.02.03.mp3"
+  },
+  "10": {
+    "speaker": "PANDA",
+    "character": "写真？　カメラ持ってるんだ？",
+    "definition": "A picture? You have a camera?",
+    "timestamp": "0:02:05",
+    "audio": "/audio/04/0.02.05.mp3"
+  },
+  "11": {
+    "speaker": "PENGUIN",
+    "character": "カメラっていうかさ…",
+    "definition": "Not a camera, exactly. I bought a sumafo (smartphone).",
+    "timestamp": "0:02:08",
+    "audio": "/audio/04/0.02.08.mp3"
+  },
+  "12": {
+    "speaker": "PANDA",
+    "character": "なに？　スマフォって",
+    "definition": "What's a sumafo? That would be you rolled up in a reed mat {\\i1}(sumaki){\\i0}.",
+    "timestamp": "0:02:12",
+    "audio": "/audio/04/0.02.12.mp3"
+  },
+  "13": {
+    "speaker": "PENGUIN",
+    "character": "それは　ちまき",
+    "definition": "Those are rice dumplings wrapped in bamboo leaves {\\i1}(chimaki){\\i0}.",
+    "timestamp": "0:02:19",
+    "audio": "/audio/04/0.02.19.mp3"
+  },
+  "14": {
+    "speaker": "PENGUIN",
+    "character": "はちまき",
+    "definition": "Headband {\\i1}(hachimaki){\\i0}.",
+    "timestamp": "0:02:22",
+    "audio": "/audio/04/0.02.22.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "葉巻",
+    "definition": "Cigars {\\i1}(hamaki){\\i0}.",
+    "timestamp": "0:02:24",
+    "audio": "/audio/04/0.02.24.mp3"
+  },
+  "16": {
+    "speaker": "PENGUIN",
+    "character": "ハマチ！",
+    "definition": "Yellowtail {\\i1}(hamachi){\\i0}!",
+    "timestamp": "0:02:26",
+    "audio": "/audio/04/0.02.26.mp3"
+  },
+  "17": {
+    "speaker": "PENGUIN",
+    "character": "キムチ！",
+    "definition": "Kimchi {\\i1}(kimuchi){\\i0}!",
+    "timestamp": "0:02:27",
+    "audio": "/audio/04/0.02.27.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "スマフォだよ！　ス　マ　フォ！(-_-;)",
+    "definition": "I said sumafo! As in smartphone! A sumafo, it's a kind of cell phone.",
+    "timestamp": "0:02:28",
+    "audio": "/audio/04/0.02.28.mp3"
+  },
+  "19": {
+    "speaker": "SASAKO",
+    "character": "あっ！　ペンギンさん それが　スマートフォンですか？",
+    "definition": "Oh, Mr. Penguin, is that one of those sumafos?",
+    "timestamp": "0:02:37",
+    "audio": "/audio/04/0.02.37.mp3"
+  },
+  "20": {
+    "speaker": "SASAKO",
+    "character": "私も　よく知らないんですよね",
+    "definition": "I don't know much about them either.",
+    "timestamp": "0:02:41",
+    "audio": "/audio/04/0.02.41.mp3"
+  },
+  "21": {
+    "speaker": "PENGUIN",
+    "character": "え？　笹子さんも？",
+    "definition": "You neither?",
+    "timestamp": "0:02:44",
+    "audio": "/audio/04/0.02.44.mp3"
+  },
+  "22": {
+    "speaker": "SASAKO",
+    "character": "何ができるんですか？",
+    "definition": "What can it do? It's really convenient. There are lots of apps too.",
+    "timestamp": "0:02:46",
+    "audio": "/audio/04/0.02.46.mp3"
+  },
+  "23": {
+    "speaker": "LLAMA",
+    "character": "地図とかも見られますしね",
+    "definition": "And you can look up maps and such.",
+    "timestamp": "0:02:51",
+    "audio": "/audio/04/0.02.51.mp3"
+  },
+  "24": {
+    "speaker": "PENGUIN",
+    "character": "ネットだって見られるんだよ　ほら",
+    "definition": "You can browse the Internet too! See?",
+    "timestamp": "0:02:54",
+    "audio": "/audio/04/0.02.54.mp3"
+  },
+  "25": {
+    "speaker": "SASAKO",
+    "character": "なんか　小さくて 字　読みづらくないですか？",
+    "definition": "Aren't the words rather small and hard to read? Not at all! That's when you do this.",
+    "timestamp": "0:02:58",
+    "audio": "/audio/04/0.02.58.mp3"
+  },
+  "26": {
+    "speaker": "PENGUIN",
+    "character": "パンチ操作って言ってね",
+    "definition": "It's called punch control.",
+    "timestamp": "0:03:05",
+    "audio": "/audio/04/0.03.05.mp3"
+  },
+  "27": {
+    "speaker": "SASAKO",
+    "character": "叩くんですか？",
+    "definition": "You hit it? No!",
+    "timestamp": "0:03:07",
+    "audio": "/audio/04/0.03.07.mp3"
+  },
+  "28": {
+    "speaker": "LLAMA",
+    "character": "ピンチ操作じゃないですか？",
+    "definition": "Don't you mean pinch control?",
+    "timestamp": "0:03:10",
+    "audio": "/audio/04/0.03.10.mp3"
+  },
+  "29": {
+    "speaker": "PENGUIN",
+    "character": "似たようなもんでしょ",
+    "definition": "Same thing.",
+    "timestamp": "0:03:12",
+    "audio": "/audio/04/0.03.12.mp3"
+  },
+  "30": {
+    "speaker": "LLAMA",
+    "character": "そうですか",
+    "definition": "I see.",
+    "timestamp": "0:03:13",
+    "audio": "/audio/04/0.03.13.mp3"
+  },
+  "31": {
+    "speaker": "PENGUIN",
+    "character": "そうだよ",
+    "definition": "It is!",
+    "timestamp": "0:03:14",
+    "audio": "/audio/04/0.03.14.mp3"
+  },
+  "32": {
+    "speaker": "PENGUIN",
+    "character": "いい？　笹子さん　見てて…",
+    "definition": "Now watch this, Miss Sasako.",
+    "timestamp": "0:03:15",
+    "audio": "/audio/04/0.03.15.mp3"
+  },
+  "33": {
+    "speaker": "SASAKO",
+    "character": "本当に　それ　便利なんですか？",
+    "definition": "Are you sure it's actually convenient? It's convenient, really!",
+    "timestamp": "0:03:21",
+    "audio": "/audio/04/0.03.21.mp3"
+  },
+  "34": {
+    "speaker": "PENGUIN",
+    "character": "え～と　こうやって…",
+    "definition": "Let's see, it goes like this...",
+    "timestamp": "0:03:25",
+    "audio": "/audio/04/0.03.25.mp3"
+  },
+  "35": {
+    "speaker": "POLAR BEAR",
+    "character": "そのうち　簡単に 操作できるようになるよ",
+    "definition": "It'll get easier to use over time. Oh, you have one, too, Polar Bear? Yup. Here, check it out.",
+    "timestamp": "0:03:28",
+    "audio": "/audio/04/0.03.28.mp3"
+  },
+  "36": {
+    "speaker": "POLAR BEAR",
+    "character": "こうやるの",
+    "definition": "You go like this.",
+    "timestamp": "0:03:37",
+    "audio": "/audio/04/0.03.37.mp3"
+  },
+  "37": {
+    "speaker": "PANDA",
+    "character": "あぁ～　かっこいい！  (m´・ω・｀)m",
+    "definition": "Wow, that's so cool!",
+    "timestamp": "0:03:39",
+    "audio": "/audio/04/0.03.39.mp3"
+  },
+  "38": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん　器用ですね",
+    "definition": "You're so talented, Mr. Polar Bear!",
+    "timestamp": "0:03:42",
+    "audio": "/audio/04/0.03.42.mp3"
+  },
+  "39": {
+    "speaker": "POLAR BEAR",
+    "character": "それほどでも アヤメの花　折ってみた",
+    "definition": "It's nothing, really. I folded an iris.",
+    "timestamp": "0:03:45",
+    "audio": "/audio/04/0.03.45.mp3"
+  },
+  "40": {
+    "speaker": "PANDA",
+    "character": "すご～い！",
+    "definition": "That's amazing!",
+    "timestamp": "0:03:49",
+    "audio": "/audio/04/0.03.49.mp3"
+  },
+  "41": {
+    "speaker": "SASAKO",
+    "character": "ほんと器用ですね！",
+    "definition": "You really are talented!",
+    "timestamp": "0:03:51",
+    "audio": "/audio/04/0.03.51.mp3"
+  },
+  "42": {
+    "speaker": "PENGUIN",
+    "character": "よ～し　こうやって…",
+    "definition": "All right! Look at this! You go like this...",
+    "timestamp": "0:03:53",
+    "audio": "/audio/04/0.03.53.mp3"
+  },
+  "43": {
+    "speaker": "PENGUIN",
+    "character": "えい！　それ！(・∀・)",
+    "definition": "Take that! And that!",
+    "timestamp": "0:03:57",
+    "audio": "/audio/04/0.03.57.mp3"
+  },
+  "44": {
+    "speaker": "PENGUIN",
+    "character": "駄目だ…",
+    "definition": "It's no use. Don't worry. You just have to get used to it.",
+    "timestamp": "0:04:01",
+    "audio": "/audio/04/0.04.01.mp3"
+  },
+  "45": {
+    "speaker": "PENGUIN",
+    "character": "なんか上から目線",
+    "definition": "Somehow, you sound condescending.",
+    "timestamp": "0:04:05",
+    "audio": "/audio/04/0.04.05.mp3"
+  },
+  "46": {
+    "speaker": "LLAMA",
+    "character": "僕も　スマフォですし",
+    "definition": "I have a sumafo, as well. Oh, really?",
+    "timestamp": "0:04:07",
+    "audio": "/audio/04/0.04.07.mp3"
+  },
+  "47": {
+    "speaker": "LLAMA",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:04:10",
+    "audio": "/audio/04/0.04.10.mp3"
+  },
+  "48": {
+    "speaker": "PENGUIN",
+    "character": "ラマさん　そういう君こそ 上手に操作できるの？",
+    "definition": "I hear what you're saying, but are you sure you can actually use it, Mr. Llama?",
+    "timestamp": "0:04:11",
+    "audio": "/audio/04/0.04.11.mp3"
+  },
+  "49": {
+    "speaker": "LLAMA",
+    "character": "もちろんですよ　見ててください",
+    "definition": "Of course. Just watch. Wow, that's amazing! Such flexible technique!",
+    "timestamp": "0:04:16",
+    "audio": "/audio/04/0.04.16.mp3"
+  },
+  "50": {
+    "speaker": "PENGUIN",
+    "character": "そうか… わぁ…",
+    "definition": "I see now!",
+    "timestamp": "0:04:30",
+    "audio": "/audio/04/0.04.30.mp3"
+  },
+  "51": {
+    "speaker": "LLAMA",
+    "character": "あっ　プロフ交換します？",
+    "definition": "Oh, do you want to exchange profiles?",
+    "timestamp": "0:04:34",
+    "audio": "/audio/04/0.04.34.mp3"
+  },
+  "52": {
+    "speaker": "PENGUIN",
+    "character": "するする",
+    "definition": "For sure!",
+    "timestamp": "0:04:36",
+    "audio": "/audio/04/0.04.36.mp3"
+  },
+  "53": {
+    "speaker": "POLAR BEAR",
+    "character": "お勧めの便利なアプリ　知ってるよ",
+    "definition": "I know some really cool apps.",
+    "timestamp": "0:04:37",
+    "audio": "/audio/04/0.04.37.mp3"
+  },
+  "54": {
+    "speaker": "PENGUIN",
+    "character": "え？ なになに？　教えて！",
+    "definition": "Ooh, like what? Tell me!",
+    "timestamp": "0:04:40",
+    "audio": "/audio/04/0.04.40.mp3"
+  },
+  "55": {
+    "speaker": "PANDA",
+    "character": "やっぱ時代は　スマフォだよね",
+    "definition": "We're totally in the sumafo generation!",
+    "timestamp": "0:04:47",
+    "audio": "/audio/04/0.04.47.mp3"
+  },
+  "56": {
+    "speaker": "MAMA PANDA",
+    "character": "そうなの？",
+    "definition": "Are we?",
+    "timestamp": "0:04:51",
+    "audio": "/audio/04/0.04.51.mp3"
+  },
+  "57": {
+    "speaker": "PANDA",
+    "character": "そうだよ",
+    "definition": "We are!",
+    "timestamp": "0:04:52",
+    "audio": "/audio/04/0.04.52.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "スマフォがあると すっごく便利なんだから",
+    "definition": "It's really convenient to have a sumafo!",
+    "timestamp": "0:04:54",
+    "audio": "/audio/04/0.04.54.mp3"
+  },
+  "59": {
+    "speaker": "MAMA PANDA",
+    "character": "どんなふうに？",
+    "definition": "In what way? Let's see...",
+    "timestamp": "0:04:57",
+    "audio": "/audio/04/0.04.57.mp3"
+  },
+  "60": {
+    "speaker": "PANDA",
+    "character": "画面を ちまちま触って操作したり…",
+    "definition": "You can control the screen by poking it.",
+    "timestamp": "0:05:01",
+    "audio": "/audio/04/0.05.01.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "なめたり…",
+    "definition": "You can lick it.",
+    "timestamp": "0:05:05",
+    "audio": "/audio/04/0.05.05.mp3"
+  },
+  "62": {
+    "speaker": "PANDA",
+    "character": "くちばしで　つついたり…",
+    "definition": "You can poke it with your beak.",
+    "timestamp": "0:05:09",
+    "audio": "/audio/04/0.05.09.mp3"
+  },
+  "63": {
+    "speaker": "PANDA",
+    "character": "そんでもって 字が　すっごく小さくて",
+    "definition": "And the words are really tiny and hard to read!",
+    "timestamp": "0:05:14",
+    "audio": "/audio/04/0.05.14.mp3"
+  },
+  "64": {
+    "speaker": "MAMA PANDA",
+    "character": "便利なの？それ",
+    "definition": "Are you sure it's actually convenient?",
+    "timestamp": "0:05:20",
+    "audio": "/audio/04/0.05.20.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "あれ？",
+    "definition": "Huh?",
+    "timestamp": "0:05:22",
+    "audio": "/audio/04/0.05.22.mp3"
+  },
+  "66": {
+    "speaker": "PANDA",
+    "character": "とにかく　外で働いてるパンダが ケータイ持ってないなんて",
+    "definition": "Anyway, a working panda like myself cannot possibly get by",
+    "timestamp": "0:05:24",
+    "audio": "/audio/04/0.05.24.mp3"
+  },
+  "67": {
+    "speaker": "",
+    "character": "駄目だよ　困るよ(/ω＼)",
+    "definition": "without a cell phone.",
+    "timestamp": "0:05:29",
+    "audio": "/audio/04/0.05.29.mp3"
+  },
+  "68": {
+    "speaker": "MAMA PANDA",
+    "character": "別に困らないわよ",
+    "definition": "You'll get by just fine. You don't need one.",
+    "timestamp": "0:05:31",
+    "audio": "/audio/04/0.05.31.mp3"
+  },
+  "69": {
+    "speaker": "PANDA",
+    "character": "それだと困るなぁ",
+    "definition": "I don't like that train of thought.",
+    "timestamp": "0:05:35",
+    "audio": "/audio/04/0.05.35.mp3"
+  },
+  "70": {
+    "speaker": "MAMA PANDA",
+    "character": "何が？",
+    "definition": "What about it?",
+    "timestamp": "0:05:37",
+    "audio": "/audio/04/0.05.37.mp3"
+  },
+  "71": {
+    "speaker": "PANDA",
+    "character": "ほら　ケータイあると 何かあったときに便利だよ",
+    "definition": "You see, if something happens, it'd be really convenient to have a cell phone.",
+    "timestamp": "0:05:39",
+    "audio": "/audio/04/0.05.39.mp3"
+  },
+  "72": {
+    "speaker": "MAMA PANDA",
+    "character": "何かあったときね…",
+    "definition": "If something happens, huh?",
+    "timestamp": "0:05:43",
+    "audio": "/audio/04/0.05.43.mp3"
+  },
+  "73": {
+    "speaker": "MAMA PANDA",
+    "character": "ねぇ　キッチンのバルサミコ酢が きれちゃったの",
+    "definition": "Hey, we're out of balsamic vinegar.",
+    "timestamp": "0:05:48",
+    "audio": "/audio/04/0.05.48.mp3"
+  },
+  "74": {
+    "speaker": "MAMA PANDA",
+    "character": "バイト帰りに買ってきてくれる？",
+    "definition": "Could you get some on your way home from work?",
+    "timestamp": "0:05:53",
+    "audio": "/audio/04/0.05.53.mp3"
+  },
+  "75": {
+    "speaker": "PANDA",
+    "character": "うん　いいよ",
+    "definition": "Sure thing.",
+    "timestamp": "0:05:56",
+    "audio": "/audio/04/0.05.56.mp3"
+  },
+  "76": {
+    "speaker": "MAMA PANDA",
+    "character": "便利じゃない！(＾ｖ＾)",
+    "definition": "It {\\i1}is{\\i0} convenient!",
+    "timestamp": "0:05:59",
+    "audio": "/audio/04/0.05.59.mp3"
+  },
+  "77": {
+    "speaker": "MAMA PANDA",
+    "character": "いいわよ　買ってあげる",
+    "definition": "All right, I'll buy you one.",
+    "timestamp": "0:06:02",
+    "audio": "/audio/04/0.06.02.mp3"
+  },
+  "78": {
+    "speaker": "PANDA",
+    "character": "やった～！Ｖ（=＾0＾=）ｖ",
+    "definition": "Hooray!",
+    "timestamp": "0:06:04",
+    "audio": "/audio/04/0.06.04.mp3"
+  },
+  "79": {
+    "speaker": "PENGUIN",
+    "character": "ほら　見て見て～",
+    "definition": "Here, look!",
+    "timestamp": "0:06:07",
+    "audio": "/audio/04/0.06.07.mp3"
+  },
+  "80": {
+    "speaker": "SASAKO",
+    "character": "何ですか？",
+    "definition": "What is it? I made the picture I took the other day my standby screen wallpaper. Are you not making anything with origami today?",
+    "timestamp": "0:06:09",
+    "audio": "/audio/04/0.06.09.mp3"
+  },
+  "81": {
+    "speaker": "POLAR BEAR",
+    "character": "えっ？ 気が向いたら",
+    "definition": "If I feel like it.",
+    "timestamp": "0:06:18",
+    "audio": "/audio/04/0.06.18.mp3"
+  },
+  "82": {
+    "speaker": "PENGUIN",
+    "character": "そっちの感想！？ (;ﾟДﾟ)!",
+    "definition": "You're more impressed with that?!",
+    "timestamp": "0:06:19",
+    "audio": "/audio/04/0.06.19.mp3"
+  },
+  "83": {
+    "speaker": "PANDA",
+    "character": "こんにちは～",
+    "definition": "Hello!",
+    "timestamp": "0:06:21",
+    "audio": "/audio/04/0.06.21.mp3"
+  },
+  "84": {
+    "speaker": "SASAKO",
+    "character": "いらっしゃい",
+    "definition": "Welcome!",
+    "timestamp": "0:06:23",
+    "audio": "/audio/04/0.06.23.mp3"
+  },
+  "85": {
+    "speaker": "SASAKO",
+    "character": "パンダくん　嬉しそうだね",
+    "definition": "You seem really happy, Panda.",
+    "timestamp": "0:06:25",
+    "audio": "/audio/04/0.06.25.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "実はさぁ…",
+    "definition": "Well, you see...",
+    "timestamp": "0:06:27",
+    "audio": "/audio/04/0.06.27.mp3"
+  },
+  "87": {
+    "speaker": "SASAKO",
+    "character": "あぁ　それ！",
+    "definition": "Oh, that's...",
+    "timestamp": "0:06:31",
+    "audio": "/audio/04/0.06.31.mp3"
+  },
+  "88": {
+    "speaker": "PANDA",
+    "character": "パンダカバーのスマフォだよ！",
+    "definition": "It's a sumafo with a panda cover!",
+    "timestamp": "0:06:33",
+    "audio": "/audio/04/0.06.33.mp3"
+  },
+  "89": {
+    "speaker": "SASAKO",
+    "character": "かわいいね！(#^.^#)",
+    "definition": "It's very cute!",
+    "timestamp": "0:06:35",
+    "audio": "/audio/04/0.06.35.mp3"
+  },
+  "90": {
+    "speaker": "PANDA",
+    "character": "いいでしょう～ 見つけるの苦労したんだよ",
+    "definition": "It is, isn't it? It was really hard to find.",
+    "timestamp": "0:06:37",
+    "audio": "/audio/04/0.06.37.mp3"
+  },
+  "91": {
+    "speaker": "SASAKO",
+    "character": "どう？　スマフォ",
+    "definition": "How's the sumafo?",
+    "timestamp": "0:06:41",
+    "audio": "/audio/04/0.06.41.mp3"
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "やっぱり便利だよね",
+    "definition": "It's very convenient.",
+    "timestamp": "0:06:44",
+    "audio": "/audio/04/0.06.44.mp3"
+  },
+  "93": {
+    "speaker": "PANDA",
+    "character": "ほら　好きな時に　いつだって 天気予報も見られるしね",
+    "definition": "See? You can check the weather forecast whenever you want.",
+    "timestamp": "0:06:46",
+    "audio": "/audio/04/0.06.46.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "地図も見られるから 迷子にならなくて済むし",
+    "definition": "And you can look up maps so you don't get lost.",
+    "timestamp": "0:06:55",
+    "audio": "/audio/04/0.06.55.mp3"
+  },
+  "95": {
+    "speaker": "PANDA",
+    "character": "頭にのせて バランス感覚も　みがけるし",
+    "definition": "You can put it on your head and improve your balance, too!",
+    "timestamp": "0:07:01",
+    "audio": "/audio/04/0.07.01.mp3"
+  },
+  "96": {
+    "speaker": "PENGUIN",
+    "character": "それ スマフォの使い方じゃないけどね",
+    "definition": "That's not proper sumafo usage, though.",
+    "timestamp": "0:07:07",
+    "audio": "/audio/04/0.07.07.mp3"
+  },
+  "97": {
+    "speaker": "LLAMA",
+    "character": "でも　ペンギンさんより 使いこなしてませんか？",
+    "definition": "He seems to be using it better than you though, Mr. Penguin.",
+    "timestamp": "0:07:10",
+    "audio": "/audio/04/0.07.10.mp3"
+  },
+  "98": {
+    "speaker": "PENGUIN",
+    "character": "ぼ　僕だって 待ち受けかえてるし",
+    "definition": "B-But I changed my standby screen!",
+    "timestamp": "0:07:14",
+    "audio": "/audio/04/0.07.14.mp3"
+  },
+  "99": {
+    "speaker": "PANDA",
+    "character": "他にも…",
+    "definition": "Also...",
+    "timestamp": "0:07:18",
+    "audio": "/audio/04/0.07.18.mp3"
+  },
+  "100": {
+    "speaker": "PANDA",
+    "character": "写真を撮ったり",
+    "definition": "I can take pictures!",
+    "timestamp": "0:07:22",
+    "audio": "/audio/04/0.07.22.mp3"
+  },
+  "101": {
+    "speaker": "PANDA",
+    "character": "音楽だって聴けるしね",
+    "definition": "And I can listen to music!",
+    "timestamp": "0:07:27",
+    "audio": "/audio/04/0.07.27.mp3"
+  },
+  "102": {
+    "speaker": "PENGUIN",
+    "character": "だ　大丈夫だよ　パンダくん",
+    "definition": "I-It's okay, Panda! Looks like the only thing that broke was the cover.",
+    "timestamp": "0:07:41",
+    "audio": "/audio/04/0.07.41.mp3"
+  },
+  "103": {
+    "speaker": "POLAR BEAR",
+    "character": "だって",
+    "definition": "So it seems.",
+    "timestamp": "0:07:46",
+    "audio": "/audio/04/0.07.46.mp3"
+  },
+  "104": {
+    "speaker": "SASAKO",
+    "character": "だから　元気出して",
+    "definition": "So cheer up!",
+    "timestamp": "0:07:47",
+    "audio": "/audio/04/0.07.47.mp3"
+  },
+  "105": {
+    "speaker": "LLAMA",
+    "character": "スマフォが無事でよかったです",
+    "definition": "It's a good thing the sumafo is safe.",
+    "timestamp": "0:07:49",
+    "audio": "/audio/04/0.07.49.mp3"
+  },
+  "106": {
+    "speaker": "PENGUIN",
+    "character": "はい　パンダくん",
+    "definition": "Here you go, Panda.",
+    "timestamp": "0:07:51",
+    "audio": "/audio/04/0.07.51.mp3"
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "僕にとって…　スマフォは パンダカバーのおまけだから",
+    "definition": "But for me, the sumafo was an accessory to the panda cover.",
+    "timestamp": "0:07:56",
+    "audio": "/audio/04/0.07.56.mp3"
+  },
+  "108": {
+    "speaker": "MAMA PANDA",
+    "character": "あら　ちょっと スマホは　どうしたの？　スマホは",
+    "definition": "Oh. Hey, where's your sumaho?",
+    "timestamp": "0:08:12",
+    "audio": "/audio/04/0.08.12.mp3"
+  },
+  "109": {
+    "speaker": "MAMA PANDA",
+    "character": "さっき電話したのよ",
+    "definition": "I just called you.",
+    "timestamp": "0:08:17",
+    "audio": "/audio/04/0.08.17.mp3"
+  },
+  "110": {
+    "speaker": "MAMA PANDA",
+    "character": "ねぇ　聞こえてる？",
+    "definition": "Hey, can you hear me?",
+    "timestamp": "0:08:20",
+    "audio": "/audio/04/0.08.20.mp3"
+  },
+  "111": {
+    "speaker": "MAMA PANDA",
+    "character": "バ　ル　サ　ミ　コ　酢よ　バールーサーミーコー酢！",
+    "definition": "Bal-sa-mic vin-e-gar, got it? Bal-sam-ic vin-e-gar!",
+    "timestamp": "0:08:22",
+    "audio": "/audio/04/0.08.22.mp3"
+  },
+  "112": {
+    "speaker": "POLAR BEAR",
+    "character": "この電話は　お客様の 都合により　出られません",
+    "definition": "We're sorry, your call cannot be completed at this time.",
+    "timestamp": "0:08:28",
+    "audio": "/audio/04/0.08.28.mp3"
+  },
+  "113": {
+    "speaker": "MAMA PANDA",
+    "character": "ちっとも便利じゃないわね　スマホ",
+    "definition": "Sumahos aren't convenient at all, are they?",
+    "timestamp": "0:08:36",
+    "audio": "/audio/04/0.08.36.mp3"
+  },
+  "114": {
+    "speaker": "PANDA",
+    "character": "あのさ　スマートフォンなんだから スマホじゃなくて　スマフォだよ",
+    "definition": "You know, it's called a \"smartphone,\" so it's \"sumafo,\" not \"sumaho.\"",
+    "timestamp": "0:08:40",
+    "audio": "/audio/04/0.08.40.mp3"
+  },
+  "115": {
+    "speaker": "MAMA PANDA",
+    "character": "どっちだっていいじゃない",
+    "definition": "Why does it matter?",
+    "timestamp": "0:08:46",
+    "audio": "/audio/04/0.08.46.mp3"
+  },
+  "116": {
+    "speaker": "PANDA",
+    "character": "こんにちは～(=゜ω゜)ノ",
+    "definition": "Hello! Could I get my usual, Polar Bear?",
+    "timestamp": "0:08:51",
+    "audio": "/audio/04/0.08.51.mp3"
+  },
+  "117": {
+    "speaker": "PENGUIN",
+    "character": "パンダくん　ひょっとして 立ち直った？",
+    "definition": "Are you feeling better, Panda?",
+    "timestamp": "0:08:57",
+    "audio": "/audio/04/0.08.57.mp3"
+  },
+  "118": {
+    "speaker": "PANDA",
+    "character": "何が？",
+    "definition": "What do you mean?",
+    "timestamp": "0:09:00",
+    "audio": "/audio/04/0.09.00.mp3"
+  },
+  "119": {
+    "speaker": "PENGUIN",
+    "character": "心配した僕が　バカだったよ",
+    "definition": "Apparently I was an idiot for worrying. Your sumafo is right here, Panda. Oh. I don't need the sumafo anymore. Are you just trying to act tough?",
+    "timestamp": "0:09:02",
+    "audio": "/audio/04/0.09.02.mp3"
+  },
+  "120": {
+    "speaker": "PANDA",
+    "character": "本気　だって　パンダじゃないし",
+    "definition": "No, I'm serious. It's not even a panda.",
+    "timestamp": "0:09:13",
+    "audio": "/audio/04/0.09.13.mp3"
+  },
+  "121": {
+    "speaker": "SASAKO",
+    "character": "えっ？　せっかく買ったんだから 大事に使ったら？",
+    "definition": "What?  You just bought it, you should use it.",
+    "timestamp": "0:09:17",
+    "audio": "/audio/04/0.09.17.mp3"
+  },
+  "122": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん　これ見て　スマフォのケース",
+    "definition": "Look, Panda. A sumafo case.",
+    "timestamp": "0:09:22",
+    "audio": "/audio/04/0.09.22.mp3"
+  },
+  "123": {
+    "speaker": "POLAR BEAR",
+    "character": "こんなの折ってみた",
+    "definition": "I tried folding something like this.",
+    "timestamp": "0:09:27",
+    "audio": "/audio/04/0.09.27.mp3"
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "あっ　パンダだ～！",
+    "definition": "Oh! It's a panda!",
+    "timestamp": "0:09:29",
+    "audio": "/audio/04/0.09.29.mp3"
+  },
+  "125": {
+    "speaker": "PENGUIN",
+    "character": "これなら　紙だから割れないね",
+    "definition": "This time, it's made out of paper so it won't break.",
+    "timestamp": "0:09:34",
+    "audio": "/audio/04/0.09.34.mp3"
+  },
+  "126": {
+    "speaker": "LLAMA",
+    "character": "よかったですね",
+    "definition": "Good for you.",
+    "timestamp": "0:09:36",
+    "audio": "/audio/04/0.09.36.mp3"
+  },
+  "127": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん　さすが！",
+    "definition": "You're amazing, Mr. Polar Bear!",
+    "timestamp": "0:09:38",
+    "audio": "/audio/04/0.09.38.mp3"
+  },
+  "128": {
+    "speaker": "PANDA",
+    "character": "フフッ　やっぱり　パンダは最高だね",
+    "definition": "Pandas {\\i1}are{\\i0} awesome!",
+    "timestamp": "0:09:42",
+    "audio": "/audio/04/0.09.42.mp3"
+  }
+}

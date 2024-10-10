@@ -1,0 +1,1171 @@
+{
+  "1": {
+    "speaker": "SASAKO",
+    "character": "お疲れさまでした",
+    "definition": "Thanks for all of your hard work.",
+    "timestamp": "0:11:59",
+    "audio": "/audio/11/0.11.59.mp3"
+  },
+  "2": {
+    "speaker": "POLAR BEAR",
+    "character": "お疲れさま",
+    "definition": "Thank you.",
+    "timestamp": "0:12:02",
+    "audio": "/audio/11/0.12.02.mp3"
+  },
+  "3": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん　閉店なんだけど",
+    "definition": "We're closed now, Panda. Panda? Oh, good morning.",
+    "timestamp": "0:12:06",
+    "audio": "/audio/11/0.12.06.mp3"
+  },
+  "4": {
+    "speaker": "POLAR BEAR",
+    "character": "もう　夜だよ",
+    "definition": "It's already night time.",
+    "timestamp": "0:12:17",
+    "audio": "/audio/11/0.12.17.mp3"
+  },
+  "5": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん",
+    "definition": "Grizzly.",
+    "timestamp": "0:12:21",
+    "audio": "/audio/11/0.12.21.mp3"
+  },
+  "6": {
+    "speaker": "GRIZZLY",
+    "character": "よう　ちょっと遊びに行こうぜ",
+    "definition": "Hey, let's go play for a bit.",
+    "timestamp": "0:12:23",
+    "audio": "/audio/11/0.12.23.mp3"
+  },
+  "7": {
+    "speaker": "POLAR BEAR",
+    "character": "いいよ",
+    "definition": "Sure.",
+    "timestamp": "0:12:26",
+    "audio": "/audio/11/0.12.26.mp3"
+  },
+  "8": {
+    "speaker": "PANDA",
+    "character": "遊びに行くの？",
+    "definition": "You're gonna go play?",
+    "timestamp": "0:12:28",
+    "audio": "/audio/11/0.12.28.mp3"
+  },
+  "9": {
+    "speaker": "PANDA",
+    "character": "僕も行きたい！",
+    "definition": "I wanna go, too!",
+    "timestamp": "0:12:30",
+    "audio": "/audio/11/0.12.30.mp3"
+  },
+  "10": {
+    "speaker": "GRIZZLY",
+    "character": "ガキの行くところじゃねぇんだよ",
+    "definition": "We ain't goin' anywhere for kids.",
+    "timestamp": "0:12:32",
+    "audio": "/audio/11/0.12.32.mp3"
+  },
+  "11": {
+    "speaker": "GRIZZLY",
+    "character": "大人の夜遊びだ",
+    "definition": "This is an adult's night out.",
+    "timestamp": "0:12:34",
+    "audio": "/audio/11/0.12.34.mp3"
+  },
+  "12": {
+    "speaker": "PANDA",
+    "character": "夜遊び？",
+    "definition": "Night out?",
+    "timestamp": "0:12:37",
+    "audio": "/audio/11/0.12.37.mp3"
+  },
+  "13": {
+    "speaker": "PANDA",
+    "character": "なんか　すごくおもしろそう",
+    "definition": "That sounds really fun.",
+    "timestamp": "0:12:38",
+    "audio": "/audio/11/0.12.38.mp3"
+  },
+  "14": {
+    "speaker": "GRIZZLY",
+    "character": "何でついてくるんだよ",
+    "definition": "Why the hell are you tagging along?",
+    "timestamp": "0:12:46",
+    "audio": "/audio/11/0.12.46.mp3"
+  },
+  "15": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくんが　誘ったんじゃない",
+    "definition": "Because you invited me, Grizzly.",
+    "timestamp": "0:12:48",
+    "audio": "/audio/11/0.12.48.mp3"
+  },
+  "16": {
+    "speaker": "GRIZZLY",
+    "character": "お前じゃねぇよ",
+    "definition": "Not you.",
+    "timestamp": "0:12:51",
+    "audio": "/audio/11/0.12.51.mp3"
+  },
+  "17": {
+    "speaker": "GRIZZLY",
+    "character": "コイツだよ",
+    "definition": "Him!",
+    "timestamp": "0:12:54",
+    "audio": "/audio/11/0.12.54.mp3"
+  },
+  "18": {
+    "speaker": "PANDA",
+    "character": "どこ行くの？",
+    "definition": "Where are you going?",
+    "timestamp": "0:12:55",
+    "audio": "/audio/11/0.12.55.mp3"
+  },
+  "19": {
+    "speaker": "POLAR BEAR",
+    "character": "というわけで　パンダくん",
+    "definition": "So, Panda,",
+    "timestamp": "0:12:58",
+    "audio": "/audio/11/0.12.58.mp3"
+  },
+  "20": {
+    "speaker": "POLAR BEAR",
+    "character": "今日は残念だけど中止だから帰ろう",
+    "definition": "I regret to inform you, tonight's plans have been canceled and we're going home.",
+    "timestamp": "0:13:00",
+    "audio": "/audio/11/0.13.00.mp3"
+  },
+  "21": {
+    "speaker": "PANDA",
+    "character": "残念",
+    "definition": "How sad.",
+    "timestamp": "0:13:04",
+    "audio": "/audio/11/0.13.04.mp3"
+  },
+  "22": {
+    "speaker": "GRIZZLY",
+    "character": "何でそうなるんだ！",
+    "definition": "How the hell did it come to that?! Wait a minute!",
+    "timestamp": "0:13:06",
+    "audio": "/audio/11/0.13.06.mp3"
+  },
+  "23": {
+    "speaker": "POLAR BEAR",
+    "character": "やっぱり行くの？",
+    "definition": "So you are going?",
+    "timestamp": "0:13:09",
+    "audio": "/audio/11/0.13.09.mp3"
+  },
+  "24": {
+    "speaker": "GRIZZLY",
+    "character": "行くに決まってんだろ！",
+    "definition": "Of course I am!",
+    "timestamp": "0:13:10",
+    "audio": "/audio/11/0.13.10.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "すごい　ここ何？",
+    "definition": "Wow! What is this place?",
+    "timestamp": "0:13:20",
+    "audio": "/audio/11/0.13.20.mp3"
+  },
+  "26": {
+    "speaker": "POLAR BEAR",
+    "character": "バッティングセンター",
+    "definition": "It's a batting center.",
+    "timestamp": "0:13:23",
+    "audio": "/audio/11/0.13.23.mp3"
+  },
+  "27": {
+    "speaker": "GRIZZLY",
+    "character": "来たことねぇのか",
+    "definition": "You've never been to one?",
+    "timestamp": "0:13:25",
+    "audio": "/audio/11/0.13.25.mp3"
+  },
+  "28": {
+    "speaker": "GRIZZLY",
+    "character": "何やってんだよ！",
+    "definition": "What the hell are you doing?! This isn't a place you're supposed to be climbing around! Really?",
+    "timestamp": "0:13:28",
+    "audio": "/audio/11/0.13.28.mp3"
+  },
+  "29": {
+    "speaker": "GRIZZLY",
+    "character": "ったく…",
+    "definition": "Jeez...",
+    "timestamp": "0:13:35",
+    "audio": "/audio/11/0.13.35.mp3"
+  },
+  "30": {
+    "speaker": "PANDA",
+    "character": "これ気持いいね",
+    "definition": "This feels really good.",
+    "timestamp": "0:13:40",
+    "audio": "/audio/11/0.13.40.mp3"
+  },
+  "31": {
+    "speaker": "GRIZZLY",
+    "character": "だから　そうじゃねぇんだよ",
+    "definition": "That's not what those are used for.",
+    "timestamp": "0:13:42",
+    "audio": "/audio/11/0.13.42.mp3"
+  },
+  "32": {
+    "speaker": "POLAR BEAR",
+    "character": "結構　凝りがほぐれるね",
+    "definition": "This does work quite well to relieve tension.",
+    "timestamp": "0:13:47",
+    "audio": "/audio/11/0.13.47.mp3"
+  },
+  "33": {
+    "speaker": "GRIZZLY",
+    "character": "お前までやってんじゃねぇ！",
+    "definition": "What the hell are you doing it for, too?!",
+    "timestamp": "0:13:49",
+    "audio": "/audio/11/0.13.49.mp3"
+  },
+  "34": {
+    "speaker": "PANDA",
+    "character": "じゃあ　ここで何して遊ぶの？",
+    "definition": "So what are we supposed to do here?",
+    "timestamp": "0:13:52",
+    "audio": "/audio/11/0.13.52.mp3"
+  },
+  "35": {
+    "speaker": "GRIZZLY",
+    "character": "向こうから来た球を 打ち返すんだよ",
+    "definition": "You hit the ball that comes at you.",
+    "timestamp": "0:13:55",
+    "audio": "/audio/11/0.13.55.mp3"
+  },
+  "36": {
+    "speaker": "GRIZZLY",
+    "character": "こうやるんだ",
+    "definition": "Like this.",
+    "timestamp": "0:13:58",
+    "audio": "/audio/11/0.13.58.mp3"
+  },
+  "37": {
+    "speaker": "POLAR BEAR",
+    "character": "ナイスキャッチ",
+    "definition": "Nice catch! You're amazing, Polar Bear!",
+    "timestamp": "0:14:06",
+    "audio": "/audio/11/0.14.06.mp3"
+  },
+  "38": {
+    "speaker": "POLAR BEAR",
+    "character": "ピッチャーライナーだね",
+    "definition": "It was a line drive at the pitcher.",
+    "timestamp": "0:14:10",
+    "audio": "/audio/11/0.14.10.mp3"
+  },
+  "39": {
+    "speaker": "",
+    "character": "何やってんだよ！！",
+    "definition": "What the hell are you doing?!",
+    "timestamp": "0:14:12",
+    "audio": "/audio/11/0.14.12.mp3"
+  },
+  "40": {
+    "speaker": "PANDA",
+    "character": "僕もやる",
+    "definition": "I wanna do it, too!",
+    "timestamp": "0:14:13",
+    "audio": "/audio/11/0.14.13.mp3"
+  },
+  "41": {
+    "speaker": "GRIZZLY",
+    "character": "やらなくていいんだよ！",
+    "definition": "You don't have to!",
+    "timestamp": "0:14:15",
+    "audio": "/audio/11/0.14.15.mp3"
+  },
+  "42": {
+    "speaker": "POLAR BEAR",
+    "character": "大当たり！",
+    "definition": "Nice shot!",
+    "timestamp": "0:14:21",
+    "audio": "/audio/11/0.14.21.mp3"
+  },
+  "43": {
+    "speaker": "PANDA",
+    "character": "グリズリーさんやったね！",
+    "definition": "You did it, Mr. Grizzly! I don't feel like doing this anymore.",
+    "timestamp": "0:14:23",
+    "audio": "/audio/11/0.14.23.mp3"
+  },
+  "44": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ僕がお手本を",
+    "definition": "Then I'll show you how it's done.",
+    "timestamp": "0:14:29",
+    "audio": "/audio/11/0.14.29.mp3"
+  },
+  "45": {
+    "speaker": "POLAR BEAR",
+    "character": "さあ　来い！",
+    "definition": "Bring it on!",
+    "timestamp": "0:14:31",
+    "audio": "/audio/11/0.14.31.mp3"
+  },
+  "46": {
+    "speaker": "GRIZZLY",
+    "character": "バット　持ちすぎだろう！",
+    "definition": "You're holding too many bats!",
+    "timestamp": "0:14:33",
+    "audio": "/audio/11/0.14.33.mp3"
+  },
+  "47": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ　改めてお手本を",
+    "definition": "Let's try this again.",
+    "timestamp": "0:14:35",
+    "audio": "/audio/11/0.14.35.mp3"
+  },
+  "48": {
+    "speaker": "GRIZZLY",
+    "character": "バット　使えよ！",
+    "definition": "Use the damn bat!",
+    "timestamp": "0:14:39",
+    "audio": "/audio/11/0.14.39.mp3"
+  },
+  "49": {
+    "speaker": "GRIZZLY",
+    "character": "もう　いい… パンダ　とにかく　やってみろ",
+    "definition": "Enough. Just try it, Panda. Raise your bat and watch the ball carefully, Panda. Okay!",
+    "timestamp": "0:14:41",
+    "audio": "/audio/11/0.14.41.mp3"
+  },
+  "50": {
+    "speaker": "GRIZZLY",
+    "character": "いや　そうじゃなくてな…",
+    "definition": "That's not what we meant.",
+    "timestamp": "0:14:57",
+    "audio": "/audio/11/0.14.57.mp3"
+  },
+  "51": {
+    "speaker": "POLAR BEAR",
+    "character": "ボールを　しっかり見て",
+    "definition": "Watch the ball closely.",
+    "timestamp": "0:14:59",
+    "audio": "/audio/11/0.14.59.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "じ～～～",
+    "definition": "Stare...",
+    "timestamp": "0:15:02",
+    "audio": "/audio/11/0.15.02.mp3"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "こう？",
+    "definition": "Like this?",
+    "timestamp": "0:15:04",
+    "audio": "/audio/11/0.15.04.mp3"
+  },
+  "54": {
+    "speaker": "GRIZZLY",
+    "character": "打てよ",
+    "definition": "Hit the ball.",
+    "timestamp": "0:15:05",
+    "audio": "/audio/11/0.15.05.mp3"
+  },
+  "55": {
+    "speaker": "PANDA",
+    "character": "やっぱり？",
+    "definition": "I thought so.",
+    "timestamp": "0:15:07",
+    "audio": "/audio/11/0.15.07.mp3"
+  },
+  "56": {
+    "speaker": "GRIZZLY",
+    "character": "やっぱりじゃねぇ！ バットで当てろ！！",
+    "definition": "Not \"I thought so.\" Hit the damn ball with the bat!",
+    "timestamp": "0:15:08",
+    "audio": "/audio/11/0.15.08.mp3"
+  },
+  "57": {
+    "speaker": "POLAR BEAR",
+    "character": "ナイスショット",
+    "definition": "Nice shot!",
+    "timestamp": "0:15:13",
+    "audio": "/audio/11/0.15.13.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "やったぁ！",
+    "definition": "Yay! This isn't golf!",
+    "timestamp": "0:15:14",
+    "audio": "/audio/11/0.15.14.mp3"
+  },
+  "59": {
+    "speaker": "GRIZZLY",
+    "character": "積み木じゃねぇ！",
+    "definition": "They aren't building blocks!",
+    "timestamp": "0:15:18",
+    "audio": "/audio/11/0.15.18.mp3"
+  },
+  "60": {
+    "speaker": "GRIZZLY",
+    "character": "ビリヤードじゃねぇ！",
+    "definition": "This isn't billiards!",
+    "timestamp": "0:15:21",
+    "audio": "/audio/11/0.15.21.mp3"
+  },
+  "61": {
+    "speaker": "PANDA",
+    "character": "ああ　おもしろかった",
+    "definition": "That was fun.",
+    "timestamp": "0:15:33",
+    "audio": "/audio/11/0.15.33.mp3"
+  },
+  "62": {
+    "speaker": "GRIZZLY",
+    "character": "全然　バッティングしてねぇけどな",
+    "definition": "You didn't bat at all, though.",
+    "timestamp": "0:15:35",
+    "audio": "/audio/11/0.15.35.mp3"
+  },
+  "63": {
+    "speaker": "GRIZZLY",
+    "character": "次　いくぞ",
+    "definition": "We're going to the next place. We're going somewhere else?",
+    "timestamp": "0:15:38",
+    "audio": "/audio/11/0.15.38.mp3"
+  },
+  "64": {
+    "speaker": "GRIZZLY",
+    "character": "夜はこれからだからな",
+    "definition": "The night's just beginning.",
+    "timestamp": "0:15:42",
+    "audio": "/audio/11/0.15.42.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "これからなんだ…",
+    "definition": "It's just beginning...",
+    "timestamp": "0:15:44",
+    "audio": "/audio/11/0.15.44.mp3"
+  },
+  "66": {
+    "speaker": "PANDA",
+    "character": "次は　どこかな？",
+    "definition": "I wonder where we're going next!",
+    "timestamp": "0:15:47",
+    "audio": "/audio/11/0.15.47.mp3"
+  },
+  "67": {
+    "speaker": "GRIZZLY",
+    "character": "風呂だ！",
+    "definition": "We're going to take a bath!",
+    "timestamp": "0:15:50",
+    "audio": "/audio/11/0.15.50.mp3"
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "広い！",
+    "definition": "It's so big!",
+    "timestamp": "0:15:52",
+    "audio": "/audio/11/0.15.52.mp3"
+  },
+  "69": {
+    "speaker": "PANDA",
+    "character": "すごいね！",
+    "definition": "It's so amazing!",
+    "timestamp": "0:15:55",
+    "audio": "/audio/11/0.15.55.mp3"
+  },
+  "70": {
+    "speaker": "GRIZZLY",
+    "character": "すげぇだろう？",
+    "definition": "Isn't it awesome?",
+    "timestamp": "0:15:57",
+    "audio": "/audio/11/0.15.57.mp3"
+  },
+  "71": {
+    "speaker": "PANDA",
+    "character": "本当だ！",
+    "definition": "It's true!",
+    "timestamp": "0:16:07",
+    "audio": "/audio/11/0.16.07.mp3"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "すごいよ！！",
+    "definition": "It's awesome!",
+    "timestamp": "0:16:10",
+    "audio": "/audio/11/0.16.10.mp3"
+  },
+  "73": {
+    "speaker": "GRIZZLY",
+    "character": "そういう　すげぇじゃ ねぇんだけどな…",
+    "definition": "That's not what I meant.",
+    "timestamp": "0:16:12",
+    "audio": "/audio/11/0.16.12.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "ほら　ほら",
+    "definition": "Look, look!",
+    "timestamp": "0:16:14",
+    "audio": "/audio/11/0.16.14.mp3"
+  },
+  "75": {
+    "speaker": "GRIZZLY",
+    "character": "まずはちゃんと体洗えよ",
+    "definition": "First you have to wash your body thoroughly. Okay.",
+    "timestamp": "0:16:17",
+    "audio": "/audio/11/0.16.17.mp3"
+  },
+  "76": {
+    "speaker": "BOY",
+    "character": "背中　流してあげようか？",
+    "definition": "Do you want me to wash your back?",
+    "timestamp": "0:16:21",
+    "audio": "/audio/11/0.16.21.mp3"
+  },
+  "77": {
+    "speaker": "DAD",
+    "character": "うん　頼むよ",
+    "definition": "Sure, thanks.",
+    "timestamp": "0:16:23",
+    "audio": "/audio/11/0.16.23.mp3"
+  },
+  "78": {
+    "speaker": "PANDA",
+    "character": "背中　流してあげようか？",
+    "definition": "Do you want me to wash your back? That's thoughtful of you! Hey! Stop that! It tickles for some reason. Really?",
+    "timestamp": "0:16:25",
+    "audio": "/audio/11/0.16.25.mp3"
+  },
+  "79": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん もっと強くこするんだよ",
+    "definition": "You have to scrub harder, Panda.",
+    "timestamp": "0:16:39",
+    "audio": "/audio/11/0.16.39.mp3"
+  },
+  "80": {
+    "speaker": "GRIZZLY",
+    "character": "イテーッ！！　ツメ　立てんな　ツメ！",
+    "definition": "Ow! Don't use your damn nails!",
+    "timestamp": "0:16:43",
+    "audio": "/audio/11/0.16.43.mp3"
+  },
+  "81": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ　ごめん",
+    "definition": "Sorry.",
+    "timestamp": "0:16:46",
+    "audio": "/audio/11/0.16.46.mp3"
+  },
+  "82": {
+    "speaker": "PANDA",
+    "character": "目に染みるよ",
+    "definition": "My eyes burn.",
+    "timestamp": "0:16:51",
+    "audio": "/audio/11/0.16.51.mp3"
+  },
+  "83": {
+    "speaker": "GRIZZLY",
+    "character": "早く流せ",
+    "definition": "Hurry up and rinse it off.",
+    "timestamp": "0:16:53",
+    "audio": "/audio/11/0.16.53.mp3"
+  },
+  "84": {
+    "speaker": "PANDA",
+    "character": "グリズリーさん…",
+    "definition": "Mr. Grizzly... Who's that?",
+    "timestamp": "0:16:56",
+    "audio": "/audio/11/0.16.56.mp3"
+  },
+  "85": {
+    "speaker": "PANDA",
+    "character": "ハア…　すっきり",
+    "definition": "I feel all better.",
+    "timestamp": "0:17:09",
+    "audio": "/audio/11/0.17.09.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "グリズリーさんも流してあげるよ",
+    "definition": "I'll rinse you off, too, Mr. Grizzly.",
+    "timestamp": "0:17:11",
+    "audio": "/audio/11/0.17.11.mp3"
+  },
+  "87": {
+    "speaker": "GRIZZLY",
+    "character": "おう　頼むぜ",
+    "definition": "Sure, thanks.",
+    "timestamp": "0:17:14",
+    "audio": "/audio/11/0.17.14.mp3"
+  },
+  "88": {
+    "speaker": "GRIZZLY",
+    "character": "アチーッ！！　熱いじゃねえか！",
+    "definition": "Ow, that's hot! What the hell?! That's really hot! I'm sorry.",
+    "timestamp": "0:17:17",
+    "audio": "/audio/11/0.17.17.mp3"
+  },
+  "89": {
+    "speaker": "GRIZZLY",
+    "character": "赤いほうを回すとお湯で",
+    "definition": "Turn the red knob for hot water.",
+    "timestamp": "0:17:22",
+    "audio": "/audio/11/0.17.22.mp3"
+  },
+  "90": {
+    "speaker": "GRIZZLY",
+    "character": "青いほうが水だからな",
+    "definition": "The blue knob is for cold water.",
+    "timestamp": "0:17:24",
+    "audio": "/audio/11/0.17.24.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "わかった",
+    "definition": "Got it.",
+    "timestamp": "0:17:27",
+    "audio": "/audio/11/0.17.27.mp3"
+  },
+  "92": {
+    "speaker": "GRIZZLY",
+    "character": "冷てぇ！！　ちゃんと調節しろよ！",
+    "definition": "That's cold! Control the damn temperature better!",
+    "timestamp": "0:17:29",
+    "audio": "/audio/11/0.17.29.mp3"
+  },
+  "93": {
+    "speaker": "PANDA",
+    "character": "ごめんなさい…",
+    "definition": "I'm sorry.",
+    "timestamp": "0:17:33",
+    "audio": "/audio/11/0.17.33.mp3"
+  },
+  "94": {
+    "speaker": "GRIZZLY",
+    "character": "アチーッ！！",
+    "definition": "Ow, that's hot!",
+    "timestamp": "0:17:36",
+    "audio": "/audio/11/0.17.36.mp3"
+  },
+  "95": {
+    "speaker": "GRIZZLY",
+    "character": "冷てぇ！！",
+    "definition": "That's cold!",
+    "timestamp": "0:17:38",
+    "audio": "/audio/11/0.17.38.mp3"
+  },
+  "96": {
+    "speaker": "GRIZZLY",
+    "character": "アチーッ！！",
+    "definition": "That's hot!",
+    "timestamp": "0:17:40",
+    "audio": "/audio/11/0.17.40.mp3"
+  },
+  "97": {
+    "speaker": "GRIZZLY",
+    "character": "冷てぇ！！",
+    "definition": "That's cold! Um, uh...",
+    "timestamp": "0:17:42",
+    "audio": "/audio/11/0.17.42.mp3"
+  },
+  "98": {
+    "speaker": "GRIZZLY",
+    "character": "パンダ…　もういい　気持だけ　もらっとく",
+    "definition": "That's enough, Panda.  I appreciate your effort.",
+    "timestamp": "0:17:46",
+    "audio": "/audio/11/0.17.46.mp3"
+  },
+  "99": {
+    "speaker": "PANDA",
+    "character": "いいニオイになったね",
+    "definition": "We smell really good, now.",
+    "timestamp": "0:17:55",
+    "audio": "/audio/11/0.17.55.mp3"
+  },
+  "100": {
+    "speaker": "GRIZZLY",
+    "character": "何の香りだ？　ここのシャンプー",
+    "definition": "What scent is this shampoo? It smells really delicious. It's this.",
+    "timestamp": "0:17:57",
+    "audio": "/audio/11/0.17.57.mp3"
+  },
+  "101": {
+    "speaker": "POLAR BEAR",
+    "character": "クマザサシャンプーだね",
+    "definition": "Bear Bamboo Grass Shampoo.",
+    "timestamp": "0:18:05",
+    "audio": "/audio/11/0.18.05.mp3"
+  },
+  "102": {
+    "speaker": "PANDA",
+    "character": "飲めないかな？",
+    "definition": "I wonder if you can drink it.",
+    "timestamp": "0:18:08",
+    "audio": "/audio/11/0.18.08.mp3"
+  },
+  "103": {
+    "speaker": "GRIZZLY",
+    "character": "飲むんじゃねぇぞ",
+    "definition": "Don't even think about it.",
+    "timestamp": "0:18:09",
+    "audio": "/audio/11/0.18.09.mp3"
+  },
+  "104": {
+    "speaker": "POLAR BEAR",
+    "character": "というわけで　パンダくん お風呂に入れてみよう",
+    "definition": "Well then, let's try putting it in the bath, Panda.",
+    "timestamp": "0:18:11",
+    "audio": "/audio/11/0.18.11.mp3"
+  },
+  "105": {
+    "speaker": "PANDA",
+    "character": "いいね",
+    "definition": "Great idea!",
+    "timestamp": "0:18:16",
+    "audio": "/audio/11/0.18.16.mp3"
+  },
+  "106": {
+    "speaker": "GRIZZLY",
+    "character": "よくねぇ　やめろ",
+    "definition": "No, it's not. Don't do it. Look at it fly!",
+    "timestamp": "0:18:17",
+    "audio": "/audio/11/0.18.17.mp3"
+  },
+  "107": {
+    "speaker": "GRANDPA",
+    "character": "そうそう　うまい　うまい",
+    "definition": "Exactly. Good job.",
+    "timestamp": "0:18:34",
+    "audio": "/audio/11/0.18.34.mp3"
+  },
+  "108": {
+    "speaker": "PANDA",
+    "character": "あれ　どうやるの？",
+    "definition": "How do you do that? Like this.",
+    "timestamp": "0:18:37",
+    "audio": "/audio/11/0.18.37.mp3"
+  },
+  "109": {
+    "speaker": "GRIZZLY",
+    "character": "やめろ！",
+    "definition": "Knock it off!",
+    "timestamp": "0:18:49",
+    "audio": "/audio/11/0.18.49.mp3"
+  },
+  "110": {
+    "speaker": "GRIZZLY",
+    "character": "ったく！",
+    "definition": "Jeez...",
+    "timestamp": "0:18:51",
+    "audio": "/audio/11/0.18.51.mp3"
+  },
+  "111": {
+    "speaker": "PANDA",
+    "character": "どこ行くの？",
+    "definition": "Where are you going? I like the sauna.",
+    "timestamp": "0:18:52",
+    "audio": "/audio/11/0.18.52.mp3"
+  },
+  "112": {
+    "speaker": "GRIZZLY",
+    "character": "それは　魚！",
+    "definition": "That's a fish {\\i1}(sakana){\\i0}!",
+    "timestamp": "0:18:57",
+    "audio": "/audio/11/0.18.57.mp3"
+  },
+  "113": {
+    "speaker": "GRIZZLY",
+    "character": "それは　アンテナ！",
+    "definition": "That's an antenna {\\i1}(antena){\\i0}!",
+    "timestamp": "0:19:00",
+    "audio": "/audio/11/0.19.00.mp3"
+  },
+  "114": {
+    "speaker": "GRIZZLY",
+    "character": "それは　手品！",
+    "definition": "That's sleight of hand {\\i1}(tejina){\\i0}!",
+    "timestamp": "0:19:04",
+    "audio": "/audio/11/0.19.04.mp3"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "サウナって何？",
+    "definition": "What's a sauna? I'm sweating a lot for some reason.",
+    "timestamp": "0:19:06",
+    "audio": "/audio/11/0.19.06.mp3"
+  },
+  "116": {
+    "speaker": "GRIZZLY",
+    "character": "それがサウナのいいところだ",
+    "definition": "That's the good thing about saunas.",
+    "timestamp": "0:19:14",
+    "audio": "/audio/11/0.19.14.mp3"
+  },
+  "117": {
+    "speaker": "PANDA",
+    "character": "蒸されてる感じ",
+    "definition": "I feel like I'm being steamed.",
+    "timestamp": "0:19:16",
+    "audio": "/audio/11/0.19.16.mp3"
+  },
+  "118": {
+    "speaker": "GRIZZLY",
+    "character": "これが体にいいんだよ！",
+    "definition": "That's what's great for your body.",
+    "timestamp": "0:19:18",
+    "audio": "/audio/11/0.19.18.mp3"
+  },
+  "119": {
+    "speaker": "POLAR BEAR",
+    "character": "もう限界…",
+    "definition": "I'm at my limit.",
+    "timestamp": "0:19:21",
+    "audio": "/audio/11/0.19.21.mp3"
+  },
+  "120": {
+    "speaker": "GRIZZLY",
+    "character": "情けねぇな",
+    "definition": "Lame.",
+    "timestamp": "0:19:24",
+    "audio": "/audio/11/0.19.24.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "僕も　もうダメ…",
+    "definition": "Me, too. I can't do it...",
+    "timestamp": "0:19:26",
+    "audio": "/audio/11/0.19.26.mp3"
+  },
+  "122": {
+    "speaker": "GRIZZLY",
+    "character": "辛抱が足りねぇな",
+    "definition": "You guys lack endurance.",
+    "timestamp": "0:19:31",
+    "audio": "/audio/11/0.19.31.mp3"
+  },
+  "123": {
+    "speaker": "GRIZZLY",
+    "character": "今日は　やけに 時間が長く感じるぜ",
+    "definition": "Time feels like it's passing really slow today.",
+    "timestamp": "0:19:52",
+    "audio": "/audio/11/0.19.52.mp3"
+  },
+  "124": {
+    "speaker": "GRIZZLY",
+    "character": "俺も　もう限界…",
+    "definition": "I'm at my limit, too.",
+    "timestamp": "0:20:00",
+    "audio": "/audio/11/0.20.00.mp3"
+  },
+  "125": {
+    "speaker": "GRIZZLY",
+    "character": "出よう",
+    "definition": "I'm getting out. Ah!",
+    "timestamp": "0:20:03",
+    "audio": "/audio/11/0.20.03.mp3"
+  },
+  "126": {
+    "speaker": "GRIZZLY",
+    "character": "テメエらの仕業か！",
+    "definition": "So it was you guys!",
+    "timestamp": "0:20:13",
+    "audio": "/audio/11/0.20.13.mp3"
+  },
+  "127": {
+    "speaker": "PANDA",
+    "character": "おもしろかった！",
+    "definition": "That was fun.",
+    "timestamp": "0:20:26",
+    "audio": "/audio/11/0.20.26.mp3"
+  },
+  "128": {
+    "speaker": "PANDA",
+    "character": "夜遊びって　おもしろいね",
+    "definition": "Having a night out is fun!",
+    "timestamp": "0:20:29",
+    "audio": "/audio/11/0.20.29.mp3"
+  },
+  "129": {
+    "speaker": "GRIZZLY",
+    "character": "小腹も空いたし ちょっと一杯やってくか",
+    "definition": "I'm a bit hungry, so let's go have a drink.",
+    "timestamp": "0:20:31",
+    "audio": "/audio/11/0.20.31.mp3"
+  },
+  "130": {
+    "speaker": "POLAR BEAR",
+    "character": "いいね",
+    "definition": "Sounds good.",
+    "timestamp": "0:20:35",
+    "audio": "/audio/11/0.20.35.mp3"
+  },
+  "131": {
+    "speaker": "PANDA",
+    "character": "えっ？　なになに？",
+    "definition": "Ooh, what's going on?",
+    "timestamp": "0:20:37",
+    "audio": "/audio/11/0.20.37.mp3"
+  },
+  "132": {
+    "speaker": "GUY",
+    "character": "へい　らっしゃい！",
+    "definition": "Hey, there! You got a new guy with ya today.",
+    "timestamp": "0:20:40",
+    "audio": "/audio/11/0.20.40.mp3"
+  },
+  "133": {
+    "speaker": "GRIZZLY",
+    "character": "親父　とりあえず　生２つ",
+    "definition": "Let's start with two draft beers, pops.",
+    "timestamp": "0:20:45",
+    "audio": "/audio/11/0.20.45.mp3"
+  },
+  "134": {
+    "speaker": "PANDA",
+    "character": "あとアイスコーヒーください",
+    "definition": "And an iced coffee.",
+    "timestamp": "0:20:48",
+    "audio": "/audio/11/0.20.48.mp3"
+  },
+  "135": {
+    "speaker": "GRIZZLY",
+    "character": "カフェじゃねぇんだぞ",
+    "definition": "This ain't a café.",
+    "timestamp": "0:20:50",
+    "audio": "/audio/11/0.20.50.mp3"
+  },
+  "136": {
+    "speaker": "PANDA",
+    "character": "ああ　おいしそう！",
+    "definition": "This looks yummy!",
+    "timestamp": "0:20:56",
+    "audio": "/audio/11/0.20.56.mp3"
+  },
+  "137": {
+    "speaker": "GRIZZLY",
+    "character": "串ごと食うなよ",
+    "definition": "Don't eat the stick, too...",
+    "timestamp": "0:21:02",
+    "audio": "/audio/11/0.21.02.mp3"
+  },
+  "138": {
+    "speaker": "PANDA",
+    "character": "おいしい！",
+    "definition": "It's so good!",
+    "timestamp": "0:21:04",
+    "audio": "/audio/11/0.21.04.mp3"
+  },
+  "139": {
+    "speaker": "POLAR BEAR",
+    "character": "まぁ　ぐいっと！",
+    "definition": "There you go. Thanks.",
+    "timestamp": "0:21:06",
+    "audio": "/audio/11/0.21.06.mp3"
+  },
+  "140": {
+    "speaker": "PANDA",
+    "character": "夜遊びって最高だね！",
+    "definition": "Having a night out is great.",
+    "timestamp": "0:21:09",
+    "audio": "/audio/11/0.21.09.mp3"
+  },
+  "141": {
+    "speaker": "GRIZZLY",
+    "character": "だろ！",
+    "definition": "It is, isn't it?",
+    "timestamp": "0:21:12",
+    "audio": "/audio/11/0.21.12.mp3"
+  },
+  "142": {
+    "speaker": "GRIZZLY",
+    "character": "人生はな 昼もあれば夜もある",
+    "definition": "If life has days, it also has nights.",
+    "timestamp": "0:21:13",
+    "audio": "/audio/11/0.21.13.mp3"
+  },
+  "143": {
+    "speaker": "GRIZZLY",
+    "character": "明るいときもあれば 暗いときもある",
+    "definition": "If there's light, there's dark, too.",
+    "timestamp": "0:21:17",
+    "audio": "/audio/11/0.21.17.mp3"
+  },
+  "144": {
+    "speaker": "GRIZZLY",
+    "character": "暗いときにも楽しいことはたくさんあるんだよ",
+    "definition": "There're plenty of fun things to do in the dark.",
+    "timestamp": "0:21:19",
+    "audio": "/audio/11/0.21.19.mp3"
+  },
+  "145": {
+    "speaker": "POLAR BEAR",
+    "character": "どっちもあるから いいんだよね",
+    "definition": "It's nice because you have either option.",
+    "timestamp": "0:21:23",
+    "audio": "/audio/11/0.21.23.mp3"
+  },
+  "146": {
+    "speaker": "GUY",
+    "character": "お客さん　深いね",
+    "definition": "That's deep, man.",
+    "timestamp": "0:21:25",
+    "audio": "/audio/11/0.21.25.mp3"
+  },
+  "147": {
+    "speaker": "PANDA",
+    "character": "そうだよね",
+    "definition": "That's true.",
+    "timestamp": "0:21:28",
+    "audio": "/audio/11/0.21.28.mp3"
+  },
+  "148": {
+    "speaker": "PANDA",
+    "character": "パンダも白いとこと黒いとこ　両方あるからいいんだもんね",
+    "definition": "Pandas are great because they're both black and white.",
+    "timestamp": "0:21:30",
+    "audio": "/audio/11/0.21.30.mp3"
+  },
+  "149": {
+    "speaker": "GRIZZLY",
+    "character": "おお　そうだな！ そのとおりだ！",
+    "definition": "That's right. Exactly. You've got a point.",
+    "timestamp": "0:21:34",
+    "audio": "/audio/11/0.21.34.mp3"
+  },
+  "150": {
+    "speaker": "POLAR BEAR",
+    "character": "だね",
+    "definition": "Indeed.",
+    "timestamp": "0:21:40",
+    "audio": "/audio/11/0.21.40.mp3"
+  },
+  "151": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん",
+    "definition": "Grizzly. Yeah?",
+    "timestamp": "0:21:45",
+    "audio": "/audio/11/0.21.45.mp3"
+  },
+  "152": {
+    "speaker": "POLAR BEAR",
+    "character": "すっかり寝ちゃったね　パンダくん",
+    "definition": "Panda's conked out.",
+    "timestamp": "0:21:50",
+    "audio": "/audio/11/0.21.50.mp3"
+  },
+  "153": {
+    "speaker": "GRIZZLY",
+    "character": "なんで俺がコイツをおぶって 帰んなきゃなんねぇんだよ",
+    "definition": "Why the hell am I the one that has to carry him back?",
+    "timestamp": "0:21:53",
+    "audio": "/audio/11/0.21.53.mp3"
+  },
+  "154": {
+    "speaker": "PANDA",
+    "character": "楽しかった…",
+    "definition": "That was so fun...",
+    "timestamp": "0:22:00",
+    "audio": "/audio/11/0.22.00.mp3"
+  },
+  "155": {
+    "speaker": "POLAR BEAR",
+    "character": "楽しかったって",
+    "definition": "He said he had fun. Jeez.",
+    "timestamp": "0:22:06",
+    "audio": "/audio/11/0.22.06.mp3"
+  },
+  "156": {
+    "speaker": "GRIZZLY",
+    "character": "まっ　また連れてきてやっても いいかな",
+    "definition": "Well, I guess I don't mind if we bring him along again.",
+    "timestamp": "0:22:14",
+    "audio": "/audio/11/0.22.14.mp3"
+  },
+  "157": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/11/0.23.58.mp3"
+  },
+  "158": {
+    "speaker": "PENGUIN",
+    "character": "何？　パンダ君",
+    "definition": "What is it, Panda? Tell us about a time you thought you were cool. Well, let's see...",
+    "timestamp": "0:23:59",
+    "audio": "/audio/11/0.23.59.mp3"
+  },
+  "159": {
+    "speaker": "PANDA",
+    "character": "ないならいいよ",
+    "definition": "Don't worry if you don't have one. You're not even giving me two seconds to think about this, are you?",
+    "timestamp": "0:24:06",
+    "audio": "/audio/11/0.24.06.mp3"
+  },
+  "160": {
+    "speaker": "PANDA",
+    "character": "ないならいいよ",
+    "definition": "Don't worry if you don't have one.",
+    "timestamp": "0:24:10",
+    "audio": "/audio/11/0.24.10.mp3"
+  },
+  "161": {
+    "speaker": "PENGUIN",
+    "character": "探したかったな",
+    "definition": "I wanted to think of one...",
+    "timestamp": "0:24:12",
+    "audio": "/audio/11/0.24.12.mp3"
+  },
+  "162": {
+    "speaker": "PANDA",
+    "character": "ないならいいよ",
+    "definition": "Don't worry if you don't have one.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/11/0.24.13.mp3"
+  },
+  "163": {
+    "speaker": "PENGUIN",
+    "character": "白熊君　頼んだ",
+    "definition": "It's up to you, Polar Bear.",
+    "timestamp": "0:24:14",
+    "audio": "/audio/11/0.24.14.mp3"
+  },
+  "164": {
+    "speaker": "POLAR BEAR",
+    "character": "次回　しろくまカフェ",
+    "definition": "Next time Polar Bear's Café",
+    "timestamp": "0:24:17",
+    "audio": "/audio/11/0.24.17.mp3"
+  },
+  "165": {
+    "speaker": "POLAR BEAR",
+    "character": "生放送でお送りします",
+    "definition": "will be brought to you live.",
+    "timestamp": "0:24:19",
+    "audio": "/audio/11/0.24.19.mp3"
+  },
+  "166": {
+    "speaker": "PENGUIN",
+    "character": "いつもどおりやるよ",
+    "definition": "We're going to do it normally.",
+    "timestamp": "0:24:20",
+    "audio": "/audio/11/0.24.20.mp3"
+  },
+  "167": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/11/0.24.22.mp3"
+  }
+}

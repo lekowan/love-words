@@ -1,0 +1,842 @@
+{
+  "1": {
+    "speaker": "PENGUIN",
+    "character": "誰にも言わないでよ",
+    "definition": "Don't tell anyone. All right.",
+    "timestamp": "0:12:15",
+    "audio": "/audio/02/0.12.15.mp3"
+  },
+  "2": {
+    "speaker": "PENGUIN",
+    "character": "僕、好きなペンギンさんが居るんだ",
+    "definition": "I have a penguin that I like.",
+    "timestamp": "0:12:20",
+    "audio": "/audio/02/0.12.20.mp3"
+  },
+  "3": {
+    "speaker": "LLAMA",
+    "character": "すみません、抹茶パフェください",
+    "definition": "Excuse me. Could I get a green tea parfait?",
+    "timestamp": "0:12:24",
+    "audio": "/audio/02/0.12.24.mp3"
+  },
+  "4": {
+    "speaker": "LLAMA",
+    "character": "それで",
+    "definition": "And? I have a penguin that I like—",
+    "timestamp": "0:12:28",
+    "audio": "/audio/02/0.12.28.mp3"
+  },
+  "5": {
+    "speaker": "LLAMA",
+    "character": "すみません、やっぱりいちごパフェにしてくれますか",
+    "definition": "Excuse me, could you change that to a strawberry parfait?",
+    "timestamp": "0:12:34",
+    "audio": "/audio/02/0.12.34.mp3"
+  },
+  "6": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと！聞く気ある？！",
+    "definition": "Hey! Are you even listening?! Hello!",
+    "timestamp": "0:12:38",
+    "audio": "/audio/02/0.12.38.mp3"
+  },
+  "7": {
+    "speaker": "PANDA",
+    "character": "しろくま君　いつもの",
+    "definition": "Could I get the usual, Polar Bear?",
+    "timestamp": "0:12:44",
+    "audio": "/audio/02/0.12.44.mp3"
+  },
+  "8": {
+    "speaker": "POLAR BEAR",
+    "character": "お待ち遠様　竹大盛りね",
+    "definition": "There you go. A large serving of bamboo.",
+    "timestamp": "0:12:48",
+    "audio": "/audio/02/0.12.48.mp3"
+  },
+  "9": {
+    "speaker": "PANDA",
+    "character": "いただきま～す",
+    "definition": "Thanks for the meal!",
+    "timestamp": "0:12:52",
+    "audio": "/audio/02/0.12.52.mp3"
+  },
+  "10": {
+    "speaker": "POLAR BEAR",
+    "character": "やろうか",
+    "definition": "Should we do it? What? A cherry blossom viewing party.",
+    "timestamp": "0:13:03",
+    "audio": "/audio/02/0.13.03.mp3"
+  },
+  "11": {
+    "speaker": "PENGUIN",
+    "character": "すごいね、桜",
+    "definition": "Look at those cherry blossoms!",
+    "timestamp": "0:13:16",
+    "audio": "/audio/02/0.13.16.mp3"
+  },
+  "12": {
+    "speaker": "SASAKO",
+    "character": "綺麗ですね",
+    "definition": "Aren't they beautiful?",
+    "timestamp": "0:13:19",
+    "audio": "/audio/02/0.13.19.mp3"
+  },
+  "13": {
+    "speaker": "POLAR BEAR",
+    "character": "あそこにしよう",
+    "definition": "Let's go over there.",
+    "timestamp": "0:13:23",
+    "audio": "/audio/02/0.13.23.mp3"
+  },
+  "14": {
+    "speaker": "POLAR BEAR",
+    "character": "すごいね",
+    "definition": "It's amazing.",
+    "timestamp": "0:13:27",
+    "audio": "/audio/02/0.13.27.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "今年も綺麗に咲いたね",
+    "definition": "They blossomed amazingly again this year.",
+    "timestamp": "0:13:29",
+    "audio": "/audio/02/0.13.29.mp3"
+  },
+  "16": {
+    "speaker": "PANDA",
+    "character": "お摘みどうしよう",
+    "definition": "I wonder what we should do for snacks...",
+    "timestamp": "0:13:32",
+    "audio": "/audio/02/0.13.32.mp3"
+  },
+  "17": {
+    "speaker": "PENGUIN",
+    "character": "情緒がないなぁ",
+    "definition": "What an unromantic thing to say.",
+    "timestamp": "0:13:34",
+    "audio": "/audio/02/0.13.34.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "桜は綺麗だなって話してるんだから",
+    "definition": "We're talking about how pretty the cherry blossoms are. Hey, do you have any snacks? You're not listening at all. Oh, well.",
+    "timestamp": "0:13:36",
+    "audio": "/audio/02/0.13.36.mp3"
+  },
+  "19": {
+    "speaker": "LLAMA",
+    "character": "花弁って食べられますかね",
+    "definition": "I wonder if the cherry blossoms are edible.",
+    "timestamp": "0:13:46",
+    "audio": "/audio/02/0.13.46.mp3"
+  },
+  "20": {
+    "speaker": "PENGUIN",
+    "character": "もう一人情緒ないのがいるよ",
+    "definition": "And another one who doesn't get it.",
+    "timestamp": "0:13:49",
+    "audio": "/audio/02/0.13.49.mp3"
+  },
+  "21": {
+    "speaker": "PENGUIN",
+    "character": "ラマさんは草が食べられるなら　食べられるんじゃない？",
+    "definition": "You probably could, considering you eat grass, as well.",
+    "timestamp": "0:13:51",
+    "audio": "/audio/02/0.13.51.mp3"
+  },
+  "22": {
+    "speaker": "PANDA",
+    "character": "ね～竹持ってない？",
+    "definition": "Hey, do you have any bamboo?",
+    "timestamp": "0:13:55",
+    "audio": "/audio/02/0.13.55.mp3"
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "持ってないよ",
+    "definition": "No.",
+    "timestamp": "0:13:59",
+    "audio": "/audio/02/0.13.59.mp3"
+  },
+  "24": {
+    "speaker": "POLAR BEAR",
+    "character": "お弁当なら持って来たよ",
+    "definition": "I packed a lunch for us.",
+    "timestamp": "0:14:01",
+    "audio": "/audio/02/0.14.01.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "さすがしろくま君",
+    "definition": "You're amazing, Polar Bear! I'm... going to... run some errands...",
+    "timestamp": "0:14:04",
+    "audio": "/audio/02/0.14.04.mp3"
+  },
+  "26": {
+    "speaker": "PANDA",
+    "character": "なまけもの君？",
+    "definition": "Sloth?",
+    "timestamp": "0:14:13",
+    "audio": "/audio/02/0.14.13.mp3"
+  },
+  "27": {
+    "speaker": "SLOTH",
+    "character": "コンビニで",
+    "definition": "I'm going... to buy...",
+    "timestamp": "0:14:16",
+    "audio": "/audio/02/0.14.16.mp3"
+  },
+  "28": {
+    "speaker": "SLOTH",
+    "character": "何か乾き物買ってくる",
+    "definition": "a drink... at the... convenience store— It's all right, we have enough here.",
+    "timestamp": "0:14:18",
+    "audio": "/audio/02/0.14.18.mp3"
+  },
+  "29": {
+    "speaker": "SLOTH",
+    "character": "すぐそこだから",
+    "definition": "It's just right over there... I'll be... right back...",
+    "timestamp": "0:14:25",
+    "audio": "/audio/02/0.14.25.mp3"
+  },
+  "30": {
+    "speaker": "SLOTH",
+    "character": "じゃね～",
+    "definition": "Bye, now...",
+    "timestamp": "0:14:37",
+    "audio": "/audio/02/0.14.37.mp3"
+  },
+  "31": {
+    "speaker": "PENGUIN",
+    "character": "いってらっしゃい",
+    "definition": "See ya.",
+    "timestamp": "0:14:40",
+    "audio": "/audio/02/0.14.40.mp3"
+  },
+  "32": {
+    "speaker": "PENGUIN",
+    "character": "最高だなぁ",
+    "definition": "This is great!",
+    "timestamp": "0:14:56",
+    "audio": "/audio/02/0.14.56.mp3"
+  },
+  "33": {
+    "speaker": "PENGUIN",
+    "character": "こんなに綺麗なのに、すぐに散っちゃうんだから",
+    "definition": "They're so beautiful, but they fall so quickly.",
+    "timestamp": "0:14:59",
+    "audio": "/audio/02/0.14.59.mp3"
+  },
+  "34": {
+    "speaker": "PENGUIN",
+    "character": "ホント　儚いよね",
+    "definition": "It's all so fleeting. This is a new recipe I tried. Oh! It looks delicious! Thank you for the food! Hey! Stop eating and let's do something",
+    "timestamp": "0:15:03",
+    "audio": "/audio/02/0.15.03.mp3"
+  },
+  "35": {
+    "speaker": "PENGUIN",
+    "character": "もっとお花見らしいことしようよ",
+    "definition": "more fitting for a cherry blossom viewing party. More fitting for a cherry blossom viewing party? Like singing.",
+    "timestamp": "0:15:22",
+    "audio": "/audio/02/0.15.22.mp3"
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "僕歌下手",
+    "definition": "I'm terrible at singing. Same here.",
+    "timestamp": "0:15:35",
+    "audio": "/audio/02/0.15.35.mp3"
+  },
+  "37": {
+    "speaker": "LLAMA",
+    "character": "同じく",
+    "definition": "I am, as well.",
+    "timestamp": "0:15:39",
+    "audio": "/audio/02/0.15.39.mp3"
+  },
+  "38": {
+    "speaker": "PENGUIN",
+    "character": "踊るとか",
+    "definition": "How about dancing? Dance?",
+    "timestamp": "0:15:44",
+    "audio": "/audio/02/0.15.44.mp3"
+  },
+  "39": {
+    "speaker": "SASAKO",
+    "character": "踊るんですか",
+    "definition": "We're going to dance?",
+    "timestamp": "0:15:47",
+    "audio": "/audio/02/0.15.47.mp3"
+  },
+  "40": {
+    "speaker": "LLAMA",
+    "character": "ダンスですか",
+    "definition": "Dancing, you say?",
+    "timestamp": "0:15:49",
+    "audio": "/audio/02/0.15.49.mp3"
+  },
+  "41": {
+    "speaker": "POLAR BEAR",
+    "character": "フラダンス？",
+    "definition": "Hula dancing?",
+    "timestamp": "0:15:53",
+    "audio": "/audio/02/0.15.53.mp3"
+  },
+  "42": {
+    "speaker": "POLAR BEAR",
+    "character": "ベリーダンス？",
+    "definition": "Belly dancing?",
+    "timestamp": "0:15:58",
+    "audio": "/audio/02/0.15.58.mp3"
+  },
+  "43": {
+    "speaker": "POLAR BEAR",
+    "character": "腹ダンス？",
+    "definition": "Stomach dancing?",
+    "timestamp": "0:16:00",
+    "audio": "/audio/02/0.16.00.mp3"
+  },
+  "44": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん寝てる",
+    "definition": "Mr. Penguin is sleeping. That's not it! I'm just got tired of your stupid puns and fell over!",
+    "timestamp": "0:16:04",
+    "audio": "/audio/02/0.16.04.mp3"
+  },
+  "45": {
+    "speaker": "POLAR BEAR",
+    "character": "ひどいなぁ、ペンギンさん",
+    "definition": "Well, that was rude, Mr. Penguin.",
+    "timestamp": "0:16:11",
+    "audio": "/audio/02/0.16.11.mp3"
+  },
+  "46": {
+    "speaker": "PENGUIN",
+    "character": "もっとあるでしょう！",
+    "definition": "You know there's more to do at these events! How about impersonations?!",
+    "timestamp": "0:16:13",
+    "audio": "/audio/02/0.16.13.mp3"
+  },
+  "47": {
+    "speaker": "PENGUIN",
+    "character": "わ～～名倉さんの物真似でしょう",
+    "definition": "That's totally an impersonation of Mr. Nagura!",
+    "timestamp": "0:16:20",
+    "audio": "/audio/02/0.16.20.mp3"
+  },
+  "48": {
+    "speaker": "LLAMA",
+    "character": "食べてるだけなのに",
+    "definition": "I'm just... eating. We're lacking something. I know! Polar Bear! Lift me up to that tree there! I'll fly! I don't think that's a good idea.",
+    "timestamp": "0:16:24",
+    "audio": "/audio/02/0.16.24.mp3"
+  },
+  "49": {
+    "speaker": "PENGUIN",
+    "character": "なんで止めるの？",
+    "definition": "Why are you trying to stop me?! Then you do it, Panda!",
+    "timestamp": "0:16:38",
+    "audio": "/audio/02/0.16.38.mp3"
+  },
+  "50": {
+    "speaker": "PENGUIN",
+    "character": "ほら、僕を木の上に乗せて",
+    "definition": "Come on! Lift me up into the tree! I'm Llama.",
+    "timestamp": "0:16:43",
+    "audio": "/audio/02/0.16.43.mp3"
+  },
+  "51": {
+    "speaker": "SASAKO",
+    "character": "酔ってますね",
+    "definition": "He appears to be rather drunk. I think he drank too much. Wow, that's amazing!",
+    "timestamp": "0:16:49",
+    "audio": "/audio/02/0.16.49.mp3"
+  },
+  "52": {
+    "speaker": "PANDA",
+    "character": "お花見らしくなってきたよ、ペンギンさん",
+    "definition": "It's like a real cherry blossom viewing party! Mr. Penguin?",
+    "timestamp": "0:17:15",
+    "audio": "/audio/02/0.17.15.mp3"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "寝てる",
+    "definition": "He's asleep.",
+    "timestamp": "0:17:24",
+    "audio": "/audio/02/0.17.24.mp3"
+  },
+  "54": {
+    "speaker": "SASAKO",
+    "character": "熟睡ですね",
+    "definition": "He's totally knocked out. Hey! Don't sleep!",
+    "timestamp": "0:17:26",
+    "audio": "/audio/02/0.17.26.mp3"
+  },
+  "55": {
+    "speaker": "PANDA",
+    "character": "起きてるよ",
+    "definition": "We're awake. Young penguins these days just don't get it!",
+    "timestamp": "0:17:31",
+    "audio": "/audio/02/0.17.31.mp3"
+  },
+  "56": {
+    "speaker": "PENGUIN",
+    "character": "可愛いだけじゃダメなんだよ",
+    "definition": "It's not just about being cute! Am I right?!",
+    "timestamp": "0:17:38",
+    "audio": "/audio/02/0.17.38.mp3"
+  },
+  "57": {
+    "speaker": "POLAR BEAR",
+    "character": "絡むね",
+    "definition": "Now he's picking fights.",
+    "timestamp": "0:17:42",
+    "audio": "/audio/02/0.17.42.mp3"
+  },
+  "58": {
+    "speaker": "PENGUIN",
+    "character": "聞いてる、吉崎さん",
+    "definition": "Are you listening, Mr. Yoshizaki?!",
+    "timestamp": "0:17:44",
+    "audio": "/audio/02/0.17.44.mp3"
+  },
+  "59": {
+    "speaker": "PANDA",
+    "character": "誰それ",
+    "definition": "Who's that?",
+    "timestamp": "0:17:46",
+    "audio": "/audio/02/0.17.46.mp3"
+  },
+  "60": {
+    "speaker": "PENGUIN",
+    "character": "吉崎さん、目の周りにあざがあるよ",
+    "definition": "Oh no! You have bruises around your eyes, Mr. Yoshizaki!",
+    "timestamp": "0:17:48",
+    "audio": "/audio/02/0.17.48.mp3"
+  },
+  "61": {
+    "speaker": "PENGUIN",
+    "character": "誰かに殴られたよ？大丈夫？",
+    "definition": "Did someone hit you? Are you okay?! This is getting annoying.",
+    "timestamp": "0:17:51",
+    "audio": "/audio/02/0.17.51.mp3"
+  },
+  "62": {
+    "speaker": "PENGUIN",
+    "character": "ね～名倉さん、聞いてる？",
+    "definition": "Hey, Mr. Nagura. Are you listening?",
+    "timestamp": "0:17:58",
+    "audio": "/audio/02/0.17.58.mp3"
+  },
+  "63": {
+    "speaker": "LLAMA",
+    "character": "食べてるだけなのに",
+    "definition": "I'm just... eating.",
+    "timestamp": "0:18:00",
+    "audio": "/audio/02/0.18.00.mp3"
+  },
+  "64": {
+    "speaker": "PENGUIN",
+    "character": "誰にも言わないでね",
+    "definition": "Don't tell anyone, okay? What?",
+    "timestamp": "0:18:10",
+    "audio": "/audio/02/0.18.10.mp3"
+  },
+  "65": {
+    "speaker": "PENGUIN",
+    "character": "好きなペンギンがいるんだよ",
+    "definition": "I have a penguin that I like.",
+    "timestamp": "0:18:14",
+    "audio": "/audio/02/0.18.14.mp3"
+  },
+  "66": {
+    "speaker": "PENGUIN",
+    "character": "パン屋のバイトのペンコさんっていうんだけど",
+    "definition": "Her name is Miss Penko and she works at the bakery part-time.",
+    "timestamp": "0:18:17",
+    "audio": "/audio/02/0.18.17.mp3"
+  },
+  "67": {
+    "speaker": "PENGUIN",
+    "character": "ペンコさん！",
+    "definition": "Miss Penko! I'm Panda!",
+    "timestamp": "0:18:21",
+    "audio": "/audio/02/0.18.21.mp3"
+  },
+  "68": {
+    "speaker": "PENGUIN",
+    "character": "ペンコさん　一生僕と同じ魚を食べてください！",
+    "definition": "Please share the same fish with me for as long as we both live, Miss Penko!",
+    "timestamp": "0:18:27",
+    "audio": "/audio/02/0.18.27.mp3"
+  },
+  "69": {
+    "speaker": "PENGUIN",
+    "character": "お願いします",
+    "definition": "Please!",
+    "timestamp": "0:18:32",
+    "audio": "/audio/02/0.18.32.mp3"
+  },
+  "70": {
+    "speaker": "PANDA",
+    "character": "助けて！",
+    "definition": "Help me!",
+    "timestamp": "0:18:34",
+    "audio": "/audio/02/0.18.34.mp3"
+  },
+  "71": {
+    "speaker": "POLAR BEAR",
+    "character": "もう面白いから、見ていいよ",
+    "definition": "This is rather amusing, so I'll just watch. Jeez! W-Will you listen to what I have to say?",
+    "timestamp": "0:18:37",
+    "audio": "/audio/02/0.18.37.mp3"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "何を",
+    "definition": "What? I wrote a poem about Miss Penko. Really? How does it go?",
+    "timestamp": "0:18:42",
+    "audio": "/audio/02/0.18.42.mp3"
+  },
+  "73": {
+    "speaker": "PENGUIN",
+    "character": "theペンコさん",
+    "definition": "\"The Miss Penko\"",
+    "timestamp": "0:18:50",
+    "audio": "/audio/02/0.18.50.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "the？",
+    "definition": "\"The\"? \"Miss Penko laughs.",
+    "timestamp": "0:18:54",
+    "audio": "/audio/02/0.18.54.mp3"
+  },
+  "75": {
+    "speaker": "PENGUIN",
+    "character": "ペンコさんが歩く",
+    "definition": "Miss Penko walks.",
+    "timestamp": "0:18:58",
+    "audio": "/audio/02/0.18.58.mp3"
+  },
+  "76": {
+    "speaker": "PENGUIN",
+    "character": "ペンコさんが魚を食べる",
+    "definition": "Miss Penko eats fish.\"",
+    "timestamp": "0:19:00",
+    "audio": "/audio/02/0.19.00.mp3"
+  },
+  "77": {
+    "speaker": "PENGUIN",
+    "character": "どうですか、ペンコさん",
+    "definition": "What do you think, Miss Penko?",
+    "timestamp": "0:19:05",
+    "audio": "/audio/02/0.19.05.mp3"
+  },
+  "78": {
+    "speaker": "LLAMA",
+    "character": "僕？",
+    "definition": "Me?",
+    "timestamp": "0:19:08",
+    "audio": "/audio/02/0.19.08.mp3"
+  },
+  "79": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさん、ちょっとペンコさんと散歩してきたら、",
+    "definition": "Why don't you go on a walk with Miss Penko, Mr. Penguin?",
+    "timestamp": "0:19:12",
+    "audio": "/audio/02/0.19.12.mp3"
+  },
+  "80": {
+    "speaker": "PENGUIN",
+    "character": "え？いいの",
+    "definition": "Wow, really?!",
+    "timestamp": "0:19:16",
+    "audio": "/audio/02/0.19.16.mp3"
+  },
+  "81": {
+    "speaker": "PENGUIN",
+    "character": "じゃ、行こうか、ペンコさん",
+    "definition": "Let's go, Miss Penko.",
+    "timestamp": "0:19:18",
+    "audio": "/audio/02/0.19.18.mp3"
+  },
+  "82": {
+    "speaker": "PANDA",
+    "character": "なんでまた僕？",
+    "definition": "Why is it me again?",
+    "timestamp": "0:19:20",
+    "audio": "/audio/02/0.19.20.mp3"
+  },
+  "83": {
+    "speaker": "PENGUIN",
+    "character": "ほら、行こう",
+    "definition": "Come on, let's go.",
+    "timestamp": "0:19:23",
+    "audio": "/audio/02/0.19.23.mp3"
+  },
+  "84": {
+    "speaker": "PENGUIN",
+    "character": "二人きりのロマンチックな夜だね",
+    "definition": "It'll be a romantic evening with just the two of us.",
+    "timestamp": "0:19:26",
+    "audio": "/audio/02/0.19.26.mp3"
+  },
+  "85": {
+    "speaker": "PANDA",
+    "character": "いろいろ違ってる気がするよ",
+    "definition": "I can't help but feel there's a lot wrong with this.",
+    "timestamp": "0:19:30",
+    "audio": "/audio/02/0.19.30.mp3"
+  },
+  "86": {
+    "speaker": "PENGUIN",
+    "character": "いつまでもこうして歩いていたいなぁ",
+    "definition": "I wish we could walk like this forever.",
+    "timestamp": "0:19:33",
+    "audio": "/audio/02/0.19.33.mp3"
+  },
+  "87": {
+    "speaker": "PANDA",
+    "character": "帰りたいよ",
+    "definition": "I want to go home. Miss Penko, will you go out with—  What?! Where did you come from, Mr. Yoshizaki?!",
+    "timestamp": "0:19:37",
+    "audio": "/audio/02/0.19.37.mp3"
+  },
+  "88": {
+    "speaker": "PANDA",
+    "character": "吉崎さんって誰",
+    "definition": "Who is Mr. Yoshizaki?",
+    "timestamp": "0:19:45",
+    "audio": "/audio/02/0.19.45.mp3"
+  },
+  "89": {
+    "speaker": "PENGUIN",
+    "character": "ペンコさん、どこ！ペンコさん！",
+    "definition": "Miss Penko, where did you go?! Miss Penko!",
+    "timestamp": "0:19:47",
+    "audio": "/audio/02/0.19.47.mp3"
+  },
+  "90": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん！",
+    "definition": "Mr. Penguin!",
+    "timestamp": "0:19:55",
+    "audio": "/audio/02/0.19.55.mp3"
+  },
+  "91": {
+    "speaker": "PANDA",
+    "character": "寝ている",
+    "definition": "He's asleep. I'm back...",
+    "timestamp": "0:20:04",
+    "audio": "/audio/02/0.20.04.mp3"
+  },
+  "92": {
+    "speaker": "SLOTH",
+    "character": "コンビニ行ってきたよ",
+    "definition": "I went... to the convenience store... No one's... here...",
+    "timestamp": "0:20:34",
+    "audio": "/audio/02/0.20.34.mp3"
+  },
+  "93": {
+    "speaker": "POLAR BEAR",
+    "character": "夜桜も綺麗だよ",
+    "definition": "The night blossoms are pretty, too.",
+    "timestamp": "0:20:46",
+    "audio": "/audio/02/0.20.46.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "昨日はびっくりしたね",
+    "definition": "Yesterday was pretty crazy.",
+    "timestamp": "0:21:22",
+    "audio": "/audio/02/0.21.22.mp3"
+  },
+  "95": {
+    "speaker": "POLAR BEAR",
+    "character": "毎年こうだから",
+    "definition": "It's like that every year.",
+    "timestamp": "0:21:25",
+    "audio": "/audio/02/0.21.25.mp3"
+  },
+  "96": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんって酒癖悪いね",
+    "definition": "Mr. Penguin doesn't handle  alcohol very well.",
+    "timestamp": "0:21:28",
+    "audio": "/audio/02/0.21.28.mp3"
+  },
+  "97": {
+    "speaker": "POLAR BEAR",
+    "character": "いらっしゃい",
+    "definition": "Hello.",
+    "timestamp": "0:21:34",
+    "audio": "/audio/02/0.21.34.mp3"
+  },
+  "98": {
+    "speaker": "PENGUIN",
+    "character": "なんか頭が痛いよ",
+    "definition": "My head is pounding for some reason.",
+    "timestamp": "0:21:35",
+    "audio": "/audio/02/0.21.35.mp3"
+  },
+  "99": {
+    "speaker": "PANDA",
+    "character": "あれ　それでペンコさんのパン屋さんで買ったの",
+    "definition": "Oh, did you buy that from the bakery Miss Penko works at?",
+    "timestamp": "0:21:39",
+    "audio": "/audio/02/0.21.39.mp3"
+  },
+  "100": {
+    "speaker": "PENGUIN",
+    "character": "え？なんで知ってるの",
+    "definition": "What?! How do you know about that?!",
+    "timestamp": "0:21:44",
+    "audio": "/audio/02/0.21.44.mp3"
+  },
+  "101": {
+    "speaker": "POLAR BEAR",
+    "character": "theペンコさん",
+    "definition": "\"The Miss Penko\"",
+    "timestamp": "0:21:47",
+    "audio": "/audio/02/0.21.47.mp3"
+  },
+  "102": {
+    "speaker": "PENGUIN",
+    "character": "なんで僕のポエムを　なんで知ってるの",
+    "definition": "How do you know about my poem?! Why do you know about it?!",
+    "timestamp": "0:21:49",
+    "audio": "/audio/02/0.21.49.mp3"
+  },
+  "103": {
+    "speaker": "PANDA",
+    "character": "ペンコさん　一生僕と同じ魚を食べてください",
+    "definition": "\"Please share the same fish with me for as long as we both live, Miss Penko!\"",
+    "timestamp": "0:21:54",
+    "audio": "/audio/02/0.21.54.mp3"
+  },
+  "104": {
+    "speaker": "PENGUIN",
+    "character": "僕が考えてるプロポーズの言葉！！",
+    "definition": "The words I was going to use for my proposal!",
+    "timestamp": "0:22:00",
+    "audio": "/audio/02/0.22.00.mp3"
+  },
+  "105": {
+    "speaker": "PENGUIN",
+    "character": "な　何でそれを！",
+    "definition": "How do you know about that?!",
+    "timestamp": "0:22:03",
+    "audio": "/audio/02/0.22.03.mp3"
+  },
+  "106": {
+    "speaker": "SASAKO",
+    "character": "覚えてないんですか",
+    "definition": "You don't remember?",
+    "timestamp": "0:22:06",
+    "audio": "/audio/02/0.22.06.mp3"
+  },
+  "107": {
+    "speaker": "PENGUIN",
+    "character": "誰にも話してないのに",
+    "definition": "I-I haven't even told anyone!",
+    "timestamp": "0:22:08",
+    "audio": "/audio/02/0.22.08.mp3"
+  },
+  "108": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンコさんが笑う",
+    "definition": "\"Miss Penko laughs.\"",
+    "timestamp": "0:22:11",
+    "audio": "/audio/02/0.22.11.mp3"
+  },
+  "109": {
+    "speaker": "PANDA",
+    "character": "ペンコさんが歩く",
+    "definition": "\"Miss Penko walks.\"",
+    "timestamp": "0:22:14",
+    "audio": "/audio/02/0.22.14.mp3"
+  },
+  "110": {
+    "speaker": "LLAMA",
+    "character": "ペンコさんが魚を食べる",
+    "definition": "\"Miss Penko eats fish.\" Knock it off!",
+    "timestamp": "0:22:16",
+    "audio": "/audio/02/0.22.16.mp3"
+  },
+  "111": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin!",
+    "timestamp": "0:23:57",
+    "audio": "/audio/02/0.23.57.mp3"
+  },
+  "112": {
+    "speaker": "PANDA",
+    "character": "プチ整形した？",
+    "definition": "Did you have some plastic surgery done?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/02/0.23.59.mp3"
+  },
+  "113": {
+    "speaker": "PENGUIN",
+    "character": "してないよ",
+    "definition": "No, I didn't.",
+    "timestamp": "0:24:00",
+    "audio": "/audio/02/0.24.00.mp3"
+  },
+  "114": {
+    "speaker": "PENGUIN",
+    "character": "逆に聞くけど、何でそう思った？",
+    "definition": "But let me ask, why did you think that?",
+    "timestamp": "0:24:01",
+    "audio": "/audio/02/0.24.01.mp3"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "じゃ僕も逆に聞くけど",
+    "definition": "But now let me ask, what do you think {\\i1}nata de coco{\\i0} is made from? How did you think to ask that?",
+    "timestamp": "0:24:04",
+    "audio": "/audio/02/0.24.04.mp3"
+  },
+  "116": {
+    "speaker": "PENGUIN",
+    "character": "しろくま君　纏めて",
+    "definition": "Could you wrap this up, Polar Bear?",
+    "timestamp": "0:24:11",
+    "audio": "/audio/02/0.24.11.mp3"
+  },
+  "117": {
+    "speaker": "POLAR BEAR",
+    "character": "次回のしろくまカフェは",
+    "definition": "The next {\\i1}Polar Bear's Café{\\i0}",
+    "timestamp": "0:24:14",
+    "audio": "/audio/02/0.24.14.mp3"
+  },
+  "118": {
+    "speaker": "POLAR BEAR",
+    "character": "実写版でお送りします　お楽しみに",
+    "definition": "will be presented in live-action. Enjoy!",
+    "timestamp": "0:24:16",
+    "audio": "/audio/02/0.24.16.mp3"
+  },
+  "119": {
+    "speaker": "PENGUIN",
+    "character": "送らないよ　アニメだよ",
+    "definition": "No, it won't! It'll be animated.",
+    "timestamp": "0:24:19",
+    "audio": "/audio/02/0.24.19.mp3"
+  },
+  "120": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy! ",
+    "timestamp": "0:24:21",
+    "audio": "/audio/02/0.24.21.mp3"
+  }
+}

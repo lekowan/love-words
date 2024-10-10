@@ -1,0 +1,2144 @@
+{
+  "1": {
+    "speaker": "PANDA",
+    "character": "{\\an8}こんにちは～",
+    "definition": "Hello!",
+    "timestamp": "0:01:39",
+    "audio": "/audio/31/0.01.39.mp3"
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "{\\an8}どうしたの",
+    "definition": "What's wrong?",
+    "timestamp": "0:01:42",
+    "audio": "/audio/31/0.01.42.mp3"
+  },
+  "3": {
+    "speaker": "SASAKO",
+    "character": "{\\an8}修羅場だよ",
+    "definition": "It's a battlefield.",
+    "timestamp": "0:01:43",
+    "audio": "/audio/31/0.01.43.mp3"
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "修羅場",
+    "definition": "Battlefield?",
+    "timestamp": "0:01:46",
+    "audio": "/audio/31/0.01.46.mp3"
+  },
+  "5": {
+    "speaker": "PENGUIN",
+    "character": "と　とりあえず何か頼む",
+    "definition": "A-Anyway, do you guys want to order something?",
+    "timestamp": "0:01:58",
+    "audio": "/audio/31/0.01.58.mp3"
+  },
+  "6": {
+    "speaker": "PENKO1",
+    "character": "ちゃんと選んでちょうだい",
+    "definition": "You need to choose!",
+    "timestamp": "0:02:01",
+    "audio": "/audio/31/0.02.01.mp3"
+  },
+  "7": {
+    "speaker": "PENKOS",
+    "character": "ちょうだい",
+    "definition": "Choose!",
+    "timestamp": "0:02:03",
+    "audio": "/audio/31/0.02.03.mp3"
+  },
+  "8": {
+    "speaker": "PENGUIN",
+    "character": "そ　そうだね…",
+    "definition": "Y-You're right...",
+    "timestamp": "0:02:06",
+    "audio": "/audio/31/0.02.06.mp3"
+  },
+  "9": {
+    "speaker": "PENGUIN",
+    "character": "じゃあ　ケーキセットの人",
+    "definition": "All right, who wants the cake set?",
+    "timestamp": "0:02:11",
+    "audio": "/audio/31/0.02.11.mp3"
+  },
+  "10": {
+    "speaker": "PENKO1",
+    "character": "メニューじゃないわよ",
+    "definition": "We're not talking about the menu! We're saying that you need to choose one of us!",
+    "timestamp": "0:02:15",
+    "audio": "/audio/31/0.02.15.mp3"
+  },
+  "11": {
+    "speaker": "PENKOS",
+    "character": "言ってるの",
+    "definition": "One of us!",
+    "timestamp": "0:02:19",
+    "audio": "/audio/31/0.02.19.mp3"
+  },
+  "12": {
+    "speaker": "POLAR BEAR",
+    "character": "追い込まれてるね…",
+    "definition": "They've got him cornered.",
+    "timestamp": "0:02:22",
+    "audio": "/audio/31/0.02.22.mp3"
+  },
+  "13": {
+    "speaker": "LLAMA",
+    "character": "そうですね",
+    "definition": "Indeed.",
+    "timestamp": "0:02:24",
+    "audio": "/audio/31/0.02.24.mp3"
+  },
+  "14": {
+    "speaker": "PENGUIN",
+    "character": "今日は大漁だ",
+    "definition": "Yeah, what a haul!",
+    "timestamp": "0:02:30",
+    "audio": "/audio/31/0.02.30.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "もう食べられないよ",
+    "definition": "I can't eat any more!",
+    "timestamp": "0:02:36",
+    "audio": "/audio/31/0.02.36.mp3"
+  },
+  "16": {
+    "speaker": "POLAR BEAR",
+    "character": "魂がどこかへ旅立ってるね",
+    "definition": "I think his soul has wandered off somewhere.",
+    "timestamp": "0:02:43",
+    "audio": "/audio/31/0.02.43.mp3"
+  },
+  "17": {
+    "speaker": "LLAMA",
+    "character": "辛いですよね　ペンギンさん",
+    "definition": "It must be hard for him. Each of them have their own unique features.",
+    "timestamp": "0:02:47",
+    "audio": "/audio/31/0.02.47.mp3"
+  },
+  "18": {
+    "speaker": "PANDA",
+    "character": "ラマさん　ペン子さんたちの 見分けついてるの",
+    "definition": "You can tell the Penkos apart, Mr. Llama?",
+    "timestamp": "0:02:54",
+    "audio": "/audio/31/0.02.54.mp3"
+  },
+  "19": {
+    "speaker": "LLAMA",
+    "character": "つかないんですか",
+    "definition": "You mean you can't?",
+    "timestamp": "0:02:59",
+    "audio": "/audio/31/0.02.59.mp3"
+  },
+  "20": {
+    "speaker": "POLAR BEAR",
+    "character": "どこが違うの",
+    "definition": "What's different about them?",
+    "timestamp": "0:03:00",
+    "audio": "/audio/31/0.03.00.mp3"
+  },
+  "21": {
+    "speaker": "LLAMA",
+    "character": "ほら",
+    "definition": "Look.",
+    "timestamp": "0:03:02",
+    "audio": "/audio/31/0.03.02.mp3"
+  },
+  "22": {
+    "speaker": "LLAMA",
+    "character": "スラッとしてるのが　ペン子さん",
+    "definition": "The slim one is Miss Penko.",
+    "timestamp": "0:03:04",
+    "audio": "/audio/31/0.03.04.mp3"
+  },
+  "23": {
+    "speaker": "LLAMA",
+    "character": "ちょっと羽に クセがあるのがペン美さん",
+    "definition": "The one with a unusually shaped beak is Miss Penmi.",
+    "timestamp": "0:03:08",
+    "audio": "/audio/31/0.03.08.mp3"
+  },
+  "24": {
+    "speaker": "LLAMA",
+    "character": "ペン奈さんは　少しボーイッシュで",
+    "definition": "Miss Penna is slightly boyish.",
+    "timestamp": "0:03:13",
+    "audio": "/audio/31/0.03.13.mp3"
+  },
+  "25": {
+    "speaker": "LLAMA",
+    "character": "ペン花さんは　少しコケティッシュ",
+    "definition": "Miss Penka is slightly coquettish.",
+    "timestamp": "0:03:17",
+    "audio": "/audio/31/0.03.17.mp3"
+  },
+  "26": {
+    "speaker": "LLAMA",
+    "character": "和風美人なのが　ペン乃さん",
+    "definition": "Miss Penno is a Japanese beauty.",
+    "timestamp": "0:03:21",
+    "audio": "/audio/31/0.03.21.mp3"
+  },
+  "27": {
+    "speaker": "LLAMA",
+    "character": "いちばん色気があるのは ペンニュエルさんだし",
+    "definition": "The sexiest is Miss Pennuelle,",
+    "timestamp": "0:03:24",
+    "audio": "/audio/31/0.03.24.mp3"
+  },
+  "28": {
+    "speaker": "LLAMA",
+    "character": "ペンジョリーナさんは いちばんわかりやすいですね",
+    "definition": "and Miss Penjolina is the easiest to differentiate.",
+    "timestamp": "0:03:28",
+    "audio": "/audio/31/0.03.28.mp3"
+  },
+  "29": {
+    "speaker": "LLAMA",
+    "character": "くちばしが ふっくらしてますから",
+    "definition": "Her beak is plump.",
+    "timestamp": "0:03:31",
+    "audio": "/audio/31/0.03.31.mp3"
+  },
+  "30": {
+    "speaker": "SASAKO",
+    "character": "私にはみんな 同じに見えます",
+    "definition": "They all look exactly the same to me.",
+    "timestamp": "0:03:34",
+    "audio": "/audio/31/0.03.34.mp3"
+  },
+  "31": {
+    "speaker": "LLAMA",
+    "character": "信じられませんね",
+    "definition": "That's hard to believe.",
+    "timestamp": "0:03:38",
+    "audio": "/audio/31/0.03.38.mp3"
+  },
+  "32": {
+    "speaker": "POLAR BEAR",
+    "character": "あのリボンは 目印にならないんだっけ",
+    "definition": "I thought those ribbons were supposed to help with telling them apart.",
+    "timestamp": "0:03:40",
+    "audio": "/audio/31/0.03.40.mp3"
+  },
+  "33": {
+    "speaker": "SASAKO",
+    "character": "ときどき 取り替えっこしてるみたいです",
+    "definition": "It appears that they're trading them every now and then.",
+    "timestamp": "0:03:43",
+    "audio": "/audio/31/0.03.43.mp3"
+  },
+  "34": {
+    "speaker": "LLAMA",
+    "character": "あっ　きますよ",
+    "definition": "Oh, here it comes.",
+    "timestamp": "0:03:47",
+    "audio": "/audio/31/0.03.47.mp3"
+  },
+  "35": {
+    "speaker": "PENKO",
+    "character": "ちょっと聞いてるの",
+    "definition": "Hey, are you listening?",
+    "timestamp": "0:03:51",
+    "audio": "/audio/31/0.03.51.mp3"
+  },
+  "36": {
+    "speaker": "PENKOS",
+    "character": "聞いてるの",
+    "definition": "Are you listening?",
+    "timestamp": "0:03:53",
+    "audio": "/audio/31/0.03.53.mp3"
+  },
+  "37": {
+    "speaker": "PENGUIN",
+    "character": "は　はい…",
+    "definition": "Y-Yes... You're able to tell us apart now, right?",
+    "timestamp": "0:03:54",
+    "audio": "/audio/31/0.03.54.mp3"
+  },
+  "38": {
+    "speaker": "PENGUIN",
+    "character": "も　もちろんだよ",
+    "definition": "O-Of course!",
+    "timestamp": "0:04:02",
+    "audio": "/audio/31/0.04.02.mp3"
+  },
+  "39": {
+    "speaker": "PENKO",
+    "character": "そう　だったら私が 誰だか言ってみて",
+    "definition": "I see. In that case, who am I? Huh?",
+    "timestamp": "0:04:05",
+    "audio": "/audio/31/0.04.05.mp3"
+  },
+  "40": {
+    "speaker": "PENKO2",
+    "character": "私は",
+    "definition": "What about me?",
+    "timestamp": "0:04:11",
+    "audio": "/audio/31/0.04.11.mp3"
+  },
+  "41": {
+    "speaker": "PENKO3",
+    "character": "私は",
+    "definition": "And me?",
+    "timestamp": "0:04:12",
+    "audio": "/audio/31/0.04.12.mp3"
+  },
+  "42": {
+    "speaker": "PENKO4",
+    "character": "私は",
+    "definition": "And me?",
+    "timestamp": "0:04:13",
+    "audio": "/audio/31/0.04.13.mp3"
+  },
+  "43": {
+    "speaker": "PENKO5",
+    "character": "私は",
+    "definition": "And me?",
+    "timestamp": "0:04:15",
+    "audio": "/audio/31/0.04.15.mp3"
+  },
+  "44": {
+    "speaker": "PENKO6",
+    "character": "私は",
+    "definition": "And me?",
+    "timestamp": "0:04:16",
+    "audio": "/audio/31/0.04.16.mp3"
+  },
+  "45": {
+    "speaker": "PENKO7",
+    "character": "私は",
+    "definition": "And me?",
+    "timestamp": "0:04:17",
+    "audio": "/audio/31/0.04.17.mp3"
+  },
+  "46": {
+    "speaker": "PENGUIN",
+    "character": "え　えっと…",
+    "definition": "U-Um...",
+    "timestamp": "0:04:20",
+    "audio": "/audio/31/0.04.20.mp3"
+  },
+  "47": {
+    "speaker": "PENKO",
+    "character": "間違えたら許さないわよ",
+    "definition": "If you make a mistake, you'll be sorry.",
+    "timestamp": "0:04:25",
+    "audio": "/audio/31/0.04.25.mp3"
+  },
+  "48": {
+    "speaker": "LLAMA",
+    "character": "放っておいて大丈夫ですかね",
+    "definition": "I wonder if we should be leaving them alone. Huh?",
+    "timestamp": "0:04:31",
+    "audio": "/audio/31/0.04.31.mp3"
+  },
+  "49": {
+    "speaker": "LLAMA",
+    "character": "コウテイペンギンの女の子は",
+    "definition": "I hear that female emperor penguins",
+    "timestamp": "0:04:36",
+    "audio": "/audio/31/0.04.36.mp3"
+  },
+  "50": {
+    "speaker": "LLAMA",
+    "character": "男の子の取り合いで激しい争いをするそうですよ",
+    "definition": "brutally fight over male emperor penguins.",
+    "timestamp": "0:04:38",
+    "audio": "/audio/31/0.04.38.mp3"
+  },
+  "51": {
+    "speaker": "SASAKO",
+    "character": "ケンカはまずいですよ",
+    "definition": "A fight would not be good.",
+    "timestamp": "0:04:44",
+    "audio": "/audio/31/0.04.44.mp3"
+  },
+  "52": {
+    "speaker": "LLAMA",
+    "character": "笹子さん　このメモをペンギンさんに",
+    "definition": "Miss Sasako, please give this memo to Mr. Penguin.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/31/0.04.47.mp3"
+  },
+  "53": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "Huh?",
+    "timestamp": "0:04:50",
+    "audio": "/audio/31/0.04.50.mp3"
+  },
+  "54": {
+    "speaker": "PENKO?",
+    "character": "さあ　私が誰だか言ってみて",
+    "definition": "Now say which one I am.",
+    "timestamp": "0:04:52",
+    "audio": "/audio/31/0.04.52.mp3"
+  },
+  "55": {
+    "speaker": "PENGUIN",
+    "character": "え　えっと…",
+    "definition": "U-Um...",
+    "timestamp": "0:04:55",
+    "audio": "/audio/31/0.04.55.mp3"
+  },
+  "56": {
+    "speaker": "SASAKO",
+    "character": "すみません　そろそろ オーダーよろしいでしょうか",
+    "definition": "Pardon the interruption, but are you ready to order?",
+    "timestamp": "0:04:58",
+    "audio": "/audio/31/0.04.58.mp3"
+  },
+  "57": {
+    "speaker": "PENKO?",
+    "character": "あら　ごめんなさい",
+    "definition": "Oh, we're sorry.",
+    "timestamp": "0:05:02",
+    "audio": "/audio/31/0.05.02.mp3"
+  },
+  "58": {
+    "speaker": "PENKO?",
+    "character": "どれがいいかしら",
+    "definition": "I wonder what I should get?",
+    "timestamp": "0:05:05",
+    "audio": "/audio/31/0.05.05.mp3"
+  },
+  "59": {
+    "speaker": "PENKO?",
+    "character": "私　パフェ食べたいんだけど",
+    "definition": "I want to get a parfait.",
+    "timestamp": "0:05:06",
+    "audio": "/audio/31/0.05.06.mp3"
+  },
+  "60": {
+    "speaker": "",
+    "character": "ペンギンさん　これを",
+    "definition": "Here, Mr. Penguin.",
+    "timestamp": "0:05:09",
+    "audio": "/audio/31/0.05.09.mp3"
+  },
+  "61": {
+    "speaker": "",
+    "character": "何",
+    "definition": "What?",
+    "timestamp": "0:05:10",
+    "audio": "/audio/31/0.05.10.mp3"
+  },
+  "62": {
+    "speaker": "SASAKO",
+    "character": "では　ご注文 うけたまわりました",
+    "definition": "Thank you for your order.",
+    "timestamp": "0:05:22",
+    "audio": "/audio/31/0.05.22.mp3"
+  },
+  "63": {
+    "speaker": "SASAKO",
+    "character": "お待ちください",
+    "definition": "It will be out shortly. Okay.",
+    "timestamp": "0:05:24",
+    "audio": "/audio/31/0.05.24.mp3"
+  },
+  "64": {
+    "speaker": "SASAKO",
+    "character": "頑張ってくださいね",
+    "definition": "Good luck.",
+    "timestamp": "0:05:28",
+    "audio": "/audio/31/0.05.28.mp3"
+  },
+  "65": {
+    "speaker": "PENGUIN",
+    "character": "うん",
+    "definition": "Thanks!",
+    "timestamp": "0:05:29",
+    "audio": "/audio/31/0.05.29.mp3"
+  },
+  "66": {
+    "speaker": "PENKO",
+    "character": "さあ　私が誰か言ってみて",
+    "definition": "Now say which one I am.",
+    "timestamp": "0:05:37",
+    "audio": "/audio/31/0.05.37.mp3"
+  },
+  "67": {
+    "speaker": "PENGUIN",
+    "character": "キミは　ペン子さんだね",
+    "definition": "You're... Miss Penko, aren't you?!",
+    "timestamp": "0:05:41",
+    "audio": "/audio/31/0.05.41.mp3"
+  },
+  "68": {
+    "speaker": "PENKO",
+    "character": "えっ　えぇ　そうよ",
+    "definition": "Huh? Yes, I am.",
+    "timestamp": "0:05:45",
+    "audio": "/audio/31/0.05.45.mp3"
+  },
+  "69": {
+    "speaker": "PENGUIN",
+    "character": "そして　キミが　ペン美さん",
+    "definition": "And you're Miss Penmi! Huh? Yes, I am!",
+    "timestamp": "0:05:50",
+    "audio": "/audio/31/0.05.50.mp3"
+  },
+  "70": {
+    "speaker": "PENGUIN",
+    "character": "キミは　ペン乃さん",
+    "definition": "You're Miss Penno!",
+    "timestamp": "0:05:56",
+    "audio": "/audio/31/0.05.56.mp3"
+  },
+  "71": {
+    "speaker": "PENNO",
+    "character": "そうよ",
+    "definition": "I am.",
+    "timestamp": "0:05:58",
+    "audio": "/audio/31/0.05.58.mp3"
+  },
+  "72": {
+    "speaker": "PENGUIN",
+    "character": "あなたが　ペン奈さん",
+    "definition": "You're Miss Penna!",
+    "timestamp": "0:06:00",
+    "audio": "/audio/31/0.06.00.mp3"
+  },
+  "73": {
+    "speaker": "PENNA",
+    "character": "えぇ…",
+    "definition": "Yes.",
+    "timestamp": "0:06:02",
+    "audio": "/audio/31/0.06.02.mp3"
+  },
+  "74": {
+    "speaker": "PENGUIN",
+    "character": "そして　ペン花さん",
+    "definition": "And you're Miss Penka!",
+    "timestamp": "0:06:04",
+    "audio": "/audio/31/0.06.04.mp3"
+  },
+  "75": {
+    "speaker": "PENKA",
+    "character": "はい",
+    "definition": "Yes!",
+    "timestamp": "0:06:06",
+    "audio": "/audio/31/0.06.06.mp3"
+  },
+  "76": {
+    "speaker": "PENGUIN",
+    "character": "そして　キミが　ペンニュエルさん",
+    "definition": "And you're Miss Pennuelle!",
+    "timestamp": "0:06:08",
+    "audio": "/audio/31/0.06.08.mp3"
+  },
+  "77": {
+    "speaker": "PEN?",
+    "character": "えっ",
+    "definition": "What?",
+    "timestamp": "0:06:11",
+    "audio": "/audio/31/0.06.11.mp3"
+  },
+  "78": {
+    "speaker": "PENGUIN",
+    "character": "あっ　間違えた",
+    "definition": "Oh, my mistake.",
+    "timestamp": "0:06:13",
+    "audio": "/audio/31/0.06.13.mp3"
+  },
+  "79": {
+    "speaker": "PENGUIN",
+    "character": "え～っと…　あれ ペンニュエルさんは…",
+    "definition": "Um... Huh? Miss Pennuelle is...",
+    "timestamp": "0:06:15",
+    "audio": "/audio/31/0.06.15.mp3"
+  },
+  "80": {
+    "speaker": "PENGUIN",
+    "character": "赤がペン子さんで　白がペン花さん",
+    "definition": "Red is Miss Penko, white is Miss Penka.",
+    "timestamp": "0:06:19",
+    "audio": "/audio/31/0.06.19.mp3"
+  },
+  "81": {
+    "speaker": "PENGUIN",
+    "character": "ペン美さんは　水色で…",
+    "definition": "Miss Penmi is blue... Huh?",
+    "timestamp": "0:06:23",
+    "audio": "/audio/31/0.06.23.mp3"
+  },
+  "82": {
+    "speaker": "PEN?",
+    "character": "もう一度　お願い",
+    "definition": "Let's try this one more time...",
+    "timestamp": "0:06:43",
+    "audio": "/audio/31/0.06.43.mp3"
+  },
+  "83": {
+    "speaker": "POLAR BEAR",
+    "character": "作戦失敗だね",
+    "definition": "Looks like the plan failed.",
+    "timestamp": "0:06:50",
+    "audio": "/audio/31/0.06.50.mp3"
+  },
+  "84": {
+    "speaker": "SASAKO",
+    "character": "あげくに シャッフルされちゃいましたよ",
+    "definition": "In the end they did a shuffle.",
+    "timestamp": "0:06:52",
+    "audio": "/audio/31/0.06.52.mp3"
+  },
+  "85": {
+    "speaker": "LLAMA",
+    "character": "万事休すですね",
+    "definition": "There's nothing more that can be done.",
+    "timestamp": "0:06:55",
+    "audio": "/audio/31/0.06.55.mp3"
+  },
+  "86": {
+    "speaker": "PANDA",
+    "character": "もう　めんどくさいからラマさんと つきあっちゃえばいいのに",
+    "definition": "This is too troublesome. They should just go out with you, Mr. Llama.",
+    "timestamp": "0:06:57",
+    "audio": "/audio/31/0.06.57.mp3"
+  },
+  "87": {
+    "speaker": "LLAMA",
+    "character": "静かに　ペンギンさんが動きます",
+    "definition": "Quiet. Mr. Penguin is making his move.",
+    "timestamp": "0:07:01",
+    "audio": "/audio/31/0.07.01.mp3"
+  },
+  "88": {
+    "speaker": "PENGUIN",
+    "character": "名前が なんだというのだろうか…",
+    "definition": "What's in a name?",
+    "timestamp": "0:07:07",
+    "audio": "/audio/31/0.07.07.mp3"
+  },
+  "89": {
+    "speaker": "PEN?",
+    "character": "なんですって",
+    "definition": "What?!",
+    "timestamp": "0:07:11",
+    "audio": "/audio/31/0.07.11.mp3"
+  },
+  "90": {
+    "speaker": "PENGUIN",
+    "character": "僕は　キミたちの名前を 好きになったわけじゃない",
+    "definition": "I didn't fall in love with your names! I love you all for who you are, just the way you are!",
+    "timestamp": "0:07:15",
+    "audio": "/audio/31/0.07.15.mp3"
+  },
+  "91": {
+    "speaker": "LLAMA",
+    "character": "追い詰められすぎて 力技に出ましたね",
+    "definition": "He's cornered, so he's going with a power move.",
+    "timestamp": "0:07:28",
+    "audio": "/audio/31/0.07.28.mp3"
+  },
+  "92": {
+    "speaker": "POLAR BEAR",
+    "character": "うまく　逃げ切れるといいね",
+    "definition": "Hopefully he'll be able to escape.",
+    "timestamp": "0:07:32",
+    "audio": "/audio/31/0.07.32.mp3"
+  },
+  "93": {
+    "speaker": "PENGUIN",
+    "character": "そう　誰が誰かを 今　僕が言ったからと言って",
+    "definition": "That's right! What point is there in me saying",
+    "timestamp": "0:07:34",
+    "audio": "/audio/31/0.07.34.mp3"
+  },
+  "94": {
+    "speaker": "",
+    "character": "なんの意味があるんでしょう",
+    "definition": "who is who right now?",
+    "timestamp": "0:07:38",
+    "audio": "/audio/31/0.07.38.mp3"
+  },
+  "95": {
+    "speaker": "PENGUIN",
+    "character": "ありません ありませんよ",
+    "definition": "There's none. There's no point at all!",
+    "timestamp": "0:07:39",
+    "audio": "/audio/31/0.07.39.mp3"
+  },
+  "96": {
+    "speaker": "PENGUIN",
+    "character": "花が美しいのは 名前のせいじゃない",
+    "definition": "Your feathers are not beautiful because of your name!",
+    "timestamp": "0:07:43",
+    "audio": "/audio/31/0.07.43.mp3"
+  },
+  "97": {
+    "speaker": "PENGUIN",
+    "character": "存在そのものが美しいのです",
+    "definition": "Existence itself is what is beautiful! Yes, just like all of you.",
+    "timestamp": "0:07:47",
+    "audio": "/audio/31/0.07.47.mp3"
+  },
+  "98": {
+    "speaker": "PENKOS",
+    "character": "まっ…　まぁ～",
+    "definition": "Oh... Oh my.",
+    "timestamp": "0:07:53",
+    "audio": "/audio/31/0.07.53.mp3"
+  },
+  "99": {
+    "speaker": "PENGUIN",
+    "character": "だから　どうか そんな些細なことは気にせず",
+    "definition": "So please, don't concern yourself with such trivial matters.",
+    "timestamp": "0:07:58",
+    "audio": "/audio/31/0.07.58.mp3"
+  },
+  "100": {
+    "speaker": "PENGUIN",
+    "character": "もっと愛を感じてほしい",
+    "definition": "Just feel the love!",
+    "timestamp": "0:08:01",
+    "audio": "/audio/31/0.08.01.mp3"
+  },
+  "101": {
+    "speaker": "PENGUIN",
+    "character": "逃げ切れた",
+    "definition": "Did it work?",
+    "timestamp": "0:08:10",
+    "audio": "/audio/31/0.08.10.mp3"
+  },
+  "102": {
+    "speaker": "PENKO",
+    "character": "えっ　ほんと～",
+    "definition": "All right. Huh? Really?",
+    "timestamp": "0:08:12",
+    "audio": "/audio/31/0.08.12.mp3"
+  },
+  "103": {
+    "speaker": "PENKO",
+    "character": "で　誰を選ぶの",
+    "definition": "So, who will it be?",
+    "timestamp": "0:08:16",
+    "audio": "/audio/31/0.08.16.mp3"
+  },
+  "104": {
+    "speaker": "PENGUIN",
+    "character": "そう　そうね…",
+    "definition": "Oh. That's right.",
+    "timestamp": "0:08:22",
+    "audio": "/audio/31/0.08.22.mp3"
+  },
+  "105": {
+    "speaker": "PENGUIN",
+    "character": "そうでしたね…",
+    "definition": "You're absolutely right.",
+    "timestamp": "0:08:24",
+    "audio": "/audio/31/0.08.24.mp3"
+  },
+  "106": {
+    "speaker": "SASAKO",
+    "character": "ダメでしたね…",
+    "definition": "It was no use.",
+    "timestamp": "0:08:27",
+    "audio": "/audio/31/0.08.27.mp3"
+  },
+  "107": {
+    "speaker": "LLAMA",
+    "character": "そんなに　甘くないですよね",
+    "definition": "That would have been too easy.",
+    "timestamp": "0:08:28",
+    "audio": "/audio/31/0.08.28.mp3"
+  },
+  "108": {
+    "speaker": "POLAR BEAR",
+    "character": "このままだと　やっぱり…",
+    "definition": "If things continue like this...",
+    "timestamp": "0:08:31",
+    "audio": "/audio/31/0.08.31.mp3"
+  },
+  "109": {
+    "speaker": "PENGUIN",
+    "character": "あぁっ…ぺんみ　ぺんこ　あぁ～っペンにゅ",
+    "definition": "Ow, ow, ow, Pe-Penm— Ow, Penk— Ow, Pennu—",
+    "timestamp": "0:08:36",
+    "audio": "/audio/31/0.08.36.mp3"
+  },
+  "110": {
+    "speaker": "POLAR BEAR",
+    "character": "なんてことに…",
+    "definition": "Things will end like that.",
+    "timestamp": "0:08:48",
+    "audio": "/audio/31/0.08.48.mp3"
+  },
+  "111": {
+    "speaker": "SASAKO",
+    "character": "変な誇張　しないでください",
+    "definition": "Please stop with the weird exaggerations.",
+    "timestamp": "0:08:50",
+    "audio": "/audio/31/0.08.50.mp3"
+  },
+  "112": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ　笹子さん　止めてきて",
+    "definition": "All right, Miss Sasako. Please go stop them. Huh?",
+    "timestamp": "0:08:52",
+    "audio": "/audio/31/0.08.52.mp3"
+  },
+  "113": {
+    "speaker": "SASAKO",
+    "character": "怖いです…",
+    "definition": "I'm scared...",
+    "timestamp": "0:09:01",
+    "audio": "/audio/31/0.09.01.mp3"
+  },
+  "114": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん　お願いします",
+    "definition": "You go, Mr. Polar Bear.",
+    "timestamp": "0:09:02",
+    "audio": "/audio/31/0.09.02.mp3"
+  },
+  "115": {
+    "speaker": "POLAR BEAR",
+    "character": "おばあちゃんの遺言で",
+    "definition": "According to my grandma's will,",
+    "timestamp": "0:09:04",
+    "audio": "/audio/31/0.09.04.mp3"
+  },
+  "116": {
+    "speaker": "POLAR BEAR",
+    "character": "今は　カウンターから出ちゃダメって 言われてるんだ",
+    "definition": "I can't come out from behind the counter right now.",
+    "timestamp": "0:09:06",
+    "audio": "/audio/31/0.09.06.mp3"
+  },
+  "117": {
+    "speaker": "SASAKO",
+    "character": "ウソが　雑すぎます",
+    "definition": "That's a terrible lie.",
+    "timestamp": "0:09:10",
+    "audio": "/audio/31/0.09.10.mp3"
+  },
+  "118": {
+    "speaker": "POLAR BEAR",
+    "character": "ラマさん　行かない",
+    "definition": "How about you go, Mr. Llama?",
+    "timestamp": "0:09:12",
+    "audio": "/audio/31/0.09.12.mp3"
+  },
+  "119": {
+    "speaker": "LLAMA",
+    "character": "もう　パンダくんが行きましたよ",
+    "definition": "Panda's already over there.",
+    "timestamp": "0:09:14",
+    "audio": "/audio/31/0.09.14.mp3"
+  },
+  "120": {
+    "speaker": "BOTH",
+    "character": "ええ？",
+    "definition": "What?",
+    "timestamp": "0:09:17",
+    "audio": "/audio/31/0.09.17.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "あの～　ちょっといいですか",
+    "definition": "Excuse me, could I have a moment?",
+    "timestamp": "0:09:18",
+    "audio": "/audio/31/0.09.18.mp3"
+  },
+  "122": {
+    "speaker": "PENKOS",
+    "character": "何",
+    "definition": "What?! P-Panda, you don't need to be here! Go away!",
+    "timestamp": "0:09:21",
+    "audio": "/audio/31/0.09.21.mp3"
+  },
+  "123": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんのどこが好きなの",
+    "definition": "What do you like about Mr. Penguin?",
+    "timestamp": "0:09:29",
+    "audio": "/audio/31/0.09.29.mp3"
+  },
+  "124": {
+    "speaker": "PENKOS",
+    "character": "え？",
+    "definition": "Huh?",
+    "timestamp": "0:09:32",
+    "audio": "/audio/31/0.09.32.mp3"
+  },
+  "125": {
+    "speaker": "PANDA",
+    "character": "僕イマイチペンギンさんのよさって わからないから興味津々",
+    "definition": "I still don't know what's so good about Mr. Penguin, so I'm really interested.",
+    "timestamp": "0:09:33",
+    "audio": "/audio/31/0.09.33.mp3"
+  },
+  "126": {
+    "speaker": "PEN?",
+    "character": "それは　楽しい遊園地に 連れていってくれたり…",
+    "definition": "Well, he took me to a fun amusement park.",
+    "timestamp": "0:09:40",
+    "audio": "/audio/31/0.09.40.mp3"
+  },
+  "127": {
+    "speaker": "PEN?",
+    "character": "スリル満点ね　ペンギンさん",
+    "definition": "This is so exciting, isn't it, Mr. Penguin?! Huh?",
+    "timestamp": "0:09:48",
+    "audio": "/audio/31/0.09.48.mp3"
+  },
+  "128": {
+    "speaker": "PEN?",
+    "character": "えっと～ カラオケに連れて行ってくれたり",
+    "definition": "Let's see... Well, he took me to karaoke.",
+    "timestamp": "0:09:56",
+    "audio": "/audio/31/0.09.56.mp3"
+  },
+  "129": {
+    "speaker": "PENGUIN",
+    "character": "９０年代シリーズ　火がついちゃった",
+    "definition": "I'm on fire with songs from the 90's!",
+    "timestamp": "0:10:01",
+    "audio": "/audio/31/0.10.01.mp3"
+  },
+  "130": {
+    "speaker": "PENGUIN",
+    "character": "こりゃ止まらないよ",
+    "definition": "It ain't gonna stop!",
+    "timestamp": "0:10:04",
+    "audio": "/audio/31/0.10.04.mp3"
+  },
+  "131": {
+    "speaker": "",
+    "character": "誰も僕を止められないよ",
+    "definition": "Ain't no one gonna stop me!",
+    "timestamp": "0:10:06",
+    "audio": "/audio/31/0.10.06.mp3"
+  },
+  "132": {
+    "speaker": "PENGUIN",
+    "character": "では聞いてください エイベックス　９０年代編",
+    "definition": "All right, here we go. The Avex 90's songs...",
+    "timestamp": "0:10:08",
+    "audio": "/audio/31/0.10.08.mp3"
+  },
+  "133": {
+    "speaker": "PEN?",
+    "character": "ほらほら～　すてきなディナーに 連れて行ってくれたり",
+    "definition": "Huh? Well, you know. He took me out to a wonderful dinner. One more bottle! Let's get another bottle over here! Huh?",
+    "timestamp": "0:10:13",
+    "audio": "/audio/31/0.10.13.mp3"
+  },
+  "134": {
+    "speaker": "PENKOS",
+    "character": "あとは…",
+    "definition": "Other than that...",
+    "timestamp": "0:10:35",
+    "audio": "/audio/31/0.10.35.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "順番に会うのは大変だから",
+    "definition": "It'll be hard to meet with you separately... So from now on, let's all meet together. All together! Okay?",
+    "timestamp": "0:10:37",
+    "audio": "/audio/31/0.10.37.mp3"
+  },
+  "136": {
+    "speaker": "PENKO",
+    "character": "あれ　なんで好きなのかしら",
+    "definition": "Huh? Why do I like him?",
+    "timestamp": "0:10:46",
+    "audio": "/audio/31/0.10.46.mp3"
+  },
+  "137": {
+    "speaker": "PEN?",
+    "character": "ほんとね",
+    "definition": "No kidding.",
+    "timestamp": "0:10:49",
+    "audio": "/audio/31/0.10.49.mp3"
+  },
+  "138": {
+    "speaker": "PEN?",
+    "character": "よくよく考えたら なんで好きなのかしらね",
+    "definition": "The more I think about it, why do we even like him?",
+    "timestamp": "0:10:50",
+    "audio": "/audio/31/0.10.50.mp3"
+  },
+  "139": {
+    "speaker": "PENGUIN",
+    "character": "そ…　そりゃあ いいところがあったからでしょ",
+    "definition": "Th-That's because there was something good about me, right?",
+    "timestamp": "0:10:55",
+    "audio": "/audio/31/0.10.55.mp3"
+  },
+  "140": {
+    "speaker": "PENGUIN",
+    "character": "な…　なんでしょう",
+    "definition": "Y-Yes?",
+    "timestamp": "0:11:02",
+    "audio": "/audio/31/0.11.02.mp3"
+  },
+  "141": {
+    "speaker": "PENKOs",
+    "character": "さよなら",
+    "definition": "Goodbye.",
+    "timestamp": "0:11:06",
+    "audio": "/audio/31/0.11.06.mp3"
+  },
+  "142": {
+    "speaker": "PENGUIN",
+    "character": "ええええ～～～？！",
+    "definition": "What?!",
+    "timestamp": "0:11:09",
+    "audio": "/audio/31/0.11.09.mp3"
+  },
+  "143": {
+    "speaker": "SASAKO",
+    "character": "そっとしておいてあげましょうか",
+    "definition": "We should probably let him be.",
+    "timestamp": "0:11:23",
+    "audio": "/audio/31/0.11.23.mp3"
+  },
+  "144": {
+    "speaker": "POLAR BEAR",
+    "character": "だね",
+    "definition": "Yeah.",
+    "timestamp": "0:11:25",
+    "audio": "/audio/31/0.11.25.mp3"
+  },
+  "145": {
+    "speaker": "PENGUIN",
+    "character": "ねぇ",
+    "definition": "Hey.",
+    "timestamp": "0:11:28",
+    "audio": "/audio/31/0.11.28.mp3"
+  },
+  "146": {
+    "speaker": "PENGUIN",
+    "character": "僕って いいとこ一つもないのかな",
+    "definition": "Is there not a single good thing about me?",
+    "timestamp": "0:11:30",
+    "audio": "/audio/31/0.11.30.mp3"
+  },
+  "147": {
+    "speaker": "LLAMA",
+    "character": "え…　そっちを 気にしてたんですか",
+    "definition": "Oh, you were worried about that?",
+    "timestamp": "0:11:35",
+    "audio": "/audio/31/0.11.35.mp3"
+  },
+  "148": {
+    "speaker": "POLAR BEAR",
+    "character": "なんにも無いのが ペンギンさんのいいところだよ",
+    "definition": "I think not having any is what's good about you, Mr. Penguin.",
+    "timestamp": "0:11:38",
+    "audio": "/audio/31/0.11.38.mp3"
+  },
+  "149": {
+    "speaker": "PENGUIN",
+    "character": "一つくらいあるよ",
+    "definition": "There has to be at least one.",
+    "timestamp": "0:11:43",
+    "audio": "/audio/31/0.11.43.mp3"
+  },
+  "150": {
+    "speaker": "PENGUIN",
+    "character": "いや　たくさんあるでしょ",
+    "definition": "No, there have to be lots!",
+    "timestamp": "0:11:44",
+    "audio": "/audio/31/0.11.44.mp3"
+  },
+  "151": {
+    "speaker": "POLAR BEAR",
+    "character": "まあまあ　修羅場が 終わってよかったじゃない",
+    "definition": "Now, now. At least your dilemma is over with.",
+    "timestamp": "0:11:46",
+    "audio": "/audio/31/0.11.46.mp3"
+  },
+  "152": {
+    "speaker": "PANDA",
+    "character": "かんぱ～い",
+    "definition": "Cheers! Thanks for all your hard work.",
+    "timestamp": "0:11:50",
+    "audio": "/audio/31/0.11.50.mp3"
+  },
+  "153": {
+    "speaker": "PENGUIN",
+    "character": "ちょっとまってよ",
+    "definition": "Hey, wait a minute!",
+    "timestamp": "0:11:53",
+    "audio": "/audio/31/0.11.53.mp3"
+  },
+  "154": {
+    "speaker": "LLAMA",
+    "character": "さぁ　ペンギンさんを 胴上げしましょう",
+    "definition": "All right. Let's toss Mr. Penguin up in the air.",
+    "timestamp": "0:11:55",
+    "audio": "/audio/31/0.11.55.mp3"
+  },
+  "155": {
+    "speaker": "PANDA",
+    "character": "せ～の　ワッショイ　ワッショイ…",
+    "definition": "Ready and...",
+    "timestamp": "0:11:57",
+    "audio": "/audio/31/0.11.57.mp3"
+  },
+  "156": {
+    "speaker": "PENGUIN",
+    "character": "{\\an8}いいとこあるでしょ",
+    "definition": "There has to be something— Heave ho, heave ho.",
+    "timestamp": "0:11:58",
+    "audio": "/audio/31/0.11.58.mp3"
+  },
+  "157": {
+    "speaker": "PENGUIN",
+    "character": "ちょ　ちょ　話をそらさないで",
+    "definition": "Don't change the subject.",
+    "timestamp": "0:12:00",
+    "audio": "/audio/31/0.12.00.mp3"
+  },
+  "158": {
+    "speaker": "PENGUIN",
+    "character": "高い　あ～",
+    "definition": "Too high! Apparently Yama Arashi is really hot right now.",
+    "timestamp": "0:12:02",
+    "audio": "/audio/31/0.12.02.mp3"
+  },
+  "159": {
+    "speaker": "PENGUIN",
+    "character": "なにそれ",
+    "definition": "What the hell is that?",
+    "timestamp": "0:12:14",
+    "audio": "/audio/31/0.12.14.mp3"
+  },
+  "160": {
+    "speaker": "SASAKO",
+    "character": "今　人気のアイドルグループですよ",
+    "definition": "It's a popular idol group.",
+    "timestamp": "0:12:16",
+    "audio": "/audio/31/0.12.16.mp3"
+  },
+  "161": {
+    "speaker": "SASAKO",
+    "character": "ヤマアラシの５人組で　女の子にすごく 人気があるそうですよ",
+    "definition": "It's a group of five porcupines and they're super popular with girls.",
+    "timestamp": "0:12:18",
+    "audio": "/audio/31/0.12.18.mp3"
+  },
+  "162": {
+    "speaker": "PANDA",
+    "character": "うちのお母さんも ハマっちゃっててさ",
+    "definition": "My mom is hooked on them, too.",
+    "timestamp": "0:12:23",
+    "audio": "/audio/31/0.12.23.mp3"
+  },
+  "163": {
+    "speaker": "PANDA",
+    "character": "いつのまにヤマアラシが好きになる呪いをかけられたんだろう",
+    "definition": "I wonder when she was cursed into liking porcupines.",
+    "timestamp": "0:12:30",
+    "audio": "/audio/31/0.12.30.mp3"
+  },
+  "164": {
+    "speaker": "PENGUIN",
+    "character": "純粋に好きなだけでしょ",
+    "definition": "I think she just genuinely likes them.",
+    "timestamp": "0:12:35",
+    "audio": "/audio/31/0.12.35.mp3"
+  },
+  "165": {
+    "speaker": "PANDA",
+    "character": "ただいま～",
+    "definition": "I'm home. Man, I'm tired.",
+    "timestamp": "0:12:40",
+    "audio": "/audio/31/0.12.40.mp3"
+  },
+  "166": {
+    "speaker": "PANDA MAMA",
+    "character": "帰ってくるなりなんなの",
+    "definition": "You just got home. What's the matter?",
+    "timestamp": "0:12:46",
+    "audio": "/audio/31/0.12.46.mp3"
+  },
+  "167": {
+    "speaker": "PANDA",
+    "character": "たまの休みくらいゴロゴロさせてよ",
+    "definition": "Let me laze around for the little time I have off.",
+    "timestamp": "0:12:49",
+    "audio": "/audio/31/0.12.49.mp3"
+  },
+  "168": {
+    "speaker": "MAMA",
+    "character": "週２日しかバイトしてないじゃない",
+    "definition": "You only work twice a week.",
+    "timestamp": "0:12:53",
+    "audio": "/audio/31/0.12.53.mp3"
+  },
+  "169": {
+    "speaker": "MAMA",
+    "character": "休みのほうが多いでしょ",
+    "definition": "You have more days off than days you work.",
+    "timestamp": "0:12:56",
+    "audio": "/audio/31/0.12.56.mp3"
+  },
+  "170": {
+    "speaker": "PANDA",
+    "character": "パンダがゴロゴロしたっていいじゃない",
+    "definition": "Pandas are allowed to laze around.",
+    "timestamp": "0:12:59",
+    "audio": "/audio/31/0.12.59.mp3"
+  },
+  "171": {
+    "speaker": "MAMA",
+    "character": "掃除の邪魔よ",
+    "definition": "You're in the way of my cleaning.",
+    "timestamp": "0:13:02",
+    "audio": "/audio/31/0.13.02.mp3"
+  },
+  "172": {
+    "speaker": "MAMA",
+    "character": "あなたも 自分の部屋を片づけなさい",
+    "definition": "And you should be cleaning your room.",
+    "timestamp": "0:13:04",
+    "audio": "/audio/31/0.13.04.mp3"
+  },
+  "173": {
+    "speaker": "PANDA",
+    "character": "片づけちゃうと お母さんの仕事なくなるから",
+    "definition": "Well if I clean it, you'll have less to do, so I'll leave it for you. Don't suck me up! I wonder if he's so lazy because I spoiled him.",
+    "timestamp": "0:13:07",
+    "audio": "/audio/31/0.13.07.mp3"
+  },
+  "174": {
+    "speaker": "MAMA",
+    "character": "一度　家から 追い出してみたらどうかしら",
+    "definition": "Maybe I should kick him out of the house once.",
+    "timestamp": "0:13:27",
+    "audio": "/audio/31/0.13.27.mp3"
+  },
+  "175": {
+    "speaker": "MAMA",
+    "character": "１人で生活してみなさい",
+    "definition": "Go live on your own. What?!",
+    "timestamp": "0:13:32",
+    "audio": "/audio/31/0.13.32.mp3"
+  },
+  "176": {
+    "speaker": "MAMA",
+    "character": "でも あの子のことだからきっと…",
+    "definition": "But knowing him...",
+    "timestamp": "0:13:38",
+    "audio": "/audio/31/0.13.38.mp3"
+  },
+  "177": {
+    "speaker": "MAMA",
+    "character": "野良パンダになっても ぐうたらしてるわ",
+    "definition": "Even as a stray panda, he'd laze around.",
+    "timestamp": "0:13:42",
+    "audio": "/audio/31/0.13.42.mp3"
+  },
+  "178": {
+    "speaker": "MAMA",
+    "character": "とんがってるヤマアラシさんとは 大違いね",
+    "definition": "Completely different from the sharp members of Yama Arashi.",
+    "timestamp": "0:13:51",
+    "audio": "/audio/31/0.13.51.mp3"
+  },
+  "179": {
+    "speaker": "MAMA",
+    "character": "あら　キングペンギンさん",
+    "definition": "Oh, hello, Ms. King Penguin.",
+    "timestamp": "0:14:00",
+    "audio": "/audio/31/0.14.00.mp3"
+  },
+  "180": {
+    "speaker": "KING",
+    "character": "いよいよ　明日よね",
+    "definition": "It's finally tomorrow!",
+    "timestamp": "0:14:04",
+    "audio": "/audio/31/0.14.04.mp3"
+  },
+  "181": {
+    "speaker": "MAMA",
+    "character": "そうね",
+    "definition": "It is!",
+    "timestamp": "0:14:06",
+    "audio": "/audio/31/0.14.06.mp3"
+  },
+  "182": {
+    "speaker": "BOTH",
+    "character": "ヤマアラシのコンサート",
+    "definition": "The Yama Arashi concert!",
+    "timestamp": "0:14:08",
+    "audio": "/audio/31/0.14.08.mp3"
+  },
+  "183": {
+    "speaker": "KING",
+    "character": "今回はね　バックに カピバラキッズがつくんですって",
+    "definition": "I heard that the Capybara Kids are going to be the backup dancers this time!",
+    "timestamp": "0:14:11",
+    "audio": "/audio/31/0.14.11.mp3"
+  },
+  "184": {
+    "speaker": "MAMA",
+    "character": "カピバラ　知らないわ",
+    "definition": "Capybara? I haven't heard of them.",
+    "timestamp": "0:14:15",
+    "audio": "/audio/31/0.14.15.mp3"
+  },
+  "185": {
+    "speaker": "KING",
+    "character": "癒やし系でとってもラブリーなの",
+    "definition": "They're absolutely lovely and refreshing.",
+    "timestamp": "0:14:18",
+    "audio": "/audio/31/0.14.18.mp3"
+  },
+  "186": {
+    "speaker": "MAMA",
+    "character": "わかった　ちょっと調べてみるわ",
+    "definition": "All right. I'll look them up.",
+    "timestamp": "0:14:21",
+    "audio": "/audio/31/0.14.21.mp3"
+  },
+  "187": {
+    "speaker": "MAMA",
+    "character": "それじゃ　明日駅に集合ね",
+    "definition": "Well then, I'll meet you at the station tomorrow.",
+    "timestamp": "0:14:24",
+    "audio": "/audio/31/0.14.24.mp3"
+  },
+  "188": {
+    "speaker": "KING",
+    "character": "じゃあね",
+    "definition": "See you.",
+    "timestamp": "0:14:27",
+    "audio": "/audio/31/0.14.27.mp3"
+  },
+  "189": {
+    "speaker": "MAMA",
+    "character": "え～っと　これかしら",
+    "definition": "Let's see... I wonder if this is it.",
+    "timestamp": "0:14:31",
+    "audio": "/audio/31/0.14.31.mp3"
+  },
+  "190": {
+    "speaker": "MAMA",
+    "character": "カピバラ…　これが",
+    "definition": "This is... a capybara?",
+    "timestamp": "0:14:38",
+    "audio": "/audio/31/0.14.38.mp3"
+  },
+  "191": {
+    "speaker": "MAMA",
+    "character": "なんて　鼻の下が長くて出っ歯で… ブサイクちゃんなの",
+    "definition": "Look how long his upper lip is. Not to mention he's buck-toothed and not very cute.",
+    "timestamp": "0:14:41",
+    "audio": "/audio/31/0.14.41.mp3"
+  },
+  "192": {
+    "speaker": "MAMA",
+    "character": "こんな　ずんぐりしてても アイドルになれるの",
+    "definition": "Something so short and stout can become an idol?",
+    "timestamp": "0:14:47",
+    "audio": "/audio/31/0.14.47.mp3"
+  },
+  "193": {
+    "speaker": "MAMA",
+    "character": "だったら　うちの息子だって アイドルになれたんじゃない",
+    "definition": "Then my son could have become an idol, too!",
+    "timestamp": "0:14:50",
+    "audio": "/audio/31/0.14.50.mp3"
+  },
+  "194": {
+    "speaker": "MAMA",
+    "character": "そしたら　今頃…　ヤマアラシのバックで踊ってたりして",
+    "definition": "And then he could have been a backup dancer for Yama Arashi by now...",
+    "timestamp": "0:14:56",
+    "audio": "/audio/31/0.14.56.mp3"
+  },
+  "195": {
+    "speaker": "PANDA",
+    "character": "一二三…",
+    "definition": "{\\a6}One, two, three...",
+    "timestamp": "0:15:01",
+    "audio": "/audio/31/0.15.01.mp3"
+  },
+  "196": {
+    "speaker": "MAMA",
+    "character": "メンバーとも　お知り合いに…",
+    "definition": "And he would know the members...",
+    "timestamp": "0:15:03",
+    "audio": "/audio/31/0.15.03.mp3"
+  },
+  "197": {
+    "speaker": "MAMA",
+    "character": "パンダの母です",
+    "definition": "Hello, I'm Panda's mother.",
+    "timestamp": "0:15:06",
+    "audio": "/audio/31/0.15.06.mp3"
+  },
+  "198": {
+    "speaker": "PORCUPINE",
+    "character": "どうも　ハハッ",
+    "definition": "Oh, hello.",
+    "timestamp": "0:15:08",
+    "audio": "/audio/31/0.15.08.mp3"
+  },
+  "199": {
+    "speaker": "MAMA",
+    "character": "ヤマアラシさんと お近づきになれるチャンスが…",
+    "definition": "My chance to get close to Yama Arashi...",
+    "timestamp": "0:15:10",
+    "audio": "/audio/31/0.15.10.mp3"
+  },
+  "200": {
+    "speaker": "MAMA",
+    "character": "やっぱり育て方　間違ったわ～",
+    "definition": "I {/i1}was{/i0} wrong in how I raised him!",
+    "timestamp": "0:15:15",
+    "audio": "/audio/31/0.15.15.mp3"
+  },
+  "201": {
+    "speaker": "PANDA",
+    "character": "いってきま～す",
+    "definition": "I'm going now.",
+    "timestamp": "0:15:26",
+    "audio": "/audio/31/0.15.26.mp3"
+  },
+  "202": {
+    "speaker": "MAMA",
+    "character": "あ　今日ね お母さん　遅くなるから",
+    "definition": "Oh, by the way, I'll be home late tonight.",
+    "timestamp": "0:15:28",
+    "audio": "/audio/31/0.15.28.mp3"
+  },
+  "203": {
+    "speaker": "MAMA",
+    "character": "夕食に　タケノコの煮込み 用意しといたから",
+    "definition": "I made some bamboo shoot stew for dinner,",
+    "timestamp": "0:15:32",
+    "audio": "/audio/31/0.15.32.mp3"
+  },
+  "204": {
+    "speaker": "MAMA",
+    "character": "チンして食べてね",
+    "definition": "so just warm it in the microwave.",
+    "timestamp": "0:15:36",
+    "audio": "/audio/31/0.15.36.mp3"
+  },
+  "205": {
+    "speaker": "PANDA",
+    "character": "わかった",
+    "definition": "Okay.",
+    "timestamp": "0:15:38",
+    "audio": "/audio/31/0.15.38.mp3"
+  },
+  "206": {
+    "speaker": "PANDA",
+    "character": "どこ行くの",
+    "definition": "Where are you going?",
+    "timestamp": "0:15:39",
+    "audio": "/audio/31/0.15.39.mp3"
+  },
+  "207": {
+    "speaker": "MAMA",
+    "character": "ヤマアラシのコンサートよ",
+    "definition": "To the Yama Arashi concert!",
+    "timestamp": "0:15:42",
+    "audio": "/audio/31/0.15.42.mp3"
+  },
+  "208": {
+    "speaker": "MAMA",
+    "character": "あ　そうそう",
+    "definition": "Oh, that's right.",
+    "timestamp": "0:15:46",
+    "audio": "/audio/31/0.15.46.mp3"
+  },
+  "209": {
+    "speaker": "MAMA",
+    "character": "はい　これ",
+    "definition": "Here.",
+    "timestamp": "0:15:48",
+    "audio": "/audio/31/0.15.48.mp3"
+  },
+  "210": {
+    "speaker": "PANDA",
+    "character": "タレント",
+    "definition": "Talent?",
+    "timestamp": "0:15:50",
+    "audio": "/audio/31/0.15.50.mp3"
+  },
+  "211": {
+    "speaker": "PANDA",
+    "character": "なに　これ",
+    "definition": "What's this?",
+    "timestamp": "0:15:52",
+    "audio": "/audio/31/0.15.52.mp3"
+  },
+  "212": {
+    "speaker": "MAMA",
+    "character": "今からでも 遅くないと思うのよね　アイドルになるの",
+    "definition": "I don't think it's too late for you to become an idol.",
+    "timestamp": "0:15:53",
+    "audio": "/audio/31/0.15.53.mp3"
+  },
+  "213": {
+    "speaker": "PANDA",
+    "character": "僕…　もう　動物園じゃアイドルだよ",
+    "definition": "But I'm already an idol at the zoo.",
+    "timestamp": "0:15:58",
+    "audio": "/audio/31/0.15.58.mp3"
+  },
+  "214": {
+    "speaker": "MAMA",
+    "character": "あなた　ゴロゴロしてるだけじゃない",
+    "definition": "But all you do is laze around.",
+    "timestamp": "0:16:02",
+    "audio": "/audio/31/0.16.02.mp3"
+  },
+  "215": {
+    "speaker": "MAMA",
+    "character": "歌って踊れないと　アイドルは",
+    "definition": "Idols have to be able to dance and sing! But me lazing around is what everyone likes.",
+    "timestamp": "0:16:06",
+    "audio": "/audio/31/0.16.06.mp3"
+  },
+  "216": {
+    "speaker": "MAMA",
+    "character": "キングペンギンさん　お待たせ",
+    "definition": "Sorry to keep you waiting, Ms. King Penguin.",
+    "timestamp": "0:16:16",
+    "audio": "/audio/31/0.16.16.mp3"
+  },
+  "217": {
+    "speaker": "KING",
+    "character": "あらっ　パンダママ",
+    "definition": "Oh, Panda Mama!",
+    "timestamp": "0:16:20",
+    "audio": "/audio/31/0.16.20.mp3"
+  },
+  "218": {
+    "speaker": "KING",
+    "character": "おしゃれしてきたわね",
+    "definition": "Don't you look lovely!",
+    "timestamp": "0:16:22",
+    "audio": "/audio/31/0.16.22.mp3"
+  },
+  "219": {
+    "speaker": "MAMA",
+    "character": "わかる",
+    "definition": "Can you tell?",
+    "timestamp": "0:16:25",
+    "audio": "/audio/31/0.16.25.mp3"
+  },
+  "220": {
+    "speaker": "MAMA",
+    "character": "今日は念入りに ブラッシングしてきたのよ",
+    "definition": "I made sure my brushing was thorough today.",
+    "timestamp": "0:16:27",
+    "audio": "/audio/31/0.16.27.mp3"
+  },
+  "221": {
+    "speaker": "KING",
+    "character": "私も",
+    "definition": "Me, too!",
+    "timestamp": "0:16:30",
+    "audio": "/audio/31/0.16.30.mp3"
+  },
+  "222": {
+    "speaker": "KING",
+    "character": "昨日は興奮して 眠れなかったわ",
+    "definition": "I was so excited last night that I couldn't sleep!",
+    "timestamp": "0:16:32",
+    "audio": "/audio/31/0.16.32.mp3"
+  },
+  "223": {
+    "speaker": "MAMA",
+    "character": "そうそう　私もよ",
+    "definition": "I know! Me, too!",
+    "timestamp": "0:16:35",
+    "audio": "/audio/31/0.16.35.mp3"
+  },
+  "224": {
+    "speaker": "MAMA",
+    "character": "大変な混みようね",
+    "definition": "It's so crowded.",
+    "timestamp": "0:16:44",
+    "audio": "/audio/31/0.16.44.mp3"
+  },
+  "225": {
+    "speaker": "KING",
+    "character": "これ　全部ドームに行く人よ…",
+    "definition": "All of these people are headed to the Dome.",
+    "timestamp": "0:16:46",
+    "audio": "/audio/31/0.16.46.mp3"
+  },
+  "226": {
+    "speaker": "MAMA",
+    "character": "すごい人ね",
+    "definition": "Look at all these people!",
+    "timestamp": "0:16:55",
+    "audio": "/audio/31/0.16.55.mp3"
+  },
+  "227": {
+    "speaker": "KING",
+    "character": "まずは　グッズ買いましょう",
+    "definition": "Let's go buy merchandise first! Let's!",
+    "timestamp": "0:16:57",
+    "audio": "/audio/31/0.16.57.mp3"
+  },
+  "228": {
+    "speaker": "MAMA",
+    "character": "まあ～ 会場限定グッズがたくさん",
+    "definition": "Wow, so much event-only merchandise!",
+    "timestamp": "0:17:01",
+    "audio": "/audio/31/0.17.01.mp3"
+  },
+  "229": {
+    "speaker": "KING",
+    "character": "ポスターと　ツアーパンフは外せないわね",
+    "definition": "A poster and tour book is a must.",
+    "timestamp": "0:17:05",
+    "audio": "/audio/31/0.17.05.mp3"
+  },
+  "230": {
+    "speaker": "MAMA",
+    "character": "あとは　うちわとペンライトと…",
+    "definition": "Not to mention a fan and a pen light...",
+    "timestamp": "0:17:08",
+    "audio": "/audio/31/0.17.08.mp3"
+  },
+  "231": {
+    "speaker": "MAMA",
+    "character": "あ～　でも… クリアファイルとＴシャツも欲しい…",
+    "definition": "Oh, but I want a clear file folder and T-shirt, too.",
+    "timestamp": "0:17:12",
+    "audio": "/audio/31/0.17.12.mp3"
+  },
+  "232": {
+    "speaker": "MAMA",
+    "character": "え～い　もう　全部買っちゃえ",
+    "definition": "Oh, whatever! I'm going to buy it all!",
+    "timestamp": "0:17:16",
+    "audio": "/audio/31/0.17.16.mp3"
+  },
+  "233": {
+    "speaker": "MAMA",
+    "character": "大人買いよ　あ　バッグもつけて～",
+    "definition": "I'll have the lot! Oh, throw a bag in, too!",
+    "timestamp": "0:17:20",
+    "audio": "/audio/31/0.17.20.mp3"
+  },
+  "234": {
+    "speaker": "MAMA",
+    "character": "散財しちゃったわ…",
+    "definition": "I can't believe I spent so much...",
+    "timestamp": "0:17:28",
+    "audio": "/audio/31/0.17.28.mp3"
+  },
+  "235": {
+    "speaker": "KING",
+    "character": "お布施よ　お布施",
+    "definition": "It's for a good cause! It had to be done.",
+    "timestamp": "0:17:30",
+    "audio": "/audio/31/0.17.30.mp3"
+  },
+  "236": {
+    "speaker": "MAMA",
+    "character": "そうよね ファンなら　これくらい当然よね",
+    "definition": "You're right. This is a must if you're a true fan.",
+    "timestamp": "0:17:32",
+    "audio": "/audio/31/0.17.32.mp3"
+  },
+  "237": {
+    "speaker": "KING",
+    "character": "パンダママったら…",
+    "definition": "Oh, Panda Mama.",
+    "timestamp": "0:17:35",
+    "audio": "/audio/31/0.17.35.mp3"
+  },
+  "238": {
+    "speaker": "KING",
+    "character": "最初はカナダヤマアラシくんとタテガミヤマ アラシくんの区別もついてなかったのにね～",
+    "definition": "You originally couldn't even tell the difference between Canadian Porcupine and Crested Porcupine.",
+    "timestamp": "0:17:37",
+    "audio": "/audio/31/0.17.37.mp3"
+  },
+  "239": {
+    "speaker": "MAMA",
+    "character": "そうね…",
+    "definition": "I know!",
+    "timestamp": "0:17:43",
+    "audio": "/audio/31/0.17.43.mp3"
+  },
+  "240": {
+    "speaker": "MAMA",
+    "character": "わあ～",
+    "definition": "Wow!",
+    "timestamp": "0:17:50",
+    "audio": "/audio/31/0.17.50.mp3"
+  },
+  "241": {
+    "speaker": "MAMA",
+    "character": "ドームは　何度来ても広いわね～",
+    "definition": "I'm amazed at how huge the Dome is each time I come here.",
+    "timestamp": "0:17:57",
+    "audio": "/audio/31/0.17.57.mp3"
+  },
+  "242": {
+    "speaker": "KING",
+    "character": "今のうちに 腹ごしらえしなくちゃ",
+    "definition": "I better eat now, while I have the chance.",
+    "timestamp": "0:18:03",
+    "audio": "/audio/31/0.18.03.mp3"
+  },
+  "243": {
+    "speaker": "MAMA",
+    "character": "私は応援の準備しましょ",
+    "definition": "I'm going to get ready to cheer.",
+    "timestamp": "0:18:07",
+    "audio": "/audio/31/0.18.07.mp3"
+  },
+  "244": {
+    "speaker": "MAMA",
+    "character": "今回のツアーのペンライト なかなか　すてきね",
+    "definition": "The pen light on this tour is delightful.",
+    "timestamp": "0:18:11",
+    "audio": "/audio/31/0.18.11.mp3"
+  },
+  "245": {
+    "speaker": "KING",
+    "character": "これ　光り方も変えられるのよ",
+    "definition": "You can even change how it lights up.",
+    "timestamp": "0:18:16",
+    "audio": "/audio/31/0.18.16.mp3"
+  },
+  "246": {
+    "speaker": "MAMA",
+    "character": "あら　そうなの",
+    "definition": "Oh, really?",
+    "timestamp": "0:18:18",
+    "audio": "/audio/31/0.18.18.mp3"
+  },
+  "247": {
+    "speaker": "KING",
+    "character": "アップテンポの曲には 早く点滅する　フラッシュ",
+    "definition": "You can set it to flash to go along with the up-tempo songs,",
+    "timestamp": "0:18:21",
+    "audio": "/audio/31/0.18.21.mp3"
+  },
+  "248": {
+    "speaker": "KING",
+    "character": "スローバラードには ゆっくり点滅する　ウェーブ",
+    "definition": "and then set it to wave for the slow ballads.",
+    "timestamp": "0:18:25",
+    "audio": "/audio/31/0.18.25.mp3"
+  },
+  "249": {
+    "speaker": "MAMA",
+    "character": "ほんとだわ",
+    "definition": "You're right! {\\a6}Arashi! Arashi!",
+    "timestamp": "0:18:30",
+    "audio": "/audio/31/0.18.30.mp3"
+  },
+  "250": {
+    "speaker": "KING",
+    "character": "盛り上がってきたわね～",
+    "definition": "Everyone's getting excited!",
+    "timestamp": "0:18:41",
+    "audio": "/audio/31/0.18.41.mp3"
+  },
+  "251": {
+    "speaker": "MAMA",
+    "character": "お嬢さんたち もう　テンション高いわ～",
+    "definition": "All the girls are so excited!",
+    "timestamp": "0:18:43",
+    "audio": "/audio/31/0.18.43.mp3"
+  },
+  "252": {
+    "speaker": "KING",
+    "character": "若い子みたいな　パワーはないけど",
+    "definition": "We may not have the energy of these girls,",
+    "timestamp": "0:18:48",
+    "audio": "/audio/31/0.18.48.mp3"
+  },
+  "253": {
+    "speaker": "KING",
+    "character": "頑張って応援しましょ",
+    "definition": "but let's do our best to cheer them on, too!",
+    "timestamp": "0:18:50",
+    "audio": "/audio/31/0.18.50.mp3"
+  },
+  "254": {
+    "speaker": "MAMA",
+    "character": "ええ",
+    "definition": "Yes!",
+    "timestamp": "0:18:52",
+    "audio": "/audio/31/0.18.52.mp3"
+  },
+  "255": {
+    "speaker": "BOTH",
+    "character": "ヤマアラシ",
+    "definition": "Yama Arashi!",
+    "timestamp": "0:19:09",
+    "audio": "/audio/31/0.19.09.mp3"
+  },
+  "256": {
+    "speaker": "MAMA",
+    "character": "あっ　あら",
+    "definition": "Oh, aren't they...",
+    "timestamp": "0:19:23",
+    "audio": "/audio/31/0.19.23.mp3"
+  },
+  "257": {
+    "speaker": "KING",
+    "character": "カピバラキッズ",
+    "definition": "The Capybara Kids.",
+    "timestamp": "0:19:25",
+    "audio": "/audio/31/0.19.25.mp3"
+  },
+  "258": {
+    "speaker": "",
+    "character": "意外とかわいいじゃない",
+    "definition": "They're cuter than I thought they'd be.",
+    "timestamp": "0:19:26",
+    "audio": "/audio/31/0.19.26.mp3"
+  },
+  "259": {
+    "speaker": "ARASHI",
+    "character": "覚悟は　いいかい",
+    "definition": "Are you ready?",
+    "timestamp": "0:19:30",
+    "audio": "/audio/31/0.19.30.mp3"
+  },
+  "260": {
+    "speaker": "ARASHI",
+    "character": "連れてくよ　キミを夜の　サバンナへ",
+    "definition": "We're going to take you To the night-time savanna P-Panda Mama! Here comes their solos! We are nocturnal, tonight!",
+    "timestamp": "0:19:33",
+    "audio": "/audio/31/0.19.33.mp3"
+  },
+  "261": {
+    "speaker": "ARASHI",
+    "character": "驚いた？背中のトゲは　ダテじゃない",
+    "definition": "Were you surprised?",
+    "timestamp": "0:19:48",
+    "audio": "/audio/31/0.19.48.mp3"
+  },
+  "262": {
+    "speaker": "BOTH",
+    "character": "{\\an8}カナダ～",
+    "definition": "Canada!",
+    "timestamp": "0:19:50",
+    "audio": "/audio/31/0.19.50.mp3"
+  },
+  "263": {
+    "speaker": "ARASHI",
+    "character": "{\\an8}カナダ～",
+    "definition": "The spikes on our backs Aren't just for show",
+    "timestamp": "0:19:50",
+    "audio": "/audio/31/0.19.50.mp3"
+  },
+  "264": {
+    "speaker": "BOTH",
+    "character": "タテガミ～",
+    "definition": "Crested!",
+    "timestamp": "0:19:57",
+    "audio": "/audio/31/0.19.57.mp3"
+  },
+  "265": {
+    "speaker": "ARASHI",
+    "character": "タテガミ～",
+    "definition": "We're going to stir up a storm",
+    "timestamp": "0:19:57",
+    "audio": "/audio/31/0.19.57.mp3"
+  },
+  "266": {
+    "speaker": "ARASHI",
+    "character": "ヤマアラシ",
+    "definition": "Yama",
+    "timestamp": "0:20:01",
+    "audio": "/audio/31/0.20.01.mp3"
+  },
+  "267": {
+    "speaker": "ARASHI",
+    "character": "ヤマアラシ",
+    "definition": "A-ra-shi",
+    "timestamp": "0:20:01",
+    "audio": "/audio/31/0.20.01.mp3"
+  },
+  "268": {
+    "speaker": "GIRLS",
+    "character": "ヤマアラシ",
+    "definition": "A-ra-shi!",
+    "timestamp": "0:20:01",
+    "audio": "/audio/31/0.20.01.mp3"
+  },
+  "269": {
+    "speaker": "ARASHI",
+    "character": "小さくたって　無敵",
+    "definition": "Even though we're small",
+    "timestamp": "0:20:07",
+    "audio": "/audio/31/0.20.07.mp3"
+  },
+  "270": {
+    "speaker": "ARASHI",
+    "character": "{\\an8}無敵！",
+    "definition": "We're unstoppable!",
+    "timestamp": "0:20:11",
+    "audio": "/audio/31/0.20.11.mp3"
+  },
+  "271": {
+    "speaker": "GIRLS",
+    "character": "{\\an8}無敵！",
+    "definition": "Unstoppable!",
+    "timestamp": "0:20:11",
+    "audio": "/audio/31/0.20.11.mp3"
+  },
+  "272": {
+    "speaker": "ARASHI",
+    "character": "足で　ドラム　トゲを打ち鳴らせ",
+    "definition": "Drum with our feet Hit with our spines Oh, my gosh! Crested totally looked right at me!",
+    "timestamp": "0:20:14",
+    "audio": "/audio/31/0.20.14.mp3"
+  },
+  "273": {
+    "speaker": "ARASHI",
+    "character": "ライオンだって逃げ出して",
+    "definition": "Even lions will run away",
+    "timestamp": "0:20:20",
+    "audio": "/audio/31/0.20.20.mp3"
+  },
+  "274": {
+    "speaker": "MAMA",
+    "character": "{\\an8}私も見つめられちゃったわ～",
+    "definition": "He totally looked at me, too!",
+    "timestamp": "0:20:22",
+    "audio": "/audio/31/0.20.22.mp3"
+  },
+  "275": {
+    "speaker": "ARASHI",
+    "character": "そう　僕たちは　ヤマアラシ",
+    "definition": "That's right, we are Yama A-ra-shi",
+    "timestamp": "0:20:26",
+    "audio": "/audio/31/0.20.26.mp3"
+  },
+  "276": {
+    "speaker": "GIRLS",
+    "character": "{\\an8}アラシ～～",
+    "definition": "A-ra-shi!",
+    "timestamp": "0:20:30",
+    "audio": "/audio/31/0.20.30.mp3"
+  },
+  "277": {
+    "speaker": "MAMA",
+    "character": "みんなのペンライトが　きれい",
+    "definition": "Everyone's pen lights look so pretty.",
+    "timestamp": "0:20:35",
+    "audio": "/audio/31/0.20.35.mp3"
+  },
+  "278": {
+    "speaker": "MAMA",
+    "character": "この一体感がいいのよね～",
+    "definition": "This sense of togetherness is so amazing.",
+    "timestamp": "0:20:38",
+    "audio": "/audio/31/0.20.38.mp3"
+  },
+  "279": {
+    "speaker": "CRESTED",
+    "character": "みんな 今日は　一日　ありがとう",
+    "definition": "Everyone, thanks for coming today!",
+    "timestamp": "0:21:10",
+    "audio": "/audio/31/0.21.10.mp3"
+  },
+  "280": {
+    "speaker": "CANADA",
+    "character": "きっと　また会えるよね",
+    "definition": "We'll see each other again soon!",
+    "timestamp": "0:21:13",
+    "audio": "/audio/31/0.21.13.mp3"
+  },
+  "281": {
+    "speaker": "KING",
+    "character": "もちろんよ～",
+    "definition": "Of course!",
+    "timestamp": "0:21:15",
+    "audio": "/audio/31/0.21.15.mp3"
+  },
+  "282": {
+    "speaker": "MAMA",
+    "character": "また来るわね～",
+    "definition": "We'll come again! They were all so cool.",
+    "timestamp": "0:21:17",
+    "audio": "/audio/31/0.21.17.mp3"
+  },
+  "283": {
+    "speaker": "MAMA",
+    "character": "ますます　ファンになっちゃった",
+    "definition": "I've become an even bigger fan!",
+    "timestamp": "0:21:30",
+    "audio": "/audio/31/0.21.30.mp3"
+  },
+  "284": {
+    "speaker": "KING",
+    "character": "家事とか育児とか 日常を忘れられる　ひとときね",
+    "definition": "You get to forget about house work and kids just for a moment.",
+    "timestamp": "0:21:32",
+    "audio": "/audio/31/0.21.32.mp3"
+  },
+  "285": {
+    "speaker": "MAMA",
+    "character": "ほんと",
+    "definition": "I know.",
+    "timestamp": "0:21:36",
+    "audio": "/audio/31/0.21.36.mp3"
+  },
+  "286": {
+    "speaker": "MAMA",
+    "character": "ヤマアラシさん 青春気分を　ありがとう",
+    "definition": "Thank you for making me feel young again, Yama Arashi. My mom went to a concert yesterday.",
+    "timestamp": "0:21:39",
+    "audio": "/audio/31/0.21.39.mp3"
+  },
+  "287": {
+    "speaker": "PENGUIN",
+    "character": "ヤマアラシの？",
+    "definition": "The Yama Arashi concert?",
+    "timestamp": "0:21:59",
+    "audio": "/audio/31/0.21.59.mp3"
+  },
+  "288": {
+    "speaker": "PANDA",
+    "character": "うん",
+    "definition": "Yup.",
+    "timestamp": "0:22:01",
+    "audio": "/audio/31/0.22.01.mp3"
+  },
+  "289": {
+    "speaker": "POLAR BEAR",
+    "character": "僕たちも アイドルグループ結成しようか",
+    "definition": "How about we start an idol group, too?",
+    "timestamp": "0:22:02",
+    "audio": "/audio/31/0.22.02.mp3"
+  },
+  "290": {
+    "speaker": "PENGUIN",
+    "character": "いや　無理でしょ",
+    "definition": "Don't think that's possible.",
+    "timestamp": "0:22:05",
+    "audio": "/audio/31/0.22.05.mp3"
+  },
+  "291": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さんは　マネージャーね",
+    "definition": "You can be our manager, Miss Sasako.",
+    "timestamp": "0:22:07",
+    "audio": "/audio/31/0.22.07.mp3"
+  },
+  "292": {
+    "speaker": "SASAKO",
+    "character": "みんな　ありがとう",
+    "definition": "Thank you, everyone!",
+    "timestamp": "0:22:15",
+    "audio": "/audio/31/0.22.15.mp3"
+  },
+  "293": {
+    "speaker": "PENGUIN",
+    "character": "なんで　マネージャーが いちばん目立ってるの",
+    "definition": "Why's the manager outshining everyone else?",
+    "timestamp": "0:22:20",
+    "audio": "/audio/31/0.22.20.mp3"
+  },
+  "294": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/31/0.23.58.mp3"
+  },
+  "295": {
+    "speaker": "PENGUIN",
+    "character": "何　パンダ君",
+    "definition": "What is it, Panda? How long do you want to be unemployed, Mr. Penguin?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/31/0.23.59.mp3"
+  },
+  "296": {
+    "speaker": "PENGUIN",
+    "character": "いたくないかな　基本無職では",
+    "definition": "I don't think I want to be unemployed in general.",
+    "timestamp": "0:24:03",
+    "audio": "/audio/31/0.24.03.mp3"
+  },
+  "297": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんって変わってるよね",
+    "definition": "You're so strange, Mr. Penguin.",
+    "timestamp": "0:24:05",
+    "audio": "/audio/31/0.24.05.mp3"
+  },
+  "298": {
+    "speaker": "PENGUIN",
+    "character": "変わってるのは君じゃないかな",
+    "definition": "I think you're the one that's strange.",
+    "timestamp": "0:24:07",
+    "audio": "/audio/31/0.24.07.mp3"
+  },
+  "299": {
+    "speaker": "PANDA",
+    "character": "じゃ何でいたい？　かめむし？",
+    "definition": "Then what do you want to be? A stink bug?",
+    "timestamp": "0:24:09",
+    "audio": "/audio/31/0.24.09.mp3"
+  },
+  "300": {
+    "speaker": "PENGUIN",
+    "character": "白熊君　終わろう",
+    "definition": "Let's end this, Polar Bear.",
+    "timestamp": "0:24:11",
+    "audio": "/audio/31/0.24.11.mp3"
+  },
+  "301": {
+    "speaker": "POLAR BEAR",
+    "character": "もうちょっと続けよう",
+    "definition": "Let's continue a little longer.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/31/0.24.13.mp3"
+  },
+  "302": {
+    "speaker": "PENGUIN",
+    "character": "お願い！終わって",
+    "definition": "Please, end it.",
+    "timestamp": "0:24:14",
+    "audio": "/audio/31/0.24.14.mp3"
+  },
+  "303": {
+    "speaker": "POLAR BEAR",
+    "character": "来週の白熊カフェーは",
+    "definition": "Next week's Polar Bear's Café",
+    "timestamp": "0:24:15",
+    "audio": "/audio/31/0.24.15.mp3"
+  },
+  "304": {
+    "speaker": "POLAR BEAR",
+    "character": "何処かで何かをお送りします",
+    "definition": "will be something presented somewhere.",
+    "timestamp": "0:24:17",
+    "audio": "/audio/31/0.24.17.mp3"
+  },
+  "305": {
+    "speaker": "PENGUIN",
+    "character": "曖昧すぎるよそのお知らせ",
+    "definition": "That's entirely too vague.",
+    "timestamp": "0:24:19",
+    "audio": "/audio/31/0.24.19.mp3"
+  },
+  "306": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:21",
+    "audio": "/audio/31/0.24.21.mp3"
+  }
+}

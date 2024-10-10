@@ -1,0 +1,912 @@
+{
+  "1": {
+    "speaker": "POLAR BEAR",
+    "character": "はい、しろくまカフェです",
+    "definition": "Hello, this is Polar Bear's Café.",
+    "timestamp": "0:13:46",
+    "audio": "/audio/01/0.13.46.mp3"
+  },
+  "2": {
+    "speaker": "PANDA",
+    "character": "あ　こんにちは　先日面接にいった、パンダですよ",
+    "definition": "Oh, hello. This is Panda, who you interviewed the other day.",
+    "timestamp": "0:13:48",
+    "audio": "/audio/01/0.13.48.mp3"
+  },
+  "3": {
+    "speaker": "POLAR BEAR",
+    "character": "ああ　不合格の～",
+    "definition": "Oh, the one who didn't pass.",
+    "timestamp": "0:13:54",
+    "audio": "/audio/01/0.13.54.mp3"
+  },
+  "4": {
+    "speaker": "PANDA",
+    "character": "出前を お願いしたいんです",
+    "definition": "I would like to place a delivery order.",
+    "timestamp": "0:13:57",
+    "audio": "/audio/01/0.13.57.mp3"
+  },
+  "5": {
+    "speaker": "POLAR BEAR",
+    "character": "出前はやってないですが",
+    "definition": "I'm sorry, we don't do deliveries. Even though you're right next door?",
+    "timestamp": "0:14:00",
+    "audio": "/audio/01/0.14.00.mp3"
+  },
+  "6": {
+    "speaker": "POLAR BEAR",
+    "character": "今忙しいし",
+    "definition": "Not to mention we're quite busy right now. Aww...",
+    "timestamp": "0:14:05",
+    "audio": "/audio/01/0.14.05.mp3"
+  },
+  "7": {
+    "speaker": "PANDA",
+    "character": "どうすれば出前してくれるの？",
+    "definition": "What would it take for you to make a delivery?",
+    "timestamp": "0:14:08",
+    "audio": "/audio/01/0.14.08.mp3"
+  },
+  "8": {
+    "speaker": "PANDA MAMA",
+    "character": "ちょっと",
+    "definition": "Hey.",
+    "timestamp": "0:14:11",
+    "audio": "/audio/01/0.14.11.mp3"
+  },
+  "9": {
+    "speaker": "PANDA",
+    "character": "お母さん",
+    "definition": "Oh, hi, Mom.",
+    "timestamp": "0:14:13",
+    "audio": "/audio/01/0.14.13.mp3"
+  },
+  "10": {
+    "speaker": "PANDA MAMA",
+    "character": "またゴロゴロして",
+    "definition": "Lying around again...",
+    "timestamp": "0:14:14",
+    "audio": "/audio/01/0.14.14.mp3"
+  },
+  "11": {
+    "speaker": "PANDA",
+    "character": "今仕事探してたの",
+    "definition": "I was looking for a job. Come on, you're right next door, so make a delivery.",
+    "timestamp": "0:14:16",
+    "audio": "/audio/01/0.14.16.mp3"
+  },
+  "12": {
+    "speaker": "PANDA",
+    "character": "お願い～～～",
+    "definition": "Please?",
+    "timestamp": "0:14:24",
+    "audio": "/audio/01/0.14.24.mp3"
+  },
+  "13": {
+    "speaker": "PANDA",
+    "character": "あああ～～～～　吸わないで～～～",
+    "definition": "Waah, please don't suck me up!",
+    "timestamp": "0:14:28",
+    "audio": "/audio/01/0.14.28.mp3"
+  },
+  "14": {
+    "speaker": "POLAR BEAR",
+    "character": "いらっしゃいませ",
+    "definition": "Hello.",
+    "timestamp": "0:14:34",
+    "audio": "/audio/01/0.14.34.mp3"
+  },
+  "15": {
+    "speaker": "PANDA",
+    "character": "こんにちは",
+    "definition": "Hello.",
+    "timestamp": "0:14:38",
+    "audio": "/audio/01/0.14.38.mp3"
+  },
+  "16": {
+    "speaker": "SASAKO",
+    "character": "何しますか？",
+    "definition": "What would you like?",
+    "timestamp": "0:14:42",
+    "audio": "/audio/01/0.14.42.mp3"
+  },
+  "17": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさん、何にする？",
+    "definition": "What would you like, Mr. Penguin? Let's see...",
+    "timestamp": "0:14:46",
+    "audio": "/audio/01/0.14.46.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "いつものやつ",
+    "definition": "I'll have the usual.",
+    "timestamp": "0:14:51",
+    "audio": "/audio/01/0.14.51.mp3"
+  },
+  "19": {
+    "speaker": "PANDA",
+    "character": "いつものやつ",
+    "definition": "I'll have the usual!",
+    "timestamp": "0:14:54",
+    "audio": "/audio/01/0.14.54.mp3"
+  },
+  "20": {
+    "speaker": "SASAKO",
+    "character": "えっ？！いつものやつって  言われたんですけど",
+    "definition": "What?! He asked for... the usual.",
+    "timestamp": "0:14:56",
+    "audio": "/audio/01/0.14.56.mp3"
+  },
+  "21": {
+    "speaker": "POLAR BEAR",
+    "character": "任せて",
+    "definition": "Leave it to me. Here's your curry rice.",
+    "timestamp": "0:15:04",
+    "audio": "/audio/01/0.15.04.mp3"
+  },
+  "22": {
+    "speaker": "SASAKO",
+    "character": "違ったみたいですよ",
+    "definition": "Apparently that wasn't it. I knew it.",
+    "timestamp": "0:15:11",
+    "audio": "/audio/01/0.15.11.mp3"
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "ちょっと",
+    "definition": "Hey, now...",
+    "timestamp": "0:15:15",
+    "audio": "/audio/01/0.15.15.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "あの、竹か笹はないんですか",
+    "definition": "Excuse me, do you not have any bamboo or bamboo grass?",
+    "timestamp": "0:15:17",
+    "audio": "/audio/01/0.15.17.mp3"
+  },
+  "25": {
+    "speaker": "POLAR BEAR",
+    "character": "ないです",
+    "definition": "We do not.",
+    "timestamp": "0:15:20",
+    "audio": "/audio/01/0.15.20.mp3"
+  },
+  "26": {
+    "speaker": "PANDA",
+    "character": "じゃ～アイスコーヒー",
+    "definition": "Then could I get an iced coffee?",
+    "timestamp": "0:15:22",
+    "audio": "/audio/01/0.15.22.mp3"
+  },
+  "27": {
+    "speaker": "POLAR BEAR",
+    "character": "あ、君バイト探してたよね",
+    "definition": "You were looking for a part-time job, weren't you?",
+    "timestamp": "0:15:25",
+    "audio": "/audio/01/0.15.25.mp3"
+  },
+  "28": {
+    "speaker": "POLAR BEAR",
+    "character": "こんなのあるよ",
+    "definition": "They have something like this:",
+    "timestamp": "0:15:30",
+    "audio": "/audio/01/0.15.30.mp3"
+  },
+  "29": {
+    "speaker": "FISHERMAN",
+    "character": "マグロ船船員大募集",
+    "definition": "Looking for tuna boat crewmen!",
+    "timestamp": "0:15:32",
+    "audio": "/audio/01/0.15.32.mp3"
+  },
+  "30": {
+    "speaker": "FISHERMAN",
+    "character": "経験者大歓迎、激しく重労働",
+    "definition": "We will gladly accept those with experience! Intense physical labor!",
+    "timestamp": "0:15:35",
+    "audio": "/audio/01/0.15.35.mp3"
+  },
+  "31": {
+    "speaker": "POLAR BEAR",
+    "character": "どう？",
+    "definition": "How about it?",
+    "timestamp": "0:15:38",
+    "audio": "/audio/01/0.15.38.mp3"
+  },
+  "32": {
+    "speaker": "PANDA",
+    "character": "嫌だよ、僕泳げないし",
+    "definition": "No way!  Not to mention, I can't swim!",
+    "timestamp": "0:15:39",
+    "audio": "/audio/01/0.15.39.mp3"
+  },
+  "33": {
+    "speaker": "PENGUIN",
+    "character": "こっちのがいいじやない？",
+    "definition": "I think this one is better.",
+    "timestamp": "0:15:42",
+    "audio": "/audio/01/0.15.42.mp3"
+  },
+  "34": {
+    "speaker": "ZOO KEEP",
+    "character": "動物園  未経験者歓迎",
+    "definition": "The zoo is accepting applicants without experience.",
+    "timestamp": "0:15:45",
+    "audio": "/audio/01/0.15.45.mp3"
+  },
+  "35": {
+    "speaker": "ZOO KEEP",
+    "character": "呼び相談におします",
+    "definition": "We will gladly accommodate work days.",
+    "timestamp": "0:15:48",
+    "audio": "/audio/01/0.15.48.mp3"
+  },
+  "36": {
+    "speaker": "PANDA",
+    "character": "先ずはお電話ください　フリアイ動物園",
+    "definition": "\"Please give us a call. The Petting Zoo.\"",
+    "timestamp": "0:15:51",
+    "audio": "/audio/01/0.15.51.mp3"
+  },
+  "37": {
+    "speaker": "POLAR BEAR",
+    "character": "マグロ船にしなよ",
+    "definition": "You should totally go with the tuna boat.",
+    "timestamp": "0:15:57",
+    "audio": "/audio/01/0.15.57.mp3"
+  },
+  "38": {
+    "speaker": "SASAKO",
+    "character": "しろくまさん",
+    "definition": "Mr. Polar Bear...",
+    "timestamp": "0:15:59",
+    "audio": "/audio/01/0.15.59.mp3"
+  },
+  "39": {
+    "speaker": "PANDA",
+    "character": "動物園か　面白そう",
+    "definition": "The zoo, huh?  That sounds fun!",
+    "timestamp": "0:16:02",
+    "audio": "/audio/01/0.16.02.mp3"
+  },
+  "40": {
+    "speaker": "ZOO KEEP",
+    "character": "えっと  週二日の勤務希望ですか？",
+    "definition": "Let's see, so you're looking to work two days a week?",
+    "timestamp": "0:16:08",
+    "audio": "/audio/01/0.16.08.mp3"
+  },
+  "41": {
+    "speaker": "PANDA",
+    "character": "はい",
+    "definition": "Yes.",
+    "timestamp": "0:16:12",
+    "audio": "/audio/01/0.16.12.mp3"
+  },
+  "42": {
+    "speaker": "ZOO KEEP",
+    "character": "では、パンダの仕事はどうでしょう？",
+    "definition": "Then would you be interested in the position of \"panda\"? Huh?",
+    "timestamp": "0:16:14",
+    "audio": "/audio/01/0.16.14.mp3"
+  },
+  "43": {
+    "speaker": "ZOO KEEP",
+    "character": "常勤パンダさんが一頭いるですが",
+    "definition": "We have one full-time panda,",
+    "timestamp": "0:16:20",
+    "audio": "/audio/01/0.16.20.mp3"
+  },
+  "44": {
+    "speaker": "ZOO KEEP",
+    "character": "非常勤でもう一頭募集してるんです",
+    "definition": "but we're also looking to fill a part-time slot.",
+    "timestamp": "0:16:23",
+    "audio": "/audio/01/0.16.23.mp3"
+  },
+  "45": {
+    "speaker": "PANDA",
+    "character": "パンダって　あのパンダですよね",
+    "definition": "When you say \"panda,\" you do mean {\\i1}that{\\i0} panda, right?",
+    "timestamp": "0:16:27",
+    "audio": "/audio/01/0.16.27.mp3"
+  },
+  "46": {
+    "speaker": "ZOO KEEP",
+    "character": "気が進みませんか？",
+    "definition": "Are you not interested?",
+    "timestamp": "0:16:31",
+    "audio": "/audio/01/0.16.31.mp3"
+  },
+  "47": {
+    "speaker": "ZOO KEEP",
+    "character": "でしたら　月の輪熊とゴリラも募集していますよ",
+    "definition": "In that case, we are looking for an Asian black bear and a gorilla.",
+    "timestamp": "0:16:33",
+    "audio": "/audio/01/0.16.33.mp3"
+  },
+  "48": {
+    "speaker": "PANDA",
+    "character": "パンダでいいです",
+    "definition": "I'll take the panda position.",
+    "timestamp": "0:16:50",
+    "audio": "/audio/01/0.16.50.mp3"
+  },
+  "49": {
+    "speaker": "ZOO KEEP",
+    "character": "そうですか、では、来週から来てください",
+    "definition": "I see.  Then please begin coming next week.",
+    "timestamp": "0:16:52",
+    "audio": "/audio/01/0.16.52.mp3"
+  },
+  "50": {
+    "speaker": "PANDA",
+    "character": "僕、バイト決まったよ",
+    "definition": "I found a part-time job. Really?  That's great to hear! The tuna boat?",
+    "timestamp": "0:16:59",
+    "audio": "/audio/01/0.16.59.mp3"
+  },
+  "51": {
+    "speaker": "PANDA",
+    "character": "違うよ　動物園～",
+    "definition": "No way.  The zoo. What part-time job are you going to be doing at the zoo? It's a secret.",
+    "timestamp": "0:17:07",
+    "audio": "/audio/01/0.17.07.mp3"
+  },
+  "52": {
+    "speaker": "PENGUIN",
+    "character": "なんで照れてんの",
+    "definition": "Why are you so embarrassed?",
+    "timestamp": "0:17:19",
+    "audio": "/audio/01/0.17.19.mp3"
+  },
+  "53": {
+    "speaker": "PANDA",
+    "character": "いよいよ今日からバイトか　ドキドキしちゃうなぁ",
+    "definition": "Today's the day I start my part-time job. I'm so excited. Hello again, my name is Handa.",
+    "timestamp": "0:17:24",
+    "audio": "/audio/01/0.17.24.mp3"
+  },
+  "54": {
+    "speaker": "HANDA",
+    "character": "今日は幼稚園から園児たちが来ます",
+    "definition": "We will have some preschool visitors today.",
+    "timestamp": "0:17:41",
+    "audio": "/audio/01/0.17.41.mp3"
+  },
+  "55": {
+    "speaker": "HANDA",
+    "character": "少しサービスしてあげてください",
+    "definition": "Please give them a little extra service.",
+    "timestamp": "0:17:45",
+    "audio": "/audio/01/0.17.45.mp3"
+  },
+  "56": {
+    "speaker": "PANDA",
+    "character": "はい～～～～～",
+    "definition": "Okay!",
+    "timestamp": "0:17:48",
+    "audio": "/audio/01/0.17.48.mp3"
+  },
+  "57": {
+    "speaker": "PANDA",
+    "character": "サービスですね　分かりました",
+    "definition": "Service, huh?  You got it.",
+    "timestamp": "0:17:50",
+    "audio": "/audio/01/0.17.50.mp3"
+  },
+  "58": {
+    "speaker": "PANDA",
+    "character": "それ以外の時間はどんな感じで？",
+    "definition": "What should I be doing the rest of the time?",
+    "timestamp": "0:17:54",
+    "audio": "/audio/01/0.17.54.mp3"
+  },
+  "59": {
+    "speaker": "HANDA",
+    "character": "自然態でいいです",
+    "definition": "Just act naturally.",
+    "timestamp": "0:17:58",
+    "audio": "/audio/01/0.17.58.mp3"
+  },
+  "60": {
+    "speaker": "PENGUIN",
+    "character": "ね　しろくま君",
+    "definition": "Hey, Polar Bear.",
+    "timestamp": "0:18:04",
+    "audio": "/audio/01/0.18.04.mp3"
+  },
+  "61": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君うまくやってるかなぁ～",
+    "definition": "How do you think Panda's doing?",
+    "timestamp": "0:18:06",
+    "audio": "/audio/01/0.18.06.mp3"
+  },
+  "62": {
+    "speaker": "POLAR BEAR",
+    "character": "きっと大漁だよ、まぐろ船",
+    "definition": "I'm sure he'll get a huge haul on the tuna boat.",
+    "timestamp": "0:18:09",
+    "audio": "/audio/01/0.18.09.mp3"
+  },
+  "63": {
+    "speaker": "PENGUIN",
+    "character": "引っ張るねぇ～",
+    "definition": "You're not letting go of that, are you? Oh, could I get a café mocha?",
+    "timestamp": "0:18:14",
+    "audio": "/audio/01/0.18.14.mp3"
+  },
+  "64": {
+    "speaker": "PENGUIN",
+    "character": "って、それは  影武者、いいから、そういうの",
+    "definition": "Um... That would be a body double {\\i1}(kagemusha){\\i0}. Honestly, you don't have to do that.",
+    "timestamp": "0:18:19",
+    "audio": "/audio/01/0.18.19.mp3"
+  },
+  "65": {
+    "speaker": "PANDA",
+    "character": "え　一週七日も",
+    "definition": "Really?  Seven days a week? You don't have a day off?",
+    "timestamp": "0:18:27",
+    "audio": "/audio/01/0.18.27.mp3"
+  },
+  "66": {
+    "speaker": "FTPANDA",
+    "character": "あたしは常勤パンダですからね",
+    "definition": "Well, I am a full-time panda.",
+    "timestamp": "0:18:31",
+    "audio": "/audio/01/0.18.31.mp3"
+  },
+  "67": {
+    "speaker": "FTPANDA",
+    "character": "でも月に二日くらいは休みますよ",
+    "definition": "But I do take about two days off a month.",
+    "timestamp": "0:18:35",
+    "audio": "/audio/01/0.18.35.mp3"
+  },
+  "68": {
+    "speaker": "PANDA",
+    "character": "非常勤でよかった",
+    "definition": "I'm so glad I'm part-time. Well, it'll be a pleasure working with you.",
+    "timestamp": "0:18:38",
+    "audio": "/audio/01/0.18.38.mp3"
+  },
+  "69": {
+    "speaker": "PANDA",
+    "character": "はい～！",
+    "definition": "Same here.",
+    "timestamp": "0:18:45",
+    "audio": "/audio/01/0.18.45.mp3"
+  },
+  "70": {
+    "speaker": "PANDA",
+    "character": "あっ　そういえば",
+    "definition": "Oh, by the way...",
+    "timestamp": "0:18:46",
+    "audio": "/audio/01/0.18.46.mp3"
+  },
+  "71": {
+    "speaker": "FTPANDA",
+    "character": "どうしました？",
+    "definition": "What's the matter?",
+    "timestamp": "0:18:49",
+    "audio": "/audio/01/0.18.49.mp3"
+  },
+  "72": {
+    "speaker": "PANDA",
+    "character": "半田さんから",
+    "definition": "Mr. Handa was saying...",
+    "timestamp": "0:18:51",
+    "audio": "/audio/01/0.18.51.mp3"
+  },
+  "73": {
+    "speaker": "HANDA",
+    "character": "自然態でって言われたんです",
+    "definition": "...naturally. is how I should act. I see.",
+    "timestamp": "0:18:54",
+    "audio": "/audio/01/0.18.54.mp3"
+  },
+  "74": {
+    "speaker": "PANDA",
+    "character": "こんな感じでしょうか？自然と一体的な？",
+    "definition": "Is it something like this? Does this look like I'm one with nature?",
+    "timestamp": "0:19:01",
+    "audio": "/audio/01/0.19.01.mp3"
+  },
+  "75": {
+    "speaker": "FTPANDA",
+    "character": "多分違うと思う　というか　すごく不自然",
+    "definition": "I don't think that's what he meant. Or rather, that's very unnatural. Well, you don't have to worry so much. Just act like normal and you'll be fine. Oh...",
+    "timestamp": "0:19:06",
+    "audio": "/audio/01/0.19.06.mp3"
+  },
+  "76": {
+    "speaker": "KIDS",
+    "character": "あ～～　パンダさん～～～",
+    "definition": "Ooh, pandas!",
+    "timestamp": "0:19:20",
+    "audio": "/audio/01/0.19.20.mp3"
+  },
+  "77": {
+    "speaker": "TEACHER",
+    "character": "はい　皆　パンダさんですよ",
+    "definition": "Look, children, pandas!",
+    "timestamp": "0:19:24",
+    "audio": "/audio/01/0.19.24.mp3"
+  },
+  "78": {
+    "speaker": "FTPANDA",
+    "character": "あ　園児が来ましたね",
+    "definition": "Oh, looks like the preschool kids are here.",
+    "timestamp": "0:19:28",
+    "audio": "/audio/01/0.19.28.mp3"
+  },
+  "79": {
+    "speaker": "FTPANDA",
+    "character": "さ～　頑張りましょう",
+    "definition": "Let's give it our best. O-Okay! Look, the pandas are eating!",
+    "timestamp": "0:19:31",
+    "audio": "/audio/01/0.19.31.mp3"
+  },
+  "80": {
+    "speaker": "TEACHER",
+    "character": "そうね～",
+    "definition": "They sure are.",
+    "timestamp": "0:19:39",
+    "audio": "/audio/01/0.19.39.mp3"
+  },
+  "81": {
+    "speaker": "KID-B",
+    "character": "はは～パンダさんは滑り台滑ってるの",
+    "definition": "Look, the pandas are playing on the slide! Yes, they are.",
+    "timestamp": "0:19:40",
+    "audio": "/audio/01/0.19.40.mp3"
+  },
+  "82": {
+    "speaker": "KID-C",
+    "character": "パンダさんが転がってるよ",
+    "definition": "Look, the pandas are rolling around!",
+    "timestamp": "0:19:46",
+    "audio": "/audio/01/0.19.46.mp3"
+  },
+  "83": {
+    "speaker": "TEACHER",
+    "character": "そうね～",
+    "definition": "Aren't they.",
+    "timestamp": "0:19:49",
+    "audio": "/audio/01/0.19.49.mp3"
+  },
+  "84": {
+    "speaker": "PANDA",
+    "character": "これでサービスになってるんですか？",
+    "definition": "Is this what they consider service?",
+    "timestamp": "0:19:55",
+    "audio": "/audio/01/0.19.55.mp3"
+  },
+  "85": {
+    "speaker": "FTPANDA",
+    "character": "もうちょっとの辛抱ですよ～",
+    "definition": "It's just for a little while longer.",
+    "timestamp": "0:19:58",
+    "audio": "/audio/01/0.19.58.mp3"
+  },
+  "86": {
+    "speaker": "FTPANDA",
+    "character": "あ～　もう一サービスしましょう",
+    "definition": "All right, let's give it one more go!",
+    "timestamp": "0:20:03",
+    "audio": "/audio/01/0.20.03.mp3"
+  },
+  "87": {
+    "speaker": "PANDA",
+    "character": "は、はい！",
+    "definition": "A-All right!",
+    "timestamp": "0:20:06",
+    "audio": "/audio/01/0.20.06.mp3"
+  },
+  "88": {
+    "speaker": "FTPANDA",
+    "character": "サービス～サービス～～",
+    "definition": "Service, service... Service, service...",
+    "timestamp": "0:20:07",
+    "audio": "/audio/01/0.20.07.mp3"
+  },
+  "89": {
+    "speaker": "TEACHER",
+    "character": "皆、次はキリンさんを見ましょう",
+    "definition": "Okay, everyone.  Let's go see the giraffes next.",
+    "timestamp": "0:20:14",
+    "audio": "/audio/01/0.20.14.mp3"
+  },
+  "90": {
+    "speaker": "KIDS",
+    "character": "はい～～～",
+    "definition": "Okay!",
+    "timestamp": "0:20:18",
+    "audio": "/audio/01/0.20.18.mp3"
+  },
+  "91": {
+    "speaker": "TEACHER",
+    "character": "サービス～サービス～～",
+    "definition": "Right this way.",
+    "timestamp": "0:20:19",
+    "audio": "/audio/01/0.20.19.mp3"
+  },
+  "92": {
+    "speaker": "PANDA",
+    "character": "サービス～サービス～～",
+    "definition": "Service, service...",
+    "timestamp": "0:20:19",
+    "audio": "/audio/01/0.20.19.mp3"
+  },
+  "93": {
+    "speaker": "PANDA",
+    "character": "サービス～サービス～～",
+    "definition": "Service, service...",
+    "timestamp": "0:20:21",
+    "audio": "/audio/01/0.20.21.mp3"
+  },
+  "94": {
+    "speaker": "PANDA",
+    "character": "サービス～サー～ビス～",
+    "definition": "Service, service... I totally fell asleep.",
+    "timestamp": "0:20:24",
+    "audio": "/audio/01/0.20.24.mp3"
+  },
+  "95": {
+    "speaker": "PANDA",
+    "character": "なんで起こしてくれないんですか、常勤パンダさん、え！",
+    "definition": "Why didn't you wake me up, Mr. Full-Time Panda?",
+    "timestamp": "0:20:40",
+    "audio": "/audio/01/0.20.40.mp3"
+  },
+  "96": {
+    "speaker": "VOICE",
+    "character": "閉園の時間になりました　またのご来園をお待ちしております",
+    "definition": "{\\a6\\i1}The zoo will now be closing. {\\a6\\i1}Please come again.",
+    "timestamp": "0:20:48",
+    "audio": "/audio/01/0.20.48.mp3"
+  },
+  "97": {
+    "speaker": "HANDA",
+    "character": "お疲れ様でした",
+    "definition": "Thank you for all your hard work today.",
+    "timestamp": "0:20:56",
+    "audio": "/audio/01/0.20.56.mp3"
+  },
+  "98": {
+    "speaker": "PANDA",
+    "character": "お先です",
+    "definition": "See you later!",
+    "timestamp": "0:20:58",
+    "audio": "/audio/01/0.20.58.mp3"
+  },
+  "99": {
+    "speaker": "LLAMA",
+    "character": "あ～　パンダ君",
+    "definition": "Oh, hey, Panda.",
+    "timestamp": "0:21:03",
+    "audio": "/audio/01/0.21.03.mp3"
+  },
+  "100": {
+    "speaker": "PANDA",
+    "character": "あれ　皆来てたの",
+    "definition": "Oh, you're all here?",
+    "timestamp": "0:21:06",
+    "audio": "/audio/01/0.21.06.mp3"
+  },
+  "101": {
+    "speaker": "SASAKO",
+    "character": "お知り合いなんですか",
+    "definition": "Do you all know each other?",
+    "timestamp": "0:21:09",
+    "audio": "/audio/01/0.21.09.mp3"
+  },
+  "102": {
+    "speaker": "LLAMA",
+    "character": "僕たちも動物園でバイトしてるんですよ",
+    "definition": "We're working part-time at the zoo, as well.",
+    "timestamp": "0:21:10",
+    "audio": "/audio/01/0.21.10.mp3"
+  },
+  "103": {
+    "speaker": "KOALA",
+    "character": "パンダ君　こっちこっち",
+    "definition": "Hey, Panda!  Over here!",
+    "timestamp": "0:21:14",
+    "audio": "/audio/01/0.21.14.mp3"
+  },
+  "104": {
+    "speaker": "KOALA",
+    "character": "今日は園児が可愛かったね",
+    "definition": "The preschool kids were so cute today.",
+    "timestamp": "0:21:18",
+    "audio": "/audio/01/0.21.18.mp3"
+  },
+  "105": {
+    "speaker": "PANDA",
+    "character": "僕　張り切り過ぎでて  途中で  ばてちゃった",
+    "definition": "I over-exerted myself and passed out.",
+    "timestamp": "0:21:21",
+    "audio": "/audio/01/0.21.21.mp3"
+  },
+  "106": {
+    "speaker": "LLAMA",
+    "character": "わかります　わかります",
+    "definition": "I can totally relate.",
+    "timestamp": "0:21:24",
+    "audio": "/audio/01/0.21.24.mp3"
+  },
+  "107": {
+    "speaker": "PANDA",
+    "character": "今日は一日真面目に働いたなぁ",
+    "definition": "I worked so hard today.",
+    "timestamp": "0:21:26",
+    "audio": "/audio/01/0.21.26.mp3"
+  },
+  "108": {
+    "speaker": "LLAMA",
+    "character": "そうですね",
+    "definition": "Indeed, you did.",
+    "timestamp": "0:21:30",
+    "audio": "/audio/01/0.21.30.mp3"
+  },
+  "109": {
+    "speaker": "PENGUIN",
+    "character": "すごいやりきった顔だけど　パンダ君途中からずっと寝てたらしいよ",
+    "definition": "He looks so satisfied with himself,",
+    "timestamp": "0:21:31",
+    "audio": "/audio/01/0.21.31.mp3"
+  },
+  "110": {
+    "speaker": "PANDA",
+    "character": "すごいやりきった顔だけど　パンダ君途中からずっと寝てたらしいよ",
+    "definition": "{\\a6}I feel so fulfilled. but apparently he slept half the time. {\\a6}I know where you're coming from. I guess that's \"acting naturally\" to him.",
+    "timestamp": "0:21:31",
+    "audio": "/audio/01/0.21.31.mp3"
+  },
+  "111": {
+    "speaker": "PENGUIN",
+    "character": "パンダ君って　割りと図々しいよね",
+    "definition": "Panda's pretty shameless, isn't he?",
+    "timestamp": "0:21:40",
+    "audio": "/audio/01/0.21.40.mp3"
+  },
+  "112": {
+    "speaker": "LLAMA",
+    "character": "パンダ君　一先何か頼みませんか？",
+    "definition": "Why don't you order something, Panda?",
+    "timestamp": "0:21:43",
+    "audio": "/audio/01/0.21.43.mp3"
+  },
+  "113": {
+    "speaker": "PANDA",
+    "character": "どうしようかな～～～",
+    "definition": "Let's see... Huh?",
+    "timestamp": "0:21:47",
+    "audio": "/audio/01/0.21.47.mp3"
+  },
+  "114": {
+    "speaker": "POLAR BEAR",
+    "character": "何にする？",
+    "definition": "What can I get for you?",
+    "timestamp": "0:21:59",
+    "audio": "/audio/01/0.21.59.mp3"
+  },
+  "115": {
+    "speaker": "PANDA",
+    "character": "竹！大盛りで",
+    "definition": "Bamboo, please! A large serving {\\i1}(oomori){\\i0}!",
+    "timestamp": "0:22:05",
+    "audio": "/audio/01/0.22.05.mp3"
+  },
+  "116": {
+    "speaker": "PENGUIN",
+    "character": "しろくま君　それは　守宮！",
+    "definition": "Polar Bear, that's a gecko {\\i1}(yamori){\\i0}.",
+    "timestamp": "0:22:08",
+    "audio": "/audio/01/0.22.08.mp3"
+  },
+  "117": {
+    "speaker": "POLAR BEAR",
+    "character": "オー　よちよち～",
+    "definition": "Oh, there there.",
+    "timestamp": "0:22:12",
+    "audio": "/audio/01/0.22.12.mp3"
+  },
+  "118": {
+    "speaker": "SASAKO",
+    "character": "それは　子守！",
+    "definition": "That would be babysitting {\\i1}(komori){\\i0}.",
+    "timestamp": "0:22:14",
+    "audio": "/audio/01/0.22.14.mp3"
+  },
+  "119": {
+    "speaker": "BOTH BEARS",
+    "character": "笹子さんが突っ込みを！",
+    "definition": "Miss Sasako retorted!",
+    "timestamp": "0:22:15",
+    "audio": "/audio/01/0.22.15.mp3"
+  },
+  "120": {
+    "speaker": "SASAKO",
+    "character": "それは　ハモリ",
+    "definition": "That would be harmonizing {\\i1}(hamori){\\i0}.",
+    "timestamp": "0:22:17",
+    "audio": "/audio/01/0.22.17.mp3"
+  },
+  "121": {
+    "speaker": "PANDA",
+    "character": "ね～　早く頂戴～",
+    "definition": "Hey, can I get my bamboo, already?",
+    "timestamp": "0:22:20",
+    "audio": "/audio/01/0.22.20.mp3"
+  },
+  "122": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin!",
+    "timestamp": "0:23:56",
+    "audio": "/audio/01/0.23.56.mp3"
+  },
+  "123": {
+    "speaker": "PANDA",
+    "character": "僕が全部毛を剃ると　どうなってると思う？",
+    "definition": "What do you think I'd look like if I shaved off all my hair? This isn't the time. We're supposed to be doing the preview.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/01/0.23.58.mp3"
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "じゃ～さ　ペンギンさんのだめな部分三つ教えて",
+    "definition": "Then could you tell me three bad traits about yourself?",
+    "timestamp": "0:24:03",
+    "audio": "/audio/01/0.24.03.mp3"
+  },
+  "125": {
+    "speaker": "PENGUIN",
+    "character": "それもいいかな　テンション下がっちゃうから",
+    "definition": "Let's not do that either, it'll bring the mood down.",
+    "timestamp": "0:24:06",
+    "audio": "/audio/01/0.24.06.mp3"
+  },
+  "126": {
+    "speaker": "PENGUIN",
+    "character": "しろくま君　しゃべろう",
+    "definition": "Say something, Polar Bear.",
+    "timestamp": "0:24:09",
+    "audio": "/audio/01/0.24.09.mp3"
+  },
+  "127": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさんのダメなところは　お金にだらしないところ",
+    "definition": "Mr. Penguin's bad trait is that he's bad with money.",
+    "timestamp": "0:24:10",
+    "audio": "/audio/01/0.24.10.mp3"
+  },
+  "128": {
+    "speaker": "PENGUIN",
+    "character": "やめて！もう終わって！",
+    "definition": "Stop it!  Just finish already.",
+    "timestamp": "0:24:13",
+    "audio": "/audio/01/0.24.13.mp3"
+  },
+  "129": {
+    "speaker": "POLAR BEAR",
+    "character": "はい！次回しろくまカフェ最終回　お楽しみに",
+    "definition": "Okay. Next time on \"Polar Bear's Café,\" the last episode.  Enjoy!",
+    "timestamp": "0:24:15",
+    "audio": "/audio/01/0.24.15.mp3"
+  },
+  "130": {
+    "speaker": "PENGUIN",
+    "character": "終わらせないよ　しろくまカフェ第二話　お楽しみに",
+    "definition": "I'm not letting you end with that! \"Polar Bear's Café\" episode two! Enjoy!",
+    "timestamp": "0:24:19",
+    "audio": "/audio/01/0.24.19.mp3"
+  }
+}

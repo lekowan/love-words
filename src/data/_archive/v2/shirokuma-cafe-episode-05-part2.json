@@ -1,0 +1,1087 @@
+{
+  "108": {
+    "speaker": "PANDA",
+    "character": "こんにちは",
+    "definition": "Hello.",
+    "timestamp": "0:12:12",
+    "audio": "/audio/05/0.12.12.mp3"
+  },
+  "109": {
+    "speaker": "PANDA",
+    "character": "シロクマくん？",
+    "definition": "Polar Bear?",
+    "timestamp": "0:12:15",
+    "audio": "/audio/05/0.12.15.mp3"
+  },
+  "110": {
+    "speaker": "PANDA",
+    "character": "どうしたの？　何か考え事？",
+    "definition": "What's wrong? Is something on your mind?",
+    "timestamp": "0:12:19",
+    "audio": "/audio/05/0.12.19.mp3"
+  },
+  "111": {
+    "speaker": "POLAR BEAR",
+    "character": "これ",
+    "definition": "This.",
+    "timestamp": "0:12:24",
+    "audio": "/audio/05/0.12.24.mp3"
+  },
+  "112": {
+    "speaker": "PANDA",
+    "character": "おだんご？",
+    "definition": "Candies?",
+    "timestamp": "0:12:26",
+    "audio": "/audio/05/0.12.26.mp3"
+  },
+  "113": {
+    "speaker": "POLAR BEAR",
+    "character": "なんで　信号って 赤　青　黄色の３色なのか考えてた",
+    "definition": "I was trying to figure out why traffic lights are these three colors.",
+    "timestamp": "0:12:27",
+    "audio": "/audio/05/0.12.27.mp3"
+  },
+  "114": {
+    "speaker": "PANDA",
+    "character": "そうなんだ",
+    "definition": "I see.",
+    "timestamp": "0:12:33",
+    "audio": "/audio/05/0.12.33.mp3"
+  },
+  "115": {
+    "speaker": "SASAKO",
+    "character": "違うよ　パンダくん",
+    "definition": "That's not it, Panda.",
+    "timestamp": "0:12:34",
+    "audio": "/audio/05/0.12.34.mp3"
+  },
+  "116": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん　カフェのスペシャルメニューを 考えてるんだよ",
+    "definition": "Mr. Polar Bear is trying to figure out a special menu for the café.",
+    "timestamp": "0:12:36",
+    "audio": "/audio/05/0.12.36.mp3"
+  },
+  "117": {
+    "speaker": "PANDA",
+    "character": "スペシャルメニュー？",
+    "definition": "A special menu? I failed the skills test again. Skills test?",
+    "timestamp": "0:12:40",
+    "audio": "/audio/05/0.12.40.mp3"
+  },
+  "118": {
+    "speaker": "POLAR BEAR",
+    "character": "ああ　自動車教習所ね",
+    "definition": "Oh, at the driving school.",
+    "timestamp": "0:12:51",
+    "audio": "/audio/05/0.12.51.mp3"
+  },
+  "119": {
+    "speaker": "PENGUIN",
+    "character": "大体　あの教官 細かすぎなんだよ！",
+    "definition": "That instructor is too picky, anyway!",
+    "timestamp": "0:12:53",
+    "audio": "/audio/05/0.12.53.mp3"
+  },
+  "120": {
+    "speaker": "SASAKO",
+    "character": "どう細かいんですか？",
+    "definition": "How were they picky?",
+    "timestamp": "0:12:56",
+    "audio": "/audio/05/0.12.56.mp3"
+  },
+  "121": {
+    "speaker": "PENGUIN",
+    "character": "いやね　キョロキョロしないで まっすぐ前を見ろ！　とか",
+    "definition": "Like he was telling me, \"Stop looking all over the place and watch where you're going,\"",
+    "timestamp": "0:12:58",
+    "audio": "/audio/05/0.12.58.mp3"
+  },
+  "122": {
+    "speaker": "",
+    "character": "慌てすぎるな！　とか",
+    "definition": "or \"Stop panicking,\"",
+    "timestamp": "0:13:02",
+    "audio": "/audio/05/0.13.02.mp3"
+  },
+  "123": {
+    "speaker": "PENGUIN",
+    "character": "ハンドルを握るときには 手を　パタパタさせるな！　とか",
+    "definition": "or \"Stop flapping around so much when you're holding the wheel.\"",
+    "timestamp": "0:13:04",
+    "audio": "/audio/05/0.13.04.mp3"
+  },
+  "124": {
+    "speaker": "SASAKO",
+    "character": "それは　ダメなんじゃないですか？",
+    "definition": "I think he has a point.",
+    "timestamp": "0:13:08",
+    "audio": "/audio/05/0.13.08.mp3"
+  },
+  "125": {
+    "speaker": "PENGUIN",
+    "character": "あの教官のおかげで",
+    "definition": "At this rate, I'll never be able to",
+    "timestamp": "0:13:11",
+    "audio": "/audio/05/0.13.11.mp3"
+  },
+  "126": {
+    "speaker": "",
+    "character": "いつまでたってもペン子さんを　ドライブデートに誘えないよ",
+    "definition": "ask Miss Penko out on a driving date, because of that instructor.",
+    "timestamp": "0:13:12",
+    "audio": "/audio/05/0.13.12.mp3"
+  },
+  "127": {
+    "speaker": "POLAR BEAR",
+    "character": "デート？",
+    "definition": "Date {\\i1}(de-to){\\i0}?",
+    "timestamp": "0:13:17",
+    "audio": "/audio/05/0.13.17.mp3"
+  },
+  "128": {
+    "speaker": "PANDA",
+    "character": "それは　テント",
+    "definition": "That would be a tent {\\i1}(tento){\\i0}.",
+    "timestamp": "0:13:20",
+    "audio": "/audio/05/0.13.20.mp3"
+  },
+  "129": {
+    "speaker": "PANDA",
+    "character": "それは　弁当",
+    "definition": "That's a boxed lunch {\\i1}(bento){\\i0}.",
+    "timestamp": "0:13:23",
+    "audio": "/audio/05/0.13.23.mp3"
+  },
+  "130": {
+    "speaker": "PANDA",
+    "character": "それは　電灯",
+    "definition": "That would be an electric light {\\i1}(dento){\\i0}.",
+    "timestamp": "0:13:26",
+    "audio": "/audio/05/0.13.26.mp3"
+  },
+  "131": {
+    "speaker": "PANDA",
+    "character": "それは　剣道",
+    "definition": "That would be kendo.",
+    "timestamp": "0:13:29",
+    "audio": "/audio/05/0.13.29.mp3"
+  },
+  "132": {
+    "speaker": "PENGUIN",
+    "character": "デートだってば！！",
+    "definition": "I said \"date!\" I wonder how I can make her mine?",
+    "timestamp": "0:13:31",
+    "audio": "/audio/05/0.13.31.mp3"
+  },
+  "133": {
+    "speaker": "POLAR BEAR",
+    "character": "射止める…",
+    "definition": "Make her yours?",
+    "timestamp": "0:13:39",
+    "audio": "/audio/05/0.13.39.mp3"
+  },
+  "134": {
+    "speaker": "PENGUIN",
+    "character": "シロクマくんなら　どうする？",
+    "definition": "What would you do, Polar Bear?",
+    "timestamp": "0:13:41",
+    "audio": "/audio/05/0.13.41.mp3"
+  },
+  "135": {
+    "speaker": "POLAR BEAR",
+    "character": "待つ",
+    "definition": "I'd wait.",
+    "timestamp": "0:13:45",
+    "audio": "/audio/05/0.13.45.mp3"
+  },
+  "136": {
+    "speaker": "PENGUIN",
+    "character": "待つの？",
+    "definition": "You'd wait? I would earnestly wait.",
+    "timestamp": "0:13:47",
+    "audio": "/audio/05/0.13.47.mp3"
+  },
+  "137": {
+    "speaker": "PENGUIN",
+    "character": "へえ～っ　なんか大人だね",
+    "definition": "Wow, you're such an adult. Yes, if you can't do that, you can't become an adult.",
+    "timestamp": "0:13:51",
+    "audio": "/audio/05/0.13.51.mp3"
+  },
+  "138": {
+    "speaker": "PANDA",
+    "character": "なれない？",
+    "definition": "You can't?",
+    "timestamp": "0:13:57",
+    "audio": "/audio/05/0.13.57.mp3"
+  },
+  "139": {
+    "speaker": "POLAR BEAR",
+    "character": "ひたすら　待って　待って　待って",
+    "definition": "Earnestly wait, and wait, and wait,",
+    "timestamp": "0:13:59",
+    "audio": "/audio/05/0.13.59.mp3"
+  },
+  "140": {
+    "speaker": "POLAR BEAR",
+    "character": "出てきたところを…",
+    "definition": "until they finally come out!",
+    "timestamp": "0:14:07",
+    "audio": "/audio/05/0.14.07.mp3"
+  },
+  "141": {
+    "speaker": "PENGUIN",
+    "character": "射止めてないよ！ それじゃ仕留めちゃうよ！",
+    "definition": "That's not making them yours {\\i1}(itomeru){\\i0}! That's taking them down {\\i1}(shitomeru){\\i0}!",
+    "timestamp": "0:14:12",
+    "audio": "/audio/05/0.14.12.mp3"
+  },
+  "142": {
+    "speaker": "PENGUIN",
+    "character": "シロクマくん　ちゃんと考えてよ！",
+    "definition": "Would you think about this seriously, Polar Bear?!",
+    "timestamp": "0:14:15",
+    "audio": "/audio/05/0.14.15.mp3"
+  },
+  "143": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさん見てて思ったんだけど…",
+    "definition": "I just had an idea, looking at you, Mr. Penguin.",
+    "timestamp": "0:14:20",
+    "audio": "/audio/05/0.14.20.mp3"
+  },
+  "144": {
+    "speaker": "PENGUIN",
+    "character": "えっ　何？",
+    "definition": "Huh? What?",
+    "timestamp": "0:14:23",
+    "audio": "/audio/05/0.14.23.mp3"
+  },
+  "145": {
+    "speaker": "POLAR BEAR",
+    "character": "笹子さん　パフェフェアーは　どうかな？",
+    "definition": "How about a parfait fair, Miss Sasako?",
+    "timestamp": "0:14:26",
+    "audio": "/audio/05/0.14.26.mp3"
+  },
+  "146": {
+    "speaker": "SASAKO",
+    "character": "パフェですか　いいですね",
+    "definition": "Parfaits? That's a great idea.",
+    "timestamp": "0:14:29",
+    "audio": "/audio/05/0.14.29.mp3"
+  },
+  "147": {
+    "speaker": "PENGUIN",
+    "character": "何それ？　デートと全然関係ないよね",
+    "definition": "What the heck? That has nothing to do with dates.",
+    "timestamp": "0:14:32",
+    "audio": "/audio/05/0.14.32.mp3"
+  },
+  "148": {
+    "speaker": "PENGUIN",
+    "character": "どこをどうすれば　そうなるの？",
+    "definition": "How in the world did you get to that subject?",
+    "timestamp": "0:14:35",
+    "audio": "/audio/05/0.14.35.mp3"
+  },
+  "149": {
+    "speaker": "SASAKO",
+    "character": "さっきまでスペシャルメニューの話を してたんですけど",
+    "definition": "We were just talking about making a special menu,",
+    "timestamp": "0:14:37",
+    "audio": "/audio/05/0.14.37.mp3"
+  },
+  "150": {
+    "speaker": "SASAKO",
+    "character": "なかなか決まらなくて",
+    "definition": "but we couldn't figure out what it should be.",
+    "timestamp": "0:14:41",
+    "audio": "/audio/05/0.14.41.mp3"
+  },
+  "151": {
+    "speaker": "PENGUIN",
+    "character": "スペシャルメニューでパフェ？",
+    "definition": "So your special menu is going to have parfaits?",
+    "timestamp": "0:14:44",
+    "audio": "/audio/05/0.14.44.mp3"
+  },
+  "152": {
+    "speaker": "PANDA",
+    "character": "僕　パフェ好き",
+    "definition": "I love parfaits!",
+    "timestamp": "0:14:47",
+    "audio": "/audio/05/0.14.47.mp3"
+  },
+  "153": {
+    "speaker": "SASAKO",
+    "character": "パフェはいいですけど",
+    "definition": "Parfaits are a great idea,",
+    "timestamp": "0:14:49",
+    "audio": "/audio/05/0.14.49.mp3"
+  },
+  "154": {
+    "speaker": "SASAKO",
+    "character": "パフェフェアーって なんか言いづらいですよね",
+    "definition": "but isn't \"parfait fair\" a bit hard to say?",
+    "timestamp": "0:14:51",
+    "audio": "/audio/05/0.14.51.mp3"
+  },
+  "155": {
+    "speaker": "POLAR BEAR",
+    "character": "いや　全然大丈夫",
+    "definition": "No, it'll be fine.",
+    "timestamp": "0:14:55",
+    "audio": "/audio/05/0.14.55.mp3"
+  },
+  "156": {
+    "speaker": "POLAR BEAR",
+    "character": "よし　決まり",
+    "definition": "All right, it's settled.",
+    "timestamp": "0:14:57",
+    "audio": "/audio/05/0.14.57.mp3"
+  },
+  "157": {
+    "speaker": "POLAR BEAR",
+    "character": "パヘヘアーにしよう",
+    "definition": "We'll call it \"parhay hair.\"",
+    "timestamp": "0:15:00",
+    "audio": "/audio/05/0.15.00.mp3"
+  },
+  "158": {
+    "speaker": "PENGUIN",
+    "character": "言えてないよね",
+    "definition": "You couldn't say it.",
+    "timestamp": "0:15:04",
+    "audio": "/audio/05/0.15.04.mp3"
+  },
+  "159": {
+    "speaker": "POLAR BEAR",
+    "character": "イチゴパフェ　バナナパフェ　チョコパフェ",
+    "definition": "Strawberry parfait, banana parfait, chocolate parfait.",
+    "timestamp": "0:15:22",
+    "audio": "/audio/05/0.15.22.mp3"
+  },
+  "160": {
+    "speaker": "POLAR BEAR",
+    "character": "間違いはないけど　フェアなのに 定番だけじゃつまらない",
+    "definition": "These are definitely parfaits, but it'd be boring to have just the normal lineup for the fair. Hmm, special parfaits, huh?",
+    "timestamp": "0:15:27",
+    "audio": "/audio/05/0.15.27.mp3"
+  },
+  "161": {
+    "speaker": "MANDRILL",
+    "character": "シロクマさん",
+    "definition": "Mr. Polar Bear.",
+    "timestamp": "0:15:46",
+    "audio": "/audio/05/0.15.46.mp3"
+  },
+  "162": {
+    "speaker": "MANDRILL",
+    "character": "パフェフェアー",
+    "definition": "Parfait Fair.",
+    "timestamp": "0:15:52",
+    "audio": "/audio/05/0.15.52.mp3"
+  },
+  "163": {
+    "speaker": "POLAR BEAR",
+    "character": "をするんですよね？ メニューは決まりましたか？",
+    "definition": "Huh?",
+    "timestamp": "0:15:54",
+    "audio": "/audio/05/0.15.54.mp3"
+  },
+  "164": {
+    "speaker": "MANDRILL",
+    "character": "をするんですよね？ メニューは決まりましたか？",
+    "definition": "You're having one, right? Have you decided on the menu yet?",
+    "timestamp": "0:15:54",
+    "audio": "/audio/05/0.15.54.mp3"
+  },
+  "165": {
+    "speaker": "POLAR BEAR",
+    "character": "今　検討中",
+    "definition": "I'm trying to decide as we speak.",
+    "timestamp": "0:15:59",
+    "audio": "/audio/05/0.15.59.mp3"
+  },
+  "166": {
+    "speaker": "MANDRILL",
+    "character": "だったらマンドリルパフェは　どうですか？",
+    "definition": "Then how about a mandrill parfait?",
+    "timestamp": "0:16:01",
+    "audio": "/audio/05/0.16.01.mp3"
+  },
+  "167": {
+    "speaker": "POLAR BEAR",
+    "character": "それ　何？",
+    "definition": "What's that?",
+    "timestamp": "0:16:04",
+    "audio": "/audio/05/0.16.04.mp3"
+  },
+  "168": {
+    "speaker": "MANDRILL",
+    "character": "マンドリルなパフェです",
+    "definition": "It is a parfait that is a mandrill.",
+    "timestamp": "0:16:06",
+    "audio": "/audio/05/0.16.06.mp3"
+  },
+  "169": {
+    "speaker": "MANDRILL",
+    "character": "それはもう　すごい迫力なんです！",
+    "definition": "And it is... {\\i1}intense{\\i0}!",
+    "timestamp": "0:16:08",
+    "audio": "/audio/05/0.16.08.mp3"
+  },
+  "170": {
+    "speaker": "POLAR BEAR",
+    "character": "パフェに迫力はいらないかな",
+    "definition": "I don't think parfaits need intensity.",
+    "timestamp": "0:16:13",
+    "audio": "/audio/05/0.16.13.mp3"
+  },
+  "171": {
+    "speaker": "POLAR BEAR",
+    "character": "う～ん　スペシャルなパフェね",
+    "definition": "Hmm, special parfaits, huh?",
+    "timestamp": "0:16:17",
+    "audio": "/audio/05/0.16.17.mp3"
+  },
+  "172": {
+    "speaker": "LLAMA",
+    "character": "シロクマさんじゃないですか",
+    "definition": "Well, if it isn't Mr. Polar Bear.",
+    "timestamp": "0:16:21",
+    "audio": "/audio/05/0.16.21.mp3"
+  },
+  "173": {
+    "speaker": "POLAR BEAR",
+    "character": "ああ　ラマさん",
+    "definition": "Oh, hello, Mr. Llama.",
+    "timestamp": "0:16:23",
+    "audio": "/audio/05/0.16.23.mp3"
+  },
+  "174": {
+    "speaker": "LLAMA",
+    "character": "こんにちは",
+    "definition": "Hello.",
+    "timestamp": "0:16:25",
+    "audio": "/audio/05/0.16.25.mp3"
+  },
+  "175": {
+    "speaker": "LLAMA",
+    "character": "聞きましたよ",
+    "definition": "So, I heard the news.",
+    "timestamp": "0:16:27",
+    "audio": "/audio/05/0.16.27.mp3"
+  },
+  "176": {
+    "speaker": "POLAR BEAR",
+    "character": "何を？",
+    "definition": "What?",
+    "timestamp": "0:16:28",
+    "audio": "/audio/05/0.16.28.mp3"
+  },
+  "177": {
+    "speaker": "LLAMA",
+    "character": "パフェフェアーをやるんですよね？",
+    "definition": "You're going to have a parfait fair, right?",
+    "timestamp": "0:16:29",
+    "audio": "/audio/05/0.16.29.mp3"
+  },
+  "178": {
+    "speaker": "LLAMA",
+    "character": "ステキなパフェを思いついたんですよ",
+    "definition": "I thought up a spectacular parfait.",
+    "timestamp": "0:16:33",
+    "audio": "/audio/05/0.16.33.mp3"
+  },
+  "179": {
+    "speaker": "LLAMA",
+    "character": "パフェなのに　とってもヘルシーなんです",
+    "definition": "It's a parfait, but it's very healthy.",
+    "timestamp": "0:16:36",
+    "audio": "/audio/05/0.16.36.mp3"
+  },
+  "180": {
+    "speaker": "POLAR BEAR",
+    "character": "いいね　どんなの？",
+    "definition": "Sounds great. What is it?",
+    "timestamp": "0:16:39",
+    "audio": "/audio/05/0.16.39.mp3"
+  },
+  "181": {
+    "speaker": "LLAMA",
+    "character": "自信作ですよ",
+    "definition": "One of my best ideas.",
+    "timestamp": "0:16:41",
+    "audio": "/audio/05/0.16.41.mp3"
+  },
+  "182": {
+    "speaker": "LLAMA",
+    "character": "草　大盛りパフェです",
+    "definition": "A parfait with a large serving of grass.",
+    "timestamp": "0:16:43",
+    "audio": "/audio/05/0.16.43.mp3"
+  },
+  "183": {
+    "speaker": "LLAMA",
+    "character": "どんなパフェかというとですね",
+    "definition": "To explain the parfait in further detail,",
+    "timestamp": "0:16:47",
+    "audio": "/audio/05/0.16.47.mp3"
+  },
+  "184": {
+    "speaker": "LLAMA",
+    "character": "お皿の上に草がのっていてですね",
+    "definition": "there's grass on top of the plate...",
+    "timestamp": "0:16:50",
+    "audio": "/audio/05/0.16.50.mp3"
+  },
+  "185": {
+    "speaker": "POLAR BEAR",
+    "character": "お皿？",
+    "definition": "A plate?",
+    "timestamp": "0:16:53",
+    "audio": "/audio/05/0.16.53.mp3"
+  },
+  "186": {
+    "speaker": "LLAMA",
+    "character": "その上に水煮の草が のっていていてですね",
+    "definition": "And on top of that, there'll be boiled grass...",
+    "timestamp": "0:16:54",
+    "audio": "/audio/05/0.16.54.mp3"
+  },
+  "187": {
+    "speaker": "LLAMA",
+    "character": "更に　その上に覆いかぶさるように 産地直送の草がのるんです",
+    "definition": "and then freshly delivered grass from the fields... will hang over the dish.",
+    "timestamp": "0:16:58",
+    "audio": "/audio/05/0.16.58.mp3"
+  },
+  "188": {
+    "speaker": "POLAR BEAR",
+    "character": "いや　それすでにパフェじゃないし どっちかっていうとサラダかな",
+    "definition": "Well, that's definitely not a parfait. If you had to call it something, it'd probably be a salad.",
+    "timestamp": "0:17:06",
+    "audio": "/audio/05/0.17.06.mp3"
+  },
+  "189": {
+    "speaker": "POLAR BEAR",
+    "character": "う～ん　スペシャルなパフェ…",
+    "definition": "Hmm, special parfaits...",
+    "timestamp": "0:17:12",
+    "audio": "/audio/05/0.17.12.mp3"
+  },
+  "190": {
+    "speaker": "TORTOISE",
+    "character": "シロクマさ～ん　ここです！",
+    "definition": "Mr. Polar Bear... Over here...",
+    "timestamp": "0:17:17",
+    "audio": "/audio/05/0.17.17.mp3"
+  },
+  "191": {
+    "speaker": "TORTOISE",
+    "character": "待って～！ヽ(*´∀｀)ノ",
+    "definition": "Please wait... I have... something to tell you.",
+    "timestamp": "0:17:25",
+    "audio": "/audio/05/0.17.25.mp3"
+  },
+  "192": {
+    "speaker": "POLAR BEAR",
+    "character": "どうしたの？　ゾウガメさん",
+    "definition": "What's the matter, Mr. Tortoise?",
+    "timestamp": "0:17:39",
+    "audio": "/audio/05/0.17.39.mp3"
+  },
+  "193": {
+    "speaker": "TORTOISE",
+    "character": "パフェ…　フェ…",
+    "definition": "Parfai... fai...",
+    "timestamp": "0:17:42",
+    "audio": "/audio/05/0.17.42.mp3"
+  },
+  "194": {
+    "speaker": "POLAR BEAR",
+    "character": "パフェフェアー？",
+    "definition": "Parfait fair?",
+    "timestamp": "0:17:45",
+    "audio": "/audio/05/0.17.45.mp3"
+  },
+  "195": {
+    "speaker": "TORTOISE",
+    "character": "甲羅パフェは？",
+    "definition": "How about a shell parfait?",
+    "timestamp": "0:17:49",
+    "audio": "/audio/05/0.17.49.mp3"
+  },
+  "196": {
+    "speaker": "POLAR BEAR",
+    "character": "甲羅パフェ？",
+    "definition": "Shell parfait?",
+    "timestamp": "0:17:52",
+    "audio": "/audio/05/0.17.52.mp3"
+  },
+  "197": {
+    "speaker": "POLAR BEAR",
+    "character": "食べづらいかな",
+    "definition": "That might be a little hard to eat.",
+    "timestamp": "0:18:01",
+    "audio": "/audio/05/0.18.01.mp3"
+  },
+  "198": {
+    "speaker": "POLAR BEAR",
+    "character": "う～ん　スペシャルなパフェ…",
+    "definition": "Hmm, special parfaits... I wonder what would be good.",
+    "timestamp": "0:18:04",
+    "audio": "/audio/05/0.18.04.mp3"
+  },
+  "199": {
+    "speaker": "ANTEATER",
+    "character": "シロクマさん！",
+    "definition": "Mr. Polar Bear!",
+    "timestamp": "0:18:14",
+    "audio": "/audio/05/0.18.14.mp3"
+  },
+  "200": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ！　コアリクイくん",
+    "definition": "Oh, hello, Anteater.",
+    "timestamp": "0:18:15",
+    "audio": "/audio/05/0.18.15.mp3"
+  },
+  "201": {
+    "speaker": "ANTEATER",
+    "character": "すごいパフェを…",
+    "definition": "I thought of... I thought of a great parfait!",
+    "timestamp": "0:18:17",
+    "audio": "/audio/05/0.18.17.mp3"
+  },
+  "202": {
+    "speaker": "POLAR BEAR",
+    "character": "どんなパフェ？",
+    "definition": "What kind of parfait is it? The topping is absolutely amazing!",
+    "timestamp": "0:18:24",
+    "audio": "/audio/05/0.18.24.mp3"
+  },
+  "203": {
+    "speaker": "ANTEATER",
+    "character": "ビジュアルは黒ゴマ的ですが…",
+    "definition": "Visually, it looks like black sesame,",
+    "timestamp": "0:18:28",
+    "audio": "/audio/05/0.18.28.mp3"
+  },
+  "204": {
+    "speaker": "ANTEATER",
+    "character": "すごく　うごめいている！",
+    "definition": "but they're wriggling!",
+    "timestamp": "0:18:31",
+    "audio": "/audio/05/0.18.31.mp3"
+  },
+  "205": {
+    "speaker": "POLAR BEAR",
+    "character": "いや　それは　いいかな",
+    "definition": "No, I'm going to pass.",
+    "timestamp": "0:18:35",
+    "audio": "/audio/05/0.18.35.mp3"
+  },
+  "206": {
+    "speaker": "ANTEATER",
+    "character": "だから　めちゃくちゃ　生き生きと うごめいている　黒ゴマ的トッピングの…",
+    "definition": "But they're like lively black sesame that wriggle! Japanese style is good, too, but...",
+    "timestamp": "0:18:38",
+    "audio": "/audio/05/0.18.38.mp3"
+  },
+  "207": {
+    "speaker": "PENGUIN",
+    "character": "どうしたの？　シロクマくん",
+    "definition": "What's wrong, Polar Bear?",
+    "timestamp": "0:18:49",
+    "audio": "/audio/05/0.18.49.mp3"
+  },
+  "208": {
+    "speaker": "POLAR BEAR",
+    "character": "早く　パフェフェアーのメニュー　考えないと みんなが暴走してるから",
+    "definition": "I need to hurry up and decide on the menu for the parfait fair. Everyone's going crazy.",
+    "timestamp": "0:18:52",
+    "audio": "/audio/05/0.18.52.mp3"
+  },
+  "209": {
+    "speaker": "PANDA",
+    "character": "暴走？(;ﾟДﾟ)!",
+    "definition": "Going crazy?",
+    "timestamp": "0:18:58",
+    "audio": "/audio/05/0.18.58.mp3"
+  },
+  "210": {
+    "speaker": "PENGUIN",
+    "character": "スペシャルメニューだけに　みんな 結構　楽しみにしてるんだね",
+    "definition": "Since it's the special menu, I'm guessing everyone is looking forward to it.",
+    "timestamp": "0:18:59",
+    "audio": "/audio/05/0.18.59.mp3"
+  },
+  "211": {
+    "speaker": "PANDA",
+    "character": "はい　は～い！　僕に　いいアイディア",
+    "definition": "Hey! I have a great idea!",
+    "timestamp": "0:19:04",
+    "audio": "/audio/05/0.19.04.mp3"
+  },
+  "212": {
+    "speaker": "SASAKO",
+    "character": "はい",
+    "definition": "Here you go!",
+    "timestamp": "0:19:09",
+    "audio": "/audio/05/0.19.09.mp3"
+  },
+  "213": {
+    "speaker": "PANDA",
+    "character": "これ　これ！　竹パフェ",
+    "definition": "This is it! The bamboo parfait!",
+    "timestamp": "0:19:10",
+    "audio": "/audio/05/0.19.10.mp3"
+  },
+  "214": {
+    "speaker": "SASAKO",
+    "character": "パンダくんに聞いて　作ってみました",
+    "definition": "I got Panda's advice and tried to make it.",
+    "timestamp": "0:19:13",
+    "audio": "/audio/05/0.19.13.mp3"
+  },
+  "215": {
+    "speaker": "PANDA",
+    "character": "すごいでしょ？",
+    "definition": "Isn't it amazing?",
+    "timestamp": "0:19:15",
+    "audio": "/audio/05/0.19.15.mp3"
+  },
+  "216": {
+    "speaker": "PANDA",
+    "character": "竹ゼリーに笹クリームをのせて 新鮮な笹とタケノコをトッピングした上に",
+    "definition": "You start with bamboo jello and bamboo grass whipped cream, then top it with fresh bamboo grass and bamboo shoots,",
+    "timestamp": "0:19:17",
+    "audio": "/audio/05/0.19.17.mp3"
+  },
+  "217": {
+    "speaker": "PANDA",
+    "character": "刻んだ竹が いっぱい　のっかってるの",
+    "definition": "and finish it off with lots of bamboo shavings!",
+    "timestamp": "0:19:23",
+    "audio": "/audio/05/0.19.23.mp3"
+  },
+  "218": {
+    "speaker": "PENGUIN",
+    "character": "すごく緑色なパフェだね(-_-;)",
+    "definition": "That's a very green parfait.",
+    "timestamp": "0:19:29",
+    "audio": "/audio/05/0.19.29.mp3"
+  },
+  "219": {
+    "speaker": "POLAR BEAR",
+    "character": "パンダくん以外　食べないかも",
+    "definition": "I don't think anyone would eat it other than you, Panda.",
+    "timestamp": "0:19:31",
+    "audio": "/audio/05/0.19.31.mp3"
+  },
+  "220": {
+    "speaker": "PANDA",
+    "character": "そう？ こんなに　おいしそうなのに？",
+    "definition": "Really? Even though it looks this delicious?",
+    "timestamp": "0:19:33",
+    "audio": "/audio/05/0.19.33.mp3"
+  },
+  "221": {
+    "speaker": "PENGUIN",
+    "character": "刻んだ竹が口に刺さりそうだよ",
+    "definition": "The bamboo shavings look like they'll stab you in the mouth.",
+    "timestamp": "0:19:37",
+    "audio": "/audio/05/0.19.37.mp3"
+  },
+  "222": {
+    "speaker": "PENGUIN",
+    "character": "パンダくん…　パフェって言えば なんでも　パフェだと思ってるでしょ",
+    "definition": "You probably think that anything can be on a parfait, Panda.",
+    "timestamp": "0:19:40",
+    "audio": "/audio/05/0.19.40.mp3"
+  },
+  "223": {
+    "speaker": "PENGUIN",
+    "character": "任せておけないよ",
+    "definition": "We can't leave it up to you.",
+    "timestamp": "0:19:44",
+    "audio": "/audio/05/0.19.44.mp3"
+  },
+  "224": {
+    "speaker": "PENGUIN",
+    "character": "よし　ここは　僕のアイディアを…",
+    "definition": "Here, I'll throw in my idea, too.",
+    "timestamp": "0:19:46",
+    "audio": "/audio/05/0.19.46.mp3"
+  },
+  "225": {
+    "speaker": "PENGUIN",
+    "character": "イワシパフェ",
+    "definition": "A sardine parfait.",
+    "timestamp": "0:19:50",
+    "audio": "/audio/05/0.19.50.mp3"
+  },
+  "226": {
+    "speaker": "PENGUIN",
+    "character": "ＤＨＡたっぷり　頭もよくなる",
+    "definition": "It's full of DHA and it'll make you smart.",
+    "timestamp": "0:19:52",
+    "audio": "/audio/05/0.19.52.mp3"
+  },
+  "227": {
+    "speaker": "PENGUIN",
+    "character": "ダメ？",
+    "definition": "No?",
+    "timestamp": "0:19:57",
+    "audio": "/audio/05/0.19.57.mp3"
+  },
+  "228": {
+    "speaker": "PENGUIN",
+    "character": "じゃあ　今からだと 旬なアジとかでも　いいと思うよ",
+    "definition": "Well, horse mackerel are in season, too. Let's avoid fish altogether.",
+    "timestamp": "0:19:58",
+    "audio": "/audio/05/0.19.58.mp3"
+  },
+  "229": {
+    "speaker": "POLAR BEAR",
+    "character": "なんていうか　それ パフェっていうより…",
+    "definition": "I wouldn't call that a parfait...",
+    "timestamp": "0:20:04",
+    "audio": "/audio/05/0.20.04.mp3"
+  },
+  "230": {
+    "speaker": "SASAKO",
+    "character": "オシャレなお刺身？",
+    "definition": "It's more like fancy sashimi.",
+    "timestamp": "0:20:07",
+    "audio": "/audio/05/0.20.07.mp3"
+  },
+  "231": {
+    "speaker": "SASAKO",
+    "character": "あっ！ こういうのは　どうでしょうか？",
+    "definition": "Oh, how about this?",
+    "timestamp": "0:20:10",
+    "audio": "/audio/05/0.20.10.mp3"
+  },
+  "232": {
+    "speaker": "SASAKO",
+    "character": "パンダパフェ",
+    "definition": "How about a panda parfait?",
+    "timestamp": "0:20:21",
+    "audio": "/audio/05/0.20.21.mp3"
+  },
+  "233": {
+    "speaker": "SASAKO",
+    "character": "パンダの頭は　バニラアイスで 耳や顔は　チョコレートです",
+    "definition": "The panda's head is made with vanilla ice cream, and its face and ears are made with chocolate.",
+    "timestamp": "0:20:25",
+    "audio": "/audio/05/0.20.25.mp3"
+  },
+  "234": {
+    "speaker": "PANDA",
+    "character": "わぁ～！　パフェになっても パンダって　やっぱり　かわいいね",
+    "definition": "Wow, pandas are cute even as parfaits!",
+    "timestamp": "0:20:30",
+    "audio": "/audio/05/0.20.30.mp3"
+  },
+  "235": {
+    "speaker": "SASAKO",
+    "character": "クマクマパフェ",
+    "definition": "Then there's the bear bear parfait.",
+    "timestamp": "0:20:37",
+    "audio": "/audio/05/0.20.37.mp3"
+  },
+  "236": {
+    "speaker": "SASAKO",
+    "character": "バニラとコーヒーアイスで作ってみました",
+    "definition": "I made it with vanilla and coffee ice cream.",
+    "timestamp": "0:20:39",
+    "audio": "/audio/05/0.20.39.mp3"
+  },
+  "237": {
+    "speaker": "SASAKO",
+    "character": "南極パフェ",
+    "definition": "The south pole parfait.",
+    "timestamp": "0:20:44",
+    "audio": "/audio/05/0.20.44.mp3"
+  },
+  "238": {
+    "speaker": "SASAKO",
+    "character": "かき氷で氷山をイメージしました",
+    "definition": "I made a glacier with shaved ice.",
+    "timestamp": "0:20:46",
+    "audio": "/audio/05/0.20.46.mp3"
+  },
+  "239": {
+    "speaker": "GIRLS",
+    "character": "すご～い！ かわいい！　新商品ですか？",
+    "definition": "Wow! How cute! Are these new?",
+    "timestamp": "0:20:48",
+    "audio": "/audio/05/0.20.48.mp3"
+  },
+  "240": {
+    "speaker": "SASAKO",
+    "character": "あ…　いえ　試作品です",
+    "definition": "Oh no, they're test products. You're welcome to try them if you'd like.",
+    "timestamp": "0:20:52",
+    "audio": "/audio/05/0.20.52.mp3"
+  },
+  "241": {
+    "speaker": "GIRL",
+    "character": "えっ！？　いいんですか？",
+    "definition": "Wow, really?",
+    "timestamp": "0:20:56",
+    "audio": "/audio/05/0.20.56.mp3"
+  },
+  "242": {
+    "speaker": "GIRLs",
+    "character": "では… いただきます！",
+    "definition": "Well then, thanks for the food!",
+    "timestamp": "0:21:00",
+    "audio": "/audio/05/0.21.00.mp3"
+  },
+  "243": {
+    "speaker": "GIRL",
+    "character": "まずは　パンダさんから！",
+    "definition": "Let's start with the panda.",
+    "timestamp": "0:21:03",
+    "audio": "/audio/05/0.21.03.mp3"
+  },
+  "244": {
+    "speaker": "GIRL",
+    "character": "じゃあ　ペンギンさんも！",
+    "definition": "And then the penguin.",
+    "timestamp": "0:21:07",
+    "audio": "/audio/05/0.21.07.mp3"
+  },
+  "245": {
+    "speaker": "GIRL",
+    "character": "じゃあ　シロクマさんも！",
+    "definition": "And then the polar bear. I think I'll eat the nose, too.",
+    "timestamp": "0:21:12",
+    "audio": "/audio/05/0.21.12.mp3"
+  },
+  "246": {
+    "speaker": "GIRL",
+    "character": "アハハハハ！　ひどい！！　私も　えい！",
+    "definition": "Oh, how mean! I'll have some, too.",
+    "timestamp": "0:21:20",
+    "audio": "/audio/05/0.21.20.mp3"
+  },
+  "247": {
+    "speaker": "GIRL",
+    "character": "これ　絶対 お店で出してくださいね",
+    "definition": "Please put these on your menu! How wonderful! They're a hit.",
+    "timestamp": "0:21:24",
+    "audio": "/audio/05/0.21.24.mp3"
+  },
+  "248": {
+    "speaker": "THREE",
+    "character": "そ…　そうだね",
+    "definition": "Y-Yeah, great... Hey, listen to this! I failed the test again!",
+    "timestamp": "0:21:32",
+    "audio": "/audio/05/0.21.32.mp3"
+  },
+  "249": {
+    "speaker": "PENGUIN",
+    "character": "いつも以上に大繁盛じゃない どうしたの？",
+    "definition": "This place is a lot busier than usual. What happened?",
+    "timestamp": "0:21:59",
+    "audio": "/audio/05/0.21.59.mp3"
+  },
+  "250": {
+    "speaker": "PANDA",
+    "character": "新メニューのフェアが大人気らしいよ",
+    "definition": "Apparently the new menu items are a hit.",
+    "timestamp": "0:22:03",
+    "audio": "/audio/05/0.22.03.mp3"
+  },
+  "251": {
+    "speaker": "PENGUIN",
+    "character": "あぁ　パフェフェアー？",
+    "definition": "Oh, the parfait fair?",
+    "timestamp": "0:22:06",
+    "audio": "/audio/05/0.22.06.mp3"
+  },
+  "252": {
+    "speaker": "PANDA",
+    "character": "ワンプレートランチフェア",
+    "definition": "The one plate lunch fair.",
+    "timestamp": "0:22:11",
+    "audio": "/audio/05/0.22.11.mp3"
+  },
+  "253": {
+    "speaker": "PENGUIN",
+    "character": "パフェじゃないんだ？",
+    "definition": "So it wasn't parfaits...",
+    "timestamp": "0:22:21",
+    "audio": "/audio/05/0.22.21.mp3"
+  },
+  "254": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん　ペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:59",
+    "audio": "/audio/05/0.23.59.mp3"
+  },
+  "255": {
+    "speaker": "PENGUIN",
+    "character": "どうしたの　パンダ君",
+    "definition": "What's wrong, Panda?",
+    "timestamp": "0:24:01",
+    "audio": "/audio/05/0.24.01.mp3"
+  },
+  "256": {
+    "speaker": "PANDA",
+    "character": "何も言わないで　預金通帳もらえるかな",
+    "definition": "Without asking me the details, could I have your bank book?",
+    "timestamp": "0:24:03",
+    "audio": "/audio/05/0.24.03.mp3"
+  },
+  "257": {
+    "speaker": "PENGUIN",
+    "character": "嫌だってこといいかな",
+    "definition": "How about no?",
+    "timestamp": "0:24:07",
+    "audio": "/audio/05/0.24.07.mp3"
+  },
+  "258": {
+    "speaker": "PENGUIN",
+    "character": "白熊君　まとめて",
+    "definition": "Wrap it up, Polar Bear.",
+    "timestamp": "0:24:09",
+    "audio": "/audio/05/0.24.09.mp3"
+  },
+  "259": {
+    "speaker": "POLAR BEAR",
+    "character": "次回のしろくまカフェは",
+    "definition": "Next time, Polar Bear's Café...",
+    "timestamp": "0:24:11",
+    "audio": "/audio/05/0.24.11.mp3"
+  },
+  "260": {
+    "speaker": "POLAR BEAR",
+    "character": "ボルトがル語でお送りします",
+    "definition": "will be presented in Portuguese.",
+    "timestamp": "0:24:16",
+    "audio": "/audio/05/0.24.16.mp3"
+  },
+  "261": {
+    "speaker": "PENGUIN",
+    "character": "日本語で行こう",
+    "definition": "Let's go with Japanese.",
+    "timestamp": "0:24:18",
+    "audio": "/audio/05/0.24.18.mp3"
+  },
+  "262": {
+    "speaker": "SASAKO",
+    "character": "お楽しみにY(>_<、)Y",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:19",
+    "audio": "/audio/05/0.24.19.mp3"
+  }
+}

@@ -1,0 +1,1892 @@
+{
+  "1": {
+    "speaker": "GUY1",
+    "character": "すげえな パンダって。",
+    "definition": "Wow, pandas are amazing.",
+    "timestamp": "0:01:38",
+    "audio": "/audio/36/0.01.38.mp3"
+  },
+  "2": {
+    "speaker": "GUY2",
+    "character": "冬はあんな感じなんだな～",
+    "definition": "I guess that's what  they do in winter. Time for foo— Wh-What are you doing?! Oh, Mr. Handa, you came at a good time.",
+    "timestamp": "0:01:40",
+    "audio": "/audio/36/0.01.40.mp3"
+  },
+  "3": {
+    "speaker": "PANDA",
+    "character": "お茶 いれてきてよ。",
+    "definition": "Could you make me some tea?",
+    "timestamp": "0:02:05",
+    "audio": "/audio/36/0.02.05.mp3"
+  },
+  "4": {
+    "speaker": "HANDA",
+    "character": "もう!",
+    "definition": "Jeez, what kind of zoo has pandas using heated tables?",
+    "timestamp": "0:02:08",
+    "audio": "/audio/36/0.02.08.mp3"
+  },
+  "5": {
+    "speaker": "PANDA",
+    "character": "大丈夫だよ。",
+    "definition": "It's okay.",
+    "timestamp": "0:02:14",
+    "audio": "/audio/36/0.02.14.mp3"
+  },
+  "6": {
+    "speaker": "PANDA",
+    "character": "かわいく入るからさ～。",
+    "definition": "I'll sit under here adorably.",
+    "timestamp": "0:02:23",
+    "audio": "/audio/36/0.02.23.mp3"
+  },
+  "7": {
+    "speaker": "HANDA",
+    "character": "大丈夫じゃないでしょ!",
+    "definition": "It's {\\i1}not{\\i0} okay!",
+    "timestamp": "0:02:26",
+    "audio": "/audio/36/0.02.26.mp3"
+  },
+  "8": {
+    "speaker": "HANDA",
+    "character": "ダメ 出なさい!",
+    "definition": "It's not! Get out!",
+    "timestamp": "0:02:28",
+    "audio": "/audio/36/0.02.28.mp3"
+  },
+  "9": {
+    "speaker": "FT PANDA",
+    "character": "だってさ パンダくん。",
+    "definition": "You heard the man, Panda.",
+    "timestamp": "0:02:30",
+    "audio": "/audio/36/0.02.30.mp3"
+  },
+  "10": {
+    "speaker": "FT PANDA",
+    "character": "若者は タイヤで遊んだらいいよ。",
+    "definition": "Younguns should be playing with the tire. I'm gonna hang out here with the heater a little bit longer.",
+    "timestamp": "0:02:33",
+    "audio": "/audio/36/0.02.33.mp3"
+  },
+  "11": {
+    "speaker": "HANDA",
+    "character": "常勤パンダさんもダメ!",
+    "definition": "You can't be in there, either, Mr. Full-Time Panda! What? Really?",
+    "timestamp": "0:02:39",
+    "audio": "/audio/36/0.02.39.mp3"
+  },
+  "12": {
+    "speaker": "HANDA",
+    "character": "コタツは 禁止です!",
+    "definition": "Heated tables are prohibited. Miss Sasako.",
+    "timestamp": "0:02:44",
+    "audio": "/audio/36/0.02.44.mp3"
+  },
+  "13": {
+    "speaker": "SASAKO",
+    "character": "何ですか?",
+    "definition": "Yes?",
+    "timestamp": "0:02:51",
+    "audio": "/audio/36/0.02.51.mp3"
+  },
+  "14": {
+    "speaker": "PENGUIN",
+    "character": "こうやってパタパタさせるのと",
+    "definition": "When I flap like this,",
+    "timestamp": "0:02:53",
+    "audio": "/audio/36/0.02.53.mp3"
+  },
+  "15": {
+    "speaker": "PENGUIN",
+    "character": "こうやって パタパタさせるの",
+    "definition": "or when I flap like this...",
+    "timestamp": "0:02:56",
+    "audio": "/audio/36/0.02.56.mp3"
+  },
+  "16": {
+    "speaker": "PENGUIN",
+    "character": "どっちが かわいいかな?",
+    "definition": "Which is cuter? Could I treat this as a take-home quiz?",
+    "timestamp": "0:02:59",
+    "audio": "/audio/36/0.02.59.mp3"
+  },
+  "17": {
+    "speaker": "PENGUIN",
+    "character": "パッと答えるんで いいんだけど。",
+    "definition": "An immediate reply would be just fine,",
+    "timestamp": "0:03:09",
+    "audio": "/audio/36/0.03.09.mp3"
+  },
+  "18": {
+    "speaker": "PENGUIN",
+    "character": "ヒマな時間に なんとなく話す雑談だからさ。",
+    "definition": "considering this is supposed to be idle conversation since I'm bored...",
+    "timestamp": "0:03:11",
+    "audio": "/audio/36/0.03.11.mp3"
+  },
+  "19": {
+    "speaker": "SASAKO",
+    "character": "じゃあ どっちもかわりません。",
+    "definition": "Then they're both exactly the same.",
+    "timestamp": "0:03:15",
+    "audio": "/audio/36/0.03.15.mp3"
+  },
+  "20": {
+    "speaker": "PENGUIN",
+    "character": "ああ そう…。",
+    "definition": "Oh, I see. What's wrong, Panda? I don't understand Mr. Handa. What happened?",
+    "timestamp": "0:03:19",
+    "audio": "/audio/36/0.03.19.mp3"
+  },
+  "21": {
+    "speaker": "PANDA",
+    "character": "あのね…。パンダコーナーにコタツは ダメだっていうんだ～。",
+    "definition": "Well... He says heated tables aren't allowed at the Panda Corner!",
+    "timestamp": "0:03:37",
+    "audio": "/audio/36/0.03.37.mp3"
+  },
+  "22": {
+    "speaker": "PENGUIN",
+    "character": "笹子さん カフェモカおかわり。",
+    "definition": "Could I get another café mocha, Miss Sasako? Listen to me...",
+    "timestamp": "0:03:43",
+    "audio": "/audio/36/0.03.43.mp3"
+  },
+  "23": {
+    "speaker": "PENGUIN",
+    "character": "キミの 話聞いて 損しちゃったよ。",
+    "definition": "I just wasted my time listening to you.",
+    "timestamp": "0:03:48",
+    "audio": "/audio/36/0.03.48.mp3"
+  },
+  "24": {
+    "speaker": "PANDA",
+    "character": "じゃあ ペンギンさんのしたい話でいいよ。",
+    "definition": "Then we can talk about what you want, Mr. Penguin.",
+    "timestamp": "0:03:51",
+    "audio": "/audio/36/0.03.51.mp3"
+  },
+  "25": {
+    "speaker": "PANDA",
+    "character": "何の話してたの?",
+    "definition": "What were you talking about?",
+    "timestamp": "0:03:55",
+    "audio": "/audio/36/0.03.55.mp3"
+  },
+  "26": {
+    "speaker": "SASAKO",
+    "character": "こうやってパタパタさせるのと",
+    "definition": "Flapping like this...",
+    "timestamp": "0:03:59",
+    "audio": "/audio/36/0.03.59.mp3"
+  },
+  "27": {
+    "speaker": "SASAKO",
+    "character": "こうやってパタパタさせるの",
+    "definition": "Or flapping like this...",
+    "timestamp": "0:04:03",
+    "audio": "/audio/36/0.04.03.mp3"
+  },
+  "28": {
+    "speaker": "SASAKO",
+    "character": "どっちがかわいいかって。",
+    "definition": "He was asking which is cuter. That's okay, Miss Sasako. We can let that go now. By the way, where's Polar Bear today?",
+    "timestamp": "0:04:06",
+    "audio": "/audio/36/0.04.06.mp3"
+  },
+  "29": {
+    "speaker": "SASAKO",
+    "character": "買い物に行くって。",
+    "definition": "He said he was going shopping. Shopping?",
+    "timestamp": "0:04:15",
+    "audio": "/audio/36/0.04.15.mp3"
+  },
+  "30": {
+    "speaker": "GRIZZLY",
+    "character": "だいぶ 寒くなってきたな。",
+    "definition": "It's gotten pretty cold.",
+    "timestamp": "0:04:27",
+    "audio": "/audio/36/0.04.27.mp3"
+  },
+  "31": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん いつから冬眠するの?",
+    "definition": "When are you going to start hibernating, Grizzly?",
+    "timestamp": "0:04:29",
+    "audio": "/audio/36/0.04.29.mp3"
+  },
+  "32": {
+    "speaker": "GRIZZLY",
+    "character": "冬眠っつうか",
+    "definition": "It's more like staying inside for winter rather than hibernating.",
+    "timestamp": "0:04:33",
+    "audio": "/audio/36/0.04.33.mp3"
+  },
+  "33": {
+    "speaker": "GRIZZLY",
+    "character": "今週中には 入らねえとな。",
+    "definition": "I've gotta start sometime this week.",
+    "timestamp": "0:04:38",
+    "audio": "/audio/36/0.04.38.mp3"
+  },
+  "34": {
+    "speaker": "GRIZZLY",
+    "character": "おっ この枕よさそうだな。",
+    "definition": "Hey, this pillow looks good. It's memory foam. Actually this magnetic pillow might be better for sleeping.",
+    "timestamp": "0:04:47",
+    "audio": "/audio/36/0.04.47.mp3"
+  },
+  "35": {
+    "speaker": "GRIZZLY",
+    "character": "ヒノキを使った枕もリラクゼーション的には いいよな…。",
+    "definition": "Pillows made with Japanese cypress are good for relaxation, too. Hey, Grizzly. Yeah?",
+    "timestamp": "0:04:58",
+    "audio": "/audio/36/0.04.58.mp3"
+  },
+  "36": {
+    "speaker": "POLAR BEAR",
+    "character": "プリンアラモード 食べに行こうよ。",
+    "definition": "Let's go eat pudding à la mode.",
+    "timestamp": "0:05:08",
+    "audio": "/audio/36/0.05.08.mp3"
+  },
+  "37": {
+    "speaker": "GRIZZLY",
+    "character": "あとでな。",
+    "definition": "Later. I'm gonna be sleeping for a while,",
+    "timestamp": "0:05:11",
+    "audio": "/audio/36/0.05.11.mp3"
+  },
+  "38": {
+    "speaker": "",
+    "character": "枕は 真剣に選ばねえと。",
+    "definition": "so the right pillow is important.",
+    "timestamp": "0:05:15",
+    "audio": "/audio/36/0.05.15.mp3"
+  },
+  "39": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ 氷枕がいいよ。",
+    "definition": "Then an ice pillow will work. Actually, just ice.",
+    "timestamp": "0:05:19",
+    "audio": "/audio/36/0.05.19.mp3"
+  },
+  "40": {
+    "speaker": "GRIZZLY",
+    "character": "お前とは違うんだよ。",
+    "definition": "I'm not like you.",
+    "timestamp": "0:05:24",
+    "audio": "/audio/36/0.05.24.mp3"
+  },
+  "41": {
+    "speaker": "GRIZZLY",
+    "character": "氷でなんか寝たら死んじまうよ。",
+    "definition": "If I slept on ice, I'd die. I could also go with the buckwheat pillows.",
+    "timestamp": "0:05:26",
+    "audio": "/audio/36/0.05.26.mp3"
+  },
+  "42": {
+    "speaker": "GRIZZLY",
+    "character": "発泡ビーズか。 悪くねえ。",
+    "definition": "Foam beads, huh? Not bad. What the hell, this is hard. Hey!",
+    "timestamp": "0:05:35",
+    "audio": "/audio/36/0.05.35.mp3"
+  },
+  "43": {
+    "speaker": "POLAR BEAR",
+    "character": "もう あとでになった?",
+    "definition": "Hey, is it later yet?",
+    "timestamp": "0:05:43",
+    "audio": "/audio/36/0.05.43.mp3"
+  },
+  "44": {
+    "speaker": "GRIZZLY",
+    "character": "紛らわしいことすんな!",
+    "definition": "Don't be so annoying!",
+    "timestamp": "0:05:45",
+    "audio": "/audio/36/0.05.45.mp3"
+  },
+  "45": {
+    "speaker": "GRIZZLY",
+    "character": "小学生か!",
+    "definition": "What the hell are you, a grade schooler?",
+    "timestamp": "0:05:47",
+    "audio": "/audio/36/0.05.47.mp3"
+  },
+  "46": {
+    "speaker": "GRIZZLY",
+    "character": "プリンアラモードはあとで食いにいくから",
+    "definition": "We'll go eat pudding à la mode later,",
+    "timestamp": "0:05:49",
+    "audio": "/audio/36/0.05.49.mp3"
+  },
+  "47": {
+    "speaker": "",
+    "character": "今は 枕に集中させてくれよ!",
+    "definition": "so let me just concentrate on picking a pillow right now.",
+    "timestamp": "0:05:52",
+    "audio": "/audio/36/0.05.52.mp3"
+  },
+  "48": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ グリズリーくんのおごりね。",
+    "definition": "Then it'll be your treat, Grizzly.",
+    "timestamp": "0:05:55",
+    "audio": "/audio/36/0.05.55.mp3"
+  },
+  "49": {
+    "speaker": "GRIZZLY",
+    "character": "なんで俺がおごらなきゃいけねえんだよ。",
+    "definition": "Why the hell do I have to treat you? All right, fine. Just keep quiet.",
+    "timestamp": "0:05:58",
+    "audio": "/audio/36/0.05.58.mp3"
+  },
+  "50": {
+    "speaker": "POLAR BEAR",
+    "character": "うん!",
+    "definition": "Okay. Shhhh...",
+    "timestamp": "0:06:04",
+    "audio": "/audio/36/0.06.04.mp3"
+  },
+  "51": {
+    "speaker": "GRIZZLY",
+    "character": "だから やめろ それ!",
+    "definition": "I'm telling you to stop that.",
+    "timestamp": "0:06:09",
+    "audio": "/audio/36/0.06.09.mp3"
+  },
+  "52": {
+    "speaker": "POLAR BEAR",
+    "character": "いただきま～す。",
+    "definition": "Thanks for the food. You still haven't decided?",
+    "timestamp": "0:06:16",
+    "audio": "/audio/36/0.06.16.mp3"
+  },
+  "53": {
+    "speaker": "GRIZZLY",
+    "character": "そう簡単にいくか。",
+    "definition": "It's not that easy.",
+    "timestamp": "0:06:26",
+    "audio": "/audio/36/0.06.26.mp3"
+  },
+  "54": {
+    "speaker": "GRIZZLY",
+    "character": "冬眠には 枕選びが大切なんだよ。",
+    "definition": "Choosing the right pillow is essential for hibernation.",
+    "timestamp": "0:06:28",
+    "audio": "/audio/36/0.06.28.mp3"
+  },
+  "55": {
+    "speaker": "POLAR BEAR",
+    "character": "うん そうだね。",
+    "definition": "Yeah, you're right.",
+    "timestamp": "0:06:31",
+    "audio": "/audio/36/0.06.31.mp3"
+  },
+  "56": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ おかわりしていい?",
+    "definition": "So, can I get seconds?",
+    "timestamp": "0:06:34",
+    "audio": "/audio/36/0.06.34.mp3"
+  },
+  "57": {
+    "speaker": "GRIZZLY",
+    "character": "なんでだよ!",
+    "definition": "What the hell for?!",
+    "timestamp": "0:06:36",
+    "audio": "/audio/36/0.06.36.mp3"
+  },
+  "58": {
+    "speaker": "GRIZZLY",
+    "character": "じゃあそのかわりこのあと デパートつきあえよ!",
+    "definition": "Then you better come with me to the department store.",
+    "timestamp": "0:06:38",
+    "audio": "/audio/36/0.06.38.mp3"
+  },
+  "59": {
+    "speaker": "GRIZZLY",
+    "character": "あそこの枕コーナー充実してるからよ。",
+    "definition": "The pillow department there is pretty solid.",
+    "timestamp": "0:06:42",
+    "audio": "/audio/36/0.06.42.mp3"
+  },
+  "60": {
+    "speaker": "POLAR BEAR",
+    "character": "え～ また枕?",
+    "definition": "What? Pillows again?",
+    "timestamp": "0:06:45",
+    "audio": "/audio/36/0.06.45.mp3"
+  },
+  "61": {
+    "speaker": "GRIZZLY",
+    "character": "うるせえ! つきあえ!",
+    "definition": "Shut up. You're coming with me.",
+    "timestamp": "0:06:48",
+    "audio": "/audio/36/0.06.48.mp3"
+  },
+  "62": {
+    "speaker": "GRIZZLY",
+    "character": "よし 枕は ６階だな。",
+    "definition": "All right. The pillows are on the sixth floor.",
+    "timestamp": "0:06:56",
+    "audio": "/audio/36/0.06.56.mp3"
+  },
+  "63": {
+    "speaker": "POLAR BEAR",
+    "character": "さすがに いろいろ ありそうだね～。",
+    "definition": "I bet they'll have quite a selection.",
+    "timestamp": "0:07:00",
+    "audio": "/audio/36/0.07.00.mp3"
+  },
+  "64": {
+    "speaker": "GRIZZLY",
+    "character": "デパートだからな。",
+    "definition": "Well, this is a department store.",
+    "timestamp": "0:07:03",
+    "audio": "/audio/36/0.07.03.mp3"
+  },
+  "65": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ! インドカレー 食べようよ。",
+    "definition": "Hey, let's eat some Indian curry.",
+    "timestamp": "0:07:05",
+    "audio": "/audio/36/0.07.05.mp3"
+  },
+  "66": {
+    "speaker": "GRIZZLY",
+    "character": "プリンアラモード ５杯 食っただろ!",
+    "definition": "You just ate five  pudding à la modes! I think there are more important things in life than pillows, Grizzly.",
+    "timestamp": "0:07:07",
+    "audio": "/audio/36/0.07.07.mp3"
+  },
+  "67": {
+    "speaker": "GRIZZLY",
+    "character": "それは インドカレーじゃねえな。",
+    "definition": "And that Indian curry ain't one of 'em.",
+    "timestamp": "0:07:17",
+    "audio": "/audio/36/0.07.17.mp3"
+  },
+  "68": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ! クリスマスプレゼントは買わないの?",
+    "definition": "Oh, don't you need to buy some Christmas presents?",
+    "timestamp": "0:07:19",
+    "audio": "/audio/36/0.07.19.mp3"
+  },
+  "69": {
+    "speaker": "GRIZZLY",
+    "character": "俺が寝ている間のイベントなんか知らねえよ!",
+    "definition": "I don't care about an event that goes on while I'm asleep. Quit it. We're going to the sixth floor.",
+    "timestamp": "0:07:23",
+    "audio": "/audio/36/0.07.23.mp3"
+  },
+  "70": {
+    "speaker": "POLAR BEAR",
+    "character": "プレゼント選ぶの 楽しいのにな～。",
+    "definition": "But it's so much fun picking out presents.",
+    "timestamp": "0:07:29",
+    "audio": "/audio/36/0.07.29.mp3"
+  },
+  "71": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ この のりとサラダ油",
+    "definition": "So, this nori seaweed set and this vegetable oil set...",
+    "timestamp": "0:07:33",
+    "audio": "/audio/36/0.07.33.mp3"
+  },
+  "72": {
+    "speaker": "",
+    "character": "どっちがいいと思う?",
+    "definition": "Which do you think is better?",
+    "timestamp": "0:07:35",
+    "audio": "/audio/36/0.07.35.mp3"
+  },
+  "73": {
+    "speaker": "GRIZZLY",
+    "character": "それ お歳暮だろ!",
+    "definition": "Those are year-end gifts!",
+    "timestamp": "0:07:36",
+    "audio": "/audio/36/0.07.36.mp3"
+  },
+  "74": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん。",
+    "definition": "Grizzly.",
+    "timestamp": "0:07:39",
+    "audio": "/audio/36/0.07.39.mp3"
+  },
+  "75": {
+    "speaker": "GRIZZLY",
+    "character": "なんだよ!",
+    "definition": "What?!",
+    "timestamp": "0:07:41",
+    "audio": "/audio/36/0.07.41.mp3"
+  },
+  "76": {
+    "speaker": "POLAR BEAR",
+    "character": "枕の件なんだけどさ。",
+    "definition": "About the pillows... I have an idea.",
+    "timestamp": "0:07:43",
+    "audio": "/audio/36/0.07.43.mp3"
+  },
+  "77": {
+    "speaker": "GRIZZLY",
+    "character": "で?",
+    "definition": "And?",
+    "timestamp": "0:07:50",
+    "audio": "/audio/36/0.07.50.mp3"
+  },
+  "78": {
+    "speaker": "POLAR BEAR",
+    "character": "うん?",
+    "definition": "Hm?",
+    "timestamp": "0:07:52",
+    "audio": "/audio/36/0.07.52.mp3"
+  },
+  "79": {
+    "speaker": "GRIZZLY",
+    "character": "なんだよ 考えって。",
+    "definition": "What's this idea of yours? Oh.",
+    "timestamp": "0:07:53",
+    "audio": "/audio/36/0.07.53.mp3"
+  },
+  "80": {
+    "speaker": "POLAR BEAR",
+    "character": "カレーって 夏にもいいけど 冬にも最高だね!",
+    "definition": "Curry is great in the summer, but it's amazing in winter, too!",
+    "timestamp": "0:07:58",
+    "audio": "/audio/36/0.07.58.mp3"
+  },
+  "81": {
+    "speaker": "GRIZZLY",
+    "character": "そんなことだと思ったぜ。",
+    "definition": "I knew it'd be something like that.",
+    "timestamp": "0:08:03",
+    "audio": "/audio/36/0.08.03.mp3"
+  },
+  "82": {
+    "speaker": "GRIZZLY",
+    "character": "つきあった俺が バカだった。",
+    "definition": "I was an idiot to let you drag me here. Once you finish that, we're going to the sixth floor to look at pillows.",
+    "timestamp": "0:08:05",
+    "audio": "/audio/36/0.08.05.mp3"
+  },
+  "83": {
+    "speaker": "POLAR BEAR",
+    "character": "え～。",
+    "definition": "But...",
+    "timestamp": "0:08:11",
+    "audio": "/audio/36/0.08.11.mp3"
+  },
+  "84": {
+    "speaker": "GRIZZLY",
+    "character": "え～ じゃねえ!",
+    "definition": "No buts!",
+    "timestamp": "0:08:12",
+    "audio": "/audio/36/0.08.12.mp3"
+  },
+  "85": {
+    "speaker": "",
+    "character": "今日は 枕買うまで帰さねえぞ!",
+    "definition": "You ain't leaving until I buy a pillow!",
+    "timestamp": "0:08:14",
+    "audio": "/audio/36/0.08.14.mp3"
+  },
+  "86": {
+    "speaker": "POLAR BEAR",
+    "character": "結局 こういう時って",
+    "definition": "It never fails. At times like these,",
+    "timestamp": "0:08:22",
+    "audio": "/audio/36/0.08.22.mp3"
+  },
+  "87": {
+    "speaker": "",
+    "character": "最初の店で見たやつ買っちゃうんだよね。",
+    "definition": "you end up buying from the first store. The memory foam pillow was good, too.",
+    "timestamp": "0:08:24",
+    "audio": "/audio/36/0.08.24.mp3"
+  },
+  "88": {
+    "speaker": "GRIZZLY",
+    "character": "まぁ これで最高の冬眠ができるぜ。",
+    "definition": "Now I can enjoy a great hibernation.",
+    "timestamp": "0:08:31",
+    "audio": "/audio/36/0.08.31.mp3"
+  },
+  "89": {
+    "speaker": "GRIZZLY",
+    "character": "サンキューな～。",
+    "definition": "Thanks! Grizzly.",
+    "timestamp": "0:08:34",
+    "audio": "/audio/36/0.08.34.mp3"
+  },
+  "90": {
+    "speaker": "GRIZZLY",
+    "character": "なんだ?",
+    "definition": "What is it?",
+    "timestamp": "0:08:41",
+    "audio": "/audio/36/0.08.41.mp3"
+  },
+  "91": {
+    "speaker": "POLAR BEAR",
+    "character": "僕 もうちょっと食べられるよ。",
+    "definition": "I can still eat a little more.",
+    "timestamp": "0:08:42",
+    "audio": "/audio/36/0.08.42.mp3"
+  },
+  "92": {
+    "speaker": "GRIZZLY",
+    "character": "うるせえ!",
+    "definition": "Shut up. All that walking around made me tired. See you next spring. Take care. Yeah, you too.",
+    "timestamp": "0:08:45",
+    "audio": "/audio/36/0.08.45.mp3"
+  },
+  "93": {
+    "speaker": "POLAR BEAR",
+    "character": "まぁ 僕は地球温暖化で",
+    "definition": "Oh, but with global warming happening",
+    "timestamp": "0:09:00",
+    "audio": "/audio/36/0.09.00.mp3"
+  },
+  "94": {
+    "speaker": "",
+    "character": "いつまで元気でいられるかわかんないけどね。",
+    "definition": "I may not be energetic for long.",
+    "timestamp": "0:09:03",
+    "audio": "/audio/36/0.09.03.mp3"
+  },
+  "95": {
+    "speaker": "GRIZZLY",
+    "character": "それ 笑えねえよ…。",
+    "definition": "I can't exactly laugh at that.",
+    "timestamp": "0:09:08",
+    "audio": "/audio/36/0.09.08.mp3"
+  },
+  "96": {
+    "speaker": "POLAR BEAR",
+    "character": "あぁ それより…。",
+    "definition": "Oh, more importantly,",
+    "timestamp": "0:09:10",
+    "audio": "/audio/36/0.09.10.mp3"
+  },
+  "97": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくんが 冬眠してる間に",
+    "definition": "while you're hibernating,",
+    "timestamp": "0:09:13",
+    "audio": "/audio/36/0.09.13.mp3"
+  },
+  "98": {
+    "speaker": "",
+    "character": "隕石が落ちて 地球が破滅してるかもしれないけどね。",
+    "definition": "a meteor may come crashing downand destroy the Earth.",
+    "timestamp": "0:09:16",
+    "audio": "/audio/36/0.09.16.mp3"
+  },
+  "99": {
+    "speaker": "GRIZZLY",
+    "character": "寝る前に嫌なこと言うんじゃねえよ。",
+    "definition": "Don't say something creepy like that before I'm about to sleep.",
+    "timestamp": "0:09:22",
+    "audio": "/audio/36/0.09.22.mp3"
+  },
+  "100": {
+    "speaker": "GRIZZLY",
+    "character": "というか 寝言は寝てから言え。",
+    "definition": "Or rather, save your sleep talk  for when you're sleeping.",
+    "timestamp": "0:09:25",
+    "audio": "/audio/36/0.09.25.mp3"
+  },
+  "101": {
+    "speaker": "POLAR BEAR",
+    "character": "それかグリズリーくんが 冬眠してる間に",
+    "definition": "Or while you're sleeping, a mouse might bite your ear,",
+    "timestamp": "0:09:28",
+    "audio": "/audio/36/0.09.28.mp3"
+  },
+  "102": {
+    "speaker": "POLAR BEAR",
+    "character": "体の色が変わっちゃうかもしれないよ。",
+    "definition": "and your body might change color. We'll match.",
+    "timestamp": "0:09:38",
+    "audio": "/audio/36/0.09.38.mp3"
+  },
+  "103": {
+    "speaker": "GRIZZLY",
+    "character": "なるかよ!",
+    "definition": "That ain't gonna happen.",
+    "timestamp": "0:09:43",
+    "audio": "/audio/36/0.09.43.mp3"
+  },
+  "104": {
+    "speaker": "POLAR BEAR",
+    "character": "じゃあ また春に。",
+    "definition": "Well, see you again next spring.",
+    "timestamp": "0:09:48",
+    "audio": "/audio/36/0.09.48.mp3"
+  },
+  "105": {
+    "speaker": "GRIZZLY",
+    "character": "ああ 春にな。",
+    "definition": "Yeah, see ya.",
+    "timestamp": "0:09:50",
+    "audio": "/audio/36/0.09.50.mp3"
+  },
+  "106": {
+    "speaker": "POLAR BEAR",
+    "character": "またね～!",
+    "definition": "See you.",
+    "timestamp": "0:09:52",
+    "audio": "/audio/36/0.09.52.mp3"
+  },
+  "107": {
+    "speaker": "GRIZZLY",
+    "character": "もしもし…。",
+    "definition": "Hello...",
+    "timestamp": "0:10:31",
+    "audio": "/audio/36/0.10.31.mp3"
+  },
+  "108": {
+    "speaker": "POLAR BEAR",
+    "character": "あっ シロクマだけど。",
+    "definition": "Oh, it's Polar Bear.",
+    "timestamp": "0:10:33",
+    "audio": "/audio/36/0.10.33.mp3"
+  },
+  "109": {
+    "speaker": "POLAR BEAR",
+    "character": "クリスマスプレゼント迷っちゃってて",
+    "definition": "I'm having some trouble deciding on a Christmas present.",
+    "timestamp": "0:10:35",
+    "audio": "/audio/36/0.10.35.mp3"
+  },
+  "110": {
+    "speaker": "POLAR BEAR",
+    "character": "相談にのってくれない?",
+    "definition": "Do you have a minute?",
+    "timestamp": "0:10:38",
+    "audio": "/audio/36/0.10.38.mp3"
+  },
+  "111": {
+    "speaker": "GRIZZLY",
+    "character": "何を迷ってるんだよ…。",
+    "definition": "What are you having trouble with?",
+    "timestamp": "0:10:41",
+    "audio": "/audio/36/0.10.41.mp3"
+  },
+  "112": {
+    "speaker": "POLAR BEAR",
+    "character": "ビールとタラバガニどっちがいいと思う?",
+    "definition": "Beer or king crab... Which do you think is better?",
+    "timestamp": "0:10:44",
+    "audio": "/audio/36/0.10.44.mp3"
+  },
+  "113": {
+    "speaker": "GRIZZLY",
+    "character": "だぁ～から～!",
+    "definition": "I already told you...",
+    "timestamp": "0:10:51",
+    "audio": "/audio/36/0.10.51.mp3"
+  },
+  "114": {
+    "speaker": "GRIZZLY",
+    "character": "それは お歳暮だろ～!!",
+    "definition": "Those are year-end gifts! Polar Bear's Café",
+    "timestamp": "0:10:53",
+    "audio": "/audio/36/0.10.53.mp3"
+  },
+  "115": {
+    "speaker": "GUY1",
+    "character": "あれ? どうなってんだ?",
+    "definition": "Huh? What's going on?",
+    "timestamp": "0:11:06",
+    "audio": "/audio/36/0.11.06.mp3"
+  },
+  "116": {
+    "speaker": "GUY2",
+    "character": "せっかく来たのになぁ。",
+    "definition": "And I came all this way.",
+    "timestamp": "0:11:08",
+    "audio": "/audio/36/0.11.08.mp3"
+  },
+  "117": {
+    "speaker": "GIRL",
+    "character": "今日は パンダさん休みなんですか?",
+    "definition": "Are the pandas off today? Huh?",
+    "timestamp": "0:11:12",
+    "audio": "/audio/36/0.11.12.mp3"
+  },
+  "118": {
+    "speaker": "GUY1",
+    "character": "90)}パンダいないんじゃなぁ。",
+    "definition": "{\\a6}I guess the pandas aren't here.",
+    "timestamp": "0:11:19",
+    "audio": "/audio/36/0.11.19.mp3"
+  },
+  "119": {
+    "speaker": "HANDA",
+    "character": "あれ?パンダくんたち来てたのに…。",
+    "definition": "Huh? But the pandas were here...",
+    "timestamp": "0:11:20",
+    "audio": "/audio/36/0.11.20.mp3"
+  },
+  "120": {
+    "speaker": "GUY2",
+    "character": "84)}帰ろ帰ろ。",
+    "definition": "{\\a6}Let's go home.",
+    "timestamp": "0:11:21",
+    "audio": "/audio/36/0.11.21.mp3"
+  },
+  "121": {
+    "speaker": "HANDA",
+    "character": "えっ!?",
+    "definition": "What?!",
+    "timestamp": "0:11:26",
+    "audio": "/audio/36/0.11.26.mp3"
+  },
+  "122": {
+    "speaker": "HANDA",
+    "character": "うぅ… ちょっと!２人とも何やってるんですか!",
+    "definition": "Hey! What are you two doing? Are you sure it's okay to open such an expensive bottle?",
+    "timestamp": "0:11:35",
+    "audio": "/audio/36/0.11.35.mp3"
+  },
+  "123": {
+    "speaker": "HANDA",
+    "character": "寝ぼけないでください!",
+    "definition": "Please wake up!",
+    "timestamp": "0:11:43",
+    "audio": "/audio/36/0.11.43.mp3"
+  },
+  "124": {
+    "speaker": "PANDA",
+    "character": "大丈夫。",
+    "definition": "It's okay.",
+    "timestamp": "0:11:45",
+    "audio": "/audio/36/0.11.45.mp3"
+  },
+  "125": {
+    "speaker": "PANDA",
+    "character": "僕なら どこでも寝られるから",
+    "definition": "I can sleep anywhere, so you don't have",
+    "timestamp": "0:11:48",
+    "audio": "/audio/36/0.11.48.mp3"
+  },
+  "126": {
+    "speaker": "",
+    "character": "心配しないで。",
+    "definition": "to worry about me.",
+    "timestamp": "0:11:50",
+    "audio": "/audio/36/0.11.50.mp3"
+  },
+  "127": {
+    "speaker": "HANDA",
+    "character": "大丈夫じゃないでしょ!",
+    "definition": "That's {\\i1}not{\\i0} okay!",
+    "timestamp": "0:11:51",
+    "audio": "/audio/36/0.11.51.mp3"
+  },
+  "128": {
+    "speaker": "HANDA",
+    "character": "で?",
+    "definition": "And?",
+    "timestamp": "0:11:55",
+    "audio": "/audio/36/0.11.55.mp3"
+  },
+  "129": {
+    "speaker": "FT PANDA",
+    "character": "自分ちみたいにくつろぐ感じに働いたらどうかって話になってさ。",
+    "definition": "We were discussing what it'd be like to work as if we were relaxing at home,",
+    "timestamp": "0:11:56",
+    "audio": "/audio/36/0.11.56.mp3"
+  },
+  "130": {
+    "speaker": "FT PANDA",
+    "character": "じゃあ 布団 敷いちゃおうって。",
+    "definition": "so we brought out the futons.",
+    "timestamp": "0:12:02",
+    "audio": "/audio/36/0.12.02.mp3"
+  },
+  "131": {
+    "speaker": "PANDA",
+    "character": "うん。",
+    "definition": "Yup.",
+    "timestamp": "0:12:05",
+    "audio": "/audio/36/0.12.05.mp3"
+  },
+  "132": {
+    "speaker": "PANDA",
+    "character": "半田さん。",
+    "definition": "I'd be okay with doing this part-time job seven days a week, Mr. Handa.",
+    "timestamp": "0:12:06",
+    "audio": "/audio/36/0.12.06.mp3"
+  },
+  "133": {
+    "speaker": "HANDA",
+    "character": "よくありません!",
+    "definition": "That's {\\i1}not{\\i0} okay!",
+    "timestamp": "0:12:10",
+    "audio": "/audio/36/0.12.10.mp3"
+  },
+  "134": {
+    "speaker": "HANDA",
+    "character": "布団も禁止!!",
+    "definition": "Futons are also prohibited!",
+    "timestamp": "0:12:12",
+    "audio": "/audio/36/0.12.12.mp3"
+  },
+  "135": {
+    "speaker": "PENGUIN",
+    "character": "笹子さ～ん。",
+    "definition": "Miss Sasako. Yes?",
+    "timestamp": "0:12:15",
+    "audio": "/audio/36/0.12.15.mp3"
+  },
+  "136": {
+    "speaker": "PENGUIN",
+    "character": "なんですか?",
+    "definition": "I'm thinking of making a hit song, so could you listen for a sec?",
+    "timestamp": "0:12:17",
+    "audio": "/audio/36/0.12.17.mp3"
+  },
+  "137": {
+    "speaker": "SASAKO",
+    "character": "今 聴かなくてもいいですか?",
+    "definition": "Is it okay if I don't listen right now?",
+    "timestamp": "0:12:23",
+    "audio": "/audio/36/0.12.23.mp3"
+  },
+  "138": {
+    "speaker": "SASAKO",
+    "character": "忙しいので…。",
+    "definition": "I'm a little busy.",
+    "timestamp": "0:12:25",
+    "audio": "/audio/36/0.12.25.mp3"
+  },
+  "139": {
+    "speaker": "PENGUIN",
+    "character": "じゃあ… 心の中で歌います。",
+    "definition": "Then I'll just sing it in my head.",
+    "timestamp": "0:12:27",
+    "audio": "/audio/36/0.12.27.mp3"
+  },
+  "140": {
+    "speaker": "PENGUIN",
+    "character": "また落ち込んでるの? パンダくん。",
+    "definition": "You're depressed again, Panda?",
+    "timestamp": "0:12:37",
+    "audio": "/audio/36/0.12.37.mp3"
+  },
+  "141": {
+    "speaker": "PANDA",
+    "character": "僕… 半田さんが何考えてるかわからなくなっちゃったよ。",
+    "definition": "I really don't understand what Mr. Handa is thinking anymore.",
+    "timestamp": "0:12:40",
+    "audio": "/audio/36/0.12.40.mp3"
+  },
+  "142": {
+    "speaker": "PENGUIN",
+    "character": "何があったの?",
+    "definition": "What happened now?",
+    "timestamp": "0:12:46",
+    "audio": "/audio/36/0.12.46.mp3"
+  },
+  "143": {
+    "speaker": "PANDA",
+    "character": "あのね…。",
+    "definition": "You see...",
+    "timestamp": "0:12:47",
+    "audio": "/audio/36/0.12.47.mp3"
+  },
+  "144": {
+    "speaker": "PANDA",
+    "character": "事務室で布団敷いて",
+    "definition": "We said we'd like to sleep in futons in the office,",
+    "timestamp": "0:12:49",
+    "audio": "/audio/36/0.12.49.mp3"
+  },
+  "145": {
+    "speaker": "PANDA",
+    "character": "半田さんは ダメだって!",
+    "definition": "but Mr. Handa said we couldn't! Could I get another café mocha, Miss Sasako?",
+    "timestamp": "0:12:53",
+    "audio": "/audio/36/0.12.53.mp3"
+  },
+  "146": {
+    "speaker": "PANDA",
+    "character": "ねぇ? ひどくない?",
+    "definition": "Hey, isn't that mean?",
+    "timestamp": "0:12:59",
+    "audio": "/audio/36/0.12.59.mp3"
+  },
+  "147": {
+    "speaker": "PENGUIN",
+    "character": "僕はパンダくんが何考えてるかわからないよ。",
+    "definition": "It's you that I don't understand, Panda.",
+    "timestamp": "0:13:02",
+    "audio": "/audio/36/0.13.02.mp3"
+  },
+  "148": {
+    "speaker": "PANDA",
+    "character": "えぇ～ シロクマくんは どう思う?",
+    "definition": "What? What do you think, Polar Bear?",
+    "timestamp": "0:13:06",
+    "audio": "/audio/36/0.13.06.mp3"
+  },
+  "149": {
+    "speaker": "PANDA",
+    "character": "あれっ シロクマくんは?",
+    "definition": "Huh? Where's Polar Bear? He's off today.",
+    "timestamp": "0:13:10",
+    "audio": "/audio/36/0.13.10.mp3"
+  },
+  "150": {
+    "speaker": "PENGUIN",
+    "character": "シロクマくんって 何気に よく遊びに行くよね。",
+    "definition": "Polar Bear goes out quite a bit, doesn't he?",
+    "timestamp": "0:13:15",
+    "audio": "/audio/36/0.13.15.mp3"
+  },
+  "151": {
+    "speaker": "SASAKO",
+    "character": "今日は大事な用があるって言ってましたよ。",
+    "definition": "He said there was something important he had to do today.",
+    "timestamp": "0:13:19",
+    "audio": "/audio/36/0.13.19.mp3"
+  },
+  "152": {
+    "speaker": "PANDA",
+    "character": "大事な用?",
+    "definition": "Something important? Yes?",
+    "timestamp": "0:13:22",
+    "audio": "/audio/36/0.13.22.mp3"
+  },
+  "153": {
+    "speaker": "POLAR BEAR",
+    "character": "やあ。",
+    "definition": "Hey!",
+    "timestamp": "0:14:05",
+    "audio": "/audio/36/0.14.05.mp3"
+  },
+  "154": {
+    "speaker": "GRIZZLY",
+    "character": "何だよ!",
+    "definition": "The hell do you want?!",
+    "timestamp": "0:14:17",
+    "audio": "/audio/36/0.14.17.mp3"
+  },
+  "155": {
+    "speaker": "POLAR BEAR",
+    "character": "何してた?",
+    "definition": "What were you up to? I was hibernating!",
+    "timestamp": "0:14:19",
+    "audio": "/audio/36/0.14.19.mp3"
+  },
+  "156": {
+    "speaker": "POLAR BEAR",
+    "character": "あ そうだったね。",
+    "definition": "Oh, that's right. You totally knew. Was it that obvious? I'm going back to sleep now. Then... Let's go to the driving range.",
+    "timestamp": "0:14:25",
+    "audio": "/audio/36/0.14.25.mp3"
+  },
+  "157": {
+    "speaker": "GRIZZLY",
+    "character": "帰れ。",
+    "definition": "Go away! Let's go! It's not good to do nothing but sleep. That's what hibernating is!",
+    "timestamp": "0:14:41",
+    "audio": "/audio/36/0.14.41.mp3"
+  },
+  "158": {
+    "speaker": "POLAR BEAR",
+    "character": "ナイスショット!",
+    "definition": "Nice shot!",
+    "timestamp": "0:14:54",
+    "audio": "/audio/36/0.14.54.mp3"
+  },
+  "159": {
+    "speaker": "GRIZZLY",
+    "character": "あ～ ねみい!",
+    "definition": "Damn it, I'm sleepy.",
+    "timestamp": "0:14:57",
+    "audio": "/audio/36/0.14.57.mp3"
+  },
+  "160": {
+    "speaker": "GRIZZLY",
+    "character": "何なんだよ まったく。",
+    "definition": "The hell is this...",
+    "timestamp": "0:14:59",
+    "audio": "/audio/36/0.14.59.mp3"
+  },
+  "161": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん。",
+    "definition": "Grizzly.",
+    "timestamp": "0:15:01",
+    "audio": "/audio/36/0.15.01.mp3"
+  },
+  "162": {
+    "speaker": "GRIZZLY",
+    "character": "何だよ?",
+    "definition": "What?",
+    "timestamp": "0:15:02",
+    "audio": "/audio/36/0.15.02.mp3"
+  },
+  "163": {
+    "speaker": "POLAR BEAR",
+    "character": "寝てなくていいの?",
+    "definition": "Shouldn't you be asleep?",
+    "timestamp": "0:15:04",
+    "audio": "/audio/36/0.15.04.mp3"
+  },
+  "164": {
+    "speaker": "GRIZZLY",
+    "character": "お前が起こしたんだろうが!",
+    "definition": "You're the one who woke me up! Come on, no breaks! Hurry up and hit!",
+    "timestamp": "0:15:06",
+    "audio": "/audio/36/0.15.06.mp3"
+  },
+  "165": {
+    "speaker": "GRIZZLY",
+    "character": "帰って寝るんだから…。",
+    "definition": "I want to go home and sleep.",
+    "timestamp": "0:15:13",
+    "audio": "/audio/36/0.15.13.mp3"
+  },
+  "166": {
+    "speaker": "POLAR BEAR",
+    "character": "うん わかった。",
+    "definition": "Yeah, okay.",
+    "timestamp": "0:15:16",
+    "audio": "/audio/36/0.15.16.mp3"
+  },
+  "167": {
+    "speaker": "GRIZZLY",
+    "character": "ナイスショット!",
+    "definition": "Nice shot!",
+    "timestamp": "0:15:19",
+    "audio": "/audio/36/0.15.19.mp3"
+  },
+  "168": {
+    "speaker": "GRIZZLY",
+    "character": "ほら 次!",
+    "definition": "Come on, next!",
+    "timestamp": "0:15:21",
+    "audio": "/audio/36/0.15.21.mp3"
+  },
+  "169": {
+    "speaker": "GRIZZLY",
+    "character": "じゃあ またな。",
+    "definition": "All right, see you later. Oh, there they are.",
+    "timestamp": "0:15:30",
+    "audio": "/audio/36/0.15.30.mp3"
+  },
+  "170": {
+    "speaker": "PANDA",
+    "character": "こんにちは。",
+    "definition": "Hello! Hey.",
+    "timestamp": "0:15:34",
+    "audio": "/audio/36/0.15.34.mp3"
+  },
+  "171": {
+    "speaker": "PANDA",
+    "character": "来たよ。",
+    "definition": "We're here!",
+    "timestamp": "0:15:37",
+    "audio": "/audio/36/0.15.37.mp3"
+  },
+  "172": {
+    "speaker": "POLAR BEAR",
+    "character": "こちら グリズリーくん。",
+    "definition": "This is Grizzly. We know.",
+    "timestamp": "0:15:39",
+    "audio": "/audio/36/0.15.39.mp3"
+  },
+  "173": {
+    "speaker": "POLAR BEAR",
+    "character": "ペンギンさんと パンダくん。",
+    "definition": "This is Mr. Penguin and Panda.",
+    "timestamp": "0:15:43",
+    "audio": "/audio/36/0.15.43.mp3"
+  },
+  "174": {
+    "speaker": "GRIZZLY",
+    "character": "知ってるぜ。 なんで来たんだよ?",
+    "definition": "I know that. The hell are they doing here?",
+    "timestamp": "0:15:45",
+    "audio": "/audio/36/0.15.45.mp3"
+  },
+  "175": {
+    "speaker": "POLAR BEAR",
+    "character": "呼んだからかなぁ。",
+    "definition": "I think it's because I invited them.",
+    "timestamp": "0:15:49",
+    "audio": "/audio/36/0.15.49.mp3"
+  },
+  "176": {
+    "speaker": "GRIZZLY",
+    "character": "「呼んだからかなぁ」じゃねえ。",
+    "definition": "That's not what I meant!",
+    "timestamp": "0:15:51",
+    "audio": "/audio/36/0.15.51.mp3"
+  },
+  "177": {
+    "speaker": "GRIZZLY",
+    "character": "なんで 呼ぶんだよ!",
+    "definition": "{\\i1}Why{\\i0} did you invite them?!",
+    "timestamp": "0:15:53",
+    "audio": "/audio/36/0.15.53.mp3"
+  },
+  "178": {
+    "speaker": "POLAR BEAR",
+    "character": "久しぶりに会いたいかなって思って。",
+    "definition": "I thought you guys might want to see each other since it's been a while.",
+    "timestamp": "0:15:55",
+    "audio": "/audio/36/0.15.55.mp3"
+  },
+  "179": {
+    "speaker": "GRIZZLY",
+    "character": "俺は 早く帰って枕に会いてえよ!",
+    "definition": "I want to go home and see my pillow!",
+    "timestamp": "0:15:58",
+    "audio": "/audio/36/0.15.58.mp3"
+  },
+  "180": {
+    "speaker": "POLAR BEAR",
+    "character": "枕は 逃げないから",
+    "definition": "Well, your pillow isn't going anywhere,",
+    "timestamp": "0:16:01",
+    "audio": "/audio/36/0.16.01.mp3"
+  },
+  "181": {
+    "speaker": "POLAR BEAR",
+    "character": "ちょっとだけ いいじゃない。",
+    "definition": "so a little while with us won't hurt.",
+    "timestamp": "0:16:03",
+    "audio": "/audio/36/0.16.03.mp3"
+  },
+  "182": {
+    "speaker": "POLAR BEAR",
+    "character": "あぁ～!ね みんなで行こう。",
+    "definition": "All right? Let's all go together. Where are we going, Mr. Grizzly?",
+    "timestamp": "0:16:06",
+    "audio": "/audio/36/0.16.06.mp3"
+  },
+  "183": {
+    "speaker": "GRIZZLY",
+    "character": "しようがねえなぁ。",
+    "definition": "Seems like I've got no other choice.",
+    "timestamp": "0:16:13",
+    "audio": "/audio/36/0.16.13.mp3"
+  },
+  "184": {
+    "speaker": "GRIZZLY",
+    "character": "わかったよ…。",
+    "definition": "Fine.",
+    "timestamp": "0:16:15",
+    "audio": "/audio/36/0.16.15.mp3"
+  },
+  "185": {
+    "speaker": "POLAR BEAR",
+    "character": "どうしようか このあと。",
+    "definition": "What should we do now? Let's see...",
+    "timestamp": "0:16:17",
+    "audio": "/audio/36/0.16.17.mp3"
+  },
+  "186": {
+    "speaker": "PANDA",
+    "character": "散歩?",
+    "definition": "Take a walk?",
+    "timestamp": "0:16:24",
+    "audio": "/audio/36/0.16.24.mp3"
+  },
+  "187": {
+    "speaker": "PENGUIN",
+    "character": "こんな時間に４人で散歩して",
+    "definition": "Why would the four of us go for a walk at this hour?",
+    "timestamp": "0:16:26",
+    "audio": "/audio/36/0.16.26.mp3"
+  },
+  "188": {
+    "speaker": "PANDA",
+    "character": "じゃあ シロクマくん家 行こうよ。",
+    "definition": "Then let's go to Polar Bear's house.",
+    "timestamp": "0:16:30",
+    "audio": "/audio/36/0.16.30.mp3"
+  },
+  "189": {
+    "speaker": "POLAR BEAR",
+    "character": "あぁ 家はダメ。",
+    "definition": "Oh, we can't.",
+    "timestamp": "0:16:33",
+    "audio": "/audio/36/0.16.33.mp3"
+  },
+  "190": {
+    "speaker": "POLAR BEAR",
+    "character": "今 床で ワカメ干してるから",
+    "definition": "I'm drying kelp on the floor right now.",
+    "timestamp": "0:16:37",
+    "audio": "/audio/36/0.16.37.mp3"
+  },
+  "191": {
+    "speaker": "POLAR BEAR",
+    "character": "足の踏み場がないよ。",
+    "definition": "There wouldn't be anywhere to step. What's with that?",
+    "timestamp": "0:16:40",
+    "audio": "/audio/36/0.16.40.mp3"
+  },
+  "192": {
+    "speaker": "PENGUIN",
+    "character": "言い訳なら もう少し納得できるやつにしてよ。",
+    "definition": "If you're gonna make excuses, at least make them believable. So, what should we do?",
+    "timestamp": "0:16:44",
+    "audio": "/audio/36/0.16.44.mp3"
+  },
+  "193": {
+    "speaker": "",
+    "character": "どっか 入ろうか。",
+    "definition": "Should we go somewhere?",
+    "timestamp": "0:16:51",
+    "audio": "/audio/36/0.16.51.mp3"
+  },
+  "194": {
+    "speaker": "PANDA",
+    "character": "僕 眠くなっちゃった。",
+    "definition": "I'm tired now.",
+    "timestamp": "0:16:53",
+    "audio": "/audio/36/0.16.53.mp3"
+  },
+  "195": {
+    "speaker": "POLAR BEAR",
+    "character": "何か 食べようよ。",
+    "definition": "Let's go eat.",
+    "timestamp": "0:16:56",
+    "audio": "/audio/36/0.16.56.mp3"
+  },
+  "196": {
+    "speaker": "PENGUIN",
+    "character": "何食べたい?",
+    "definition": "What do you want to eat?",
+    "timestamp": "0:16:58",
+    "audio": "/audio/36/0.16.58.mp3"
+  },
+  "197": {
+    "speaker": "PENGUIN",
+    "character": "シロクマくん 何系?",
+    "definition": "What are you in the mood for, Polar Bear? Anything is fine.",
+    "timestamp": "0:17:00",
+    "audio": "/audio/36/0.17.00.mp3"
+  },
+  "198": {
+    "speaker": "PANDA",
+    "character": "僕は 横になりたいよ。",
+    "definition": "I want to lay down.",
+    "timestamp": "0:17:04",
+    "audio": "/audio/36/0.17.04.mp3"
+  },
+  "199": {
+    "speaker": "PENGUIN",
+    "character": "お寿司は どう?",
+    "definition": "What about sushi?",
+    "timestamp": "0:17:08",
+    "audio": "/audio/36/0.17.08.mp3"
+  },
+  "200": {
+    "speaker": "POLAR BEAR",
+    "character": "気分じゃないなぁ。",
+    "definition": "I'm not in the mood.",
+    "timestamp": "0:17:10",
+    "audio": "/audio/36/0.17.10.mp3"
+  },
+  "201": {
+    "speaker": "PENGUIN",
+    "character": "何でもいいって言ったのに。",
+    "definition": "You just said anything was fine.",
+    "timestamp": "0:17:12",
+    "audio": "/audio/36/0.17.12.mp3"
+  },
+  "202": {
+    "speaker": "PANDA",
+    "character": "シロクマくん家は?",
+    "definition": "What about your house, Polar Bear?",
+    "timestamp": "0:17:15",
+    "audio": "/audio/36/0.17.15.mp3"
+  },
+  "203": {
+    "speaker": "POLAR BEAR",
+    "character": "床に敷いたワカメが…。",
+    "definition": "There's kelp on the floor.",
+    "timestamp": "0:17:17",
+    "audio": "/audio/36/0.17.17.mp3"
+  },
+  "204": {
+    "speaker": "PENGUIN",
+    "character": "はいはい。足の踏み場がないのね。",
+    "definition": "Yeah, yeah. Nowhere to step, right?",
+    "timestamp": "0:17:19",
+    "audio": "/audio/36/0.17.19.mp3"
+  },
+  "205": {
+    "speaker": "PENGUIN",
+    "character": "わかったよ。う～ん どこにしようか。",
+    "definition": "We got it. Where should we go? How about hot pot?!",
+    "timestamp": "0:17:22",
+    "audio": "/audio/36/0.17.22.mp3"
+  },
+  "206": {
+    "speaker": "GRIZZLY",
+    "character": "俺が電話するから!",
+    "definition": "I'll make the call.",
+    "timestamp": "0:17:31",
+    "audio": "/audio/36/0.17.31.mp3"
+  },
+  "207": {
+    "speaker": "GRIZZLY",
+    "character": "もしもし?今から４人 １０分で行くから!",
+    "definition": "Hello? There'll be four of us. Be there in ten minutes.",
+    "timestamp": "0:17:35",
+    "audio": "/audio/36/0.17.35.mp3"
+  },
+  "208": {
+    "speaker": "GRIZZLY",
+    "character": "ヘイ タクシー!",
+    "definition": "Hey, taxi!",
+    "timestamp": "0:17:39",
+    "audio": "/audio/36/0.17.39.mp3"
+  },
+  "209": {
+    "speaker": "GRIZZLY",
+    "character": "これ乗って 先に行ってろ。",
+    "definition": "Take this and go on ahead.",
+    "timestamp": "0:17:42",
+    "audio": "/audio/36/0.17.42.mp3"
+  },
+  "210": {
+    "speaker": "GRIZZLY",
+    "character": "俺 走っていくから!",
+    "definition": "I'll run there.",
+    "timestamp": "0:17:44",
+    "audio": "/audio/36/0.17.44.mp3"
+  },
+  "211": {
+    "speaker": "GRIZZLY",
+    "character": "乾杯!",
+    "definition": "Cheers!",
+    "timestamp": "0:17:54",
+    "audio": "/audio/36/0.17.54.mp3"
+  },
+  "212": {
+    "speaker": "GRIZZLY",
+    "character": "あぁ～! さぁ 飲め飲め!",
+    "definition": "Come on, drink up! Meat, shrimp, fish, shellfish, green onions!",
+    "timestamp": "0:18:00",
+    "audio": "/audio/36/0.18.00.mp3"
+  },
+  "213": {
+    "speaker": "GRIZZLY",
+    "character": "よっしゃ～!",
+    "definition": "All right!",
+    "timestamp": "0:18:07",
+    "audio": "/audio/36/0.18.07.mp3"
+  },
+  "214": {
+    "speaker": "PANDA",
+    "character": "これも!",
+    "definition": "This, too! Don't put in the garland chrysanthemum yet.",
+    "timestamp": "0:18:10",
+    "audio": "/audio/36/0.18.10.mp3"
+  },
+  "215": {
+    "speaker": "POLAR BEAR",
+    "character": "豆腐 入れていい?",
+    "definition": "Can I put in the tofu? No, you can't!",
+    "timestamp": "0:18:14",
+    "audio": "/audio/36/0.18.14.mp3"
+  },
+  "216": {
+    "speaker": "GRIZZLY",
+    "character": "よし しばらく待て。",
+    "definition": "All right. Now wait a while.",
+    "timestamp": "0:18:19",
+    "audio": "/audio/36/0.18.19.mp3"
+  },
+  "217": {
+    "speaker": "PENGUIN",
+    "character": "グリズリーくんってこういう仕事してたの?",
+    "definition": "Did you have a job doing this before, Grizzly? The hell do you mean a job?",
+    "timestamp": "0:18:23",
+    "audio": "/audio/36/0.18.23.mp3"
+  },
+  "218": {
+    "speaker": "PENGUIN",
+    "character": "すごい手慣れてるっていうかさ。",
+    "definition": "You seem to know what you're doing.",
+    "timestamp": "0:18:30",
+    "audio": "/audio/36/0.18.30.mp3"
+  },
+  "219": {
+    "speaker": "PANDA",
+    "character": "グリズリーバーやめて 鍋屋さんになればいいよ。",
+    "definition": "Why don't you close Grizzly's Bar and open up a hot pot restaurant?",
+    "timestamp": "0:18:33",
+    "audio": "/audio/36/0.18.33.mp3"
+  },
+  "220": {
+    "speaker": "GRIZZLY",
+    "character": "うるせえ!バーは好きでやってんだ!",
+    "definition": "Shut up. I'm running the bar because I want to.",
+    "timestamp": "0:18:37",
+    "audio": "/audio/36/0.18.37.mp3"
+  },
+  "221": {
+    "speaker": "GRIZZLY",
+    "character": "おら! 飲み物どうすんだよ!",
+    "definition": "Hey! What do you want to drink?",
+    "timestamp": "0:18:40",
+    "audio": "/audio/36/0.18.40.mp3"
+  },
+  "222": {
+    "speaker": "",
+    "character": "同じのでいいか?",
+    "definition": "The same thing? Yeah.",
+    "timestamp": "0:18:41",
+    "audio": "/audio/36/0.18.41.mp3"
+  },
+  "223": {
+    "speaker": "GRIZZLY",
+    "character": "すんませ～ん!",
+    "definition": "Excuse me.",
+    "timestamp": "0:18:45",
+    "audio": "/audio/36/0.18.45.mp3"
+  },
+  "224": {
+    "speaker": "",
+    "character": "ビール ピッチャーと オレンジジュース!",
+    "definition": "Could we get a pitcher of beer and an orange juice?",
+    "timestamp": "0:18:46",
+    "audio": "/audio/36/0.18.46.mp3"
+  },
+  "225": {
+    "speaker": "GUY",
+    "character": "あのテーブル すっげえ仕切りだ。",
+    "definition": "That table's really demanding.",
+    "timestamp": "0:18:49",
+    "audio": "/audio/36/0.18.49.mp3"
+  },
+  "226": {
+    "speaker": "GRIZZLY",
+    "character": "まだ さわんなって!",
+    "definition": "Don't touch it yet.",
+    "timestamp": "0:18:54",
+    "audio": "/audio/36/0.18.54.mp3"
+  },
+  "227": {
+    "speaker": "GRIZZLY",
+    "character": "よ～し!",
+    "definition": "All right.",
+    "timestamp": "0:19:05",
+    "audio": "/audio/36/0.19.05.mp3"
+  },
+  "228": {
+    "speaker": "GRIZZLY",
+    "character": "豆腐は 今だ!",
+    "definition": "Tofu now!",
+    "timestamp": "0:19:10",
+    "audio": "/audio/36/0.19.10.mp3"
+  },
+  "229": {
+    "speaker": "POLAR BEAR",
+    "character": "うん!",
+    "definition": "Okay. Garland chrysanthemums, go! Okay!",
+    "timestamp": "0:19:12",
+    "audio": "/audio/36/0.19.12.mp3"
+  },
+  "230": {
+    "speaker": "GRIZZLY",
+    "character": "できた～!",
+    "definition": "And it's done.",
+    "timestamp": "0:19:18",
+    "audio": "/audio/36/0.19.18.mp3"
+  },
+  "231": {
+    "speaker": "GRIZZLY",
+    "character": "シロクマ おら～!",
+    "definition": "Here, Polar Bear.",
+    "timestamp": "0:19:23",
+    "audio": "/audio/36/0.19.23.mp3"
+  },
+  "232": {
+    "speaker": "POLAR BEAR",
+    "character": "ありがとう!",
+    "definition": "Thanks.",
+    "timestamp": "0:19:25",
+    "audio": "/audio/36/0.19.25.mp3"
+  },
+  "233": {
+    "speaker": "GRIZZLY",
+    "character": "パンダ おら～!",
+    "definition": "Panda!",
+    "timestamp": "0:19:26",
+    "audio": "/audio/36/0.19.26.mp3"
+  },
+  "234": {
+    "speaker": "GRIZZLY",
+    "character": "ペンギン おら～!",
+    "definition": "Penguin!",
+    "timestamp": "0:19:29",
+    "audio": "/audio/36/0.19.29.mp3"
+  },
+  "235": {
+    "speaker": "PENGUIN",
+    "character": "わ～い!",
+    "definition": "Yay!",
+    "timestamp": "0:19:30",
+    "audio": "/audio/36/0.19.30.mp3"
+  },
+  "236": {
+    "speaker": "GRIZZLY",
+    "character": "さぁ 食え～!",
+    "definition": "Now eat!",
+    "timestamp": "0:19:32",
+    "audio": "/audio/36/0.19.32.mp3"
+  },
+  "237": {
+    "speaker": "ALL",
+    "character": "いただきま～す!",
+    "definition": "Thanks for the food. We're making porridge when you're done with that.",
+    "timestamp": "0:19:33",
+    "audio": "/audio/36/0.19.33.mp3"
+  },
+  "238": {
+    "speaker": "PANDA",
+    "character": "おいしい。",
+    "definition": "So good.",
+    "timestamp": "0:19:38",
+    "audio": "/audio/36/0.19.38.mp3"
+  },
+  "239": {
+    "speaker": "PENGUIN",
+    "character": "熱い! 熱いの苦手だよ～!",
+    "definition": "It's hot! I don't do well with hot.",
+    "timestamp": "0:19:39",
+    "audio": "/audio/36/0.19.39.mp3"
+  },
+  "240": {
+    "speaker": "GRIZZLY",
+    "character": "冷めた! 早く食え～。",
+    "definition": "And now it's cooled off. Hurry up and eat.",
+    "timestamp": "0:19:47",
+    "audio": "/audio/36/0.19.47.mp3"
+  },
+  "241": {
+    "speaker": "PENGUIN",
+    "character": "わぁ おいしい!",
+    "definition": "It's delicious! Thanks for everything! More, please.",
+    "timestamp": "0:19:52",
+    "audio": "/audio/36/0.19.52.mp3"
+  },
+  "242": {
+    "speaker": "GRIZZLY",
+    "character": "おら～!すんませ～ん!ビール ピッチャー 追加!",
+    "definition": "Excuse me, could we get another pitcher of beer?",
+    "timestamp": "0:20:03",
+    "audio": "/audio/36/0.20.03.mp3"
+  },
+  "243": {
+    "speaker": "GRIZZLY",
+    "character": "で どうすんだよ? 二次会は。",
+    "definition": "So, where are we going for round two?",
+    "timestamp": "0:20:13",
+    "audio": "/audio/36/0.20.13.mp3"
+  },
+  "244": {
+    "speaker": "GRIZZLY",
+    "character": "カラオケか? バーか?",
+    "definition": "Karaoke? A bar? Majority rules! Karaoke!",
+    "timestamp": "0:20:16",
+    "audio": "/audio/36/0.20.16.mp3"
+  },
+  "245": {
+    "speaker": "GRIZZLY",
+    "character": "なんだ 全員 バーか!",
+    "definition": "What? You all want to go to a bar? Come on, let's go.",
+    "timestamp": "0:20:22",
+    "audio": "/audio/36/0.20.22.mp3"
+  },
+  "246": {
+    "speaker": "POLAR BEAR",
+    "character": "グリズリーくん。",
+    "definition": "Grizzly.",
+    "timestamp": "0:20:28",
+    "audio": "/audio/36/0.20.28.mp3"
+  },
+  "247": {
+    "speaker": "GRIZZLY",
+    "character": "なんだ～?",
+    "definition": "What? I'm tired, so let's go home.",
+    "timestamp": "0:20:30",
+    "audio": "/audio/36/0.20.30.mp3"
+  },
+  "248": {
+    "speaker": "PENGUIN",
+    "character": "僕も 朝 早かったから眠くなっちゃった。 ふぁ～。",
+    "definition": "I got up early this morning, so I'm tired, too.",
+    "timestamp": "0:20:40",
+    "audio": "/audio/36/0.20.40.mp3"
+  },
+  "249": {
+    "speaker": "PANDA",
+    "character": "大丈夫…",
+    "definition": "It's okay... I can sleep anywhere... Hey! Don't sleep in the middle of the street!",
+    "timestamp": "0:20:45",
+    "audio": "/audio/36/0.20.45.mp3"
+  },
+  "250": {
+    "speaker": "GRIZZLY",
+    "character": "送っていくから!",
+    "definition": "I'll take you home. What the hell, you guys.",
+    "timestamp": "0:20:54",
+    "audio": "/audio/36/0.20.54.mp3"
+  },
+  "251": {
+    "speaker": "GRIZZLY",
+    "character": "あ～ もしもし タクシー?",
+    "definition": "Oh, hello, taxi?",
+    "timestamp": "0:20:58",
+    "audio": "/audio/36/0.20.58.mp3"
+  },
+  "252": {
+    "speaker": "GRIZZLY",
+    "character": "あいつら ふざけやがって。",
+    "definition": "Damn them.",
+    "timestamp": "0:21:11",
+    "audio": "/audio/36/0.21.11.mp3"
+  },
+  "253": {
+    "speaker": "GRIZZLY",
+    "character": "なんで 冬眠する俺があいつら送ってくんだよ",
+    "definition": "Why the hell did I take them home when I'm supposed to be hibernating? The hell is this?",
+    "timestamp": "0:21:14",
+    "audio": "/audio/36/0.21.14.mp3"
+  },
+  "254": {
+    "speaker": "GRIZZLY",
+    "character": "フン…。まったく…。",
+    "definition": "Jeez...",
+    "timestamp": "0:21:50",
+    "audio": "/audio/36/0.21.50.mp3"
+  },
+  "255": {
+    "speaker": "GRIZZLY",
+    "character": "しようがねえなぁ あいつら。",
+    "definition": "Those guys are hopeless...",
+    "timestamp": "0:21:58",
+    "audio": "/audio/36/0.21.58.mp3"
+  },
+  "256": {
+    "speaker": "PANDA",
+    "character": "ペンギンさんペンギンさん",
+    "definition": "Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:23:58",
+    "audio": "/audio/36/0.23.58.mp3"
+  },
+  "257": {
+    "speaker": "PENGUIN",
+    "character": "何?パンダ君",
+    "definition": "What is it, Panda?",
+    "timestamp": "0:23:59",
+    "audio": "/audio/36/0.23.59.mp3"
+  },
+  "258": {
+    "speaker": "PANDA",
+    "character": "ペンギンさん歴史の一ページに残るようなこと最近した?",
+    "definition": "Have you done anything historically noteworthy lately, Mr. Penguin?",
+    "timestamp": "0:24:00",
+    "audio": "/audio/36/0.24.00.mp3"
+  },
+  "259": {
+    "speaker": "PENGUIN",
+    "character": "分かると思うけど、してませんね",
+    "definition": "I think you already know this, but no. Mr. Penguin, Mr. Penguin.",
+    "timestamp": "0:24:04",
+    "audio": "/audio/36/0.24.04.mp3"
+  },
+  "260": {
+    "speaker": "PENGUIN",
+    "character": "わ!笹子さんの声",
+    "definition": "Whoa!  Miss Sasako's voice!",
+    "timestamp": "0:24:08",
+    "audio": "/audio/36/0.24.08.mp3"
+  },
+  "261": {
+    "speaker": "PENGUIN",
+    "character": "どこ?!どこにいるの?",
+    "definition": "Where? Where is it coming from?!",
+    "timestamp": "0:24:09",
+    "audio": "/audio/36/0.24.09.mp3"
+  },
+  "262": {
+    "speaker": "SASAKO",
+    "character": "探してみてください",
+    "definition": "Try to find me.",
+    "timestamp": "0:24:11",
+    "audio": "/audio/36/0.24.11.mp3"
+  },
+  "263": {
+    "speaker": "PANDA",
+    "character": "笹子さんの声近づいてない?",
+    "definition": "Isn't Miss Sasako's voice getting closer?",
+    "timestamp": "0:24:12",
+    "audio": "/audio/36/0.24.12.mp3"
+  },
+  "264": {
+    "speaker": "PENGUIN",
+    "character": "何?それ怖い話?",
+    "definition": "What is this, some kind of scary story?",
+    "timestamp": "0:24:15",
+    "audio": "/audio/36/0.24.15.mp3"
+  },
+  "265": {
+    "speaker": "SASAKO",
+    "character": "シロクマさん 終わりましょう",
+    "definition": "Let's end this, Mr. Polar Bear.",
+    "timestamp": "0:24:16",
+    "audio": "/audio/36/0.24.16.mp3"
+  },
+  "266": {
+    "speaker": "PENGUIN",
+    "character": "どこにいるの?",
+    "definition": "Where are you?!",
+    "timestamp": "0:24:18",
+    "audio": "/audio/36/0.24.18.mp3"
+  },
+  "267": {
+    "speaker": "POLAR BEAR",
+    "character": "来週のシロクマカフェイは",
+    "definition": "Next week's Polar Bear's Café,",
+    "timestamp": "0:24:19",
+    "audio": "/audio/36/0.24.19.mp3"
+  },
+  "268": {
+    "speaker": "POLAR BEAR",
+    "character": "安全第一でお送りします",
+    "definition": "will be presented putting safety first.",
+    "timestamp": "0:24:21",
+    "audio": "/audio/36/0.24.21.mp3"
+  },
+  "269": {
+    "speaker": "SASAKO",
+    "character": "お楽しみに",
+    "definition": "Enjoy!",
+    "timestamp": "0:24:22",
+    "audio": "/audio/36/0.24.22.mp3"
+  },
+  "270": {
+    "speaker": "PENGUIN",
+    "character": "どこ?!",
+    "definition": "Where are you?!",
+    "timestamp": "0:24:23",
+    "audio": "/audio/36/0.24.23.mp3"
+  }
+}
