@@ -1,0 +1,1362 @@
+{
+    "1": {
+        "speaker": "PANDA",
+        "japanese": "さっきから　ず～っとそれやってるけど",
+        "english": "You've been doing that for a while,"
+    },
+    "2": {
+        "speaker": "PANDA",
+        "japanese": "何やってるの？",
+        "english": "but what exactly are you doing?"
+    },
+    "3": {
+        "speaker": "FT PANDA",
+        "japanese": "内職だよ",
+        "english": "It's a side job. We just had our third child,"
+    },
+    "4": {
+        "speaker": "FT PANDA",
+        "japanese": "今度真ん中の子が小学校だから",
+        "english": "and our middle one is starting elementary school,"
+    },
+    "5": {
+        "speaker": "FT PANDA",
+        "japanese": "いろいろ物入りで",
+        "english": "so she needs quite a few things. I see."
+    },
+    "6": {
+        "speaker": "FT PANDA",
+        "japanese": "暇だったらパンダくんも手伝ってくれない",
+        "english": "If you're bored, would you help me out, Panda?"
+    },
+    "7": {
+        "speaker": "PANDA",
+        "japanese": "ほんとに暇つぶしのためだけにならいいよ",
+        "english": "If it's solely for the purpose of relieving my boredom, sure."
+    },
+    "8": {
+        "speaker": "FT PANDA",
+        "japanese": "キミの辞書には社交辞令という言葉ないんだね",
+        "english": "Apparently, \"social etiquette\"doesn't exist in your dictionary."
+    },
+    "9": {
+        "speaker": "FT PANDA",
+        "japanese": "じゃあ　こっちのティッシュに",
+        "english": "Then will you put these ads into these tissue packs?"
+    },
+    "10": {
+        "speaker": "PANDA",
+        "japanese": "うん",
+        "english": "Sure."
+    },
+    "11": {
+        "speaker": "PANDA",
+        "japanese": "地味に見えてほんとに地味な仕事だね",
+        "english": "This job doesn't just look dull. It actually is dull, isn't it?"
+    },
+    "12": {
+        "speaker": "GUY1",
+        "japanese": "あのパンダ内職してるぞ",
+        "english": "Those pandas are doing a side job!"
+    },
+    "13": {
+        "speaker": "GUY2",
+        "japanese": "動物園大変なんだな",
+        "english": "I guess the zoo's fallen on hard times, too."
+    },
+    "14": {
+        "speaker": "HANDA",
+        "japanese": "えっ！？",
+        "english": "What?"
+    },
+    "15": {
+        "speaker": "HANDA",
+        "japanese": "やめてください",
+        "english": "Please stop at once!"
+    },
+    "16": {
+        "speaker": "HANDA",
+        "japanese": "内職するパンダを見せる動物園がどこにあるんですか",
+        "english": "What zoo would allow their pandas to be seen doing side jobs?"
+    },
+    "17": {
+        "speaker": "HANDA",
+        "japanese": "動物園大変なんだなって　お客さんに言われましたよ",
+        "english": "I overheard a customer say that the zoo must be going through some hard times."
+    },
+    "18": {
+        "speaker": "PANDA",
+        "japanese": "まあまあ　珍しがって　お客さんが押し寄せるよ",
+        "english": "Come on. Visitors will flock in to see us doing something so unusual."
+    },
+    "19": {
+        "speaker": "HANDA",
+        "japanese": "そういう　押し寄せ方はダメだよ",
+        "english": "We can't have them flock in for that."
+    },
+    "20": {
+        "speaker": "FT PANDA",
+        "japanese": "見えないところでならいいよね",
+        "english": "So it'd be okay if they couldn't see us, right? Huh?"
+    },
+    "21": {
+        "speaker": "FT PANDA",
+        "japanese": "内職　見えないところでなら　いいよね",
+        "english": "We can do the side job if we aren't seen, right?"
+    },
+    "22": {
+        "speaker": "HANDA",
+        "japanese": "わかりましたよ…",
+        "english": "All right, fine..."
+    },
+    "23": {
+        "speaker": "KIRINO",
+        "japanese": "ちょっと先輩",
+        "english": "Hey, now."
+    },
+    "24": {
+        "speaker": "KIRINO",
+        "japanese": "なんで内職　オッケーしちゃうんですか",
+        "english": "Why'd you okay their side job?"
+    },
+    "25": {
+        "speaker": "HANDA",
+        "japanese": "えっ　見えないところなら　いいでしょ",
+        "english": "Well, it's okay if nobody sees them, isn't it? It's not okay for pandas to sneak around doing side jobs."
+    },
+    "26": {
+        "speaker": "KIRINO",
+        "japanese": "パンダに言いくるめられるの　やめてください",
+        "english": "Please don't let the pandas trick you."
+    },
+    "27": {
+        "speaker": "HANDA",
+        "japanese": "常勤さんのところ大変なんだって",
+        "english": "Well, Mr. Full-time has a lot going on right now."
+    },
+    "28": {
+        "speaker": "KIRINO",
+        "japanese": "いやいや　そこはちゃんとしましょうよ",
+        "english": "Oh, come on. We need to be proper about this."
+    },
+    "29": {
+        "speaker": "KIRINO",
+        "japanese": "あっ　そうだ　園長からなんですけど",
+        "english": "Oh, that's right. I have a message from the zoo director."
+    },
+    "30": {
+        "speaker": "KIRINO",
+        "japanese": "来週から派遣パンダさんが来るそうです",
+        "english": "Starting next week, we'll have a temp panda."
+    },
+    "31": {
+        "speaker": "HANDA",
+        "japanese": "派遣パンダ",
+        "english": "A temp panda?"
+    },
+    "32": {
+        "speaker": "PANDA",
+        "japanese": "お疲れさま",
+        "english": "Thanks for all your hard work!"
+    },
+    "33": {
+        "speaker": "FT PANDA",
+        "japanese": "どうしよう　パンダくん",
+        "english": "What am I going to do, Panda?"
+    },
+    "34": {
+        "speaker": "PANDA",
+        "japanese": "何　常勤パンダさん",
+        "english": "What is it, Mr. Full-time Panda? The arrival of a temp panda isn't good. Why's that? There's no need for three pandas at this zoo."
+    },
+    "35": {
+        "speaker": "FT PANDA",
+        "japanese": "僕たちリストラされるかもしれないよ",
+        "english": "We might be laid off. Laid off?"
+    },
+    "36": {
+        "speaker": "PENGUIN",
+        "japanese": "ねぇ　笹子さん　休みの日って何してるの",
+        "english": "Hey, Miss Sasako. What do you do on your days off?"
+    },
+    "37": {
+        "speaker": "SASAKO",
+        "japanese": "休みの日ですか　休んでます",
+        "english": "On my days off? I take the day off."
+    },
+    "38": {
+        "speaker": "PENGUIN",
+        "japanese": "うん　だから何して",
+        "english": "Yeah, but what do you do?"
+    },
+    "39": {
+        "speaker": "SASAKO",
+        "japanese": "１日中　休んでますよ",
+        "english": "I take all day off. That's not what I mean..."
+    },
+    "40": {
+        "speaker": "PENGUIN",
+        "japanese": "もういいや　シロクマくん　さっきから何してんの",
+        "english": "Never mind. What are you doing, Polar Bear?"
+    },
+    "41": {
+        "speaker": "POLAR BEAR",
+        "japanese": "タコさんウィンナーを作ってるんだ",
+        "english": "I'm making an octopus-shaped hot dog."
+    },
+    "42": {
+        "speaker": "PENGUIN",
+        "japanese": "タコさんウィンナー",
+        "english": "An octopus-shaped hot dog? I see."
+    },
+    "43": {
+        "speaker": "PENGUIN",
+        "japanese": "何これ",
+        "english": "What the heck is this?!"
+    },
+    "44": {
+        "speaker": "POLAR BEAR",
+        "japanese": "うん　タコさんウィンナー",
+        "english": "An octopus-shaped hot dog. It's sort of scary. How'd you even make this out of hot dogs? It accents any lunch box. I don't think it would even fit in a lunch box..."
+    },
+    "45": {
+        "speaker": "PENGUIN",
+        "japanese": "どうしたの　嬉しそうな顔して",
+        "english": "What's going on with you? You seem happy."
+    },
+    "46": {
+        "speaker": "PANDA",
+        "japanese": "僕　リストラされるかもしれないんだ",
+        "english": "I might be laid off."
+    },
+    "47": {
+        "speaker": "PENGUIN",
+        "japanese": "キミ　意味わかってる",
+        "english": "Do you understand what that means?"
+    },
+    "48": {
+        "speaker": "PANDA",
+        "japanese": "もちろん　派遣パンダさんが来たら",
+        "english": "Of course! When Mr. Temp Panda comes, I might be laid off!"
+    },
+    "49": {
+        "speaker": "PENGUIN",
+        "japanese": "リストラ　イヤじゃないの",
+        "english": "Wouldn't getting laid off be bad?"
+    },
+    "50": {
+        "speaker": "PANDA",
+        "japanese": "全然だよ",
+        "english": "Not at all."
+    },
+    "51": {
+        "speaker": "PANDA",
+        "japanese": "これで堂々と家でゴロゴロできるよ",
+        "english": "Then I can boldly laze around at home."
+    },
+    "52": {
+        "speaker": "PENGUIN",
+        "japanese": "キミ　斬新な発想するね",
+        "english": "That's a rather new way to approach that."
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくんになれたら楽しいだろうね",
+        "english": "It must be a lot of fun being you."
+    },
+    "54": {
+        "speaker": "PANDA",
+        "japanese": "早く来ないかな～　派遣パンダさん",
+        "english": "I hope Mr. Temp Panda gets here soon."
+    },
+    "55": {
+        "speaker": "HANDA",
+        "japanese": "え～　こちらが",
+        "english": "This is..."
+    },
+    "56": {
+        "speaker": "HANDA",
+        "japanese": "今日から　派遣されてきた",
+        "english": "Mr. Temp Panda, who'll be starting here today."
+    },
+    "57": {
+        "speaker": "TEMP",
+        "japanese": "派遣パンダです",
+        "english": "I'm Temp Panda."
+    },
+    "58": {
+        "speaker": "TEMP",
+        "japanese": "よろしくお願いします",
+        "english": "Pleased to meet you. Nice to meet you."
+    },
+    "59": {
+        "speaker": "HANDA",
+        "japanese": "わからないことはこの２人に聞いてください",
+        "english": "If you have any questions, feel free to ask these two."
+    },
+    "60": {
+        "speaker": "TEMP",
+        "japanese": "はい",
+        "english": "Yes, sir!"
+    },
+    "61": {
+        "speaker": "HANDA",
+        "japanese": "それと　今日は午前中に保育園の子たちが来ますから",
+        "english": "Also, we'll be getting some preschoolers this morning,"
+    },
+    "62": {
+        "speaker": "HANDA",
+        "japanese": "サービスしてあげてください",
+        "english": "so make sure you give them plenty of service. Mr. Panda! Mr. Panda! Mr. Panda!"
+    },
+    "63": {
+        "speaker": "FT PANDA",
+        "japanese": "パンダくんと派遣パンダさん",
+        "english": "Panda and Mr. Temp Panda,"
+    },
+    "64": {
+        "speaker": "FT PANDA",
+        "japanese": "僕ちょっと　そこの陰で　内職やっちゃうから",
+        "english": "I'm going to hide over there and work on this,"
+    },
+    "65": {
+        "speaker": "FT PANDA",
+        "japanese": "午前中はキミたちでお願いします",
+        "english": "so I'll leave the morning to you."
+    },
+    "66": {
+        "speaker": "TEMP",
+        "japanese": "何を言ってるんですかあなたは",
+        "english": "What on earth are you talking about? How could you be doing a side job?"
+    },
+    "67": {
+        "speaker": "FT PANDA",
+        "japanese": "いや～　ティッシュにチラシを入れるんです",
+        "english": "I'm just putting ads into tissue packs."
+    },
+    "68": {
+        "speaker": "TEMP",
+        "japanese": "そうじゃなくてそれはパンダのやることですか",
+        "english": "That's not what I meant! Is that something pandas should be doing?"
+    },
+    "69": {
+        "speaker": "FT PANDA",
+        "japanese": "パンダくんキミからなんか言ってあげて",
+        "english": "Talk to him, Panda."
+    },
+    "70": {
+        "speaker": "PANDA",
+        "japanese": "ご飯　食べてからにするよ",
+        "english": "Okay, after I eat."
+    },
+    "71": {
+        "speaker": "TEMP",
+        "japanese": "もっと　まじめにパンダのかわいさを見せましょうよ",
+        "english": "Let's work harder to show the cuteness of pandas!"
+    },
+    "72": {
+        "speaker": "PANDA",
+        "japanese": "けど　僕が　ゴロゴロしてたらかわいいよ",
+        "english": "But if I just laze around, it's already cute."
+    },
+    "73": {
+        "speaker": "TEMP",
+        "japanese": "パンダに甘えてませんか",
+        "english": "Is that really enough for a panda?"
+    },
+    "74": {
+        "speaker": "TEMP",
+        "japanese": "ちゃんと必死に　ゴロゴロしましょうよ",
+        "english": "Let's work harder on lazing around!"
+    },
+    "75": {
+        "speaker": "PANDA",
+        "japanese": "必死にゴロゴロ",
+        "english": "Work harder on lazing around?"
+    },
+    "76": {
+        "speaker": "PANDA",
+        "japanese": "僕はそういうゴロゴロは違うと思うんだよね",
+        "english": "I don't think that's the right kind of lazing around."
+    },
+    "77": {
+        "speaker": "PENGUIN",
+        "japanese": "そうだね",
+        "english": "True."
+    },
+    "78": {
+        "speaker": "PANDA",
+        "japanese": "ゴロゴロはさ　なんていうかガツガツしたゴロゴロじゃなくて",
+        "english": "Lazing around should be more like, not the stern kind of lazing around,"
+    },
+    "79": {
+        "speaker": "PANDA",
+        "japanese": "ゴロゴロしたゴロゴロであるべきでしょう",
+        "english": "but the lazing around kind of lazing around."
+    },
+    "80": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなに熱を入れて主張することでもないけどね",
+        "english": "I don't think this is something to state so passionately."
+    },
+    "81": {
+        "speaker": "SASAKO",
+        "japanese": "派遣パンダさんってまじめな方なんですね",
+        "english": "Mr. Temp Panda sounds very serious."
+    },
+    "82": {
+        "speaker": "PANDA",
+        "japanese": "ダラダラしたゴロゴロのほうがかわいいに決まってるよ",
+        "english": "Of course, the relaxed kind of lazing around is cuter."
+    },
+    "83": {
+        "speaker": "PENGUIN",
+        "japanese": "けど派遣パンダさんはプロのゴロゴロでしょう",
+        "english": "But he's a pro at lazing, right? So cute!"
+    },
+    "84": {
+        "speaker": "KIDS",
+        "japanese": "パンダさ～ん",
+        "english": "Mr. Panda! Mr. Panda! So cute!"
+    },
+    "85": {
+        "speaker": "PANDA",
+        "japanese": "だから　今度総選挙をやるんだよ",
+        "english": "That's why we're going to be holding an election."
+    },
+    "86": {
+        "speaker": "PENGUIN",
+        "japanese": "総選挙",
+        "english": "An election?"
+    },
+    "87": {
+        "speaker": "PANDA",
+        "japanese": "パンダのセンターを決めるの",
+        "english": "To decide who's going to be the central panda."
+    },
+    "88": {
+        "speaker": "PANDA",
+        "japanese": "誰がいちばんかわいいかお客さんに投票してもらうんだ",
+        "english": "We're going to have the visitors vote on the cutest panda."
+    },
+    "89": {
+        "speaker": "POLAR BEAR",
+        "japanese": "センターを決める",
+        "english": "Choosing the central panda?"
+    },
+    "90": {
+        "speaker": "POLAR BEAR",
+        "japanese": "３人しかいないのに",
+        "english": "With only three of you?"
+    },
+    "91": {
+        "speaker": "SASAKO",
+        "japanese": "そこはいいんじゃないですか",
+        "english": "I think we can leave that aspect alone... How's that look?"
+    },
+    "92": {
+        "speaker": "KIRINO",
+        "japanese": "いいんじゃないですか",
+        "english": "I think it looks good."
+    },
+    "93": {
+        "speaker": "GUY",
+        "japanese": "なに　あれ　選挙",
+        "english": "What's that? An election? What's this?"
+    },
+    "94": {
+        "speaker": "GIRL",
+        "japanese": "あの子　いいじゃない",
+        "english": "I like that one. How about that panda?"
+    },
+    "95": {
+        "speaker": "HANDA",
+        "japanese": "お客さんも喜んでるみたいだし盛り上がりそうだね",
+        "english": "The visitors seem to be interested, too. This could get exciting. I'm going to do my best! For my wife and kids! Service, service!"
+    },
+    "96": {
+        "speaker": "LADY",
+        "japanese": "すご～い",
+        "english": "Wow!"
+    },
+    "97": {
+        "speaker": "FT PANDA",
+        "japanese": "すご～い",
+        "english": "Service! So cute!"
+    },
+    "98": {
+        "speaker": "FT PANDA",
+        "japanese": "かわいい",
+        "english": "Service, service! That's not all..."
+    },
+    "99": {
+        "speaker": "KIRINO",
+        "japanese": "あんなに追い詰められたパンダ　見たことないですね",
+        "english": "I don't think I've ever seen him so backed into a corner. {\\a6}Service, service!"
+    },
+    "100": {
+        "speaker": "HANDA",
+        "japanese": "いいんじゃない　やる気になってるんだから",
+        "english": "I think it's a good thing. He's trying real hard."
+    },
+    "101": {
+        "speaker": "TEMP",
+        "japanese": "今です",
+        "english": "Now!"
+    },
+    "102": {
+        "speaker": "KID",
+        "japanese": "パンダさ～ん",
+        "english": "Mr. Panda!"
+    },
+    "103": {
+        "speaker": "HANDA",
+        "japanese": "かわいいね　あそこで落ちるんすね",
+        "english": "How cute. I see what he did there."
+    },
+    "104": {
+        "speaker": "KIRINO",
+        "japanese": "プロのパンダっすねぇ",
+        "english": "What a pro."
+    },
+    "105": {
+        "speaker": "BOY",
+        "japanese": "だら～んとしてる",
+        "english": "He's just laying there!"
+    },
+    "106": {
+        "speaker": "GUY",
+        "japanese": "かわいい",
+        "english": "So cute! Hasn't changed at all."
+    },
+    "107": {
+        "speaker": "KIRINO",
+        "japanese": "普段着のパンダくんですね",
+        "english": "Just like the usual Panda..."
+    },
+    "108": {
+        "speaker": "PANDA",
+        "japanese": "僕は最高にだらしなく　ダラダラしよう",
+        "english": "I'm going to shamelessly laze around."
+    },
+    "109": {
+        "speaker": "PANDA",
+        "japanese": "それが僕のかわいさなんだ",
+        "english": "That's what's so cute about me."
+    },
+    "110": {
+        "speaker": "PANDA",
+        "japanese": "寝てた…",
+        "english": "I fell asleep..."
+    },
+    "111": {
+        "speaker": "HANDA",
+        "japanese": "結果を発表します",
+        "english": "And now, the results..."
+    },
+    "112": {
+        "speaker": "HANDA",
+        "japanese": "１位　派遣パンダさん",
+        "english": "First place: Mr. Temp Panda. What?"
+    },
+    "113": {
+        "speaker": "TEMP",
+        "japanese": "どうも",
+        "english": "Thank you!"
+    },
+    "114": {
+        "speaker": "HANDA",
+        "japanese": "２位　パンダくん",
+        "english": "Second place: Panda. What? Second place? Fourth place: Mr. Full-time Panda."
+    },
+    "115": {
+        "speaker": "FT PANDA",
+        "japanese": "なんで４位　…っていうか　なんで３位とばすの",
+        "english": "Why am I fourth? Or rather, why was third place skipped?"
+    },
+    "116": {
+        "speaker": "HANDA",
+        "japanese": "それは…",
+        "english": "Well... I lost to Panda, who was sleeping... Or rather... I lost to Mr. Handa, who was cleaning. Oh. I-I'm sorry..."
+    },
+    "117": {
+        "speaker": "SASAKO",
+        "japanese": "それで派遣パンダさんは",
+        "english": "And so what happened to Mr. Temp Panda?"
+    },
+    "118": {
+        "speaker": "PANDA",
+        "japanese": "次の派遣先に行くんだって",
+        "english": "He's going to his next temp site."
+    },
+    "119": {
+        "speaker": "PANDA",
+        "japanese": "短期だったみたい",
+        "english": "This was only short term. If it was so short term,"
+    },
+    "120": {
+        "speaker": "FT PANDA",
+        "japanese": "こんな辛いランキング決めなくて　よかったんじゃないかな",
+        "english": "was there any reason to make this harsh ranking?"
+    },
+    "121": {
+        "speaker": "PANDA",
+        "japanese": "元気だしてよ　常勤パンダさん",
+        "english": "Cheer up, Mr. Full-time Panda. This'll be on me."
+    },
+    "122": {
+        "speaker": "PANDA",
+        "japanese": "４位だっていいじゃない",
+        "english": "Fourth place isn't so bad."
+    },
+    "123": {
+        "speaker": "PANDA",
+        "japanese": "１０位じゃないんだから",
+        "english": "At least it's not tenth place."
+    },
+    "124": {
+        "speaker": "FT PANDA",
+        "japanese": "私はもうパンダとしての　自信なくしたよ",
+        "english": "I've lost my confidence as a panda..."
+    },
+    "125": {
+        "speaker": "LLAMA",
+        "japanese": "あの…　よかったら僕",
+        "english": "Pardon me, but if you'd like,"
+    },
+    "126": {
+        "speaker": "LLAMA",
+        "japanese": "パンダコーナーと代わりましょうか",
+        "english": "I'll trade places with you at the Panda Corner. I do pretty well as a panda."
+    },
+    "127": {
+        "speaker": "FT PANDA",
+        "japanese": "もうパンダやめようかな…",
+        "english": "Maybe I'll quit being a panda. Could I get a caramel latte, Mr. Polar Bear?"
+    },
+    "128": {
+        "speaker": "POLAR BEAR",
+        "japanese": "それ　脱いだら",
+        "english": "How about you take that off?"
+    },
+    "129": {
+        "speaker": "LLAMA",
+        "japanese": "はい",
+        "english": "Okay."
+    },
+    "130": {
+        "speaker": "TIGER",
+        "japanese": "よぅ　オオカミ　元気にしてたか",
+        "english": "Hey, Wolf, how ya doin'?"
+    },
+    "131": {
+        "speaker": "WOLF",
+        "japanese": "トラくん",
+        "english": "Tiger! Hey!"
+    },
+    "132": {
+        "speaker": "WOLF",
+        "japanese": "あれ",
+        "english": "Oh?"
+    },
+    "133": {
+        "speaker": "TIGER",
+        "japanese": "なに",
+        "english": "What?"
+    },
+    "134": {
+        "speaker": "WOLF",
+        "japanese": "ずいぶん太ったね　少し見ないうちに",
+        "english": "Looks like you gained some weight in the short time I haven't seen you."
+    },
+    "135": {
+        "speaker": "TIGER",
+        "japanese": "アッハハ　いやぁ　嫁の作るメシがうまくてなぁ",
+        "english": "Well, my wife makes some great food."
+    },
+    "136": {
+        "speaker": "WOLF",
+        "japanese": "幸せ太り　猛獣としてどうなの　それ",
+        "english": "Gained some weight from a happy marriage, eh? And you call yourself a fierce beast?"
+    },
+    "137": {
+        "speaker": "TIGER",
+        "japanese": "うるせえよ　お前は変わんねえな",
+        "english": "Oh, shut up. Looks like you haven't changed."
+    },
+    "138": {
+        "speaker": "WOLF",
+        "japanese": "まあね　太っちゃうとオオカミって　わかんなくなるからさ",
+        "english": "Yeah. Wolves don't look like wolves if we gain weight."
+    },
+    "139": {
+        "speaker": "GRIZZLY",
+        "japanese": "よう　久しぶり",
+        "english": "Hey, it's been a while. What are you guys up to today?"
+    },
+    "140": {
+        "speaker": "TIGER",
+        "japanese": "マスター　今日は昔の仲間で…",
+        "english": "Well, today we're getting together..."
+    },
+    "141": {
+        "speaker": "WOLF",
+        "japanese": "久しぶりに揃うんだ",
+        "english": "...with another old friend of ours."
+    },
+    "142": {
+        "speaker": "GRIZZLY",
+        "japanese": "そうかい　それなら１杯ご馳走するぜ",
+        "english": "I see. Then your first drinks will be on me."
+    },
+    "143": {
+        "speaker": "TIGER",
+        "japanese": "やった　俺マティーニね",
+        "english": "Awesome! I'll take a martini."
+    },
+    "144": {
+        "speaker": "WOLF",
+        "japanese": "俺　バーボンおかわり",
+        "english": "Could I get another bourbon?"
+    },
+    "145": {
+        "speaker": "GRIZZLY",
+        "japanese": "おう",
+        "english": "Sure."
+    },
+    "146": {
+        "speaker": "TIGER",
+        "japanese": "ライオン　遅れるって",
+        "english": "So Lion's gonna be late?"
+    },
+    "147": {
+        "speaker": "WOLF",
+        "japanese": "飛行機が遅れてるらしいぜ",
+        "english": "Apparently his flight's been delayed."
+    },
+    "148": {
+        "speaker": "TIGER",
+        "japanese": "あいつ　忙しそうだしなぁ",
+        "english": "Well, he always seems so busy."
+    },
+    "149": {
+        "speaker": "WOLF",
+        "japanese": "トラくん　実家の和菓子屋　継いだらしいじゃん",
+        "english": "I heard you took over your family's Japanese confectionery shop."
+    },
+    "150": {
+        "speaker": "TIGER",
+        "japanese": "おう",
+        "english": "Yeah."
+    },
+    "151": {
+        "speaker": "WOLF",
+        "japanese": "いいよなぁ",
+        "english": "Must be nice,"
+    },
+    "152": {
+        "speaker": "WOLF",
+        "japanese": "代々続く　老舗のボンボン",
+        "english": "being the rich son of a shop that's been in business for generations."
+    },
+    "153": {
+        "speaker": "TIGER",
+        "japanese": "いらっしゃいませ",
+        "english": "Welcome."
+    },
+    "154": {
+        "speaker": "TIGER",
+        "japanese": "去年発売した肉球ねりきりが　ヒットしちゃってよぉ",
+        "english": "Our sweet paws that came out last year became a huge hit."
+    },
+    "155": {
+        "speaker": "TIGER",
+        "japanese": "定番のしろく饅頭とくろく饅頭も好評で",
+        "english": "Not to mention our Polar Bear Buns and Black Bear Buns are popular as ever,"
+    },
+    "156": {
+        "speaker": "TIGER",
+        "japanese": "大忙しだよ",
+        "english": "so it's been really busy."
+    },
+    "157": {
+        "speaker": "WOLF",
+        "japanese": "肉球ねりきりかよ",
+        "english": "Sweet paws, eh?"
+    },
+    "158": {
+        "speaker": "WOLF",
+        "japanese": "お前にこんな商才があるなんてな",
+        "english": "Who knew you had those kind of skills?"
+    },
+    "159": {
+        "speaker": "TIGER",
+        "japanese": "今年はまた子供生まれるし",
+        "english": "Not to mention we have another kid coming this year..."
+    },
+    "160": {
+        "speaker": "WOLF",
+        "japanese": "えっ　マジで",
+        "english": "Whoa, really?"
+    },
+    "161": {
+        "speaker": "WOLF",
+        "japanese": "何人目",
+        "english": "How many's that?"
+    },
+    "162": {
+        "speaker": "TIGER",
+        "japanese": "６人目",
+        "english": "Our sixth."
+    },
+    "163": {
+        "speaker": "TIGER",
+        "japanese": "かわいいぜ写真見るか",
+        "english": "They're super cute. Wanna see?"
+    },
+    "164": {
+        "speaker": "WOLF",
+        "japanese": "猛獣のくせに　子供の写真見せんなよ",
+        "english": "You're supposed to be a fierce beast. Stop showing me pictures of your kids."
+    },
+    "165": {
+        "speaker": "TIGER",
+        "japanese": "やばいだろ　上のやつの七五三の写真",
+        "english": "Isn't she cute? This is our oldest at her  Shichi-go-san celebration."
+    },
+    "166": {
+        "speaker": "WOLF",
+        "japanese": "すっかり　マイホームパパじゃん",
+        "english": "You're totally like a stay-at-home dad now. Well, I'm at that age."
+    },
+    "167": {
+        "speaker": "WOLF",
+        "japanese": "猛獣のくせに　落ち着いてんじゃねえよ",
+        "english": "You're a fierce beast. Stop settling down so much."
+    },
+    "168": {
+        "speaker": "TIGER",
+        "japanese": "そういうオオカミはどうなのよ",
+        "english": "What about you, Wolf?"
+    },
+    "169": {
+        "speaker": "WOLF",
+        "japanese": "俺のことはいいよ",
+        "english": "We don't need to talk about me."
+    },
+    "170": {
+        "speaker": "TIGER",
+        "japanese": "まだあのパン屋勤めてんの",
+        "english": "Are you still working at that bakery?"
+    },
+    "171": {
+        "speaker": "WOLF",
+        "japanese": "まあな",
+        "english": "Well, yeah."
+    },
+    "172": {
+        "speaker": "TIGER",
+        "japanese": "パン屋って優しい顔の人がなる仕事だろう",
+        "english": "Don't you have to look kind to work at a bakery?"
+    },
+    "173": {
+        "speaker": "TIGER",
+        "japanese": "猛獣に務まんのかよ",
+        "english": "Is that really a job for a fierce beast?"
+    },
+    "174": {
+        "speaker": "WOLF",
+        "japanese": "トラくんだって　老舗の和菓子屋　継いでるじゃない",
+        "english": "Well, you're working at a traditional confectionery shop. You've got a point."
+    },
+    "175": {
+        "speaker": "GRIZZLY",
+        "japanese": "おらよ",
+        "english": "There you go."
+    },
+    "176": {
+        "speaker": "BOTH",
+        "japanese": "乾杯",
+        "english": "Cheers!"
+    },
+    "177": {
+        "speaker": "TIGER",
+        "japanese": "けど…　お前もそろそろ独立したら",
+        "english": "You know... Have you thought about becoming independent?"
+    },
+    "178": {
+        "speaker": "WOLF",
+        "japanese": "うん　まあね",
+        "english": "Well, yeah."
+    },
+    "179": {
+        "speaker": "WOLF",
+        "japanese": "けど　その前に…",
+        "english": "But before that... I'd like to relax for a year on some southern island,"
+    },
+    "180": {
+        "speaker": "WOLF",
+        "japanese": "南の風に吹かれながら遠吠えしてさ…",
+        "english": "howling as the tropical wind blows by."
+    },
+    "181": {
+        "speaker": "WOLF",
+        "japanese": "ほんとに俺のやりたいことを見つけたいんだよな",
+        "english": "I want to find something I really want to do."
+    },
+    "182": {
+        "speaker": "TIGER",
+        "japanese": "何だそりゃ…　まだ自分探し中かよ",
+        "english": "What the heck? You're still trying to find yourself?"
+    },
+    "183": {
+        "speaker": "WOLF",
+        "japanese": "俺のやりたいことってパン屋じゃねえと思うんだよな",
+        "english": "Well, I don't want to work at a bakery forever. Wolf, stop trying to find yourself."
+    },
+    "184": {
+        "speaker": "GRIZZLY",
+        "japanese": "自分ってのは探すんじゃなくて",
+        "english": "You're not supposed to find yourself,"
+    },
+    "185": {
+        "speaker": "GRIZZLY",
+        "japanese": "決めるもんだぜ",
+        "english": "you're supposed to choose yourself."
+    },
+    "186": {
+        "speaker": "TIGER",
+        "japanese": "そうそう　そのとおり　パン職人が　お前の天職だ",
+        "english": "Yeah, he's right! Exactly right! Your next job should be opening your own bakery!"
+    },
+    "187": {
+        "speaker": "TIGER",
+        "japanese": "一匹狼　目指そうぜ",
+        "english": "Become a lone wolf."
+    },
+    "188": {
+        "speaker": "WOLF",
+        "japanese": "一応　言っとくけど…",
+        "english": "Just so you know,"
+    },
+    "189": {
+        "speaker": "WOLF",
+        "japanese": "オオカミは　もともと群れる動物なんだけど",
+        "english": "wolves are animals that are usually in packs..."
+    },
+    "190": {
+        "speaker": "LION",
+        "japanese": "悪い悪い",
+        "english": "Sorry."
+    },
+    "191": {
+        "speaker": "LION",
+        "japanese": "よっ遅れちゃって　ごめんごめん",
+        "english": "Hey! Sorry I'm late!"
+    },
+    "192": {
+        "speaker": "BOTH",
+        "japanese": "おっ　ライオン　お疲れ",
+        "english": "Hey, Lion! It's been a while!"
+    },
+    "193": {
+        "speaker": "LION",
+        "japanese": "ニューヨーク出張だったんだけど",
+        "english": "I was on a business trip in New York,"
+    },
+    "194": {
+        "speaker": "LION",
+        "japanese": "国内線の乗り換えで　待たされちゃってさぁ",
+        "english": "and I was delayed on a domestic flight layover."
+    },
+    "195": {
+        "speaker": "TIGER",
+        "japanese": "何だ　何だ　かっこいいじゃねえか",
+        "english": "What the heck? How cool is that?"
+    },
+    "196": {
+        "speaker": "WOLF",
+        "japanese": "さすが　商社マンだね",
+        "english": "Nothing less from a trading company man."
+    },
+    "197": {
+        "speaker": "TIGER",
+        "japanese": "まあ　まずは再会を祝して…",
+        "english": "Well, first, let's toast to our reunion. Cheers!"
+    },
+    "198": {
+        "speaker": "LION",
+        "japanese": "久しぶりだなぁ　グリズリーバー",
+        "english": "It's been a while since I was at the Grizzly Bar."
+    },
+    "199": {
+        "speaker": "LION",
+        "japanese": "ずいぶん懐かしく感じるよ　そんなに経ってないのに",
+        "english": "It's really nostalgic, even though it hasn't been {\\i1}that{\\i0} long."
+    },
+    "200": {
+        "speaker": "WOLF",
+        "japanese": "この間　久しぶりにインパラに会ったよ",
+        "english": "I just recently saw Impala."
+    },
+    "201": {
+        "speaker": "LION",
+        "japanese": "おっ　あいつ　何してんの",
+        "english": "Oh, what's he up to?"
+    },
+    "202": {
+        "speaker": "WOLF",
+        "japanese": "代理店かなんかで　手広くやってるらしいんだ",
+        "english": "He's at some agency,pushing himself way too hard."
+    },
+    "203": {
+        "speaker": "LION",
+        "japanese": "へぇ～　昔は　おとなしかったのにな",
+        "english": "He was so timid before."
+    },
+    "204": {
+        "speaker": "TIGER",
+        "japanese": "お前　忙しくしてるみたいだな",
+        "english": "Looks like you've been keeping busy. Yeah, at this place."
+    },
+    "205": {
+        "speaker": "TIGER",
+        "japanese": "わ　ライオンが名刺交換かよ",
+        "english": "Wow, you're exchanging business cards?"
+    },
+    "206": {
+        "speaker": "LION",
+        "japanese": "やっぱ大企業は　やりがいがあるよ",
+        "english": "It's pretty great working at a major corporation."
+    },
+    "207": {
+        "speaker": "LION",
+        "japanese": "規模も大きいし…　地方じゃ味わえない充実感",
+        "english": "It's a large-scale company, and I get a satisfaction I can't experience locally."
+    },
+    "208": {
+        "speaker": "LION",
+        "japanese": "都会の生き馬の目を抜くようなスピード感っての",
+        "english": "Trying to keep up with the breakneck pace of the city"
+    },
+    "209": {
+        "speaker": "LION",
+        "japanese": "狩りが得意な俺も",
+        "english": "is tough, even for a hunter like me."
+    },
+    "210": {
+        "speaker": "WOLF",
+        "japanese": "狩りが得意な俺もついてくのが必死",
+        "english": "\"Even for a hunter like me\"?"
+    },
+    "211": {
+        "speaker": "LION",
+        "japanese": "え…",
+        "english": "What?"
+    },
+    "212": {
+        "speaker": "TIGER",
+        "japanese": "狩りが得意な俺もついてくのが必死",
+        "english": "\"Even for a hunter like me\"?"
+    },
+    "213": {
+        "speaker": "LION",
+        "japanese": "な…　なんだよ",
+        "english": "W-What the hell?"
+    },
+    "214": {
+        "speaker": "WOLF",
+        "japanese": "獲物は母ちゃんに　とってもらってたくせに",
+        "english": "Your mom always caught your food for you."
+    },
+    "215": {
+        "speaker": "TIGER",
+        "japanese": "ライオン　変わっちったなぁ",
+        "english": "You've totally changed, Lion."
+    },
+    "216": {
+        "speaker": "LION",
+        "japanese": "あ…　ちょっと　言ってみたかっただけだって",
+        "english": "Hey, I just wanted to see how it felt to say that."
+    },
+    "217": {
+        "speaker": "LION",
+        "japanese": "俺たち　ヒップホップとか好きだったよな",
+        "english": "We were totally into hip hop, weren't we?"
+    },
+    "218": {
+        "speaker": "WOLF",
+        "japanese": "相当　ハマってたよね",
+        "english": "Quite a bit."
+    },
+    "219": {
+        "speaker": "TIGER",
+        "japanese": "最近　ヒップホップ聴いてねえなぁ",
+        "english": "Haven't been listening to hip hop lately. Pardon the intrusion."
+    },
+    "220": {
+        "speaker": "WOLF",
+        "japanese": "今はちょっとハードすぎるよな",
+        "english": "It's a bit too hardcore now."
+    },
+    "221": {
+        "speaker": "WOLF",
+        "japanese": "もうちょっとアンビエント系いっちゃってるよ",
+        "english": "I've been going for more of an ambient sound."
+    },
+    "222": {
+        "speaker": "TIGER",
+        "japanese": "俺も子供いるから　童謡系いっちゃってるよ",
+        "english": "I've only been listening to children's songs since I have kids."
+    },
+    "223": {
+        "speaker": "WOLF",
+        "japanese": "ライブ　よく行ったよな　特に　ＭＣシロクマ",
+        "english": "We used to go to concerts all the time. Especially MC 469MA."
+    },
+    "224": {
+        "speaker": "LION",
+        "japanese": "神出鬼没の謎のラッパー",
+        "english": "The mysterious, elusive rapper. He gave me chills. He was so charismatic."
+    },
+    "225": {
+        "speaker": "TIGER",
+        "japanese": "思い出しただけで鳥肌立つぜ　トラだけどもよ",
+        "english": "Just thinking about him gives megoosebumps, even though I'm a tiger."
+    },
+    "226": {
+        "speaker": "WOLF",
+        "japanese": "俺も鳥肌立った",
+        "english": "I got goosebumps, too."
+    },
+    "227": {
+        "speaker": "LION",
+        "japanese": "まあね　でももうだいぶ経つし　過去の人じゃん",
+        "english": "Yeah. But it's been a while, so he's a person of the past. What?!"
+    },
+    "228": {
+        "speaker": "BOTH",
+        "japanese": "お前　シロクマさんのこと　ディスってんの",
+        "english": "Are you dissin' 469MA?!"
+    },
+    "229": {
+        "speaker": "LION",
+        "japanese": "いやいや　そういうわけじゃねえけど",
+        "english": "No, that's not what I meant."
+    },
+    "230": {
+        "speaker": "LION",
+        "japanese": "突然　姿消しちまったしさ",
+        "english": "But he disappeared suddenly, without a trace."
+    },
+    "231": {
+        "speaker": "WOLF",
+        "japanese": "だからこそ　伝説のラッパーとして",
+        "english": "But that's exactly why he lives on in our hearts"
+    },
+    "232": {
+        "speaker": "WOLF",
+        "japanese": "俺たちの魂の中で　生き続けてんじゃん",
+        "english": "as the legendary rapper."
+    },
+    "233": {
+        "speaker": "TIGER",
+        "japanese": "ライオンがそんなこと言うなんてな",
+        "english": "I never thought I'd hear Lion say that."
+    },
+    "234": {
+        "speaker": "WOLF",
+        "japanese": "シロクマさんのコピーしてギグってたのに",
+        "english": "You were even copying his style."
+    },
+    "235": {
+        "speaker": "LION",
+        "japanese": "動物も変わってくのさ",
+        "english": "Well, animals change."
+    },
+    "236": {
+        "speaker": "WOLF",
+        "japanese": "なんだよ　なんだよ",
+        "english": "Man, what the hell?"
+    },
+    "237": {
+        "speaker": "WOLF",
+        "japanese": "俺たちの青春をさぁ",
+        "english": "That's our youth..."
+    },
+    "238": {
+        "speaker": "WOLF",
+        "japanese": "おもしろくねえな",
+        "english": "How lame."
+    },
+    "239": {
+        "speaker": "TIGER",
+        "japanese": "おい　このあと２次会どうする",
+        "english": "Hey, where should we go next?"
+    },
+    "240": {
+        "speaker": "LION",
+        "japanese": "あっ　悪い…　俺　そろそろ出るわ",
+        "english": "Sorry, I should probably get going."
+    },
+    "241": {
+        "speaker": "LION",
+        "japanese": "明日　クライアントとブランチすっから",
+        "english": "I have brunch with a client tomorrow."
+    },
+    "242": {
+        "speaker": "WOLF",
+        "japanese": "おいおい　マジかよ",
+        "english": "Really? Are you serious? Lions shouldn't be talking about brunch!"
+    },
+    "243": {
+        "speaker": "ALL",
+        "japanese": "うわ　なんだ　えっ",
+        "english": "What the hell?!"
+    },
+    "244": {
+        "speaker": "ALL",
+        "japanese": "うわぁ～　ＭＣシロクマ",
+        "english": "Whoa, MC 469MA!"
+    },
+    "245": {
+        "speaker": "ALL",
+        "japanese": "４６９ＭＡ",
+        "english": "4, 6, 9, MA!"
+    },
+    "246": {
+        "speaker": "LION",
+        "japanese": "しびれるぜ　ライム　泣かせるぜ　リリック",
+        "english": "Those rhymes give me chills! Those lyrics bring tears to my eyes!"
+    },
+    "247": {
+        "speaker": "469MA",
+        "japanese": "サンキュー　メ～ン",
+        "english": "Thank ya, man."
+    },
+    "248": {
+        "speaker": "TIGER",
+        "japanese": "すげえ…",
+        "english": "Wow..."
+    },
+    "249": {
+        "speaker": "WOLF",
+        "japanese": "かっこいい",
+        "english": "So cool. I have mad respect for MC 469MA after all."
+    },
+    "250": {
+        "speaker": "TIGER",
+        "japanese": "俺も",
+        "english": "Me, too!"
+    },
+    "251": {
+        "speaker": "WOLF",
+        "japanese": "俺だって",
+        "english": "Same here!"
+    },
+    "252": {
+        "speaker": "LION",
+        "japanese": "俺が　リスペクトだって",
+        "english": "I respect him more!"
+    },
+    "253": {
+        "speaker": "TIGER",
+        "japanese": "俺たちの青春は　永遠だ",
+        "english": "Our youth is forever."
+    },
+    "254": {
+        "speaker": "WOLF",
+        "japanese": "イエ～",
+        "english": "Yeah! Fo' sho'. Let's go to karaoke. What about your brunch tomorrow?"
+    },
+    "255": {
+        "speaker": "LION",
+        "japanese": "{\\an8}いい　いい　いい",
+        "english": "It's all good."
+    },
+    "256": {
+        "speaker": "WOLF",
+        "japanese": "よし　朝までいくか",
+        "english": "All right. Let's go till morning."
+    },
+    "257": {
+        "speaker": "LION",
+        "japanese": "お前よ　マイクで遠吠えするのやめろよ",
+        "english": "You better not howl into the mic."
+    },
+    "258": {
+        "speaker": "TIGER",
+        "japanese": "歌えよ",
+        "english": "Sing."
+    },
+    "259": {
+        "speaker": "WOLF",
+        "japanese": "あの　今から　猛獣３人なんだけど",
+        "english": "Hey, I want to make a reservation for three beasts."
+    },
+    "260": {
+        "speaker": "",
+        "japanese": "部屋空いてます",
+        "english": "Got a room?"
+    },
+    "261": {
+        "speaker": "POLAR BEAR",
+        "japanese": "久しぶりの再会に　シロクマからのプレゼントだよ",
+        "english": "A gift from 469MA, in honor of their reunion."
+    },
+    "262": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん　ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "263": {
+        "speaker": "PENGUIN",
+        "japanese": "何　パンダ君",
+        "english": "What is it, Panda?"
+    },
+    "264": {
+        "speaker": "PANDA",
+        "japanese": "今日はペンギンさんのいいところ500挙げていこう",
+        "english": "Let's say 500 good things about you, Mr. Penguin."
+    },
+    "265": {
+        "speaker": "PANDA",
+        "japanese": "どぞペンギンさん",
+        "english": "Go for it, Mr. Penguin."
+    },
+    "266": {
+        "speaker": "PENGUIN",
+        "japanese": "僕が自分で挙げていくんだね　この企画中止にしてもいい",
+        "english": "I'm supposed to say them myself? Could we cancel this plan? Oh."
+    },
+    "267": {
+        "speaker": "PENGUIN",
+        "japanese": "どうしたの白熊君",
+        "english": "What is it, Polar Bear. Nothing. Please continue. Continue."
+    },
+    "268": {
+        "speaker": "PENGUIN",
+        "japanese": "白熊君　大丈夫",
+        "english": "Are you okay, Polar Bear?"
+    },
+    "269": {
+        "speaker": "POLAR BEAR",
+        "japanese": "終わろ",
+        "english": "Let's end this."
+    },
+    "270": {
+        "speaker": "POLAR BEAR",
+        "japanese": "来週のしろくまなんでも鑑定団は",
+        "english": "Next week, on Polar Bear's Antiques Roadshow—"
+    },
+    "271": {
+        "speaker": "PENGUIN",
+        "japanese": "しろくまカフェ",
+        "english": "Polar Bear's Café! Are you okay?!"
+    },
+    "272": {
+        "speaker": "SASAKO",
+        "japanese": "お楽しみに",
+        "english": "Enjoy!"
+    }
+}

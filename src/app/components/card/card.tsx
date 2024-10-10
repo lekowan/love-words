@@ -7,7 +7,7 @@ export interface DataProps {
   className?: string
   speaker?: string
   showTranslate: boolean
-  letter: string
+  definition: string
 }
 
 export const Card = ({
@@ -16,7 +16,7 @@ export const Card = ({
   speaker,
   currentNumberOfLines,
   showTranslate,
-  letter,
+  definition,
 }: DataProps) => {
   return (
     <div className="tw-my-4 tw-flex tw-gap-4 tw-pr-6">
@@ -35,7 +35,7 @@ export const Card = ({
           <p className="tw-font-medium tw-text-[16px] tw-mb-4 tw-ml-4 tw-mt-2 tw-h-auto">
             {(id < currentNumberOfLines ||
               (id === currentNumberOfLines && showTranslate === false)) &&
-              letter}
+              definition}
           </p>
         }
       </div>

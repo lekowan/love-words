@@ -1,0 +1,1582 @@
+{
+    "1": {
+        "speaker": "PENGUIN",
+        "japanese": "ラマさんさ…",
+        "english": "So, Mr. Llama,"
+    },
+    "2": {
+        "speaker": "PENGUIN",
+        "japanese": "今更の話 していいかな？",
+        "english": "There's something that I've been wondering... Yes?"
+    },
+    "3": {
+        "speaker": "PENGUIN",
+        "japanese": "キミさ…",
+        "english": "How exactly do you..."
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "japanese": "どうやって イスに座るの？",
+        "english": "...sit in a chair?"
+    },
+    "5": {
+        "speaker": "LLAMA",
+        "japanese": "ペンギンさんに言われたくないですよ",
+        "english": "I'd rather not hear that from you."
+    },
+    "6": {
+        "speaker": "GENTOO",
+        "japanese": "それでは 営業会議を始めます",
+        "english": "All right, let's start our sales meeting."
+    },
+    "7": {
+        "speaker": "GENTOO",
+        "japanese": "課題は…",
+        "english": "The subject is... in regard to a possible promotion to help sell the overwhelming amount of leftover penguin cards."
+    },
+    "8": {
+        "speaker": "ADELIE",
+        "japanese": "クリスマスにも正月にも あまり動かなかったしね",
+        "english": "We didn't have much luck during Christmas or New Year's, either."
+    },
+    "9": {
+        "speaker": "CHINSTRAP",
+        "japanese": "だから そんなに 作らなくていいって言ったのに",
+        "english": "I told you we didn't need to make so many. We have a large percentage of Penguins today."
+    },
+    "10": {
+        "speaker": "POLAR BEAR",
+        "japanese": "そうだね うち 今 生魚フェア 真っ最中だからね",
+        "english": "Looks like it. I guess it's because we're right in the middle of our raw fish fair."
+    },
+    "11": {
+        "speaker": "SASAKO",
+        "japanese": "違いますよ",
+        "english": "That's not it."
+    },
+    "12": {
+        "speaker": "ADELIE",
+        "japanese": "売れると思ったんだよ…",
+        "english": "I thought they would sell."
+    },
+    "13": {
+        "speaker": "CHINSTRAP",
+        "japanese": "まったく… キミは勢いだけなんだから",
+        "english": "Jeez, all you have going for you is enthusiasm. I wonder what the penguin cards are."
+    },
+    "14": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ペンギンのカード",
+        "english": "They're cards of penguins."
+    },
+    "15": {
+        "speaker": "SASAKO",
+        "japanese": "説明する気 ないですよね",
+        "english": "I guess you don't feel like explaining."
+    },
+    "16": {
+        "speaker": "POLAR BEAR",
+        "japanese": "うん",
+        "english": "Nope."
+    },
+    "17": {
+        "speaker": "GENTOO",
+        "japanese": "とにかく 抱えた在庫を なんとかしないと！",
+        "english": "Anyway, we have to do something with the stock we already have. All right. Let's start throwing out ideas."
+    },
+    "18": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさんたち 熱心に相談してるね",
+        "english": "The penguins seem to be having an impassioned discussion."
+    },
+    "19": {
+        "speaker": "PANDA",
+        "japanese": "それに比べて こっちのペンギンさんは 特に熱心でもなく",
+        "english": "And then we have you, a penguin who's not very impassioned"
+    },
+    "20": {
+        "speaker": "PANDA",
+        "japanese": "ただ コーヒーを飲んでるだけだね",
+        "english": "and just sits there drinking his coffee. Could you not describe the free time  I treat myself to like that?"
+    },
+    "21": {
+        "speaker": "ADELIE",
+        "japanese": "アイディアか",
+        "english": "Ideas, huh... Hmm..."
+    },
+    "22": {
+        "speaker": "PANDA",
+        "japanese": "こんにちは",
+        "english": "Hello."
+    },
+    "23": {
+        "speaker": "CHINSTRAP",
+        "japanese": "あっ！ パンダさん",
+        "english": "Oh, Mr. Panda."
+    },
+    "24": {
+        "speaker": "PANDA",
+        "japanese": "えっと… たしか ピ…",
+        "english": "Um, let's see, it was P—"
+    },
+    "25": {
+        "speaker": "ADELIE",
+        "japanese": "僕たち ピゴセリス属です",
+        "english": "We're the genus Pygoscelis. Ah."
+    },
+    "26": {
+        "speaker": "ADELIE",
+        "japanese": "南極の恋人 アデリーペンギンです",
+        "english": "I'm the lover of the South Pole, Adélie penguin."
+    },
+    "27": {
+        "speaker": "CHINSTRAP",
+        "japanese": "渋めで地味めな アゴヒモペンギンです",
+        "english": "I'm stoic and modest, Chinstrap penguin. I have a stylish personality, Gentoo penguin."
+    },
+    "28": {
+        "speaker": "THREE",
+        "japanese": "３羽 合わせて…",
+        "english": "The three of us make up..."
+    },
+    "29": {
+        "speaker": "PANDA",
+        "japanese": "ピ…",
+        "english": "P—"
+    },
+    "30": {
+        "speaker": "THREE",
+        "japanese": "３羽 合わせて…",
+        "english": "The three of us make up..."
+    },
+    "31": {
+        "speaker": "PANDA",
+        "japanese": "ピ…",
+        "english": "P— The Pygoscelis genus! Ah. There's an easy way to remember it."
+    },
+    "32": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ピラティスのピに",
+        "english": "The \"Pi\" in pilates,"
+    },
+    "33": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ゴヴダゲアイドヌーのゴに…",
+        "english": "the \"Go\" in Guovdageaidnu..."
+    },
+    "34": {
+        "speaker": "PENGUIN",
+        "japanese": "逆に覚えづらいよ",
+        "english": "You're actually making it harder to remember."
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "japanese": "何その ゴヴなんとか…",
+        "english": "What is that \"Go\" whatever anyways?"
+    },
+    "36": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ノルウェーの村でしょ",
+        "english": "It's a village in Norway, of course."
+    },
+    "37": {
+        "speaker": "PENGUIN",
+        "japanese": "でしょって…",
+        "english": "\"Of course\"?"
+    },
+    "38": {
+        "speaker": "",
+        "japanese": "知ってる前提で話すの やめて",
+        "english": "Would you not say it like I was supposed to know?"
+    },
+    "39": {
+        "speaker": "SASAKO",
+        "japanese": "ペンギンさん ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "40": {
+        "speaker": "PENGUIN",
+        "japanese": "何？ 珍しいね 笹子さんから",
+        "english": "What is it? That's rare coming from you, Miss Sasako."
+    },
+    "41": {
+        "speaker": "SASAKO",
+        "japanese": "ちょっと 今日 ペンギンさんが 多すぎて ややこしいですね",
+        "english": "There are so many Penguins today that it's a bit confusing."
+    },
+    "42": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなに多くないでしょ…",
+        "english": "There aren't that many... Stay behind the counter."
+    },
+    "43": {
+        "speaker": "PENGUIN",
+        "japanese": "え～っと…",
+        "english": "Uh..."
+    },
+    "44": {
+        "speaker": "PENGUIN",
+        "japanese": "こういうことかな？",
+        "english": "You mean like this?"
+    },
+    "45": {
+        "speaker": "PANDA",
+        "japanese": "うん よろしくね",
+        "english": "Yep. Thanks."
+    },
+    "46": {
+        "speaker": "PENGUIN",
+        "japanese": "僕 いいのかな？ こういうことで",
+        "english": "Is it really okay for me to be here?"
+    },
+    "47": {
+        "speaker": "ADELIE",
+        "japanese": "とにかく 遊び方を提案しなきゃ",
+        "english": "First of all, we have to figure out a way to play with these."
+    },
+    "48": {
+        "speaker": "GENTOO",
+        "japanese": "はい！",
+        "english": "I know!"
+    },
+    "49": {
+        "speaker": "ADELIE",
+        "japanese": "どうぞ",
+        "english": "Go ahead."
+    },
+    "50": {
+        "speaker": "GENTOO",
+        "japanese": "トレーディングカード風にしてみる？",
+        "english": "How about making them like trading cards?"
+    },
+    "51": {
+        "speaker": "CHINSTRAP",
+        "japanese": "自分で言うのも なんだけど",
+        "english": "I hate to say this,"
+    },
+    "52": {
+        "speaker": "CHINSTRAP",
+        "japanese": "トレーディングのしがいがないな",
+        "english": "but there really isn't any point to trading them."
+    },
+    "53": {
+        "speaker": "ADELIE",
+        "japanese": "そんなに 種類ないしね",
+        "english": "There just aren't that many kinds."
+    },
+    "54": {
+        "speaker": "ADELIE",
+        "japanese": "そうだ！バレンタインデーの チョコ贈る習慣みたいにさ",
+        "english": "I know! You know how people give chocolates on Valentine's Day? Yeah."
+    },
+    "55": {
+        "speaker": "ADELIE",
+        "japanese": "恋人が ペンギンカードを贈る日を 作ったら どうかな？",
+        "english": "Why don't we make a day where people give penguin cards?"
+    },
+    "56": {
+        "speaker": "ADELIE",
+        "japanese": "聖ペンギンの日",
+        "english": "St. Penguin's Day."
+    },
+    "57": {
+        "speaker": "ADELIE",
+        "japanese": "キミ どう思う？",
+        "english": "What do you think, Miss?"
+    },
+    "58": {
+        "speaker": "SASAKO",
+        "japanese": "えっ？",
+        "english": "Huh?"
+    },
+    "59": {
+        "speaker": "SASAKO",
+        "japanese": "いらないかもしれません",
+        "english": "I don't think I'd want one."
+    },
+    "60": {
+        "speaker": "CHINSTRAP",
+        "japanese": "聖ペンギンの日が？",
+        "english": "A St. Penguin's Day? Or the card in general."
+    },
+    "61": {
+        "speaker": "SASAKO",
+        "japanese": "あ… すみません",
+        "english": "Oh, I'm sorry."
+    },
+    "62": {
+        "speaker": "ADELIE",
+        "japanese": "なんてこと 言うんだ！",
+        "english": "How can you say such a thing?!"
+    },
+    "63": {
+        "speaker": "ADELIE",
+        "japanese": "コーヒー運んでばっかりいないで 何か アイディアないかな！？",
+        "english": "How about you stop carrying around coffee and come up with ideas?!"
+    },
+    "64": {
+        "speaker": "SASAKO",
+        "japanese": "私ですか？",
+        "english": "Me?"
+    },
+    "65": {
+        "speaker": "GENTOO",
+        "japanese": "なんでもいいから",
+        "english": "Anything would be fine."
+    },
+    "66": {
+        "speaker": "SASAKO",
+        "japanese": "駅前で…",
+        "english": "The train station..."
+    },
+    "67": {
+        "speaker": "GENTOO",
+        "japanese": "駅前で 何？",
+        "english": "Yes? What about the train station?"
+    },
+    "68": {
+        "speaker": "SASAKO",
+        "japanese": "駅前で ポケットティッシュと 一緒に配るのは どうでしょう？",
+        "english": "How about giving them away with tissues in front of the train station?"
+    },
+    "69": {
+        "speaker": "SASAKO",
+        "japanese": "どうぞ～ お願いしま～す",
+        "english": "Here you go. Thank you for your patronage."
+    },
+    "70": {
+        "speaker": "CHINSTRAP",
+        "japanese": "ちょ… 待てよ！",
+        "english": "Hey, wait a minute!"
+    },
+    "71": {
+        "speaker": "CHINSTRAP",
+        "japanese": "ポケットティッシュ付けないと もらってもらえないほど 魅力ないカードかな！？",
+        "english": "Are you saying that these cards are so worthless, they need to be handed out with tissues?!"
+    },
+    "72": {
+        "speaker": "SASAKO",
+        "japanese": "すみません",
+        "english": "I'm sorry. How about you add a handshake ticket, as well as a voting ticket for the Penguin election?"
+    },
+    "73": {
+        "speaker": "GENTOO",
+        "japanese": "全体的に意味がわからないよ",
+        "english": "That makes absolutely no sense."
+    },
+    "74": {
+        "speaker": "POLAR BEAR",
+        "japanese": "そうだ！ カードを折れば…",
+        "english": "Oh, I know. If you fold the card..."
+    },
+    "75": {
+        "speaker": "POLAR BEAR",
+        "japanese": "くつべらになるよ",
+        "english": "They'd make great shoehorns."
+    },
+    "76": {
+        "speaker": "PANDA",
+        "japanese": "使い捨てのくつべらだね",
+        "english": "Definitely disposable shoehorns."
+    },
+    "77": {
+        "speaker": "POLAR BEAR",
+        "japanese": "それからさ…",
+        "english": "Also..."
+    },
+    "78": {
+        "speaker": "PANDA",
+        "japanese": "わぁ～ 宴会芸だ",
+        "english": "Ooh, party tricks!"
+    },
+    "79": {
+        "speaker": "POLAR BEAR",
+        "japanese": "どう？",
+        "english": "What do you think?"
+    },
+    "80": {
+        "speaker": "PANDA",
+        "japanese": "名案だね",
+        "english": "That's a great idea!"
+    },
+    "81": {
+        "speaker": "GENTOO",
+        "japanese": "キミたち 仕事に戻っていいよ",
+        "english": "You guys can go back to work now."
+    },
+    "82": {
+        "speaker": "GENTOO",
+        "japanese": "さて 営業会議を続けるわけだけど…",
+        "english": "We'll now be continuing our sales meeting..."
+    },
+    "83": {
+        "speaker": "GENTOO",
+        "japanese": "キミは戻らないんだね",
+        "english": "I see that you're still here. Why do you have penguin cards, anyway?"
+    },
+    "84": {
+        "speaker": "GENTOO",
+        "japanese": "ペンギンの種類を覚えてほしくて 作ったんですけどね",
+        "english": "Well, we wanted people to learn the different types of penguins."
+    },
+    "85": {
+        "speaker": "ADELIE",
+        "japanese": "ほら！ ペンギン好きな人は多いのに",
+        "english": "You know! Many people love penguins,"
+    },
+    "86": {
+        "speaker": "ADELIE",
+        "japanese": "種類となると大雑把でしょ？",
+        "english": "but when it comes to the types, they have no idea."
+    },
+    "87": {
+        "speaker": "CHINSTRAP",
+        "japanese": "ペンギンだって 生態や性格は いろいろなわけですよ",
+        "english": "Penguins have various appearances and personalities. All of them are completely different."
+    },
+    "88": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ 飛べるの？",
+        "english": "Then can any of you fly?"
+    },
+    "89": {
+        "speaker": "GENTOO",
+        "japanese": "そこまでは 全然違わないけどさ…",
+        "english": "Well, we're all alike in that aspect...."
+    },
+    "90": {
+        "speaker": "CHINSTRAP",
+        "japanese": "卵が楕円形のものもいれば 洋ナシ型のものもいるし…",
+        "english": "Some of us lay elliptical eggs, and some lay pear-shaped eggs. Yes, yes."
+    },
+    "91": {
+        "speaker": "PANDA",
+        "japanese": "だいたいじゃダメなの？",
+        "english": "Can they be about the same?"
+    },
+    "92": {
+        "speaker": "ADELIE",
+        "japanese": "ダメです",
+        "english": "No. Why don't you target little children?"
+    },
+    "93": {
+        "speaker": "ADELIE",
+        "japanese": "どうだろう？ このカード…",
+        "english": "So, what do you think of this card?"
+    },
+    "94": {
+        "speaker": "BABY EM",
+        "japanese": "出発進行！ 進行",
+        "english": "All aboard! Aboard!"
+    },
+    "95": {
+        "speaker": "PANDA",
+        "japanese": "興味ないみたいだね",
+        "english": "They don't want to look at them today."
+    },
+    "96": {
+        "speaker": "PANDA",
+        "japanese": "これ 同じのが何枚もあるよ？",
+        "english": "There are lots of the same cards."
+    },
+    "97": {
+        "speaker": "GENTOO",
+        "japanese": "いいえ 全部違います",
+        "english": "No, they're all different."
+    },
+    "98": {
+        "speaker": "PANDA",
+        "japanese": "この２枚も違う種類なの？",
+        "english": "Are these two different species, too?"
+    },
+    "99": {
+        "speaker": "CHINSTRAP",
+        "japanese": "こっちは ロイヤルペンギンで",
+        "english": "This one is a Royal penguin,"
+    },
+    "100": {
+        "speaker": "CHINSTRAP",
+        "japanese": "こっちは マカロニペンギンです",
+        "english": "and this one is a Macaroni penguin."
+    },
+    "101": {
+        "speaker": "ADELIE",
+        "japanese": "ロイヤルペンギンは顔が白いから わかりやすいですよ",
+        "english": "You can easily tell because the Royal penguins have white faces."
+    },
+    "102": {
+        "speaker": "PANDA",
+        "japanese": "これは微妙に違うね",
+        "english": "These two are vaguely different."
+    },
+    "103": {
+        "speaker": "GENTOO",
+        "japanese": "フンボルトペンギンとマゼランペンギンです",
+        "english": "That is a Humboldt penguin and a Magellanic penguin."
+    },
+    "104": {
+        "speaker": "GENTOO",
+        "japanese": "胸の筋が１本か２本かで 見分けられます！",
+        "english": "You can tell them apart by the stripe on their chest. Is there a reason to tell them apart?"
+    },
+    "105": {
+        "speaker": "GENTOO",
+        "japanese": "あるでしょ！フンボルトペンギンとマゼランペンギンだよ！",
+        "english": "Of course there is! It's a Humboldt penguin and a Magellanic penguin!"
+    },
+    "106": {
+        "speaker": "PANDA",
+        "japanese": "微妙だね",
+        "english": "It's vague."
+    },
+    "107": {
+        "speaker": "PANDA",
+        "japanese": "何？ やっぱり捨てちゃう？",
+        "english": "What? Did you want to throw them away after all?"
+    },
+    "108": {
+        "speaker": "ADELIE",
+        "japanese": "違うよ！ なんで 捨てなきゃいけないの！",
+        "english": "No! Why would we throw them away?!"
+    },
+    "109": {
+        "speaker": "ADELIE",
+        "japanese": "ひらめいちゃった！",
+        "english": "I just got a great idea!"
+    },
+    "110": {
+        "speaker": "ADELIE",
+        "japanese": "神経衰弱とか どうかな？",
+        "english": "How about playing Memory with them?"
+    },
+    "111": {
+        "speaker": "BOTH",
+        "japanese": "神経衰弱？",
+        "english": "Memory?"
+    },
+    "112": {
+        "speaker": "ADELIE",
+        "japanese": "ペンギンカード２セット使ってね",
+        "english": "You use two decks of Penguin cards,"
+    },
+    "113": {
+        "speaker": "ADELIE",
+        "japanese": "同じ種類のペンギンが出たら 当たり",
+        "english": "and if you get two of the same card, you win."
+    },
+    "114": {
+        "speaker": "ADELIE",
+        "japanese": "そしたら 覚えてもらえるんじゃない？",
+        "english": "Maybe that'll help people tell us apart. Good idea!"
+    },
+    "115": {
+        "speaker": "CHINSTRAP",
+        "japanese": "それでいこう！",
+        "english": "Let's go with that!"
+    },
+    "116": {
+        "speaker": "PANDA",
+        "japanese": "２個買わないといけないの？",
+        "english": "So you have to buy two decks?"
+    },
+    "117": {
+        "speaker": "ADELIE",
+        "japanese": "そうですけど 何か？",
+        "english": "Yes, is there a problem?!"
+    },
+    "118": {
+        "speaker": "PANDA",
+        "japanese": "２セット買うのは抵抗あるな",
+        "english": "I'd be reluctant to buy two decks."
+    },
+    "119": {
+        "speaker": "ADELIE",
+        "japanese": "もう！ じゃ いいよ！ ２個で１個の値段でいいよ！",
+        "english": "All right, fine! We'll make it two for the price of one!"
+    },
+    "120": {
+        "speaker": "ADELIE",
+        "japanese": "早速 試してみましょう",
+        "english": "Let's go ahead and give it a try."
+    },
+    "121": {
+        "speaker": "PANDA",
+        "japanese": "へぇ～ 楽しそう",
+        "english": "Wow, this looks fun."
+    },
+    "122": {
+        "speaker": "ADELIE",
+        "japanese": "さぁ パンダさん 引いてみてください",
+        "english": "Now, Mr. Panda, pick a card."
+    },
+    "123": {
+        "speaker": "PANDA",
+        "japanese": "え～っと… 最初のは コウテイさん",
+        "english": "Let's see... The first one is... The Emperor."
+    },
+    "124": {
+        "speaker": "PANDA",
+        "japanese": "２枚目は これ",
+        "english": "And the second one is... This one. Oh! I got a mat—"
+    },
+    "125": {
+        "speaker": "ALL",
+        "japanese": "ジーーー",
+        "english": "Stare..."
+    },
+    "126": {
+        "speaker": "PANDA",
+        "japanese": "ません 全然違った",
+        "english": "Or not. They're totally different."
+    },
+    "127": {
+        "speaker": "PANDA",
+        "japanese": "キングさんでした",
+        "english": "The second one was the King. I think if you look at the patterns and size, you can tell them apart more easily."
+    },
+    "128": {
+        "speaker": "CHINSTRAP",
+        "japanese": "模様とか… 大きさの違いを見てください！",
+        "english": "Please look at the patterns... ...and the difference in size."
+    },
+    "129": {
+        "speaker": "PANDA",
+        "japanese": "あっ 今度は当たった",
+        "english": "Oh! This time I got a match! Yay!"
+    },
+    "130": {
+        "speaker": "GENTOO",
+        "japanese": "惜しい！ スネアーズペンギンと フィヨルドランドペンギンです",
+        "english": "So close! That's a Snares penguin and a Fiordland penguin."
+    },
+    "131": {
+        "speaker": "CHINSTRAP",
+        "japanese": "これはよく似ていて 間違えますね",
+        "english": "Those two do look rather similar, so they are easy to mistake."
+    },
+    "132": {
+        "speaker": "PANDA",
+        "japanese": "当たった！",
+        "english": "I got a match!"
+    },
+    "133": {
+        "speaker": "CHINSTRAP",
+        "japanese": "ケープペンギンとガラパゴスペンギンでした",
+        "english": "That's a Cape penguin and a Galapagos penguin."
+    },
+    "134": {
+        "speaker": "GENTOO",
+        "japanese": "実に惜しいですね",
+        "english": "Truly very close."
+    },
+    "135": {
+        "speaker": "CHINSTRAP",
+        "japanese": "イワトビペンギンとシュレーターペンギンです",
+        "english": "That's a Rockhopper penguin and an Erect-crested penguin."
+    },
+    "136": {
+        "speaker": "ADELIE",
+        "japanese": "惜しい あと一息！",
+        "english": "So close! You've almost got it!"
+    },
+    "137": {
+        "speaker": "PANDA",
+        "japanese": "おもしろいのかなこれ",
+        "english": "Is this really fun?"
+    },
+    "138": {
+        "speaker": "ADELIE",
+        "japanese": "おもしろいじゃないですか",
+        "english": "Of course it's fun!"
+    },
+    "139": {
+        "speaker": "ADELIE",
+        "japanese": "ほらもっと遊んで！",
+        "english": "Come on, keep playing!"
+    },
+    "140": {
+        "speaker": "PANDA",
+        "japanese": "僕 もういいよ",
+        "english": "I don't wanna play anymore."
+    },
+    "141": {
+        "speaker": "POLAR BEAR",
+        "japanese": "キガシラペンギンって どこかにいたよね",
+        "english": "There was a Yellow-eyed penguin somewhere, wasn't there?"
+    },
+    "142": {
+        "speaker": "LLAMA",
+        "japanese": "このへんじゃありませんでした",
+        "english": "Wasn't it somewhere around here?"
+    },
+    "143": {
+        "speaker": "LLAMA",
+        "japanese": "あ 残念",
+        "english": "Oh, too bad."
+    },
+    "144": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ次は僕",
+        "english": "Now it's my turn."
+    },
+    "145": {
+        "speaker": "POLAR BEAR",
+        "japanese": "コガタペンギンと イワトビペンギンか",
+        "english": "I got a Little penguin and a Rockhopper penguin."
+    },
+    "146": {
+        "speaker": "POLAR BEAR",
+        "japanese": "残念",
+        "english": "Too bad."
+    },
+    "147": {
+        "speaker": "LLAMA",
+        "japanese": "じゃあ 僕いきます",
+        "english": "All right, it's my turn."
+    },
+    "148": {
+        "speaker": "GENTOO",
+        "japanese": "盛り上がってる",
+        "english": "They're having fun!"
+    },
+    "149": {
+        "speaker": "ADELIE",
+        "japanese": "いける いける！",
+        "english": "This could work!"
+    },
+    "150": {
+        "speaker": "CHINSTRAP",
+        "japanese": "やったね！",
+        "english": "We did it!"
+    },
+    "151": {
+        "speaker": "GENTOO",
+        "japanese": "よし この線で動こう",
+        "english": "All right! Let's go with this."
+    },
+    "152": {
+        "speaker": "ADELIE",
+        "japanese": "早速 営業にいってきます！",
+        "english": "We're going to go sell now."
+    },
+    "153": {
+        "speaker": "SASAKO",
+        "japanese": "ありがとうございました",
+        "english": "Thank you very much."
+    },
+    "154": {
+        "speaker": "LLAMA",
+        "japanese": "これは わかりづらいですね",
+        "english": "These are hard to tell apart."
+    },
+    "155": {
+        "speaker": "POLAR BEAR",
+        "japanese": "わかりづらさがいけてるよね",
+        "english": "But that's what makes it fun. This is a game for grown-ups."
+    },
+    "156": {
+        "speaker": "POLAR BEAR",
+        "japanese": "わかりづらいから 何時間でも遊べるよ",
+        "english": "It's hard to tell them apart, so you can play for hours."
+    },
+    "157": {
+        "speaker": "LLAMA",
+        "japanese": "とにかく わかりづらいですね",
+        "english": "With extra emphasis on the hard part. I wonder how good of a game that would be."
+    },
+    "158": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくん パンダくん",
+        "english": "Panda, Panda."
+    },
+    "159": {
+        "speaker": "PENGUIN",
+        "japanese": "そろそろ僕出てきてもいいかな",
+        "english": "Is it okay if I come out now? Oh! Where were you, Mr. Penguin?"
+    },
+    "160": {
+        "speaker": "PANDA",
+        "japanese": "そんなところにいないで こっちに来なよ",
+        "english": "Don't just stand there. Come join us!"
+    },
+    "161": {
+        "speaker": "PENGUIN",
+        "japanese": "うん その気持はありがたいけど",
+        "english": "Well, I appreciate the offer,"
+    },
+    "162": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなところにいたのは キミに言われたからだけど",
+        "english": "but the reason I came over here is because you told to."
+    },
+    "163": {
+        "speaker": "PENGUIN",
+        "japanese": "言ってもムダか",
+        "english": "I guess there's no point in bringing it up."
+    },
+    "164": {
+        "speaker": "BABIES",
+        "japanese": "ピピーッ 到着します 到着します！",
+        "english": "Beep, beep! We are arriving! We are arriving!"
+    },
+    "165": {
+        "speaker": "PENGUINS",
+        "japanese": "出発進行！",
+        "english": "All aboard!"
+    },
+    "166": {
+        "speaker": "POLAR BEAR",
+        "japanese": "カフェモカおかわり？",
+        "english": "Do you want another café mocha?"
+    },
+    "167": {
+        "speaker": "PENGUIN",
+        "japanese": "もらおうかな",
+        "english": "I think I do."
+    },
+    "168": {
+        "speaker": "SASAKO",
+        "japanese": "いらっしゃいませ",
+        "english": "Welcome."
+    },
+    "169": {
+        "speaker": "SASAKO",
+        "japanese": "ペンギンさん いつものでいいですか",
+        "english": "Would you like your usual, Mr. Penguin?"
+    },
+    "170": {
+        "speaker": "PENGUIN",
+        "japanese": "何でもいいよ",
+        "english": "Whatever's fine. Whatever?"
+    },
+    "171": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ すごいの出しちゃおう",
+        "english": "Then I'll totally bring out something amazing!"
+    },
+    "172": {
+        "speaker": "SASAKO",
+        "japanese": "ダメですよ",
+        "english": "Please don't."
+    },
+    "173": {
+        "speaker": "SASAKO",
+        "japanese": "どうしたんですか？",
+        "english": "What's the matter?"
+    },
+    "174": {
+        "speaker": "PENGUIN",
+        "japanese": "ピクニック",
+        "english": "Picnic."
+    },
+    "175": {
+        "speaker": "SASAKO",
+        "japanese": "ピクニック？",
+        "english": "Picnic?"
+    },
+    "176": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん 明日の日曜日 ピクニックに行かない？",
+        "english": "Do you want to go on a picnic tomorrow, Polar Bear? Sorry, I have plans to go mini golfing tomorrow."
+    },
+    "177": {
+        "speaker": "PENGUIN",
+        "japanese": "じゃあ 笹子さんは",
+        "english": "How about you, Miss Sasako?"
+    },
+    "178": {
+        "speaker": "SASAKO",
+        "japanese": "明日ですか",
+        "english": "Tomorrow?"
+    },
+    "179": {
+        "speaker": "SASAKO",
+        "japanese": "カフェがあるから",
+        "english": "I have to work here."
+    },
+    "180": {
+        "speaker": "PENGUIN",
+        "japanese": "そうか",
+        "english": "I see..."
+    },
+    "181": {
+        "speaker": "PANDA",
+        "japanese": "こんにちは",
+        "english": "Hello."
+    },
+    "182": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくん",
+        "english": "Panda!"
+    },
+    "183": {
+        "speaker": "PANDA",
+        "japanese": "何？",
+        "english": "What?"
+    },
+    "184": {
+        "speaker": "PENGUIN",
+        "japanese": "「うん」て言って！",
+        "english": "Just say yes!"
+    },
+    "185": {
+        "speaker": "PANDA",
+        "japanese": "何いったい",
+        "english": "What are you talking about?"
+    },
+    "186": {
+        "speaker": "PENGUIN",
+        "japanese": "いいから 「うん」って言って！",
+        "english": "It doesn't matter. Just say yes!"
+    },
+    "187": {
+        "speaker": "PENGUIN",
+        "japanese": "キミのいろいろなムチャに つき合ってきた仲でしょ",
+        "english": "I've done tons of ridiculous things for you!"
+    },
+    "188": {
+        "speaker": "PANDA",
+        "japanese": "え～っ！",
+        "english": "What?"
+    },
+    "189": {
+        "speaker": "PANDA",
+        "japanese": "いきなり 「うん」だなんて言えないよ",
+        "english": "I can't say \"yes\" so suddenly."
+    },
+    "190": {
+        "speaker": "PENGUIN",
+        "japanese": "そこ照れるところ？",
+        "english": "Is this really where you get embarrassed?"
+    },
+    "191": {
+        "speaker": "PENGUIN",
+        "japanese": "どうしよう",
+        "english": "What am I going to do?"
+    },
+    "192": {
+        "speaker": "POLAR BEAR",
+        "japanese": "どうしたの？",
+        "english": "What's wrong?"
+    },
+    "193": {
+        "speaker": "PENGUIN",
+        "japanese": "実はね…",
+        "english": "You see..."
+    },
+    "194": {
+        "speaker": "PENGUIN",
+        "japanese": "今まで ペン子さんたちに 追いまわされてきたわけだけど",
+        "english": "I've been chased by the Penkos all this time... {\\a6}Mr. Penguin! {\\a6}Wait up!"
+    },
+    "195": {
+        "speaker": "PENGUIN",
+        "japanese": "この間ね…",
+        "english": "The other day..."
+    },
+    "196": {
+        "speaker": "PENKO",
+        "japanese": "それで… 誰が好きなの？",
+        "english": "So... Who do you really like?"
+    },
+    "197": {
+        "speaker": "POLAR BEAR",
+        "japanese": "それは追い詰められたね",
+        "english": "They've really got you in a corner."
+    },
+    "198": {
+        "speaker": "PENGUIN",
+        "japanese": "そうなんだ…",
+        "english": "It's true. I've never had such a tasteless coffee in my life."
+    },
+    "199": {
+        "speaker": "SASAKO",
+        "japanese": "そうでしょうね…",
+        "english": "I can imagine. So, Mr. Penguin, how did you answer?"
+    },
+    "200": {
+        "speaker": "PENGUIN",
+        "japanese": "うん…",
+        "english": "Well... I like you all! I can't choose!"
+    },
+    "201": {
+        "speaker": "PENGUIN",
+        "japanese": "みんな好きだ！！",
+        "english": "I like you all! That's pretty awful, Mr. Penguin."
+    },
+    "202": {
+        "speaker": "PENGUIN",
+        "japanese": "けど 他に言いようがなかったよ あのシチュエーションでは…",
+        "english": "But there's nothing else I could have said in that situation."
+    },
+    "203": {
+        "speaker": "POLAR BEAR",
+        "japanese": "それでどうなったの？",
+        "english": "So what happened after that?"
+    },
+    "204": {
+        "speaker": "PENGUIN",
+        "japanese": "つきあうことになったんだよ",
+        "english": "So now we're going out."
+    },
+    "205": {
+        "speaker": "PANDA",
+        "japanese": "誰と？",
+        "english": "With which one?"
+    },
+    "206": {
+        "speaker": "PENGUIN",
+        "japanese": "だから みんなと",
+        "english": "With all of them."
+    },
+    "207": {
+        "speaker": "BOTH",
+        "japanese": "えっ？",
+        "english": "What?"
+    },
+    "208": {
+        "speaker": "PENGUIN",
+        "japanese": "「えっ？」は こっちだよ",
+        "english": "That's my line."
+    },
+    "209": {
+        "speaker": "PENGUIN",
+        "japanese": "もう大変だよ…",
+        "english": "It's terrible."
+    },
+    "210": {
+        "speaker": "PENGUIN",
+        "japanese": "なんたって ７人と まんべんなく デートしなくちゃ ならないんだからね",
+        "english": "Because I have to date all seven of them equally."
+    },
+    "211": {
+        "speaker": "SASAKO",
+        "japanese": "それは… 大変ですね",
+        "english": "That does sound rather difficult."
+    },
+    "212": {
+        "speaker": "PENGUIN",
+        "japanese": "うん 大変なんだけどさ…",
+        "english": "Yeah, it's hard but..."
+    },
+    "213": {
+        "speaker": "PENGUIN",
+        "japanese": "いちばん大変なのは…",
+        "english": "The hardest part is..."
+    },
+    "214": {
+        "speaker": "PENGUIN",
+        "japanese": "そういえば ペン子さん",
+        "english": "Oh yeah, Miss Penko..."
+    },
+    "215": {
+        "speaker": "PENJOLINA",
+        "japanese": "えっ… 私 ペンジョリーナよ！",
+        "english": "What? I'm Penjolina! S-Sorry! Um, Miss Penko? I'm Penna!"
+    },
+    "216": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ… えっと ペン子さんは…",
+        "english": "Um, Miss Penko is..."
+    },
+    "217": {
+        "speaker": "PENGUIN",
+        "japanese": "７人の区別が つかないんだよね！",
+        "english": "I can't tell the seven of them apart!"
+    },
+    "218": {
+        "speaker": "SASAKO",
+        "japanese": "大変ですね…",
+        "english": "It must be hard. It is hard."
+    },
+    "219": {
+        "speaker": "PENGUIN",
+        "japanese": "でも どうしても 名前と顔が覚えられないんだ",
+        "english": "I can't put their faces with their names, no matter how hard I try."
+    },
+    "220": {
+        "speaker": "PENKO",
+        "japanese": "何よ 失礼しちゃう！ 名前くらい覚えてよ！！",
+        "english": "How rude! You should at least remember our names!"
+    },
+    "221": {
+        "speaker": "SASAKO",
+        "japanese": "けど あんなに 好きだ 好きだ 言ってたのに",
+        "english": "You always said how much you liked them,"
+    },
+    "222": {
+        "speaker": "SASAKO",
+        "japanese": "顔も覚えていないんですか？",
+        "english": "and you still don't remember their faces?"
+    },
+    "223": {
+        "speaker": "PENGUIN",
+        "japanese": "好きなのと 顔が区別できるのは 別の話じゃないかな？",
+        "english": "I think liking them, and being able to tell them apart are two different things."
+    },
+    "224": {
+        "speaker": "POLAR BEAR",
+        "japanese": "無理あるよね その理屈",
+        "english": "There's a flaw in that reasoning somewhere."
+    },
+    "225": {
+        "speaker": "PENGUIN",
+        "japanese": "どうしたら いいんだろう…",
+        "english": "What should I do?"
+    },
+    "226": {
+        "speaker": "PENGUIN",
+        "japanese": "しかも 明日 ピクニックに行くんだよ！",
+        "english": "Not to mention, I have to go on a picnic tomorrow! All by your lonesome?"
+    },
+    "227": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなわけないでしょ！ 流れ 読んでよ！",
+        "english": "Of course not! Can't you see the flow here?"
+    },
+    "228": {
+        "speaker": "PENGUIN",
+        "japanese": "ペン子さんたちと",
+        "english": "I'm going with the Penkos! It'll be very lively!"
+    },
+    "229": {
+        "speaker": "PENGUIN",
+        "japanese": "だから 誰か一緒に行って",
+        "english": "Can someone go with me"
+    },
+    "230": {
+        "speaker": "",
+        "japanese": "耳もとで 誰が誰か ささやいてくれないかな",
+        "english": "and whisper in my ear who's who? Like the owner of a traditional Japanese restaurant would."
+    },
+    "231": {
+        "speaker": "SASAKO",
+        "japanese": "誰ですか？ それ…",
+        "english": "Who might you be referring to? All right. I'll go."
+    },
+    "232": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ！？ 本当？",
+        "english": "What? Really?!"
+    },
+    "233": {
+        "speaker": "POLAR BEAR",
+        "japanese": "よ～し 頑張るぞ！",
+        "english": "All right! I'll do my best."
+    },
+    "234": {
+        "speaker": "PENGUIN",
+        "japanese": "やっぱり来ないで",
+        "english": "On second thought, don't come."
+    },
+    "235": {
+        "speaker": "PENGUIN",
+        "japanese": "困ったな… どうすれば覚えられるんだろう？",
+        "english": "What should I do? How can I remember them all?"
+    },
+    "236": {
+        "speaker": "POLAR BEAR",
+        "japanese": "名札 つけてもらったら？",
+        "english": "Why don't you have them wear name tags?"
+    },
+    "237": {
+        "speaker": "PENGUIN",
+        "japanese": "レディーに 胸元に 名札つけてなんて頼めないよ",
+        "english": "I can't ask a lady to pin a name tag on her chest. That wouldn't be very good."
+    },
+    "238": {
+        "speaker": "PANDA",
+        "japanese": "わかった！",
+        "english": "I know! What?"
+    },
+    "239": {
+        "speaker": "PANDA",
+        "japanese": "ペン子さんたちに 何か しゃべる前に",
+        "english": "Why don't you have the Penkos"
+    },
+    "240": {
+        "speaker": "PANDA",
+        "japanese": "名前を言ってもらえば いいんじゃない？",
+        "english": "say their names before speaking?"
+    },
+    "241": {
+        "speaker": "PENNA",
+        "japanese": "はい！ ペン乃で～す。",
+        "english": "Hi! I'm Penno!"
+    },
+    "242": {
+        "speaker": "PENNA",
+        "japanese": "そろそろ お弁当にしましょう",
+        "english": "How about we have lunch now?"
+    },
+    "243": {
+        "speaker": "PENGUIN",
+        "japanese": "そうだね ペン乃ちゃん",
+        "english": "Sounds great, Penno."
+    },
+    "244": {
+        "speaker": "PENJOLINA",
+        "japanese": "はい ペンジョリーナです",
+        "english": "Hi! I'm Penjolina!"
+    },
+    "245": {
+        "speaker": "PENJOLINA",
+        "japanese": "お茶 飲む？",
+        "english": "Would you like some tea?"
+    },
+    "246": {
+        "speaker": "PENGUIN",
+        "japanese": "ありがとう ペンジョリーナちゃん",
+        "english": "Thank you, Penjolina."
+    },
+    "247": {
+        "speaker": "PENGUIN",
+        "japanese": "いいね そのシステム",
+        "english": "I like it! That system is great! But there's a flaw."
+    },
+    "248": {
+        "speaker": "SASAKO",
+        "japanese": "ペン子さんたちに そんなこと頼めるんですか？",
+        "english": "Would you really be able to ask them to do that?"
+    },
+    "249": {
+        "speaker": "PENGUIN",
+        "japanese": "どう頼めばいいかな？",
+        "english": "I wonder how I should go about asking them."
+    },
+    "250": {
+        "speaker": "PANDA",
+        "japanese": "簡単だよ",
+        "english": "That's easy!"
+    },
+    "251": {
+        "speaker": "PANDA",
+        "japanese": "区別つかないから 名前 言ってって頼めばいいよ",
+        "english": "Just say you can't tell them apart and then ask them for their names."
+    },
+    "252": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなこと言ったら 大変な目に遭うよ！",
+        "english": "If I actually said that, I'd be in a lot of trouble!"
+    },
+    "253": {
+        "speaker": "POLAR BEAR",
+        "japanese": "僕が言ってあげるよ",
+        "english": "I'll tell them for you."
+    },
+    "254": {
+        "speaker": "POLAR BEAR",
+        "japanese": "私 シロクマ子",
+        "english": "I'm Miss Polar Bear."
+    },
+    "255": {
+        "speaker": "PENGUIN",
+        "japanese": "って シロクマくんが 名乗るんじゃ ダメでしょ！",
+        "english": "There's no point in you naming yourself!"
+    },
+    "256": {
+        "speaker": "SASAKO",
+        "japanese": "あっ こういうのは？",
+        "english": "Oh, how about this?"
+    },
+    "257": {
+        "speaker": "PENGUIN",
+        "japanese": "何？",
+        "english": "What? How about you haveeach of the Penkos wear a different colored ribbon?"
+    },
+    "258": {
+        "speaker": "SASAKO",
+        "japanese": "誰が何色ってふうにしたら 覚えられませんか？",
+        "english": "If they each have a color, wouldn't it be easier to remember them?"
+    },
+    "259": {
+        "speaker": "PENGUIN",
+        "japanese": "ペン子ちゃん ペン美ちゃん",
+        "english": "Penko. Penmi."
+    },
+    "260": {
+        "speaker": "SASAKO",
+        "japanese": "ねっ！ こうすれば区別できませんか？",
+        "english": "See? Wouldn't you be able to tell them apart then?"
+    },
+    "261": {
+        "speaker": "PENGUIN",
+        "japanese": "それだ！ それなら覚えられる！",
+        "english": "That's it! Then I can remember them!"
+    },
+    "262": {
+        "speaker": "PENGUIN",
+        "japanese": "ありがとう 笹子さん！",
+        "english": "Thank you, Miss Sasako!"
+    },
+    "263": {
+        "speaker": "PENGUIN",
+        "japanese": "ノーベルリボン賞あげたいよ！",
+        "english": "I'd like to give you the Nobel Ribbon Award!"
+    },
+    "264": {
+        "speaker": "PENGUIN",
+        "japanese": "ありがとう みんな 今日は もう帰るよ。",
+        "english": "Thanks, guys! I'm going home now."
+    },
+    "265": {
+        "speaker": "PENGUIN",
+        "japanese": "名前 頑張って覚えるから！ それじゃ！",
+        "english": "I'm going to do my best to remember their names! See ya!"
+    },
+    "266": {
+        "speaker": "SASAKO",
+        "japanese": "顔の区別どころか",
+        "english": "Not only could he not tell their faces apart,"
+    },
+    "267": {
+        "speaker": "SASAKO",
+        "japanese": "７人の名前さえも まだ覚えてなかったんですね",
+        "english": "but apparently he still doesn't know all their names yet. Seems so."
+    },
+    "268": {
+        "speaker": "PANDA",
+        "japanese": "笹子さん 明日のバイト代わってくれない？",
+        "english": "Will you work for me tomorrow, Miss Sasako?"
+    },
+    "269": {
+        "speaker": "SASAKO",
+        "japanese": "私が？ パンダくんの代わりに 動物園に行くの？",
+        "english": "You want me to go to the zoo in your place?"
+    },
+    "270": {
+        "speaker": "POLAR BEAR",
+        "japanese": "カフェなら大丈夫だよ",
+        "english": "You don't have to worry about the café."
+    },
+    "271": {
+        "speaker": "POLAR BEAR",
+        "japanese": "僕がいるから",
+        "english": "I'll be here."
+    },
+    "272": {
+        "speaker": "SASAKO",
+        "japanese": "そういう問題じゃないですよ",
+        "english": "I don't think that's the issue. Just thinking about how troublesome work will be tomorrow"
+    },
+    "273": {
+        "speaker": "PANDA",
+        "japanese": "今日をダラダラ生きられないよ",
+        "english": "has made me too exhausted to move today."
+    },
+    "274": {
+        "speaker": "SASAKO",
+        "japanese": "もう…",
+        "english": "Wow..."
+    },
+    "275": {
+        "speaker": "SASAKO",
+        "japanese": "そういえば 昨日のペンギンさんのピクニック どうだったんですかね？",
+        "english": "By the way, I'm curious how Mr. Penguin's picnic went yesterday."
+    },
+    "276": {
+        "speaker": "POLAR BEAR",
+        "japanese": "大丈夫？",
+        "english": "Are you okay? How did your ribbon strategy go?"
+    },
+    "277": {
+        "speaker": "PENGUIN",
+        "japanese": "いや それがね…",
+        "english": "Well, you see..."
+    },
+    "278": {
+        "speaker": "PENGUIN",
+        "japanese": "僕から みんなに プレゼントがあるんだ！",
+        "english": "I have a present for all of you!"
+    },
+    "279": {
+        "speaker": "PENKOS",
+        "japanese": "わぁ～ かわいい！",
+        "english": "Oh, how cute!"
+    },
+    "280": {
+        "speaker": "PENGUIN",
+        "japanese": "はい ペン子ちゃん！",
+        "english": "Here you go, Penko."
+    },
+    "281": {
+        "speaker": "PENKO",
+        "japanese": "ありがとう",
+        "english": "Thank you."
+    },
+    "282": {
+        "speaker": "PENGUIN",
+        "japanese": "はい ペン奈ちゃん。",
+        "english": "Here you go, Penna."
+    },
+    "283": {
+        "speaker": "PENNA",
+        "japanese": "ありがとう わぁ～ きれい",
+        "english": "Thank you. Oh, how pretty! Look! Look! Penmi."
+    },
+    "284": {
+        "speaker": "BG",
+        "japanese": "ありがとう とっても嬉しい！",
+        "english": "It'll totally look good on you!"
+    },
+    "285": {
+        "speaker": "PENMI",
+        "japanese": "ありがとう とっても嬉しい！",
+        "english": "Thank you. I'm so happy."
+    },
+    "286": {
+        "speaker": "PENGUIN",
+        "japanese": "色と名前を 関連付けて覚えていったんだ",
+        "english": "I made sure to remember which name matched which color."
+    },
+    "287": {
+        "speaker": "SASAKO",
+        "japanese": "よかったじゃないですか！",
+        "english": "That's great."
+    },
+    "288": {
+        "speaker": "PANDA",
+        "japanese": "さすがだね ペンギンさん",
+        "english": "Good job, Mr. Penguin. But then..."
+    },
+    "289": {
+        "speaker": "PENGUIN",
+        "japanese": "ほら ペンジョリーナちゃんも ペン花ちゃんも頑張って！",
+        "english": "Come on, Penjolina and Penka! You can do it!"
+    },
+    "290": {
+        "speaker": "PENKOS",
+        "japanese": "はい！",
+        "english": "Okay!"
+    },
+    "291": {
+        "speaker": "PENGUIN",
+        "japanese": "あと少しだよ ペン乃ちゃん ペンニュエルちゃん！",
+        "english": "You're almost there, Penno and Penuelle!"
+    },
+    "292": {
+        "speaker": "PENKOS",
+        "japanese": "はい！",
+        "english": "Okay!"
+    },
+    "293": {
+        "speaker": "POLAR BEAR",
+        "japanese": "うまくいってるじゃない",
+        "english": "Sounds like it went well."
+    },
+    "294": {
+        "speaker": "PENGUIN",
+        "japanese": "ここまではだよ",
+        "english": "To this point."
+    },
+    "295": {
+        "speaker": "PENKOS",
+        "japanese": "みんで作ったの！",
+        "english": "We all made it together."
+    },
+    "296": {
+        "speaker": "PENGUIN",
+        "japanese": "わぁ～ おいしそう！",
+        "english": "Wow! It looks delicious!"
+    },
+    "297": {
+        "speaker": "PENGUIN",
+        "japanese": "僕 幸せだよ！",
+        "english": "I'm so happy!"
+    },
+    "298": {
+        "speaker": "PENKO",
+        "japanese": "やだ ペンギンさんったら！",
+        "english": "Oh, Mr. Penguin! Could you get me a riceball, Penna?"
+    },
+    "299": {
+        "speaker": "PENKO",
+        "japanese": "えっ？ 私 ペン子よ",
+        "english": "What? I'm Penko."
+    },
+    "300": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ！？ だって ペン子ちゃんはキミでしょ？",
+        "english": "What? But Penko should be... You, right? What? I'm Penmi!"
+    },
+    "301": {
+        "speaker": "PENGUIN",
+        "japanese": "あれ！？ なんで？",
+        "english": "What? Why?!"
+    },
+    "302": {
+        "speaker": "PENKO",
+        "japanese": "こっちの色のほうが似合うから 交換したの",
+        "english": "We liked these colors better, so we traded. Right? Look, look!"
+    },
+    "303": {
+        "speaker": "PENGUIN",
+        "japanese": "ちょっと待って！ なんで交換しちゃうの！？",
+        "english": "Wait a minute! Why would you trade?!"
+    },
+    "304": {
+        "speaker": "PENGUIN",
+        "japanese": "リボンの色で見分けてるのに",
+        "english": "I'm telling you apart by the color of your ribbons!"
+    },
+    "305": {
+        "speaker": "PENGUIN",
+        "japanese": "区別つかなくなっちゃうでしょ！",
+        "english": "Now I won't know who is who!"
+    },
+    "306": {
+        "speaker": "PENGUIN",
+        "japanese": "いや その これは！",
+        "english": "Oh! Uh, I-I mean..."
+    },
+    "307": {
+        "speaker": "PENKOS",
+        "japanese": "ペンギンさん",
+        "english": "Mr. Penguin."
+    },
+    "308": {
+        "speaker": "PENKOS",
+        "japanese": "そういうことだったの",
+        "english": "So that's how it is. Let's all calm down."
+    },
+    "309": {
+        "speaker": "PENGUIN",
+        "japanese": "イテテテ…",
+        "english": "Ow, ow, ow..."
+    },
+    "310": {
+        "speaker": "PENGUIN",
+        "japanese": "ストップ！ ストップ ストップ！",
+        "english": "Stop! Stop! Stop!"
+    },
+    "311": {
+        "speaker": "SASAKO",
+        "japanese": "そうだったんですか",
+        "english": "I see..."
+    },
+    "312": {
+        "speaker": "PANDA",
+        "japanese": "作戦 失敗だね",
+        "english": "I see your plan failed."
+    },
+    "313": {
+        "speaker": "PENGUIN",
+        "japanese": "もう… キミたちってば",
+        "english": "Jeez, you guys."
+    },
+    "314": {
+        "speaker": "PENGUIN",
+        "japanese": "もっとこう ちゃんと使える 何か別のアイディア頼むよ",
+        "english": "Couldn't you give me a better idea that I can actually use?"
+    },
+    "315": {
+        "speaker": "POLAR BEAR",
+        "japanese": "普通に顔と名前を覚えたら？",
+        "english": "How about you actually learn their names and faces?"
+    },
+    "316": {
+        "speaker": "BOTH",
+        "japanese": "うん うん",
+        "english": "Yes, yes."
+    }
+}

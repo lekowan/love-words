@@ -23,11 +23,15 @@ export const CardList = ({
           <Card
             key={`${item.definition}-${index}`}
             id={index + 1}
-            sentence={data[index + 1].definition}
+            sentence={
+              data[index + 1].characterWithSpace
+                ? data[index + 1].characterWithSpace
+                : data[index + 1].character
+            }
             showTranslate={showTranslate}
             speaker={data[index + 1].speaker}
             currentNumberOfLines={currentNumberOfLines}
-            letter={data[index + 1].letter}
+            definition={data[index + 1].definition}
           />
         ))}
       <div ref={messageEndRef} className="tw-h-[300px]" />

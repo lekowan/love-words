@@ -1,0 +1,1976 @@
+{
+    "1": {
+        "speaker": "LLAMA",
+        "character": "{\\an8}草ですか いいですねぇ 草",
+        "definition": "Grass, huh? Grass is great, isn't it?",
+        "timestamp": "0:01:41",
+        "audio": "/audio/27/0.01.41.mp3"
+    },
+    "2": {
+        "speaker": "PANDA",
+        "character": "{\\an8}え～ 草より笹のほうがいいよ",
+        "definition": "What? Bamboo grass is much better than regular grass.",
+        "timestamp": "0:01:45",
+        "audio": "/audio/27/0.01.45.mp3"
+    },
+    "3": {
+        "speaker": "SASAKO",
+        "character": "{\\an8}いらっしゃい",
+        "definition": "Welcome.",
+        "timestamp": "0:01:49",
+        "audio": "/audio/27/0.01.49.mp3"
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "character": "食べ物じゃなくて",
+        "definition": "We're not talking about eating it.",
+        "timestamp": "0:01:50",
+        "audio": "/audio/27/0.01.50.mp3"
+    },
+    "5": {
+        "speaker": "PENGUIN",
+        "character": "草野球の話だよ",
+        "definition": "We're talking about field baseball.",
+        "timestamp": "0:01:52",
+        "audio": "/audio/27/0.01.52.mp3"
+    },
+    "6": {
+        "speaker": "PANDA",
+        "character": "草野球",
+        "definition": "Field baseball?",
+        "timestamp": "0:01:54",
+        "audio": "/audio/27/0.01.54.mp3"
+    },
+    "7": {
+        "speaker": "LLAMA",
+        "character": "みんなで野球をしながら 草を食べるんですよ",
+        "definition": "We all eat grass while playing baseball.",
+        "timestamp": "0:01:56",
+        "audio": "/audio/27/0.01.56.mp3"
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "character": "いや 食べないよ",
+        "definition": "No, we don't.",
+        "timestamp": "0:02:00",
+        "audio": "/audio/27/0.02.00.mp3"
+    },
+    "9": {
+        "speaker": "SASAKO",
+        "character": "今度 カフェのチームと グリズリーさんのチームで野球をするんだよ",
+        "definition": "The café team will be playing baseball against Mr. Grizzly's team soon.",
+        "timestamp": "0:02:02",
+        "audio": "/audio/27/0.02.02.mp3"
+    },
+    "10": {
+        "speaker": "POLAR BEAR",
+        "character": "グリズリーくんから 招待状をもらったんだよ",
+        "definition": "Grizzly gave us an invitation.",
+        "timestamp": "0:02:09",
+        "audio": "/audio/27/0.02.09.mp3"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "character": "招待状",
+        "definition": "An invitation {\\i1}(shoutaijou){\\i0}?",
+        "timestamp": "0:02:14",
+        "audio": "/audio/27/0.02.14.mp3"
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "character": "それは 名古屋城",
+        "definition": "That would be Nagoya Castle {\\i1}(Nagoya jou){\\i0}.",
+        "timestamp": "0:02:17",
+        "audio": "/audio/27/0.02.17.mp3"
+    },
+    "13": {
+        "speaker": "PENGUIN",
+        "character": "それは 受付嬢",
+        "definition": "That would be a receptionist {\\i1}(uketsukejou){\\i0}.",
+        "timestamp": "0:02:20",
+        "audio": "/audio/27/0.02.20.mp3"
+    },
+    "14": {
+        "speaker": "PENGUIN",
+        "character": "それは 年賀状",
+        "definition": "That would be a New Year's card {\\i1}(nengajou){\\i0}.",
+        "timestamp": "0:02:23",
+        "audio": "/audio/27/0.02.23.mp3"
+    },
+    "15": {
+        "speaker": "PENGUIN",
+        "character": "招待状でしょ シロクマくん",
+        "definition": "An invitation, Polar Bear.",
+        "timestamp": "0:02:25",
+        "audio": "/audio/27/0.02.25.mp3"
+    },
+    "16": {
+        "speaker": "POLAR BEAR",
+        "character": "うん これこれ ほら",
+        "definition": "Yes, it's right here. See?",
+        "timestamp": "0:02:28",
+        "audio": "/audio/27/0.02.28.mp3"
+    },
+    "17": {
+        "speaker": "PENGUIN",
+        "character": "なんか ちょっと違ってない",
+        "definition": "I don't think that's what you think it is.",
+        "timestamp": "0:02:36",
+        "audio": "/audio/27/0.02.36.mp3"
+    },
+    "18": {
+        "speaker": "GRIZZLY",
+        "character": "ふれあい野球場にて決闘を申し込む",
+        "definition": "I hereby challenge you to a duel at the petting zoo baseball field.",
+        "timestamp": "0:02:40",
+        "audio": "/audio/27/0.02.40.mp3"
+    },
+    "19": {
+        "speaker": "GRIZZLY",
+        "character": "炎上 炎上",
+        "definition": "Burn it up! Burn it up! Wow, so you're having a duel.",
+        "timestamp": "0:02:44",
+        "audio": "/audio/27/0.02.44.mp3"
+    },
+    "20": {
+        "speaker": "PENGUIN",
+        "character": "野球だよ",
+        "definition": "We're talking about a baseball game. Burn it up, Wild Animals!",
+        "timestamp": "0:02:50",
+        "audio": "/audio/27/0.02.50.mp3"
+    },
+    "21": {
+        "speaker": "GRIZZLY",
+        "character": "{\\an8}炎上 炎上 炎上 炎上",
+        "definition": "Burn it up, burn it up! Burn it up, burn it up!",
+        "timestamp": "0:03:10",
+        "audio": "/audio/27/0.03.10.mp3"
+    },
+    "22": {
+        "speaker": "PANDA",
+        "character": "ワイルドで かっこいい",
+        "definition": "They're so wild and cool!",
+        "timestamp": "0:03:13",
+        "audio": "/audio/27/0.03.13.mp3"
+    },
+    "23": {
+        "speaker": "POLAR BEAR",
+        "character": "野生の王国って感じだね",
+        "definition": "It's like a wild kingdom.",
+        "timestamp": "0:03:16",
+        "audio": "/audio/27/0.03.16.mp3"
+    },
+    "24": {
+        "speaker": "POLAR BEAR",
+        "character": "ポーラーベアーズはのんびりいくよ",
+        "definition": "The Polar Bears are going to take it easy.",
+        "timestamp": "0:03:19",
+        "audio": "/audio/27/0.03.19.mp3"
+    },
+    "25": {
+        "speaker": "PANDA",
+        "character": "は～い",
+        "definition": "Okay.",
+        "timestamp": "0:03:22",
+        "audio": "/audio/27/0.03.22.mp3"
+    },
+    "26": {
+        "speaker": "PANDA",
+        "character": "プロにスカウトされたら どうしよう",
+        "definition": "I wonder what I should do if I get scouted to the pros.",
+        "timestamp": "0:03:30",
+        "audio": "/audio/27/0.03.30.mp3"
+    },
+    "27": {
+        "speaker": "PENGUIN",
+        "character": "されないから それよりパンダくん",
+        "definition": "You won't need to worry about that. More importantly, Panda,",
+        "timestamp": "0:03:33",
+        "audio": "/audio/27/0.03.33.mp3"
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "character": "キミはライトでしょ",
+        "definition": "you're playing right field, aren't you?",
+        "timestamp": "0:03:36",
+        "audio": "/audio/27/0.03.36.mp3"
+    },
+    "29": {
+        "speaker": "PANDA",
+        "character": "レッサーパンダくんが代わってくれたんだよ",
+        "definition": "Lesser Panda switched with me.",
+        "timestamp": "0:03:39",
+        "audio": "/audio/27/0.03.39.mp3"
+    },
+    "30": {
+        "speaker": "PENGUIN",
+        "character": "えっ レッサーパンダくん 本当にライトでいいの",
+        "definition": "What? Are you sure you're okay with playing right field, Lesser Panda?",
+        "timestamp": "0:03:42",
+        "audio": "/audio/27/0.03.42.mp3"
+    },
+    "31": {
+        "speaker": "LESSER",
+        "character": "はい",
+        "definition": "Yes.",
+        "timestamp": "0:03:48",
+        "audio": "/audio/27/0.03.48.mp3"
+    },
+    "32": {
+        "speaker": "LESSER",
+        "character": "パンダくんは動物界のヒマワリ",
+        "definition": "Panda is the sunflower of the animal world.",
+        "timestamp": "0:03:50",
+        "audio": "/audio/27/0.03.50.mp3"
+    },
+    "33": {
+        "speaker": "LESSER",
+        "character": "僕はひっそりと咲く月見草ですから",
+        "definition": "I'm an evening primrose that blooms quietly.",
+        "timestamp": "0:03:54",
+        "audio": "/audio/27/0.03.54.mp3"
+    },
+    "34": {
+        "speaker": "PENGUIN",
+        "character": "そ… そうなの",
+        "definition": "R-Really?",
+        "timestamp": "0:03:57",
+        "audio": "/audio/27/0.03.57.mp3"
+    },
+    "35": {
+        "speaker": "PANDA",
+        "character": "しまっていこう",
+        "definition": "Let's bring it in! I wanted to clean my fan today",
+        "timestamp": "0:03:59",
+        "audio": "/audio/27/0.03.59.mp3"
+    },
+    "36": {
+        "speaker": "HANDA",
+        "character": "今日は 換気扇の掃除したかったのにな～",
+        "definition": "since I finally had a day off.",
+        "timestamp": "0:04:08",
+        "audio": "/audio/27/0.04.08.mp3"
+    },
+    "37": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ よろしくね 半田さん",
+        "definition": "We're counting on you, Mr. Handa.",
+        "timestamp": "0:04:11",
+        "audio": "/audio/27/0.04.11.mp3"
+    },
+    "38": {
+        "speaker": "HANDA",
+        "character": "プレイボール",
+        "definition": "Play ball! You seem rather into it, Mr. Handa.",
+        "timestamp": "0:04:15",
+        "audio": "/audio/27/0.04.15.mp3"
+    },
+    "39": {
+        "speaker": "TIGER",
+        "character": "草食系の球なんか ちょろい ちょろい",
+        "definition": "Them vegetarians ain't got nothin'!",
+        "timestamp": "0:04:22",
+        "audio": "/audio/27/0.04.22.mp3"
+    },
+    "40": {
+        "speaker": "LION",
+        "character": "肉食系のパワーを 見せつけてやれ～",
+        "definition": "Show 'em what us carnivores are made of!",
+        "timestamp": "0:04:26",
+        "audio": "/audio/27/0.04.26.mp3"
+    },
+    "41": {
+        "speaker": "WOLF",
+        "character": "まかせて",
+        "definition": "Leave it to me. What?!",
+        "timestamp": "0:04:29",
+        "audio": "/audio/27/0.04.29.mp3"
+    },
+    "42": {
+        "speaker": "PANDA",
+        "character": "僕の球は打てないよ",
+        "definition": "You won't be able to hit my pitches.",
+        "timestamp": "0:04:41",
+        "audio": "/audio/27/0.04.41.mp3"
+    },
+    "43": {
+        "speaker": "PENGUIN",
+        "character": "ダメだよ パンダくん",
+        "definition": "No, Panda! Huh?",
+        "timestamp": "0:04:44",
+        "audio": "/audio/27/0.04.44.mp3"
+    },
+    "44": {
+        "speaker": "PENGUIN",
+        "character": "バッターのいるほうに投げてよ",
+        "definition": "You have to throw towards the batter!",
+        "timestamp": "0:04:47",
+        "audio": "/audio/27/0.04.47.mp3"
+    },
+    "45": {
+        "speaker": "PANDA",
+        "character": "あっちに投げたら 打たれちゃうよ",
+        "definition": "But if I throw it that way, he'll hit the ball.",
+        "timestamp": "0:04:50",
+        "audio": "/audio/27/0.04.50.mp3"
+    },
+    "46": {
+        "speaker": "PENGUIN",
+        "character": "それが野球だから",
+        "definition": "Well that's what baseball is...",
+        "timestamp": "0:04:54",
+        "audio": "/audio/27/0.04.54.mp3"
+    },
+    "47": {
+        "speaker": "PANDA",
+        "character": "わかった",
+        "definition": "Got it!",
+        "timestamp": "0:04:56",
+        "audio": "/audio/27/0.04.56.mp3"
+    },
+    "48": {
+        "speaker": "PANDA",
+        "character": "打たれてもいいんだね",
+        "definition": "So it's okay if they hit the ball?",
+        "timestamp": "0:04:58",
+        "audio": "/audio/27/0.04.58.mp3"
+    },
+    "49": {
+        "speaker": "PENGUIN",
+        "character": "打たれないように投げてよ",
+        "definition": "Throw it so they won't hit it.",
+        "timestamp": "0:05:01",
+        "audio": "/audio/27/0.05.01.mp3"
+    },
+    "50": {
+        "speaker": "PANDA",
+        "character": "難しいな～",
+        "definition": "This is complicated.",
+        "timestamp": "0:05:04",
+        "audio": "/audio/27/0.05.04.mp3"
+    },
+    "51": {
+        "speaker": "PENGUIN",
+        "character": "いいよ キミはもう下がってて",
+        "definition": "Forget it. You can step aside.",
+        "timestamp": "0:05:06",
+        "audio": "/audio/27/0.05.06.mp3"
+    },
+    "52": {
+        "speaker": "LESSER",
+        "character": "じゃ… じゃあ僕が",
+        "definition": "Th-Then I can...",
+        "timestamp": "0:05:10",
+        "audio": "/audio/27/0.05.10.mp3"
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "character": "僕が投げるよ",
+        "definition": "I'll pitch.",
+        "timestamp": "0:05:13",
+        "audio": "/audio/27/0.05.13.mp3"
+    },
+    "54": {
+        "speaker": "LESSER",
+        "character": "え",
+        "definition": "Wha?",
+        "timestamp": "0:05:15",
+        "audio": "/audio/27/0.05.15.mp3"
+    },
+    "55": {
+        "speaker": "PENGUIN",
+        "character": "魔球南極ブリザードで きりきり舞いさせちゃうからね",
+        "definition": "I'll stun them with my amazing pitch, the South Pole Blizzard.",
+        "timestamp": "0:05:16",
+        "audio": "/audio/27/0.05.16.mp3"
+    },
+    "56": {
+        "speaker": "GRIZZLY",
+        "character": "炎上 炎上 俺の打球が火をふくぜ",
+        "definition": "Burn it up! Burn it up! My ball's on fire!",
+        "timestamp": "0:05:33",
+        "audio": "/audio/27/0.05.33.mp3"
+    },
+    "57": {
+        "speaker": "TIGER",
+        "character": "４人 連続ホームランだぜ",
+        "definition": "We just got four home runs in a row!",
+        "timestamp": "0:05:38",
+        "audio": "/audio/27/0.05.38.mp3"
+    },
+    "58": {
+        "speaker": "WOLF",
+        "character": "マスター ナイスバッティング",
+        "definition": "Nice batting, Boss.",
+        "timestamp": "0:05:41",
+        "audio": "/audio/27/0.05.41.mp3"
+    },
+    "59": {
+        "speaker": "GRIZZLY",
+        "character": "よ～し この調子でいくぞ",
+        "definition": "All right, let's keep it up!",
+        "timestamp": "0:05:43",
+        "audio": "/audio/27/0.05.43.mp3"
+    },
+    "60": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ナイスピッチング",
+        "definition": "Nice pitching, Mr. Penguin!",
+        "timestamp": "0:05:47",
+        "audio": "/audio/27/0.05.47.mp3"
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "character": "このままじゃ まずいね",
+        "definition": "At this rate, we're doomed.",
+        "timestamp": "0:05:51",
+        "audio": "/audio/27/0.05.51.mp3"
+    },
+    "62": {
+        "speaker": "ANTEATER",
+        "character": "魔球 南極ブリザードを 早く投げてください",
+        "definition": "Please hurry and throw the amazing pitch, the South Pole Blizzard! You know, I'm much better at water polo than baseball.",
+        "timestamp": "0:05:53",
+        "audio": "/audio/27/0.05.53.mp3"
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "character": "ピッチャー 交代ね",
+        "definition": "We're switching pitchers. Let's play a good game.",
+        "timestamp": "0:06:05",
+        "audio": "/audio/27/0.06.05.mp3"
+    },
+    "64": {
+        "speaker": "ALLIGATOR",
+        "character": "こりゃ またファンシーなやつだぜ",
+        "definition": "Well, isn't he fancy.",
+        "timestamp": "0:06:14",
+        "audio": "/audio/27/0.06.14.mp3"
+    },
+    "65": {
+        "speaker": "LION",
+        "character": "ワイルドにガツンと 打ってっちゃえ",
+        "definition": "Get wild and hit it out of the park!",
+        "timestamp": "0:06:17",
+        "audio": "/audio/27/0.06.17.mp3"
+    },
+    "66": {
+        "speaker": "GORILLA",
+        "character": "俺もホームラン続けていくぜ",
+        "definition": "I'm going to continue with another home run.",
+        "timestamp": "0:06:20",
+        "audio": "/audio/27/0.06.20.mp3"
+    },
+    "67": {
+        "speaker": "HANDA",
+        "character": "ストライク",
+        "definition": "Strike!",
+        "timestamp": "0:06:34",
+        "audio": "/audio/27/0.06.34.mp3"
+    },
+    "68": {
+        "speaker": "LION",
+        "character": "チェンジアップ",
+        "definition": "A change up?",
+        "timestamp": "0:06:37",
+        "audio": "/audio/27/0.06.37.mp3"
+    },
+    "69": {
+        "speaker": "WOLF",
+        "character": "どうやって投げてんだ",
+        "definition": "How'd he throw that?",
+        "timestamp": "0:06:39",
+        "audio": "/audio/27/0.06.39.mp3"
+    },
+    "70": {
+        "speaker": "HANDA",
+        "character": "ストライク バッターアウト",
+        "definition": "Strike! Batter out!",
+        "timestamp": "0:06:42",
+        "audio": "/audio/27/0.06.42.mp3"
+    },
+    "71": {
+        "speaker": "HANDA",
+        "character": "ストライク バッターアウト",
+        "definition": "Strike! Batter out!",
+        "timestamp": "0:06:47",
+        "audio": "/audio/27/0.06.47.mp3"
+    },
+    "72": {
+        "speaker": "HANDA",
+        "character": "ストライク バッターアウト",
+        "definition": "Strike! Batter out!",
+        "timestamp": "0:06:52",
+        "audio": "/audio/27/0.06.52.mp3"
+    },
+    "73": {
+        "speaker": "GRIZZLY",
+        "character": "すげえ…",
+        "definition": "Incredible...",
+        "timestamp": "0:06:55",
+        "audio": "/audio/27/0.06.55.mp3"
+    },
+    "74": {
+        "speaker": "GRIZZLY",
+        "character": "小さな巨人だぜ",
+        "definition": "He's a tiny giant.",
+        "timestamp": "0:06:57",
+        "audio": "/audio/27/0.06.57.mp3"
+    },
+    "75": {
+        "speaker": "SASAKO",
+        "character": "ペンギンさん 頑張って",
+        "definition": "Do your best, Mr. Penguin!",
+        "timestamp": "0:07:07",
+        "audio": "/audio/27/0.07.07.mp3"
+    },
+    "76": {
+        "speaker": "PENGUIN",
+        "character": "秘打 ペンギンの湖",
+        "definition": "Behold! Penguin's Lake! What?",
+        "timestamp": "0:07:14",
+        "audio": "/audio/27/0.07.14.mp3"
+    },
+    "77": {
+        "speaker": "GRIZZLY",
+        "character": "余裕でアウトだぜ よっ",
+        "definition": "Well, that's an easy out! Safe!",
+        "timestamp": "0:07:29",
+        "audio": "/audio/27/0.07.29.mp3"
+    },
+    "78": {
+        "speaker": "ANTEATER",
+        "character": "ナイスプレーです",
+        "definition": "Nice play!",
+        "timestamp": "0:07:36",
+        "audio": "/audio/27/0.07.36.mp3"
+    },
+    "79": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん すご～い",
+        "definition": "You're amazing, Mr. Penguin!",
+        "timestamp": "0:07:38",
+        "audio": "/audio/27/0.07.38.mp3"
+    },
+    "80": {
+        "speaker": "MAMA RS",
+        "character": "マサキ～",
+        "definition": "Masaki!",
+        "timestamp": "0:07:42",
+        "audio": "/audio/27/0.07.42.mp3"
+    },
+    "81": {
+        "speaker": "GORILLA",
+        "character": "内角攻めでビビらせてやれ",
+        "definition": "Throw it to the inside corner and scare the crap out of him.",
+        "timestamp": "0:07:49",
+        "audio": "/audio/27/0.07.49.mp3"
+    },
+    "82": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:07:56",
+        "audio": "/audio/27/0.07.56.mp3"
+    },
+    "83": {
+        "speaker": "GORILLA",
+        "character": "ビビって振るかと思ったのに",
+        "definition": "I thought he'd freak out and swing at it.",
+        "timestamp": "0:07:58",
+        "audio": "/audio/27/0.07.58.mp3"
+    },
+    "84": {
+        "speaker": "GORILLA",
+        "character": "ピクリとも動かねえ",
+        "definition": "He didn't even flinch!",
+        "timestamp": "0:08:01",
+        "audio": "/audio/27/0.08.01.mp3"
+    },
+    "85": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:08:04",
+        "audio": "/audio/27/0.08.04.mp3"
+    },
+    "86": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:08:07",
+        "audio": "/audio/27/0.08.07.mp3"
+    },
+    "87": {
+        "speaker": "HANDA",
+        "character": "ボール フォアボール",
+        "definition": "Ball! Four balls!",
+        "timestamp": "0:08:08",
+        "audio": "/audio/27/0.08.08.mp3"
+    },
+    "88": {
+        "speaker": "HANDA",
+        "character": "パンダくん フォアボールだよ １塁行って",
+        "definition": "That was ball four, Panda. Take your base.",
+        "timestamp": "0:08:12",
+        "audio": "/audio/27/0.08.12.mp3"
+    },
+    "89": {
+        "speaker": "GORILLA",
+        "character": "寝てる",
+        "definition": "He's asleep!",
+        "timestamp": "0:08:20",
+        "audio": "/audio/27/0.08.20.mp3"
+    },
+    "90": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん やったよ～",
+        "definition": "Mr. Penguin! I did it!",
+        "timestamp": "0:08:24",
+        "audio": "/audio/27/0.08.24.mp3"
+    },
+    "91": {
+        "speaker": "PANDA",
+        "character": "{\\an8}ほら～",
+        "definition": "{\\a6}See!",
+        "timestamp": "0:08:28",
+        "audio": "/audio/27/0.08.28.mp3"
+    },
+    "92": {
+        "speaker": "PENGUIN",
+        "character": "結果オーライかな",
+        "definition": "Well, he got on base, so I guess it's okay.",
+        "timestamp": "0:08:29",
+        "audio": "/audio/27/0.08.29.mp3"
+    },
+    "93": {
+        "speaker": "PANDA",
+        "character": "結果オーライかな",
+        "definition": "{\\a6}I'm awesome!",
+        "timestamp": "0:08:29",
+        "audio": "/audio/27/0.08.29.mp3"
+    },
+    "94": {
+        "speaker": "POLAR BEAR",
+        "character": "一気に同点に追いつくチャンスだね",
+        "definition": "This is our chance to tie up the game.",
+        "timestamp": "0:08:32",
+        "audio": "/audio/27/0.08.32.mp3"
+    },
+    "95": {
+        "speaker": "MAMA RS",
+        "character": "ホームラン打って",
+        "definition": "Hit a home run!",
+        "timestamp": "0:08:36",
+        "audio": "/audio/27/0.08.36.mp3"
+    },
+    "96": {
+        "speaker": "POLAR BEAR",
+        "character": "チャーシューメーン",
+        "definition": "Ramen with pork! Damn it!",
+        "timestamp": "0:08:42",
+        "audio": "/audio/27/0.08.42.mp3"
+    },
+    "97": {
+        "speaker": "PENGUIN",
+        "character": "いった",
+        "definition": "There it goes! Nice catch!",
+        "timestamp": "0:08:48",
+        "audio": "/audio/27/0.08.48.mp3"
+    },
+    "98": {
+        "speaker": "PENGUIN",
+        "character": "タッチアップ",
+        "definition": "Tagged up!",
+        "timestamp": "0:08:58",
+        "audio": "/audio/27/0.08.58.mp3"
+    },
+    "99": {
+        "speaker": "GRIZZLY",
+        "character": "タッチアップ",
+        "definition": "What?!",
+        "timestamp": "0:08:58",
+        "audio": "/audio/27/0.08.58.mp3"
+    },
+    "100": {
+        "speaker": "HANDA",
+        "character": "セーフ",
+        "definition": "Safe! Yay!",
+        "timestamp": "0:09:04",
+        "audio": "/audio/27/0.09.04.mp3"
+    },
+    "101": {
+        "speaker": "SASAKO",
+        "character": "ペンギンさん ナイスプレー",
+        "definition": "Nice play, Mr. Penguin! Left field!",
+        "timestamp": "0:09:07",
+        "audio": "/audio/27/0.09.07.mp3"
+    },
+    "102": {
+        "speaker": "PENGUIN",
+        "character": "あれ",
+        "definition": "Huh?",
+        "timestamp": "0:09:20",
+        "audio": "/audio/27/0.09.20.mp3"
+    },
+    "103": {
+        "speaker": "PENGUIN",
+        "character": "試合中に草食べないでよ",
+        "definition": "Stop eating grass during the game!",
+        "timestamp": "0:09:24",
+        "audio": "/audio/27/0.09.24.mp3"
+    },
+    "104": {
+        "speaker": "LLAMA",
+        "character": "おいしいですよ ペンギンさんも一緒にどうですか",
+        "definition": "But it's delicious. Why don't you have some too, Mr. Penguin?",
+        "timestamp": "0:09:27",
+        "audio": "/audio/27/0.09.27.mp3"
+    },
+    "105": {
+        "speaker": "PENGUIN",
+        "character": "ご飯食べるの試合終わってからにして",
+        "definition": "Could you eat after the game?",
+        "timestamp": "0:09:32",
+        "audio": "/audio/27/0.09.32.mp3"
+    },
+    "106": {
+        "speaker": "ANTEATER",
+        "character": "今度こそホームランです",
+        "definition": "This time it's a home run for sure!",
+        "timestamp": "0:09:43",
+        "audio": "/audio/27/0.09.43.mp3"
+    },
+    "107": {
+        "speaker": "PENGUIN",
+        "character": "レフト～",
+        "definition": "Left field!",
+        "timestamp": "0:09:58",
+        "audio": "/audio/27/0.09.58.mp3"
+    },
+    "108": {
+        "speaker": "PENGUIN",
+        "character": "って ご飯はあとにしてって 言ったでしょ",
+        "definition": "Hey! I told you to eat later!",
+        "timestamp": "0:10:02",
+        "audio": "/audio/27/0.10.02.mp3"
+    },
+    "109": {
+        "speaker": "LLAMA",
+        "character": "食後のデザートですよ",
+        "definition": "But I'm having dessert.",
+        "timestamp": "0:10:06",
+        "audio": "/audio/27/0.10.06.mp3"
+    },
+    "110": {
+        "speaker": "PENGUIN",
+        "character": "デザートもあとにして",
+        "definition": "Have your dessert later, too! Strike!",
+        "timestamp": "0:10:08",
+        "audio": "/audio/27/0.10.08.mp3"
+    },
+    "111": {
+        "speaker": "PENGUIN",
+        "character": "寝てる",
+        "definition": "He's asleep?!",
+        "timestamp": "0:10:15",
+        "audio": "/audio/27/0.10.15.mp3"
+    },
+    "112": {
+        "speaker": "PENGUIN",
+        "character": "あれ",
+        "definition": "Huh?",
+        "timestamp": "0:10:23",
+        "audio": "/audio/27/0.10.23.mp3"
+    },
+    "113": {
+        "speaker": "PENGUIN",
+        "character": "コアリクイくんも ご飯はあとにして",
+        "definition": "You need to hold off on eating, too, Anteater!",
+        "timestamp": "0:10:28",
+        "audio": "/audio/27/0.10.28.mp3"
+    },
+    "114": {
+        "speaker": "PENGUIN",
+        "character": "だから デザートもあとにしようよ",
+        "definition": "Come on! Eat dessert later! Polar Bear! We can still win with a grand slam!",
+        "timestamp": "0:10:35",
+        "audio": "/audio/27/0.10.35.mp3"
+    },
+    "115": {
+        "speaker": "WOLF",
+        "character": "そう簡単にいくか",
+        "definition": "I don't think so!",
+        "timestamp": "0:10:54",
+        "audio": "/audio/27/0.10.54.mp3"
+    },
+    "116": {
+        "speaker": "TIGER",
+        "character": "２アウト あと１人だぜ",
+        "definition": "They have two outs! Just one more out!",
+        "timestamp": "0:10:56",
+        "audio": "/audio/27/0.10.56.mp3"
+    },
+    "117": {
+        "speaker": "SASAKO",
+        "character": "ホームラン期待してます",
+        "definition": "I hope you get a home run!",
+        "timestamp": "0:10:59",
+        "audio": "/audio/27/0.10.59.mp3"
+    },
+    "118": {
+        "speaker": "MAMA RS",
+        "character": "サヨナラ勝ちよ～",
+        "definition": "Make it a walk-off home run! Hold it! We're changing pitchers. Are they bringing out their secret weapon?",
+        "timestamp": "0:11:01",
+        "audio": "/audio/27/0.11.01.mp3"
+    },
+    "119": {
+        "speaker": "LION",
+        "character": "頼むぜ マスター",
+        "definition": "It's up to you, Boss.",
+        "timestamp": "0:11:13",
+        "audio": "/audio/27/0.11.13.mp3"
+    },
+    "120": {
+        "speaker": "GRIZZLY",
+        "character": "シロクマ",
+        "definition": "Polar Bear.",
+        "timestamp": "0:11:22",
+        "audio": "/audio/27/0.11.22.mp3"
+    },
+    "121": {
+        "speaker": "GRIZZLY",
+        "character": "俺の炎のストレートで 打ち取ってやるぜ",
+        "definition": "I'll strike you out with my flaming straight ball.",
+        "timestamp": "0:11:25",
+        "audio": "/audio/27/0.11.25.mp3"
+    },
+    "122": {
+        "speaker": "GRIZZLY",
+        "character": "なに",
+        "definition": "What?",
+        "timestamp": "0:11:33",
+        "audio": "/audio/27/0.11.33.mp3"
+    },
+    "123": {
+        "speaker": "TIGER",
+        "character": "予告ホームラン",
+        "definition": "A called shot?",
+        "timestamp": "0:11:35",
+        "audio": "/audio/27/0.11.35.mp3"
+    },
+    "124": {
+        "speaker": "MASAKI",
+        "character": "ジャックコーヒーって なんだ",
+        "definition": "What's...  Jacu coffee?! My name's Masaki.",
+        "timestamp": "0:12:07",
+        "audio": "/audio/27/0.12.07.mp3"
+    },
+    "125": {
+        "speaker": "MASAKI",
+        "character": "師匠のキノボリカンガルーさんのもとで",
+        "definition": "I'm currently learning how to roast coffee",
+        "timestamp": "0:12:17",
+        "audio": "/audio/27/0.12.17.mp3"
+    },
+    "126": {
+        "speaker": "MASAKI",
+        "character": "コーヒー焙煎士の修業中です",
+        "definition": "under my mentor, Mr. Tree Kangaroo.",
+        "timestamp": "0:12:19",
+        "audio": "/audio/27/0.12.19.mp3"
+    },
+    "127": {
+        "speaker": "MAMA RS",
+        "character": "マサキ知ってる",
+        "definition": "Masaki, did you know?",
+        "timestamp": "0:12:24",
+        "audio": "/audio/27/0.12.24.mp3"
+    },
+    "128": {
+        "speaker": "MAMA RS",
+        "character": "これがコーヒーの実よ",
+        "definition": "This is a coffee cherry. Huh? It's red.",
+        "timestamp": "0:12:26",
+        "audio": "/audio/27/0.12.26.mp3"
+    },
+    "129": {
+        "speaker": "MASAKI",
+        "character": "赤いじゃん なんで",
+        "definition": "Why? Red means that it's completely ripe.",
+        "timestamp": "0:12:29",
+        "audio": "/audio/27/0.12.29.mp3"
+    },
+    "130": {
+        "speaker": "MASAKI",
+        "character": "豆が熟したらこうなるの",
+        "definition": "So when it's ripe, it looks like this?",
+        "timestamp": "0:12:34",
+        "audio": "/audio/27/0.12.34.mp3"
+    },
+    "131": {
+        "speaker": "MAMA RS",
+        "character": "この赤いコーヒーの実の中にある種がコーヒー豆よ",
+        "definition": "The seed within the red cherry is the coffee bean.",
+        "timestamp": "0:12:36",
+        "audio": "/audio/27/0.12.36.mp3"
+    },
+    "132": {
+        "speaker": "MAMA RS",
+        "character": "１つの実の中に２つの種が入ってるのよ",
+        "definition": "There are two seeds within the cherry. What?!",
+        "timestamp": "0:12:41",
+        "audio": "/audio/27/0.12.41.mp3"
+    },
+    "133": {
+        "speaker": "",
+        "character": "コーヒー豆って種だったんだ",
+        "definition": "So a coffee bean is a seed? I wonder if this kid will make it... That bird sure comes by a lot.",
+        "timestamp": "0:12:46",
+        "audio": "/audio/27/0.12.46.mp3"
+    },
+    "134": {
+        "speaker": "MAMA RS",
+        "character": "ジャクーさんよ",
+        "definition": "That's Mr. Jacu. {Not sure if it's Mr. or Ms...}",
+        "timestamp": "0:12:57",
+        "audio": "/audio/27/0.12.57.mp3"
+    },
+    "135": {
+        "speaker": "MASAKI",
+        "character": "ふ～ん ジャクーっていうんだ",
+        "definition": "Oh, so his name is Jacu.",
+        "timestamp": "0:12:59",
+        "audio": "/audio/27/0.12.59.mp3"
+    },
+    "136": {
+        "speaker": "MAMA RS",
+        "character": "失礼でしょ",
+        "definition": "Don't be so rude.",
+        "timestamp": "0:13:03",
+        "audio": "/audio/27/0.13.03.mp3"
+    },
+    "137": {
+        "speaker": "MAMA RS",
+        "character": "ジャクーさんとお呼びなさい",
+        "definition": "Call him \"Mr. Jacu.\"",
+        "timestamp": "0:13:05",
+        "audio": "/audio/27/0.13.05.mp3"
+    },
+    "138": {
+        "speaker": "MASAKI",
+        "character": "なんで…",
+        "definition": "Why?",
+        "timestamp": "0:13:07",
+        "audio": "/audio/27/0.13.07.mp3"
+    },
+    "139": {
+        "speaker": "MAMA RS",
+        "character": "大切なお客様なんだから",
+        "definition": "He's a very important client. Mind your manners! I've poured us some coffee, so let's take a break!",
+        "timestamp": "0:13:08",
+        "audio": "/audio/27/0.13.08.mp3"
+    },
+    "140": {
+        "speaker": "MASAKI",
+        "character": "いただきま～す",
+        "definition": "Thanks for the coffee! This tastes different than usual.",
+        "timestamp": "0:13:25",
+        "audio": "/audio/27/0.13.25.mp3"
+    },
+    "141": {
+        "speaker": "MAMA RS",
+        "character": "あら 意外と鋭いわね",
+        "definition": "My, you're sharper than you look.",
+        "timestamp": "0:13:32",
+        "audio": "/audio/27/0.13.32.mp3"
+    },
+    "142": {
+        "speaker": "MASAKI",
+        "character": "豆の産地が違うとか",
+        "definition": "Are the beans from somewhere else?",
+        "timestamp": "0:13:35",
+        "audio": "/audio/27/0.13.35.mp3"
+    },
+    "143": {
+        "speaker": "MAMA RS",
+        "character": "いいえ 焙煎が違うだけよ",
+        "definition": "No, it's just roasted differently.",
+        "timestamp": "0:13:37",
+        "audio": "/audio/27/0.13.37.mp3"
+    },
+    "144": {
+        "speaker": "MASAKI",
+        "character": "ずいぶん変わるんだね",
+        "definition": "It tastes completely different.",
+        "timestamp": "0:13:40",
+        "audio": "/audio/27/0.13.40.mp3"
+    },
+    "145": {
+        "speaker": "MAMA RS",
+        "character": "そりゃ そうよ",
+        "definition": "Of course! The taste of coffee is determined by the roast!",
+        "timestamp": "0:13:43",
+        "audio": "/audio/27/0.13.43.mp3"
+    },
+    "146": {
+        "speaker": "MAMA RS",
+        "character": "これを飲み比べてみて",
+        "definition": "Here. Compare these two.",
+        "timestamp": "0:13:48",
+        "audio": "/audio/27/0.13.48.mp3"
+    },
+    "147": {
+        "speaker": "MASAKI",
+        "character": "う～ん すっぱくてちょっとえぐい",
+        "definition": "It's a little sour and harsh.",
+        "timestamp": "0:13:53",
+        "audio": "/audio/27/0.13.53.mp3"
+    },
+    "148": {
+        "speaker": "MASAKI",
+        "character": "いろんな味がする",
+        "definition": "It tastes like a lot of different things...",
+        "timestamp": "0:13:56",
+        "audio": "/audio/27/0.13.56.mp3"
+    },
+    "149": {
+        "speaker": "MASAKI",
+        "character": "こっちは苦い でも後味はすっきり",
+        "definition": "This one is bitter, but finishes smooth.",
+        "timestamp": "0:14:00",
+        "audio": "/audio/27/0.14.00.mp3"
+    },
+    "150": {
+        "speaker": "MAMA RS",
+        "character": "マサキはどっちが好き",
+        "definition": "Which one do you like Masaki?",
+        "timestamp": "0:14:04",
+        "audio": "/audio/27/0.14.04.mp3"
+    },
+    "151": {
+        "speaker": "MASAKI",
+        "character": "後味すっきりのほうが好き",
+        "definition": "I like the one that finished smooth.",
+        "timestamp": "0:14:06",
+        "audio": "/audio/27/0.14.06.mp3"
+    },
+    "152": {
+        "speaker": "MAMA RS",
+        "character": "それは 深煎りね",
+        "definition": "That would be the darker roast.",
+        "timestamp": "0:14:09",
+        "audio": "/audio/27/0.14.09.mp3"
+    },
+    "153": {
+        "speaker": "MAMA RS",
+        "character": "最初に飲んだのは 浅煎り",
+        "definition": "The first was the light roast.",
+        "timestamp": "0:14:11",
+        "audio": "/audio/27/0.14.11.mp3"
+    },
+    "154": {
+        "speaker": "MAMA RS",
+        "character": "ほら 焙煎が浅いから 豆が…",
+        "definition": "You see? It wasn't roasted as long...",
+        "timestamp": "0:14:13",
+        "audio": "/audio/27/0.14.13.mp3"
+    },
+    "155": {
+        "speaker": "MASAKI",
+        "character": "茶色だ",
+        "definition": "...so the bean is brown. Exactly. And the bean that's been roasted longer is dark like ink.",
+        "timestamp": "0:14:16",
+        "audio": "/audio/27/0.14.16.mp3"
+    },
+    "156": {
+        "speaker": "MASAKI",
+        "character": "焙煎の深さって 焦げ具合のことかぁ",
+        "definition": "So the levels of roasting are determined by how burnt the beans are...",
+        "timestamp": "0:14:22",
+        "audio": "/audio/27/0.14.22.mp3"
+    },
+    "157": {
+        "speaker": "MAMA RS",
+        "character": "マサキが好きな深煎りは",
+        "definition": "Most of the coffee compounds are",
+        "timestamp": "0:14:26",
+        "audio": "/audio/27/0.14.26.mp3"
+    },
+    "158": {
+        "speaker": "",
+        "character": "コーヒーの成分がほとんど とんでてシンプルな味なの",
+        "definition": "gone in the darker roast that you liked, so it produces a simpler taste.",
+        "timestamp": "0:14:28",
+        "audio": "/audio/27/0.14.28.mp3"
+    },
+    "159": {
+        "speaker": "MAMA RS",
+        "character": "コーヒー初心者にオススメね",
+        "definition": "I recommend it to coffee beginners.",
+        "timestamp": "0:14:32",
+        "audio": "/audio/27/0.14.32.mp3"
+    },
+    "160": {
+        "speaker": "MAMA RS",
+        "character": "カフェインも少なくなってるからね",
+        "definition": "The caffeine content is lower, too.",
+        "timestamp": "0:14:36",
+        "audio": "/audio/27/0.14.36.mp3"
+    },
+    "161": {
+        "speaker": "MAMA RS",
+        "character": "夜に飲むときは 深煎りにしたほうがいいわ",
+        "definition": "If you drink coffee at night, it's better to drink a darker roast.",
+        "timestamp": "0:14:39",
+        "audio": "/audio/27/0.14.39.mp3"
+    },
+    "162": {
+        "speaker": "MASAKI",
+        "character": "意外っすね",
+        "definition": "How unexpected.",
+        "timestamp": "0:14:43",
+        "audio": "/audio/27/0.14.43.mp3"
+    },
+    "163": {
+        "speaker": "MASAKI",
+        "character": "深煎りのほうが濃そうなのに",
+        "definition": "You'd think the darker roast would be stronger. What kind of coffee do you prefer, Master?",
+        "timestamp": "0:14:45",
+        "audio": "/audio/27/0.14.45.mp3"
+    },
+    "164": {
+        "speaker": "TREE",
+        "character": "ジャクーコーヒーなんだな",
+        "definition": "I prefer Jacu coffee.",
+        "timestamp": "0:14:52",
+        "audio": "/audio/27/0.14.52.mp3"
+    },
+    "165": {
+        "speaker": "MASAKI",
+        "character": "ジャクー…",
+        "definition": "Jacu...",
+        "timestamp": "0:14:55",
+        "audio": "/audio/27/0.14.55.mp3"
+    },
+    "166": {
+        "speaker": "MASAKI",
+        "character": "あっ あの鳥",
+        "definition": "Oh, that bird!",
+        "timestamp": "0:14:57",
+        "audio": "/audio/27/0.14.57.mp3"
+    },
+    "167": {
+        "speaker": "",
+        "character": "コーヒーと何か 関係があるんですか",
+        "definition": "Does he have something to do with coffee?",
+        "timestamp": "0:14:59",
+        "audio": "/audio/27/0.14.59.mp3"
+    },
+    "168": {
+        "speaker": "MAMA RS",
+        "character": "そうよ ジャクーコーヒーっていうのはね",
+        "definition": "Yes, he does. Jacu coffee is...",
+        "timestamp": "0:15:01",
+        "audio": "/audio/27/0.15.01.mp3"
+    },
+    "169": {
+        "speaker": "MAMA RS",
+        "character": "ジャクーさんがよく熟した コーヒーの実を食べて",
+        "definition": "...the coffee beans collected from Mr. Jacu after he's eaten a fully ripened",
+        "timestamp": "0:15:05",
+        "audio": "/audio/27/0.15.05.mp3"
+    },
+    "170": {
+        "speaker": "",
+        "character": "フンとして出した種を集めた豆よ",
+        "definition": "coffee cherry and excretes it.",
+        "timestamp": "0:15:09",
+        "audio": "/audio/27/0.15.09.mp3"
+    },
+    "171": {
+        "speaker": "MASAKI",
+        "character": "えぇ～ そんなのが おいしいのか～",
+        "definition": "What?! That's supposed to be delicious?!",
+        "timestamp": "0:15:12",
+        "audio": "/audio/27/0.15.12.mp3"
+    },
+    "172": {
+        "speaker": "TREE",
+        "character": "おいしいんだなぁ これが",
+        "definition": "It is quite delicious. A hundred grams costs more than 4,000 yen.",
+        "timestamp": "0:15:16",
+        "audio": "/audio/27/0.15.16.mp3"
+    },
+    "173": {
+        "speaker": "MASAKI",
+        "character": "マジで なんで",
+        "definition": "Seriously?! Why?! It's expensive because it's rare.",
+        "timestamp": "0:15:22",
+        "audio": "/audio/27/0.15.22.mp3"
+    },
+    "174": {
+        "speaker": "MAMA RS",
+        "character": "同じように ジャコウネコのフンから",
+        "definition": "Similarly, there are coffee beans collected from the Asian Palm Civet after it's eaten the coffee cherry.",
+        "timestamp": "0:15:26",
+        "audio": "/audio/27/0.15.26.mp3"
+    },
+    "175": {
+        "speaker": "MASAKI",
+        "character": "コピルクワなんだな",
+        "definition": "That would be kopi luwak.",
+        "timestamp": "0:15:31",
+        "audio": "/audio/27/0.15.31.mp3"
+    },
+    "176": {
+        "speaker": "MASAKI",
+        "character": "コーヒー 奥深すぎ",
+        "definition": "Coffee is deep, man!",
+        "timestamp": "0:15:33",
+        "audio": "/audio/27/0.15.33.mp3"
+    },
+    "177": {
+        "speaker": "MAMA RS",
+        "character": "そうよ",
+        "definition": "It is.",
+        "timestamp": "0:15:35",
+        "audio": "/audio/27/0.15.35.mp3"
+    },
+    "178": {
+        "speaker": "",
+        "character": "まだまだ勉強することが たくさん あるわよ",
+        "definition": "You still have much to learn. We'll teach you a lot more,",
+        "timestamp": "0:15:36",
+        "audio": "/audio/27/0.15.36.mp3"
+    },
+    "179": {
+        "speaker": "MAMA RS",
+        "character": "しっかり 復習しておきなさい",
+        "definition": "so make sure you review everything you've already learned.",
+        "timestamp": "0:15:42",
+        "audio": "/audio/27/0.15.42.mp3"
+    },
+    "180": {
+        "speaker": "MASAKI",
+        "character": "は～い",
+        "definition": "Got it!",
+        "timestamp": "0:15:44",
+        "audio": "/audio/27/0.15.44.mp3"
+    },
+    "181": {
+        "speaker": "MASAKI",
+        "character": "あ でも… それなら みんなで コーヒーの実を食べたほうが",
+        "definition": "Oh, but wouldn't it be good money if you all ate the coffee cherries then?",
+        "timestamp": "0:15:46",
+        "audio": "/audio/27/0.15.46.mp3"
+    },
+    "182": {
+        "speaker": "MAMA RS",
+        "character": "気づかなかったわ",
+        "definition": "It never crossed my mind!",
+        "timestamp": "0:15:59",
+        "audio": "/audio/27/0.15.59.mp3"
+    },
+    "183": {
+        "speaker": "MAMA RS",
+        "character": "マサキ なかなか 頭いいわね",
+        "definition": "You're quite clever, Masaki!",
+        "timestamp": "0:16:01",
+        "audio": "/audio/27/0.16.01.mp3"
+    },
+    "184": {
+        "speaker": "MASAKI",
+        "character": "いや… 冗談ですって",
+        "definition": "Er, I was kidding...",
+        "timestamp": "0:16:04",
+        "audio": "/audio/27/0.16.04.mp3"
+    },
+    "185": {
+        "speaker": "MAMA RS",
+        "character": "どんどん食べて",
+        "definition": "Keep eating!",
+        "timestamp": "0:16:06",
+        "audio": "/audio/27/0.16.06.mp3"
+    },
+    "186": {
+        "speaker": "MAMA RS",
+        "character": "どんどん出して",
+        "definition": "Keep excreting them!",
+        "timestamp": "0:16:08",
+        "audio": "/audio/27/0.16.08.mp3"
+    },
+    "187": {
+        "speaker": "MAMA RS",
+        "character": "どんどん儲けるわよ～",
+        "definition": "We'll make a fortune! Come on!",
+        "timestamp": "0:16:09",
+        "audio": "/audio/27/0.16.09.mp3"
+    },
+    "188": {
+        "speaker": "MASAKI",
+        "character": "あ… いや…",
+        "definition": "Um...",
+        "timestamp": "0:16:11",
+        "audio": "/audio/27/0.16.11.mp3"
+    },
+    "189": {
+        "speaker": "TREE",
+        "character": "豆を 食べないでほしいんだな",
+        "definition": "I'd prefer that you don't eat the beans.",
+        "timestamp": "0:16:13",
+        "audio": "/audio/27/0.16.13.mp3"
+    },
+    "190": {
+        "speaker": "GRIZZLY",
+        "character": "なに…",
+        "definition": "What?",
+        "timestamp": "0:16:35",
+        "audio": "/audio/27/0.16.35.mp3"
+    },
+    "191": {
+        "speaker": "TIGER",
+        "character": "予告ホームラン…",
+        "definition": "A called shot?",
+        "timestamp": "0:16:36",
+        "audio": "/audio/27/0.16.36.mp3"
+    },
+    "192": {
+        "speaker": "POLAR BEAR",
+        "character": "一郎くんと約束したんだ",
+        "definition": "I promised Ichiro.",
+        "timestamp": "0:16:39",
+        "audio": "/audio/27/0.16.39.mp3"
+    },
+    "193": {
+        "speaker": "PANDA",
+        "character": "一郎くんって",
+        "definition": "Ichiro?",
+        "timestamp": "0:16:42",
+        "audio": "/audio/27/0.16.42.mp3"
+    },
+    "194": {
+        "speaker": "LLAMA",
+        "character": "誰ですかね",
+        "definition": "I wonder who that is.",
+        "timestamp": "0:16:44",
+        "audio": "/audio/27/0.16.44.mp3"
+    },
+    "195": {
+        "speaker": "POLAR BEAR",
+        "character": "一郎くんは不治の病で入院してるんだ",
+        "definition": "Ichiro is in the hospital with an incurable disease.",
+        "timestamp": "0:16:46",
+        "audio": "/audio/27/0.16.46.mp3"
+    },
+    "196": {
+        "speaker": "POLAR BEAR",
+        "character": "その一郎くんが 僕のために ホームランを打ってくださいって",
+        "definition": "Ichiro said, \"Please hit a home run for me.",
+        "timestamp": "0:16:51",
+        "audio": "/audio/27/0.16.51.mp3"
+    },
+    "197": {
+        "speaker": "POLAR BEAR",
+        "character": "プロ野球選手のシロクマさんだけが 頼りですって",
+        "definition": "I can only count on you, Polar Bear, the professional baseball player.\" It's starting again...",
+        "timestamp": "0:16:57",
+        "audio": "/audio/27/0.16.57.mp3"
+    },
+    "198": {
+        "speaker": "POLAR BEAR",
+        "character": "僕は約束どおり 今からホームランを打った",
+        "definition": "And as promised, I just now hit a home run.",
+        "timestamp": "0:17:06",
+        "audio": "/audio/27/0.17.06.mp3"
+    },
+    "199": {
+        "speaker": "SASAKO",
+        "character": "今から 予言ですかね…",
+        "definition": "Just now? I wonder if that's a premonition?",
+        "timestamp": "0:17:11",
+        "audio": "/audio/27/0.17.11.mp3"
+    },
+    "200": {
+        "speaker": "POLAR BEAR",
+        "character": "ホームランに勇気をもらった 一郎くんは",
+        "definition": "Emboldened by my home run,",
+        "timestamp": "0:17:15",
+        "audio": "/audio/27/0.17.15.mp3"
+    },
+    "201": {
+        "speaker": "POLAR BEAR",
+        "character": "その後甲子園で優勝した",
+        "definition": "Ichiro would go on to win at Koushien.",
+        "timestamp": "0:17:18",
+        "audio": "/audio/27/0.17.18.mp3"
+    },
+    "202": {
+        "speaker": "LLAMA",
+        "character": "不治の病じゃなかったんですかね",
+        "definition": "I thought he had an incurable disease?",
+        "timestamp": "0:17:22",
+        "audio": "/audio/27/0.17.22.mp3"
+    },
+    "203": {
+        "speaker": "POLAR BEAR",
+        "character": "そして 今では メジャーリーグで大活躍している",
+        "definition": "And currently, he's a star in Major League Baseball.",
+        "timestamp": "0:17:25",
+        "audio": "/audio/27/0.17.25.mp3"
+    },
+    "204": {
+        "speaker": "PENGUIN",
+        "character": "は～い はいは～い",
+        "definition": "All right, all right. Let's get a move on and continue the game.",
+        "timestamp": "0:17:30",
+        "audio": "/audio/27/0.17.30.mp3"
+    },
+    "205": {
+        "speaker": "POLAR BEAR",
+        "character": "第２話 ダルくんとの約束",
+        "definition": "Episode 2: My Promise with Dar. The end! What a great story. Is he trying to get to us mentally?",
+        "timestamp": "0:17:36",
+        "audio": "/audio/27/0.17.36.mp3"
+    },
+    "206": {
+        "speaker": "ALLIGATOR",
+        "character": "こざかしいマネを",
+        "definition": "He thinks he's clever.",
+        "timestamp": "0:17:52",
+        "audio": "/audio/27/0.17.52.mp3"
+    },
+    "207": {
+        "speaker": "GRIZZLY",
+        "character": "よかったな… 一郎くん",
+        "definition": "Thank goodness, Ichiro... Polar Bear, you're the Shakespeare of the 21st century! However,",
+        "timestamp": "0:17:54",
+        "audio": "/audio/27/0.17.54.mp3"
+    },
+    "208": {
+        "speaker": "GRIZZLY",
+        "character": "野球は筋書きのないドラマだぜ",
+        "definition": "baseball is a drama without a set plot!",
+        "timestamp": "0:18:08",
+        "audio": "/audio/27/0.18.08.mp3"
+    },
+    "209": {
+        "speaker": "GRIZZLY",
+        "character": "お前の筋書きどおりには… いかねえんだよ",
+        "definition": "Things won't go as you planned!",
+        "timestamp": "0:18:11",
+        "audio": "/audio/27/0.18.11.mp3"
+    },
+    "210": {
+        "speaker": "GRIZZLY",
+        "character": "打てるかぁ～",
+        "definition": "Just try and hit it!",
+        "timestamp": "0:18:17",
+        "audio": "/audio/27/0.18.17.mp3"
+    },
+    "211": {
+        "speaker": "HANDA",
+        "character": "ストライク",
+        "definition": "Strike!",
+        "timestamp": "0:18:23",
+        "audio": "/audio/27/0.18.23.mp3"
+    },
+    "212": {
+        "speaker": "WOLF",
+        "character": "さすが マスター",
+        "definition": "Great job, Boss!",
+        "timestamp": "0:18:26",
+        "audio": "/audio/27/0.18.26.mp3"
+    },
+    "213": {
+        "speaker": "TIGER",
+        "character": "最高だぜ",
+        "definition": "You're awesome! How's that? Not bad, Grizzly.",
+        "timestamp": "0:18:28",
+        "audio": "/audio/27/0.18.28.mp3"
+    },
+    "214": {
+        "speaker": "GRIZZLY",
+        "character": "このまま 三球三振だ～",
+        "definition": "And I'm going to strike you out! Victory beers sure are something else!",
+        "timestamp": "0:18:35",
+        "audio": "/audio/27/0.18.35.mp3"
+    },
+    "215": {
+        "speaker": "PANDA",
+        "character": "勝利の笹も おいしいよ",
+        "definition": "The victory bamboo grass is delicious, too.",
+        "timestamp": "0:18:59",
+        "audio": "/audio/27/0.18.59.mp3"
+    },
+    "216": {
+        "speaker": "LLAMA",
+        "character": "勝利の草も おいしいです",
+        "definition": "So is the victory grass.",
+        "timestamp": "0:19:02",
+        "audio": "/audio/27/0.19.02.mp3"
+    },
+    "217": {
+        "speaker": "TIGER",
+        "character": "まだ 食べるのか",
+        "definition": "You're still eating?",
+        "timestamp": "0:19:04",
+        "audio": "/audio/27/0.19.04.mp3"
+    },
+    "218": {
+        "speaker": "LLAMA",
+        "character": "しろくまカフェの草は別腹ですから",
+        "definition": "I always have room for the grass at Polar Bear's Café.",
+        "timestamp": "0:19:07",
+        "audio": "/audio/27/0.19.07.mp3"
+    },
+    "219": {
+        "speaker": "WOLF",
+        "character": "パスタも うまいな",
+        "definition": "The pasta's pretty good.",
+        "timestamp": "0:19:10",
+        "audio": "/audio/27/0.19.10.mp3"
+    },
+    "220": {
+        "speaker": "LION",
+        "character": "このシャケも案外イケるぜ",
+        "definition": "The salmon's not bad, either.",
+        "timestamp": "0:19:12",
+        "audio": "/audio/27/0.19.12.mp3"
+    },
+    "221": {
+        "speaker": "GRIZZLY",
+        "character": "おかわり",
+        "definition": "Another!",
+        "timestamp": "0:19:21",
+        "audio": "/audio/27/0.19.21.mp3"
+    },
+    "222": {
+        "speaker": "SASAKO",
+        "character": "は～い",
+        "definition": "Coming right up!",
+        "timestamp": "0:19:22",
+        "audio": "/audio/27/0.19.22.mp3"
+    },
+    "223": {
+        "speaker": "GRIZZLY",
+        "character": "くっそ～ 炎上だ",
+        "definition": "Damn it. I'm gonna burn it up!",
+        "timestamp": "0:19:24",
+        "audio": "/audio/27/0.19.24.mp3"
+    },
+    "224": {
+        "speaker": "GRIZZLY",
+        "character": "今日は ガンガン飲むぞ～",
+        "definition": "I'm gonna drink my heart out today!",
+        "timestamp": "0:19:26",
+        "audio": "/audio/27/0.19.26.mp3"
+    },
+    "225": {
+        "speaker": "POLAR BEAR",
+        "character": "草野球で負けたくらいで 炎上するなんて",
+        "definition": "It's rather childish of you to get all fired up",
+        "timestamp": "0:19:29",
+        "audio": "/audio/27/0.19.29.mp3"
+    },
+    "226": {
+        "speaker": "POLAR BEAR",
+        "character": "おとなげないよ",
+        "definition": "over losing a field baseball game.",
+        "timestamp": "0:19:32",
+        "audio": "/audio/27/0.19.32.mp3"
+    },
+    "227": {
+        "speaker": "GRIZZLY",
+        "character": "おとなげないのは お前のほうだろ",
+        "definition": "You're the one who's childish! Why's that?",
+        "timestamp": "0:19:34",
+        "audio": "/audio/27/0.19.34.mp3"
+    },
+    "228": {
+        "speaker": "GRIZZLY",
+        "character": "なんで",
+        "definition": "What do you mean, \"why\"?!",
+        "timestamp": "0:19:37",
+        "audio": "/audio/27/0.19.37.mp3"
+    },
+    "229": {
+        "speaker": "GRIZZLY",
+        "character": "あんな手で勝ちやがって",
+        "definition": "Look how you won the game!",
+        "timestamp": "0:19:39",
+        "audio": "/audio/27/0.19.39.mp3"
+    },
+    "230": {
+        "speaker": "GRIZZLY",
+        "character": "打てるか～",
+        "definition": "Just try and hit it!",
+        "timestamp": "0:19:43",
+        "audio": "/audio/27/0.19.43.mp3"
+    },
+    "231": {
+        "speaker": "POLAR BEAR",
+        "character": "タイム",
+        "definition": "Time out!",
+        "timestamp": "0:19:45",
+        "audio": "/audio/27/0.19.45.mp3"
+    },
+    "232": {
+        "speaker": "POLAR BEAR",
+        "character": "バッター交代",
+        "definition": "We're changing batters.",
+        "timestamp": "0:19:49",
+        "audio": "/audio/27/0.19.49.mp3"
+    },
+    "233": {
+        "speaker": "POLAR BEAR",
+        "character": "代打 エゾリスママ",
+        "definition": "Pinch hitter: Mama Red Squirrel!",
+        "timestamp": "0:19:52",
+        "audio": "/audio/27/0.19.52.mp3"
+    },
+    "234": {
+        "speaker": "MAMA RS",
+        "character": "えっ 私",
+        "definition": "Huh? Me?",
+        "timestamp": "0:19:55",
+        "audio": "/audio/27/0.19.55.mp3"
+    },
+    "235": {
+        "speaker": "MAMA RS",
+        "character": "お… 重いわ… 重いわ… お おも… 重いわ",
+        "definition": "Heavy... This is heavy! H-Heavy!",
+        "timestamp": "0:19:58",
+        "audio": "/audio/27/0.19.58.mp3"
+    },
+    "236": {
+        "speaker": "SASAKO",
+        "character": "エゾリスママさ～ん",
+        "definition": "Mama Red Squirrel!",
+        "timestamp": "0:20:03",
+        "audio": "/audio/27/0.20.03.mp3"
+    },
+    "237": {
+        "speaker": "GRIZZLY",
+        "character": "おいおい シロクマ ゲームを捨てたのか",
+        "definition": "What the hell, Polar Bear? Are you throwing the game?",
+        "timestamp": "0:20:06",
+        "audio": "/audio/27/0.20.06.mp3"
+    },
+    "238": {
+        "speaker": "GRIZZLY",
+        "character": "こんな ちっこいのが 打てるわけねえだろ",
+        "definition": "There's no way someone so tiny can hit the ball!",
+        "timestamp": "0:20:09",
+        "audio": "/audio/27/0.20.09.mp3"
+    },
+    "239": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:20:13",
+        "audio": "/audio/27/0.20.13.mp3"
+    },
+    "240": {
+        "speaker": "GRIZZLY",
+        "character": "くっそ～",
+        "definition": "Damn it.",
+        "timestamp": "0:20:16",
+        "audio": "/audio/27/0.20.16.mp3"
+    },
+    "241": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:20:20",
+        "audio": "/audio/27/0.20.20.mp3"
+    },
+    "242": {
+        "speaker": "HANDA",
+        "character": "ボール",
+        "definition": "Ball!",
+        "timestamp": "0:20:22",
+        "audio": "/audio/27/0.20.22.mp3"
+    },
+    "243": {
+        "speaker": "HANDA",
+        "character": "ボール フォアボール",
+        "definition": "Ball! Four balls! Damn it!",
+        "timestamp": "0:20:24",
+        "audio": "/audio/27/0.20.24.mp3"
+    },
+    "244": {
+        "speaker": "ANTEATER",
+        "character": "やった～",
+        "definition": "Awesome! That walk scored us another run!",
+        "timestamp": "0:20:28",
+        "audio": "/audio/27/0.20.28.mp3"
+    },
+    "245": {
+        "speaker": "PANDA",
+        "character": "やった～",
+        "definition": "{\\a6}Wow, that's amazing!",
+        "timestamp": "0:20:28",
+        "audio": "/audio/27/0.20.28.mp3"
+    },
+    "246": {
+        "speaker": "GRIZZLY",
+        "character": "ストライクゾーンが 小さすぎるじゃねえ",
+        "definition": "Her strike zone is too small.",
+        "timestamp": "0:20:32",
+        "audio": "/audio/27/0.20.32.mp3"
+    },
+    "247": {
+        "speaker": "GRIZZLY",
+        "character": "だが 次は そうはいかないぜ",
+        "definition": "But that won't happen again.",
+        "timestamp": "0:20:35",
+        "audio": "/audio/27/0.20.35.mp3"
+    },
+    "248": {
+        "speaker": "POLAR BEAR",
+        "character": "代打 エゾリス母",
+        "definition": "Pinch-hitter: Mother Red Squirrel.",
+        "timestamp": "0:20:39",
+        "audio": "/audio/27/0.20.39.mp3"
+    },
+    "249": {
+        "speaker": "GRIZZLY",
+        "character": "なに～っ",
+        "definition": "What?! I'll get it this time...",
+        "timestamp": "0:20:42",
+        "audio": "/audio/27/0.20.42.mp3"
+    },
+    "250": {
+        "speaker": "POLAR BEAR",
+        "character": "代打 エゾリス母ちゃん",
+        "definition": "Pinch-hitter: Momma Red Squirrel.",
+        "timestamp": "0:20:50",
+        "audio": "/audio/27/0.20.50.mp3"
+    },
+    "251": {
+        "speaker": "HANDA",
+        "character": "フォアボール",
+        "definition": "Four balls!",
+        "timestamp": "0:20:55",
+        "audio": "/audio/27/0.20.55.mp3"
+    },
+    "252": {
+        "speaker": "POLAR BEAR",
+        "character": "代打 エゾリスおかん",
+        "definition": "Pinch-hitter: Mum Red Squirrel.",
+        "timestamp": "0:20:58",
+        "audio": "/audio/27/0.20.58.mp3"
+    },
+    "253": {
+        "speaker": "GRIZZLY",
+        "character": "シロクマ～",
+        "definition": "Polar Bear!",
+        "timestamp": "0:21:01",
+        "audio": "/audio/27/0.21.01.mp3"
+    },
+    "254": {
+        "speaker": "HANDA",
+        "character": "ボール フォアボール",
+        "definition": "Ball! Four balls! Yay!",
+        "timestamp": "0:21:11",
+        "audio": "/audio/27/0.21.11.mp3"
+    },
+    "255": {
+        "speaker": "HANDA",
+        "character": "ゲームセット",
+        "definition": "That's game!",
+        "timestamp": "0:21:18",
+        "audio": "/audio/27/0.21.18.mp3"
+    },
+    "256": {
+        "speaker": "GRIZZLY",
+        "character": "卑怯な作戦 使いやがって～",
+        "definition": "Your plan was underhanded!",
+        "timestamp": "0:21:21",
+        "audio": "/audio/27/0.21.21.mp3"
+    },
+    "257": {
+        "speaker": "POLAR BEAR",
+        "character": "知的な作戦って言ってよ",
+        "definition": "You mean a clever plan.",
+        "timestamp": "0:21:24",
+        "audio": "/audio/27/0.21.24.mp3"
+    },
+    "258": {
+        "speaker": "GRIZZLY",
+        "character": "くそっ",
+        "definition": "Damn it!",
+        "timestamp": "0:21:26",
+        "audio": "/audio/27/0.21.26.mp3"
+    },
+    "259": {
+        "speaker": "GRIZZLY",
+        "character": "ったくよ～",
+        "definition": "That ass...",
+        "timestamp": "0:21:30",
+        "audio": "/audio/27/0.21.30.mp3"
+    },
+    "260": {
+        "speaker": "SASAKO",
+        "character": "まぁまぁ おかわり どうぞ",
+        "definition": "Now, now. Here's another.",
+        "timestamp": "0:21:32",
+        "audio": "/audio/27/0.21.32.mp3"
+    },
+    "261": {
+        "speaker": "LION",
+        "character": "マスター",
+        "definition": "Boss.",
+        "timestamp": "0:21:34",
+        "audio": "/audio/27/0.21.34.mp3"
+    },
+    "262": {
+        "speaker": "WOLF",
+        "character": "クールダウン クールダウン",
+        "definition": "Cool down, cool down.",
+        "timestamp": "0:21:36",
+        "audio": "/audio/27/0.21.36.mp3"
+    },
+    "263": {
+        "speaker": "PENGUIN",
+        "character": "試合が終われば ノーサイド",
+        "definition": "There are no sides after the game is done.",
+        "timestamp": "0:21:38",
+        "audio": "/audio/27/0.21.38.mp3"
+    },
+    "264": {
+        "speaker": "PANDA",
+        "character": "楽しかったね～",
+        "definition": "It was so much fun!",
+        "timestamp": "0:21:40",
+        "audio": "/audio/27/0.21.40.mp3"
+    },
+    "265": {
+        "speaker": "POLAR BEAR",
+        "character": "また やろうね グリズリーくん",
+        "definition": "Let's play again sometime, Grizzly.",
+        "timestamp": "0:21:43",
+        "audio": "/audio/27/0.21.43.mp3"
+    },
+    "266": {
+        "speaker": "GRIZZLY",
+        "character": "今度は完全燃焼してやるからな",
+        "definition": "Next time, the game will be ours. You better be prepared!",
+        "timestamp": "0:21:48",
+        "audio": "/audio/27/0.21.48.mp3"
+    },
+    "267": {
+        "speaker": "POLAR BEAR",
+        "character": "楽しみにしてるよ",
+        "definition": "I'll look forward to it.",
+        "timestamp": "0:21:54",
+        "audio": "/audio/27/0.21.54.mp3"
+    },
+    "268": {
+        "speaker": "SLOTH",
+        "character": "お～ ま～ た～ せ～",
+        "definition": "I'm... here...",
+        "timestamp": "0:21:57",
+        "audio": "/audio/27/0.21.57.mp3"
+    },
+    "269": {
+        "speaker": "SLOTH",
+        "character": "プレイ ボ～ル",
+        "definition": "Play... ball...",
+        "timestamp": "0:22:02",
+        "audio": "/audio/27/0.22.02.mp3"
+    },
+    "270": {
+        "speaker": "SLOTH",
+        "character": "はやく～ はじめようよ～",
+        "definition": "Let's hurry... and start...",
+        "timestamp": "0:22:06",
+        "audio": "/audio/27/0.22.06.mp3"
+    },
+    "271": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:23:58",
+        "audio": "/audio/27/0.23.58.mp3"
+    },
+    "272": {
+        "speaker": "PENGUIN",
+        "character": "何 パンダ君",
+        "definition": "What is it, Panda? What's that silver thing you put curry into called again?",
+        "timestamp": "0:23:59",
+        "audio": "/audio/27/0.23.59.mp3"
+    },
+    "273": {
+        "speaker": "PENGUIN",
+        "character": "名前あるの あれ",
+        "definition": "Does it actually have a name? All right, next question.",
+        "timestamp": "0:24:04",
+        "audio": "/audio/27/0.24.04.mp3"
+    },
+    "274": {
+        "speaker": "PENGUIN",
+        "character": "気になるよ 答え教えて",
+        "definition": "Now I'm curious, tell me.",
+        "timestamp": "0:24:07",
+        "audio": "/audio/27/0.24.07.mp3"
+    },
+    "275": {
+        "speaker": "PANDA",
+        "character": "実家に帰ったほうがいいんじゃないかな",
+        "definition": "I think you should go back to your parents' house.",
+        "timestamp": "0:24:09",
+        "audio": "/audio/27/0.24.09.mp3"
+    },
+    "276": {
+        "speaker": "PENGUIN",
+        "character": "僕の生き方の答えじゃなくてさあ",
+        "definition": "I'm not asking you how I should live my life.",
+        "timestamp": "0:24:12",
+        "audio": "/audio/27/0.24.12.mp3"
+    },
+    "277": {
+        "speaker": "PENGUIN",
+        "character": "白熊君 終わろ",
+        "definition": "Let's end this, Polar Bear.",
+        "timestamp": "0:24:14",
+        "audio": "/audio/27/0.24.14.mp3"
+    },
+    "278": {
+        "speaker": "POLAR BEAR",
+        "character": "来週のしろくまカフェは",
+        "definition": "Next week's Polar Bear's Café",
+        "timestamp": "0:24:16",
+        "audio": "/audio/27/0.24.16.mp3"
+    },
+    "279": {
+        "speaker": "POLAR BEAR",
+        "character": "モールス信号でお送りします",
+        "definition": "will be presented to you in Morse code.",
+        "timestamp": "0:24:18",
+        "audio": "/audio/27/0.24.18.mp3"
+    },
+    "280": {
+        "speaker": "PENGUIN",
+        "character": "伝わらないかな",
+        "definition": "I don't think they'd get it.",
+        "timestamp": "0:24:20",
+        "audio": "/audio/27/0.24.20.mp3"
+    },
+    "281": {
+        "speaker": "PENGUIN",
+        "character": "普通に送ろう",
+        "definition": "Let's just present it normally.",
+        "timestamp": "0:24:21",
+        "audio": "/audio/27/0.24.21.mp3"
+    },
+    "282": {
+        "speaker": "SASAKO",
+        "character": "お楽しみに",
+        "definition": "Enjoy!",
+        "timestamp": "0:24:22",
+        "audio": "/audio/27/0.24.22.mp3"
+    }
+}

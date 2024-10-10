@@ -1,0 +1,1412 @@
+{
+    "1": {
+        "speaker": "LLAMA",
+        "japanese": "{\\an8}草ですか いいですねぇ 草",
+        "english": "Grass, huh? Grass is great, isn't it?"
+    },
+    "2": {
+        "speaker": "PANDA",
+        "japanese": "{\\an8}え～ 草より笹のほうがいいよ",
+        "english": "What? Bamboo grass is much better than regular grass."
+    },
+    "3": {
+        "speaker": "SASAKO",
+        "japanese": "{\\an8}いらっしゃい",
+        "english": "Welcome."
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "japanese": "食べ物じゃなくて",
+        "english": "We're not talking about eating it."
+    },
+    "5": {
+        "speaker": "PENGUIN",
+        "japanese": "草野球の話だよ",
+        "english": "We're talking about field baseball."
+    },
+    "6": {
+        "speaker": "PANDA",
+        "japanese": "草野球",
+        "english": "Field baseball?"
+    },
+    "7": {
+        "speaker": "LLAMA",
+        "japanese": "みんなで野球をしながら 草を食べるんですよ",
+        "english": "We all eat grass while playing baseball."
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "japanese": "いや 食べないよ",
+        "english": "No, we don't."
+    },
+    "9": {
+        "speaker": "SASAKO",
+        "japanese": "今度 カフェのチームと グリズリーさんのチームで野球をするんだよ",
+        "english": "The café team will be playing baseball against Mr. Grizzly's team soon."
+    },
+    "10": {
+        "speaker": "POLAR BEAR",
+        "japanese": "グリズリーくんから 招待状をもらったんだよ",
+        "english": "Grizzly gave us an invitation."
+    },
+    "11": {
+        "speaker": "PANDA",
+        "japanese": "招待状",
+        "english": "An invitation {\\i1}(shoutaijou){\\i0}?"
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "japanese": "それは 名古屋城",
+        "english": "That would be Nagoya Castle {\\i1}(Nagoya jou){\\i0}."
+    },
+    "13": {
+        "speaker": "PENGUIN",
+        "japanese": "それは 受付嬢",
+        "english": "That would be a receptionist {\\i1}(uketsukejou){\\i0}."
+    },
+    "14": {
+        "speaker": "PENGUIN",
+        "japanese": "それは 年賀状",
+        "english": "That would be a New Year's card {\\i1}(nengajou){\\i0}."
+    },
+    "15": {
+        "speaker": "PENGUIN",
+        "japanese": "招待状でしょ シロクマくん",
+        "english": "An invitation, Polar Bear."
+    },
+    "16": {
+        "speaker": "POLAR BEAR",
+        "japanese": "うん これこれ ほら",
+        "english": "Yes, it's right here. See?"
+    },
+    "17": {
+        "speaker": "PENGUIN",
+        "japanese": "なんか ちょっと違ってない",
+        "english": "I don't think that's what you think it is."
+    },
+    "18": {
+        "speaker": "GRIZZLY",
+        "japanese": "ふれあい野球場にて決闘を申し込む",
+        "english": "I hereby challenge you to a duel at the petting zoo baseball field."
+    },
+    "19": {
+        "speaker": "GRIZZLY",
+        "japanese": "炎上 炎上",
+        "english": "Burn it up! Burn it up! Wow, so you're having a duel."
+    },
+    "20": {
+        "speaker": "PENGUIN",
+        "japanese": "野球だよ",
+        "english": "We're talking about a baseball game. Burn it up, Wild Animals!"
+    },
+    "21": {
+        "speaker": "GRIZZLY",
+        "japanese": "{\\an8}炎上 炎上 炎上 炎上",
+        "english": "Burn it up, burn it up! Burn it up, burn it up!"
+    },
+    "22": {
+        "speaker": "PANDA",
+        "japanese": "ワイルドで かっこいい",
+        "english": "They're so wild and cool!"
+    },
+    "23": {
+        "speaker": "POLAR BEAR",
+        "japanese": "野生の王国って感じだね",
+        "english": "It's like a wild kingdom."
+    },
+    "24": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ポーラーベアーズはのんびりいくよ",
+        "english": "The Polar Bears are going to take it easy."
+    },
+    "25": {
+        "speaker": "PANDA",
+        "japanese": "は～い",
+        "english": "Okay."
+    },
+    "26": {
+        "speaker": "PANDA",
+        "japanese": "プロにスカウトされたら どうしよう",
+        "english": "I wonder what I should do if I get scouted to the pros."
+    },
+    "27": {
+        "speaker": "PENGUIN",
+        "japanese": "されないから それよりパンダくん",
+        "english": "You won't need to worry about that. More importantly, Panda,"
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "japanese": "キミはライトでしょ",
+        "english": "you're playing right field, aren't you?"
+    },
+    "29": {
+        "speaker": "PANDA",
+        "japanese": "レッサーパンダくんが代わってくれたんだよ",
+        "english": "Lesser Panda switched with me."
+    },
+    "30": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ レッサーパンダくん 本当にライトでいいの",
+        "english": "What? Are you sure you're okay with playing right field, Lesser Panda?"
+    },
+    "31": {
+        "speaker": "LESSER",
+        "japanese": "はい",
+        "english": "Yes."
+    },
+    "32": {
+        "speaker": "LESSER",
+        "japanese": "パンダくんは動物界のヒマワリ",
+        "english": "Panda is the sunflower of the animal world."
+    },
+    "33": {
+        "speaker": "LESSER",
+        "japanese": "僕はひっそりと咲く月見草ですから",
+        "english": "I'm an evening primrose that blooms quietly."
+    },
+    "34": {
+        "speaker": "PENGUIN",
+        "japanese": "そ… そうなの",
+        "english": "R-Really?"
+    },
+    "35": {
+        "speaker": "PANDA",
+        "japanese": "しまっていこう",
+        "english": "Let's bring it in! I wanted to clean my fan today"
+    },
+    "36": {
+        "speaker": "HANDA",
+        "japanese": "今日は 換気扇の掃除したかったのにな～",
+        "english": "since I finally had a day off."
+    },
+    "37": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ よろしくね 半田さん",
+        "english": "We're counting on you, Mr. Handa."
+    },
+    "38": {
+        "speaker": "HANDA",
+        "japanese": "プレイボール",
+        "english": "Play ball! You seem rather into it, Mr. Handa."
+    },
+    "39": {
+        "speaker": "TIGER",
+        "japanese": "草食系の球なんか ちょろい ちょろい",
+        "english": "Them vegetarians ain't got nothin'!"
+    },
+    "40": {
+        "speaker": "LION",
+        "japanese": "肉食系のパワーを 見せつけてやれ～",
+        "english": "Show 'em what us carnivores are made of!"
+    },
+    "41": {
+        "speaker": "WOLF",
+        "japanese": "まかせて",
+        "english": "Leave it to me. What?!"
+    },
+    "42": {
+        "speaker": "PANDA",
+        "japanese": "僕の球は打てないよ",
+        "english": "You won't be able to hit my pitches."
+    },
+    "43": {
+        "speaker": "PENGUIN",
+        "japanese": "ダメだよ パンダくん",
+        "english": "No, Panda! Huh?"
+    },
+    "44": {
+        "speaker": "PENGUIN",
+        "japanese": "バッターのいるほうに投げてよ",
+        "english": "You have to throw towards the batter!"
+    },
+    "45": {
+        "speaker": "PANDA",
+        "japanese": "あっちに投げたら 打たれちゃうよ",
+        "english": "But if I throw it that way, he'll hit the ball."
+    },
+    "46": {
+        "speaker": "PENGUIN",
+        "japanese": "それが野球だから",
+        "english": "Well that's what baseball is..."
+    },
+    "47": {
+        "speaker": "PANDA",
+        "japanese": "わかった",
+        "english": "Got it!"
+    },
+    "48": {
+        "speaker": "PANDA",
+        "japanese": "打たれてもいいんだね",
+        "english": "So it's okay if they hit the ball?"
+    },
+    "49": {
+        "speaker": "PENGUIN",
+        "japanese": "打たれないように投げてよ",
+        "english": "Throw it so they won't hit it."
+    },
+    "50": {
+        "speaker": "PANDA",
+        "japanese": "難しいな～",
+        "english": "This is complicated."
+    },
+    "51": {
+        "speaker": "PENGUIN",
+        "japanese": "いいよ キミはもう下がってて",
+        "english": "Forget it. You can step aside."
+    },
+    "52": {
+        "speaker": "LESSER",
+        "japanese": "じゃ… じゃあ僕が",
+        "english": "Th-Then I can..."
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "japanese": "僕が投げるよ",
+        "english": "I'll pitch."
+    },
+    "54": {
+        "speaker": "LESSER",
+        "japanese": "え",
+        "english": "Wha?"
+    },
+    "55": {
+        "speaker": "PENGUIN",
+        "japanese": "魔球南極ブリザードで きりきり舞いさせちゃうからね",
+        "english": "I'll stun them with my amazing pitch, the South Pole Blizzard."
+    },
+    "56": {
+        "speaker": "GRIZZLY",
+        "japanese": "炎上 炎上 俺の打球が火をふくぜ",
+        "english": "Burn it up! Burn it up! My ball's on fire!"
+    },
+    "57": {
+        "speaker": "TIGER",
+        "japanese": "４人 連続ホームランだぜ",
+        "english": "We just got four home runs in a row!"
+    },
+    "58": {
+        "speaker": "WOLF",
+        "japanese": "マスター ナイスバッティング",
+        "english": "Nice batting, Boss."
+    },
+    "59": {
+        "speaker": "GRIZZLY",
+        "japanese": "よ～し この調子でいくぞ",
+        "english": "All right, let's keep it up!"
+    },
+    "60": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん ナイスピッチング",
+        "english": "Nice pitching, Mr. Penguin!"
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "japanese": "このままじゃ まずいね",
+        "english": "At this rate, we're doomed."
+    },
+    "62": {
+        "speaker": "ANTEATER",
+        "japanese": "魔球 南極ブリザードを 早く投げてください",
+        "english": "Please hurry and throw the amazing pitch, the South Pole Blizzard! You know, I'm much better at water polo than baseball."
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ピッチャー 交代ね",
+        "english": "We're switching pitchers. Let's play a good game."
+    },
+    "64": {
+        "speaker": "ALLIGATOR",
+        "japanese": "こりゃ またファンシーなやつだぜ",
+        "english": "Well, isn't he fancy."
+    },
+    "65": {
+        "speaker": "LION",
+        "japanese": "ワイルドにガツンと 打ってっちゃえ",
+        "english": "Get wild and hit it out of the park!"
+    },
+    "66": {
+        "speaker": "GORILLA",
+        "japanese": "俺もホームラン続けていくぜ",
+        "english": "I'm going to continue with another home run."
+    },
+    "67": {
+        "speaker": "HANDA",
+        "japanese": "ストライク",
+        "english": "Strike!"
+    },
+    "68": {
+        "speaker": "LION",
+        "japanese": "チェンジアップ",
+        "english": "A change up?"
+    },
+    "69": {
+        "speaker": "WOLF",
+        "japanese": "どうやって投げてんだ",
+        "english": "How'd he throw that?"
+    },
+    "70": {
+        "speaker": "HANDA",
+        "japanese": "ストライク バッターアウト",
+        "english": "Strike! Batter out!"
+    },
+    "71": {
+        "speaker": "HANDA",
+        "japanese": "ストライク バッターアウト",
+        "english": "Strike! Batter out!"
+    },
+    "72": {
+        "speaker": "HANDA",
+        "japanese": "ストライク バッターアウト",
+        "english": "Strike! Batter out!"
+    },
+    "73": {
+        "speaker": "GRIZZLY",
+        "japanese": "すげえ…",
+        "english": "Incredible..."
+    },
+    "74": {
+        "speaker": "GRIZZLY",
+        "japanese": "小さな巨人だぜ",
+        "english": "He's a tiny giant."
+    },
+    "75": {
+        "speaker": "SASAKO",
+        "japanese": "ペンギンさん 頑張って",
+        "english": "Do your best, Mr. Penguin!"
+    },
+    "76": {
+        "speaker": "PENGUIN",
+        "japanese": "秘打 ペンギンの湖",
+        "english": "Behold! Penguin's Lake! What?"
+    },
+    "77": {
+        "speaker": "GRIZZLY",
+        "japanese": "余裕でアウトだぜ よっ",
+        "english": "Well, that's an easy out! Safe!"
+    },
+    "78": {
+        "speaker": "ANTEATER",
+        "japanese": "ナイスプレーです",
+        "english": "Nice play!"
+    },
+    "79": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん すご～い",
+        "english": "You're amazing, Mr. Penguin!"
+    },
+    "80": {
+        "speaker": "MAMA RS",
+        "japanese": "マサキ～",
+        "english": "Masaki!"
+    },
+    "81": {
+        "speaker": "GORILLA",
+        "japanese": "内角攻めでビビらせてやれ",
+        "english": "Throw it to the inside corner and scare the crap out of him."
+    },
+    "82": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "83": {
+        "speaker": "GORILLA",
+        "japanese": "ビビって振るかと思ったのに",
+        "english": "I thought he'd freak out and swing at it."
+    },
+    "84": {
+        "speaker": "GORILLA",
+        "japanese": "ピクリとも動かねえ",
+        "english": "He didn't even flinch!"
+    },
+    "85": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "86": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "87": {
+        "speaker": "HANDA",
+        "japanese": "ボール フォアボール",
+        "english": "Ball! Four balls!"
+    },
+    "88": {
+        "speaker": "HANDA",
+        "japanese": "パンダくん フォアボールだよ １塁行って",
+        "english": "That was ball four, Panda. Take your base."
+    },
+    "89": {
+        "speaker": "GORILLA",
+        "japanese": "寝てる",
+        "english": "He's asleep!"
+    },
+    "90": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん やったよ～",
+        "english": "Mr. Penguin! I did it!"
+    },
+    "91": {
+        "speaker": "PANDA",
+        "japanese": "{\\an8}ほら～",
+        "english": "{\\a6}See!"
+    },
+    "92": {
+        "speaker": "PENGUIN",
+        "japanese": "結果オーライかな",
+        "english": "Well, he got on base, so I guess it's okay."
+    },
+    "93": {
+        "speaker": "PANDA",
+        "japanese": "結果オーライかな",
+        "english": "{\\a6}I'm awesome!"
+    },
+    "94": {
+        "speaker": "POLAR BEAR",
+        "japanese": "一気に同点に追いつくチャンスだね",
+        "english": "This is our chance to tie up the game."
+    },
+    "95": {
+        "speaker": "MAMA RS",
+        "japanese": "ホームラン打って",
+        "english": "Hit a home run!"
+    },
+    "96": {
+        "speaker": "POLAR BEAR",
+        "japanese": "チャーシューメーン",
+        "english": "Ramen with pork! Damn it!"
+    },
+    "97": {
+        "speaker": "PENGUIN",
+        "japanese": "いった",
+        "english": "There it goes! Nice catch!"
+    },
+    "98": {
+        "speaker": "PENGUIN",
+        "japanese": "タッチアップ",
+        "english": "Tagged up!"
+    },
+    "99": {
+        "speaker": "GRIZZLY",
+        "japanese": "タッチアップ",
+        "english": "What?!"
+    },
+    "100": {
+        "speaker": "HANDA",
+        "japanese": "セーフ",
+        "english": "Safe! Yay!"
+    },
+    "101": {
+        "speaker": "SASAKO",
+        "japanese": "ペンギンさん ナイスプレー",
+        "english": "Nice play, Mr. Penguin! Left field!"
+    },
+    "102": {
+        "speaker": "PENGUIN",
+        "japanese": "あれ",
+        "english": "Huh?"
+    },
+    "103": {
+        "speaker": "PENGUIN",
+        "japanese": "試合中に草食べないでよ",
+        "english": "Stop eating grass during the game!"
+    },
+    "104": {
+        "speaker": "LLAMA",
+        "japanese": "おいしいですよ ペンギンさんも一緒にどうですか",
+        "english": "But it's delicious. Why don't you have some too, Mr. Penguin?"
+    },
+    "105": {
+        "speaker": "PENGUIN",
+        "japanese": "ご飯食べるの試合終わってからにして",
+        "english": "Could you eat after the game?"
+    },
+    "106": {
+        "speaker": "ANTEATER",
+        "japanese": "今度こそホームランです",
+        "english": "This time it's a home run for sure!"
+    },
+    "107": {
+        "speaker": "PENGUIN",
+        "japanese": "レフト～",
+        "english": "Left field!"
+    },
+    "108": {
+        "speaker": "PENGUIN",
+        "japanese": "って ご飯はあとにしてって 言ったでしょ",
+        "english": "Hey! I told you to eat later!"
+    },
+    "109": {
+        "speaker": "LLAMA",
+        "japanese": "食後のデザートですよ",
+        "english": "But I'm having dessert."
+    },
+    "110": {
+        "speaker": "PENGUIN",
+        "japanese": "デザートもあとにして",
+        "english": "Have your dessert later, too! Strike!"
+    },
+    "111": {
+        "speaker": "PENGUIN",
+        "japanese": "寝てる",
+        "english": "He's asleep?!"
+    },
+    "112": {
+        "speaker": "PENGUIN",
+        "japanese": "あれ",
+        "english": "Huh?"
+    },
+    "113": {
+        "speaker": "PENGUIN",
+        "japanese": "コアリクイくんも ご飯はあとにして",
+        "english": "You need to hold off on eating, too, Anteater!"
+    },
+    "114": {
+        "speaker": "PENGUIN",
+        "japanese": "だから デザートもあとにしようよ",
+        "english": "Come on! Eat dessert later! Polar Bear! We can still win with a grand slam!"
+    },
+    "115": {
+        "speaker": "WOLF",
+        "japanese": "そう簡単にいくか",
+        "english": "I don't think so!"
+    },
+    "116": {
+        "speaker": "TIGER",
+        "japanese": "２アウト あと１人だぜ",
+        "english": "They have two outs! Just one more out!"
+    },
+    "117": {
+        "speaker": "SASAKO",
+        "japanese": "ホームラン期待してます",
+        "english": "I hope you get a home run!"
+    },
+    "118": {
+        "speaker": "MAMA RS",
+        "japanese": "サヨナラ勝ちよ～",
+        "english": "Make it a walk-off home run! Hold it! We're changing pitchers. Are they bringing out their secret weapon?"
+    },
+    "119": {
+        "speaker": "LION",
+        "japanese": "頼むぜ マスター",
+        "english": "It's up to you, Boss."
+    },
+    "120": {
+        "speaker": "GRIZZLY",
+        "japanese": "シロクマ",
+        "english": "Polar Bear."
+    },
+    "121": {
+        "speaker": "GRIZZLY",
+        "japanese": "俺の炎のストレートで 打ち取ってやるぜ",
+        "english": "I'll strike you out with my flaming straight ball."
+    },
+    "122": {
+        "speaker": "GRIZZLY",
+        "japanese": "なに",
+        "english": "What?"
+    },
+    "123": {
+        "speaker": "TIGER",
+        "japanese": "予告ホームラン",
+        "english": "A called shot?"
+    },
+    "124": {
+        "speaker": "MASAKI",
+        "japanese": "ジャックコーヒーって なんだ",
+        "english": "What's...  Jacu coffee?! My name's Masaki."
+    },
+    "125": {
+        "speaker": "MASAKI",
+        "japanese": "師匠のキノボリカンガルーさんのもとで",
+        "english": "I'm currently learning how to roast coffee"
+    },
+    "126": {
+        "speaker": "MASAKI",
+        "japanese": "コーヒー焙煎士の修業中です",
+        "english": "under my mentor, Mr. Tree Kangaroo."
+    },
+    "127": {
+        "speaker": "MAMA RS",
+        "japanese": "マサキ知ってる",
+        "english": "Masaki, did you know?"
+    },
+    "128": {
+        "speaker": "MAMA RS",
+        "japanese": "これがコーヒーの実よ",
+        "english": "This is a coffee cherry. Huh? It's red."
+    },
+    "129": {
+        "speaker": "MASAKI",
+        "japanese": "赤いじゃん なんで",
+        "english": "Why? Red means that it's completely ripe."
+    },
+    "130": {
+        "speaker": "MASAKI",
+        "japanese": "豆が熟したらこうなるの",
+        "english": "So when it's ripe, it looks like this?"
+    },
+    "131": {
+        "speaker": "MAMA RS",
+        "japanese": "この赤いコーヒーの実の中にある種がコーヒー豆よ",
+        "english": "The seed within the red cherry is the coffee bean."
+    },
+    "132": {
+        "speaker": "MAMA RS",
+        "japanese": "１つの実の中に２つの種が入ってるのよ",
+        "english": "There are two seeds within the cherry. What?!"
+    },
+    "133": {
+        "speaker": "",
+        "japanese": "コーヒー豆って種だったんだ",
+        "english": "So a coffee bean is a seed? I wonder if this kid will make it... That bird sure comes by a lot."
+    },
+    "134": {
+        "speaker": "MAMA RS",
+        "japanese": "ジャクーさんよ",
+        "english": "That's Mr. Jacu. {Not sure if it's Mr. or Ms...}"
+    },
+    "135": {
+        "speaker": "MASAKI",
+        "japanese": "ふ～ん ジャクーっていうんだ",
+        "english": "Oh, so his name is Jacu."
+    },
+    "136": {
+        "speaker": "MAMA RS",
+        "japanese": "失礼でしょ",
+        "english": "Don't be so rude."
+    },
+    "137": {
+        "speaker": "MAMA RS",
+        "japanese": "ジャクーさんとお呼びなさい",
+        "english": "Call him \"Mr. Jacu.\""
+    },
+    "138": {
+        "speaker": "MASAKI",
+        "japanese": "なんで…",
+        "english": "Why?"
+    },
+    "139": {
+        "speaker": "MAMA RS",
+        "japanese": "大切なお客様なんだから",
+        "english": "He's a very important client. Mind your manners! I've poured us some coffee, so let's take a break!"
+    },
+    "140": {
+        "speaker": "MASAKI",
+        "japanese": "いただきま～す",
+        "english": "Thanks for the coffee! This tastes different than usual."
+    },
+    "141": {
+        "speaker": "MAMA RS",
+        "japanese": "あら 意外と鋭いわね",
+        "english": "My, you're sharper than you look."
+    },
+    "142": {
+        "speaker": "MASAKI",
+        "japanese": "豆の産地が違うとか",
+        "english": "Are the beans from somewhere else?"
+    },
+    "143": {
+        "speaker": "MAMA RS",
+        "japanese": "いいえ 焙煎が違うだけよ",
+        "english": "No, it's just roasted differently."
+    },
+    "144": {
+        "speaker": "MASAKI",
+        "japanese": "ずいぶん変わるんだね",
+        "english": "It tastes completely different."
+    },
+    "145": {
+        "speaker": "MAMA RS",
+        "japanese": "そりゃ そうよ",
+        "english": "Of course! The taste of coffee is determined by the roast!"
+    },
+    "146": {
+        "speaker": "MAMA RS",
+        "japanese": "これを飲み比べてみて",
+        "english": "Here. Compare these two."
+    },
+    "147": {
+        "speaker": "MASAKI",
+        "japanese": "う～ん すっぱくてちょっとえぐい",
+        "english": "It's a little sour and harsh."
+    },
+    "148": {
+        "speaker": "MASAKI",
+        "japanese": "いろんな味がする",
+        "english": "It tastes like a lot of different things..."
+    },
+    "149": {
+        "speaker": "MASAKI",
+        "japanese": "こっちは苦い でも後味はすっきり",
+        "english": "This one is bitter, but finishes smooth."
+    },
+    "150": {
+        "speaker": "MAMA RS",
+        "japanese": "マサキはどっちが好き",
+        "english": "Which one do you like Masaki?"
+    },
+    "151": {
+        "speaker": "MASAKI",
+        "japanese": "後味すっきりのほうが好き",
+        "english": "I like the one that finished smooth."
+    },
+    "152": {
+        "speaker": "MAMA RS",
+        "japanese": "それは 深煎りね",
+        "english": "That would be the darker roast."
+    },
+    "153": {
+        "speaker": "MAMA RS",
+        "japanese": "最初に飲んだのは 浅煎り",
+        "english": "The first was the light roast."
+    },
+    "154": {
+        "speaker": "MAMA RS",
+        "japanese": "ほら 焙煎が浅いから 豆が…",
+        "english": "You see? It wasn't roasted as long..."
+    },
+    "155": {
+        "speaker": "MASAKI",
+        "japanese": "茶色だ",
+        "english": "...so the bean is brown. Exactly. And the bean that's been roasted longer is dark like ink."
+    },
+    "156": {
+        "speaker": "MASAKI",
+        "japanese": "焙煎の深さって 焦げ具合のことかぁ",
+        "english": "So the levels of roasting are determined by how burnt the beans are..."
+    },
+    "157": {
+        "speaker": "MAMA RS",
+        "japanese": "マサキが好きな深煎りは",
+        "english": "Most of the coffee compounds are"
+    },
+    "158": {
+        "speaker": "",
+        "japanese": "コーヒーの成分がほとんど とんでてシンプルな味なの",
+        "english": "gone in the darker roast that you liked, so it produces a simpler taste."
+    },
+    "159": {
+        "speaker": "MAMA RS",
+        "japanese": "コーヒー初心者にオススメね",
+        "english": "I recommend it to coffee beginners."
+    },
+    "160": {
+        "speaker": "MAMA RS",
+        "japanese": "カフェインも少なくなってるからね",
+        "english": "The caffeine content is lower, too."
+    },
+    "161": {
+        "speaker": "MAMA RS",
+        "japanese": "夜に飲むときは 深煎りにしたほうがいいわ",
+        "english": "If you drink coffee at night, it's better to drink a darker roast."
+    },
+    "162": {
+        "speaker": "MASAKI",
+        "japanese": "意外っすね",
+        "english": "How unexpected."
+    },
+    "163": {
+        "speaker": "MASAKI",
+        "japanese": "深煎りのほうが濃そうなのに",
+        "english": "You'd think the darker roast would be stronger. What kind of coffee do you prefer, Master?"
+    },
+    "164": {
+        "speaker": "TREE",
+        "japanese": "ジャクーコーヒーなんだな",
+        "english": "I prefer Jacu coffee."
+    },
+    "165": {
+        "speaker": "MASAKI",
+        "japanese": "ジャクー…",
+        "english": "Jacu..."
+    },
+    "166": {
+        "speaker": "MASAKI",
+        "japanese": "あっ あの鳥",
+        "english": "Oh, that bird!"
+    },
+    "167": {
+        "speaker": "",
+        "japanese": "コーヒーと何か 関係があるんですか",
+        "english": "Does he have something to do with coffee?"
+    },
+    "168": {
+        "speaker": "MAMA RS",
+        "japanese": "そうよ ジャクーコーヒーっていうのはね",
+        "english": "Yes, he does. Jacu coffee is..."
+    },
+    "169": {
+        "speaker": "MAMA RS",
+        "japanese": "ジャクーさんがよく熟した コーヒーの実を食べて",
+        "english": "...the coffee beans collected from Mr. Jacu after he's eaten a fully ripened"
+    },
+    "170": {
+        "speaker": "",
+        "japanese": "フンとして出した種を集めた豆よ",
+        "english": "coffee cherry and excretes it."
+    },
+    "171": {
+        "speaker": "MASAKI",
+        "japanese": "えぇ～ そんなのが おいしいのか～",
+        "english": "What?! That's supposed to be delicious?!"
+    },
+    "172": {
+        "speaker": "TREE",
+        "japanese": "おいしいんだなぁ これが",
+        "english": "It is quite delicious. A hundred grams costs more than 4,000 yen."
+    },
+    "173": {
+        "speaker": "MASAKI",
+        "japanese": "マジで なんで",
+        "english": "Seriously?! Why?! It's expensive because it's rare."
+    },
+    "174": {
+        "speaker": "MAMA RS",
+        "japanese": "同じように ジャコウネコのフンから",
+        "english": "Similarly, there are coffee beans collected from the Asian Palm Civet after it's eaten the coffee cherry."
+    },
+    "175": {
+        "speaker": "MASAKI",
+        "japanese": "コピルクワなんだな",
+        "english": "That would be kopi luwak."
+    },
+    "176": {
+        "speaker": "MASAKI",
+        "japanese": "コーヒー 奥深すぎ",
+        "english": "Coffee is deep, man!"
+    },
+    "177": {
+        "speaker": "MAMA RS",
+        "japanese": "そうよ",
+        "english": "It is."
+    },
+    "178": {
+        "speaker": "",
+        "japanese": "まだまだ勉強することが たくさん あるわよ",
+        "english": "You still have much to learn. We'll teach you a lot more,"
+    },
+    "179": {
+        "speaker": "MAMA RS",
+        "japanese": "しっかり 復習しておきなさい",
+        "english": "so make sure you review everything you've already learned."
+    },
+    "180": {
+        "speaker": "MASAKI",
+        "japanese": "は～い",
+        "english": "Got it!"
+    },
+    "181": {
+        "speaker": "MASAKI",
+        "japanese": "あ でも… それなら みんなで コーヒーの実を食べたほうが",
+        "english": "Oh, but wouldn't it be good money if you all ate the coffee cherries then?"
+    },
+    "182": {
+        "speaker": "MAMA RS",
+        "japanese": "気づかなかったわ",
+        "english": "It never crossed my mind!"
+    },
+    "183": {
+        "speaker": "MAMA RS",
+        "japanese": "マサキ なかなか 頭いいわね",
+        "english": "You're quite clever, Masaki!"
+    },
+    "184": {
+        "speaker": "MASAKI",
+        "japanese": "いや… 冗談ですって",
+        "english": "Er, I was kidding..."
+    },
+    "185": {
+        "speaker": "MAMA RS",
+        "japanese": "どんどん食べて",
+        "english": "Keep eating!"
+    },
+    "186": {
+        "speaker": "MAMA RS",
+        "japanese": "どんどん出して",
+        "english": "Keep excreting them!"
+    },
+    "187": {
+        "speaker": "MAMA RS",
+        "japanese": "どんどん儲けるわよ～",
+        "english": "We'll make a fortune! Come on!"
+    },
+    "188": {
+        "speaker": "MASAKI",
+        "japanese": "あ… いや…",
+        "english": "Um..."
+    },
+    "189": {
+        "speaker": "TREE",
+        "japanese": "豆を 食べないでほしいんだな",
+        "english": "I'd prefer that you don't eat the beans."
+    },
+    "190": {
+        "speaker": "GRIZZLY",
+        "japanese": "なに…",
+        "english": "What?"
+    },
+    "191": {
+        "speaker": "TIGER",
+        "japanese": "予告ホームラン…",
+        "english": "A called shot?"
+    },
+    "192": {
+        "speaker": "POLAR BEAR",
+        "japanese": "一郎くんと約束したんだ",
+        "english": "I promised Ichiro."
+    },
+    "193": {
+        "speaker": "PANDA",
+        "japanese": "一郎くんって",
+        "english": "Ichiro?"
+    },
+    "194": {
+        "speaker": "LLAMA",
+        "japanese": "誰ですかね",
+        "english": "I wonder who that is."
+    },
+    "195": {
+        "speaker": "POLAR BEAR",
+        "japanese": "一郎くんは不治の病で入院してるんだ",
+        "english": "Ichiro is in the hospital with an incurable disease."
+    },
+    "196": {
+        "speaker": "POLAR BEAR",
+        "japanese": "その一郎くんが 僕のために ホームランを打ってくださいって",
+        "english": "Ichiro said, \"Please hit a home run for me."
+    },
+    "197": {
+        "speaker": "POLAR BEAR",
+        "japanese": "プロ野球選手のシロクマさんだけが 頼りですって",
+        "english": "I can only count on you, Polar Bear, the professional baseball player.\" It's starting again..."
+    },
+    "198": {
+        "speaker": "POLAR BEAR",
+        "japanese": "僕は約束どおり 今からホームランを打った",
+        "english": "And as promised, I just now hit a home run."
+    },
+    "199": {
+        "speaker": "SASAKO",
+        "japanese": "今から 予言ですかね…",
+        "english": "Just now? I wonder if that's a premonition?"
+    },
+    "200": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ホームランに勇気をもらった 一郎くんは",
+        "english": "Emboldened by my home run,"
+    },
+    "201": {
+        "speaker": "POLAR BEAR",
+        "japanese": "その後甲子園で優勝した",
+        "english": "Ichiro would go on to win at Koushien."
+    },
+    "202": {
+        "speaker": "LLAMA",
+        "japanese": "不治の病じゃなかったんですかね",
+        "english": "I thought he had an incurable disease?"
+    },
+    "203": {
+        "speaker": "POLAR BEAR",
+        "japanese": "そして 今では メジャーリーグで大活躍している",
+        "english": "And currently, he's a star in Major League Baseball."
+    },
+    "204": {
+        "speaker": "PENGUIN",
+        "japanese": "は～い はいは～い",
+        "english": "All right, all right. Let's get a move on and continue the game."
+    },
+    "205": {
+        "speaker": "POLAR BEAR",
+        "japanese": "第２話 ダルくんとの約束",
+        "english": "Episode 2: My Promise with Dar. The end! What a great story. Is he trying to get to us mentally?"
+    },
+    "206": {
+        "speaker": "ALLIGATOR",
+        "japanese": "こざかしいマネを",
+        "english": "He thinks he's clever."
+    },
+    "207": {
+        "speaker": "GRIZZLY",
+        "japanese": "よかったな… 一郎くん",
+        "english": "Thank goodness, Ichiro... Polar Bear, you're the Shakespeare of the 21st century! However,"
+    },
+    "208": {
+        "speaker": "GRIZZLY",
+        "japanese": "野球は筋書きのないドラマだぜ",
+        "english": "baseball is a drama without a set plot!"
+    },
+    "209": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前の筋書きどおりには… いかねえんだよ",
+        "english": "Things won't go as you planned!"
+    },
+    "210": {
+        "speaker": "GRIZZLY",
+        "japanese": "打てるかぁ～",
+        "english": "Just try and hit it!"
+    },
+    "211": {
+        "speaker": "HANDA",
+        "japanese": "ストライク",
+        "english": "Strike!"
+    },
+    "212": {
+        "speaker": "WOLF",
+        "japanese": "さすが マスター",
+        "english": "Great job, Boss!"
+    },
+    "213": {
+        "speaker": "TIGER",
+        "japanese": "最高だぜ",
+        "english": "You're awesome! How's that? Not bad, Grizzly."
+    },
+    "214": {
+        "speaker": "GRIZZLY",
+        "japanese": "このまま 三球三振だ～",
+        "english": "And I'm going to strike you out! Victory beers sure are something else!"
+    },
+    "215": {
+        "speaker": "PANDA",
+        "japanese": "勝利の笹も おいしいよ",
+        "english": "The victory bamboo grass is delicious, too."
+    },
+    "216": {
+        "speaker": "LLAMA",
+        "japanese": "勝利の草も おいしいです",
+        "english": "So is the victory grass."
+    },
+    "217": {
+        "speaker": "TIGER",
+        "japanese": "まだ 食べるのか",
+        "english": "You're still eating?"
+    },
+    "218": {
+        "speaker": "LLAMA",
+        "japanese": "しろくまカフェの草は別腹ですから",
+        "english": "I always have room for the grass at Polar Bear's Café."
+    },
+    "219": {
+        "speaker": "WOLF",
+        "japanese": "パスタも うまいな",
+        "english": "The pasta's pretty good."
+    },
+    "220": {
+        "speaker": "LION",
+        "japanese": "このシャケも案外イケるぜ",
+        "english": "The salmon's not bad, either."
+    },
+    "221": {
+        "speaker": "GRIZZLY",
+        "japanese": "おかわり",
+        "english": "Another!"
+    },
+    "222": {
+        "speaker": "SASAKO",
+        "japanese": "は～い",
+        "english": "Coming right up!"
+    },
+    "223": {
+        "speaker": "GRIZZLY",
+        "japanese": "くっそ～ 炎上だ",
+        "english": "Damn it. I'm gonna burn it up!"
+    },
+    "224": {
+        "speaker": "GRIZZLY",
+        "japanese": "今日は ガンガン飲むぞ～",
+        "english": "I'm gonna drink my heart out today!"
+    },
+    "225": {
+        "speaker": "POLAR BEAR",
+        "japanese": "草野球で負けたくらいで 炎上するなんて",
+        "english": "It's rather childish of you to get all fired up"
+    },
+    "226": {
+        "speaker": "POLAR BEAR",
+        "japanese": "おとなげないよ",
+        "english": "over losing a field baseball game."
+    },
+    "227": {
+        "speaker": "GRIZZLY",
+        "japanese": "おとなげないのは お前のほうだろ",
+        "english": "You're the one who's childish! Why's that?"
+    },
+    "228": {
+        "speaker": "GRIZZLY",
+        "japanese": "なんで",
+        "english": "What do you mean, \"why\"?!"
+    },
+    "229": {
+        "speaker": "GRIZZLY",
+        "japanese": "あんな手で勝ちやがって",
+        "english": "Look how you won the game!"
+    },
+    "230": {
+        "speaker": "GRIZZLY",
+        "japanese": "打てるか～",
+        "english": "Just try and hit it!"
+    },
+    "231": {
+        "speaker": "POLAR BEAR",
+        "japanese": "タイム",
+        "english": "Time out!"
+    },
+    "232": {
+        "speaker": "POLAR BEAR",
+        "japanese": "バッター交代",
+        "english": "We're changing batters."
+    },
+    "233": {
+        "speaker": "POLAR BEAR",
+        "japanese": "代打 エゾリスママ",
+        "english": "Pinch hitter: Mama Red Squirrel!"
+    },
+    "234": {
+        "speaker": "MAMA RS",
+        "japanese": "えっ 私",
+        "english": "Huh? Me?"
+    },
+    "235": {
+        "speaker": "MAMA RS",
+        "japanese": "お… 重いわ… 重いわ… お おも… 重いわ",
+        "english": "Heavy... This is heavy! H-Heavy!"
+    },
+    "236": {
+        "speaker": "SASAKO",
+        "japanese": "エゾリスママさ～ん",
+        "english": "Mama Red Squirrel!"
+    },
+    "237": {
+        "speaker": "GRIZZLY",
+        "japanese": "おいおい シロクマ ゲームを捨てたのか",
+        "english": "What the hell, Polar Bear? Are you throwing the game?"
+    },
+    "238": {
+        "speaker": "GRIZZLY",
+        "japanese": "こんな ちっこいのが 打てるわけねえだろ",
+        "english": "There's no way someone so tiny can hit the ball!"
+    },
+    "239": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "240": {
+        "speaker": "GRIZZLY",
+        "japanese": "くっそ～",
+        "english": "Damn it."
+    },
+    "241": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "242": {
+        "speaker": "HANDA",
+        "japanese": "ボール",
+        "english": "Ball!"
+    },
+    "243": {
+        "speaker": "HANDA",
+        "japanese": "ボール フォアボール",
+        "english": "Ball! Four balls! Damn it!"
+    },
+    "244": {
+        "speaker": "ANTEATER",
+        "japanese": "やった～",
+        "english": "Awesome! That walk scored us another run!"
+    },
+    "245": {
+        "speaker": "PANDA",
+        "japanese": "やった～",
+        "english": "{\\a6}Wow, that's amazing!"
+    },
+    "246": {
+        "speaker": "GRIZZLY",
+        "japanese": "ストライクゾーンが 小さすぎるじゃねえ",
+        "english": "Her strike zone is too small."
+    },
+    "247": {
+        "speaker": "GRIZZLY",
+        "japanese": "だが 次は そうはいかないぜ",
+        "english": "But that won't happen again."
+    },
+    "248": {
+        "speaker": "POLAR BEAR",
+        "japanese": "代打 エゾリス母",
+        "english": "Pinch-hitter: Mother Red Squirrel."
+    },
+    "249": {
+        "speaker": "GRIZZLY",
+        "japanese": "なに～っ",
+        "english": "What?! I'll get it this time..."
+    },
+    "250": {
+        "speaker": "POLAR BEAR",
+        "japanese": "代打 エゾリス母ちゃん",
+        "english": "Pinch-hitter: Momma Red Squirrel."
+    },
+    "251": {
+        "speaker": "HANDA",
+        "japanese": "フォアボール",
+        "english": "Four balls!"
+    },
+    "252": {
+        "speaker": "POLAR BEAR",
+        "japanese": "代打 エゾリスおかん",
+        "english": "Pinch-hitter: Mum Red Squirrel."
+    },
+    "253": {
+        "speaker": "GRIZZLY",
+        "japanese": "シロクマ～",
+        "english": "Polar Bear!"
+    },
+    "254": {
+        "speaker": "HANDA",
+        "japanese": "ボール フォアボール",
+        "english": "Ball! Four balls! Yay!"
+    },
+    "255": {
+        "speaker": "HANDA",
+        "japanese": "ゲームセット",
+        "english": "That's game!"
+    },
+    "256": {
+        "speaker": "GRIZZLY",
+        "japanese": "卑怯な作戦 使いやがって～",
+        "english": "Your plan was underhanded!"
+    },
+    "257": {
+        "speaker": "POLAR BEAR",
+        "japanese": "知的な作戦って言ってよ",
+        "english": "You mean a clever plan."
+    },
+    "258": {
+        "speaker": "GRIZZLY",
+        "japanese": "くそっ",
+        "english": "Damn it!"
+    },
+    "259": {
+        "speaker": "GRIZZLY",
+        "japanese": "ったくよ～",
+        "english": "That ass..."
+    },
+    "260": {
+        "speaker": "SASAKO",
+        "japanese": "まぁまぁ おかわり どうぞ",
+        "english": "Now, now. Here's another."
+    },
+    "261": {
+        "speaker": "LION",
+        "japanese": "マスター",
+        "english": "Boss."
+    },
+    "262": {
+        "speaker": "WOLF",
+        "japanese": "クールダウン クールダウン",
+        "english": "Cool down, cool down."
+    },
+    "263": {
+        "speaker": "PENGUIN",
+        "japanese": "試合が終われば ノーサイド",
+        "english": "There are no sides after the game is done."
+    },
+    "264": {
+        "speaker": "PANDA",
+        "japanese": "楽しかったね～",
+        "english": "It was so much fun!"
+    },
+    "265": {
+        "speaker": "POLAR BEAR",
+        "japanese": "また やろうね グリズリーくん",
+        "english": "Let's play again sometime, Grizzly."
+    },
+    "266": {
+        "speaker": "GRIZZLY",
+        "japanese": "今度は完全燃焼してやるからな",
+        "english": "Next time, the game will be ours. You better be prepared!"
+    },
+    "267": {
+        "speaker": "POLAR BEAR",
+        "japanese": "楽しみにしてるよ",
+        "english": "I'll look forward to it."
+    },
+    "268": {
+        "speaker": "SLOTH",
+        "japanese": "お～ ま～ た～ せ～",
+        "english": "I'm... here..."
+    },
+    "269": {
+        "speaker": "SLOTH",
+        "japanese": "プレイ ボ～ル",
+        "english": "Play... ball..."
+    },
+    "270": {
+        "speaker": "SLOTH",
+        "japanese": "はやく～ はじめようよ～",
+        "english": "Let's hurry... and start..."
+    },
+    "271": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "272": {
+        "speaker": "PENGUIN",
+        "japanese": "何 パンダ君",
+        "english": "What is it, Panda? What's that silver thing you put curry into called again?"
+    },
+    "273": {
+        "speaker": "PENGUIN",
+        "japanese": "名前あるの あれ",
+        "english": "Does it actually have a name? All right, next question."
+    },
+    "274": {
+        "speaker": "PENGUIN",
+        "japanese": "気になるよ 答え教えて",
+        "english": "Now I'm curious, tell me."
+    },
+    "275": {
+        "speaker": "PANDA",
+        "japanese": "実家に帰ったほうがいいんじゃないかな",
+        "english": "I think you should go back to your parents' house."
+    },
+    "276": {
+        "speaker": "PENGUIN",
+        "japanese": "僕の生き方の答えじゃなくてさあ",
+        "english": "I'm not asking you how I should live my life."
+    },
+    "277": {
+        "speaker": "PENGUIN",
+        "japanese": "白熊君 終わろ",
+        "english": "Let's end this, Polar Bear."
+    },
+    "278": {
+        "speaker": "POLAR BEAR",
+        "japanese": "来週のしろくまカフェは",
+        "english": "Next week's Polar Bear's Café"
+    },
+    "279": {
+        "speaker": "POLAR BEAR",
+        "japanese": "モールス信号でお送りします",
+        "english": "will be presented to you in Morse code."
+    },
+    "280": {
+        "speaker": "PENGUIN",
+        "japanese": "伝わらないかな",
+        "english": "I don't think they'd get it."
+    },
+    "281": {
+        "speaker": "PENGUIN",
+        "japanese": "普通に送ろう",
+        "english": "Let's just present it normally."
+    },
+    "282": {
+        "speaker": "SASAKO",
+        "japanese": "お楽しみに",
+        "english": "Enjoy!"
+    }
+}

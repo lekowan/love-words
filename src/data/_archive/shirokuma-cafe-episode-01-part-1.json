@@ -1,0 +1,912 @@
+{
+  "1": {
+    "character": "笹を食べながらのんびりするのは最高だなぁ",
+    "letter": "Chilling and eating bamboo grass is the best thing ever.",
+    "definition": "笹 を 食べ ながら のんびりする の は 最高 だ なぁ",
+    "pinyinSpace": "ささ を たべ ながら のんびり する の は さいこう だ なぁ",
+    "audio": "/audio/01-1/1.mp3"
+  },
+  "2": {
+    "character": "ちょっと  またこの子は昼間からゴロゴロして",
+    "letter": "Hey now. Look at you, being so lazy so early in the day.",
+    "definition": "ちょっと また この 子 は 昼間 から ゴロゴロして",
+    "pinyinSpace": "ちょっと  また この こ は ひるま から ゴロゴロ して",
+    "audio": "/audio/01-1/2.mp3"
+  },
+  "3": {
+    "character": "掃除の邪魔よ  どきなさい",
+    "letter": "You're in the way of my cleaning. Scoot.",
+    "definition": "掃除 の 邪魔 よ どきなさい",
+    "pinyinSpace": "そうじ の じゃま よ  どきなさい",
+    "audio": "/audio/01-1/3.mp3"
+  },
+  "4": {
+    "character": "はいー",
+    "letter": "Okay.",
+    "definition": "はい ー",
+    "pinyinSpace": "はい ー",
+    "audio": "/audio/01-1/4.mp3"
+  },
+  "5": {
+    "character": "お母さん  おかわり",
+    "letter": "Seconds please, Mom.",
+    "definition": "お母さん おかわり",
+    "pinyinSpace": "おかあさん  おかわり",
+    "audio": "/audio/01-1/5.mp3"
+  },
+  "6": {
+    "character": "どうするの  あなた将来は",
+    "letter": "Exactly what do you have planned for your future?",
+    "definition": "どう する の あなた 将来 は",
+    "pinyinSpace": "どう する の  あなた しょうらい は",
+    "audio": "/audio/01-1/6.mp3"
+  },
+  "7": {
+    "character": "もう  ゴロゴロしてるときに  将来の話なんかしないでよ",
+    "letter": "Jeez... Could we not talk about my future when I'm relaxing?",
+    "definition": "もう ゴロゴロしてる とき に 将来 の 話 なん かしないで よ",
+    "pinyinSpace": "もう  ゴロゴロ してる とき に  しょうらい の はなし なん かしないで よ",
+    "audio": "/audio/01-1/7.mp3"
+  },
+  "8": {
+    "character": "暇があるなら  ちょっとはバイトでも探しなさい",
+    "letter": "If you have so much time to relax, you could go look for a part-time job. I'm too busy relaxing, so I'll do it later. Don't try to suck me up!",
+    "definition": "暇 が ある なら ちょっと は バイト でも 探しなさい",
+    "pinyinSpace": "ひま が ある なら  ちょっと は バイト でも さがしなさい",
+    "audio": "/audio/01-1/8.mp3"
+  },
+  "9": {
+    "character": "もう",
+    "letter": "Jeez...",
+    "definition": "もう",
+    "pinyinSpace": "もう",
+    "audio": "/audio/01-1/9.mp3"
+  },
+  "10": {
+    "character": "どうしてお母さんはゴロゴロする忙しさが分かんないんだろな",
+    "letter": "I wonder why Mom can't understand how much time relaxing takes up.",
+    "definition": "どうして お母さん は ゴロゴロする 忙しさ が 分かんない ん だろ な",
+    "pinyinSpace": "どうして おかあさん は ゴロゴロ する いそがしさ が わかんない ん だろ な",
+    "audio": "/audio/01-1/10.mp3"
+  },
+  "11": {
+    "character": "えーと  働かないでお金がもらえる仕事が載っているのはどれですか",
+    "letter": "Excuse me, which of these will have jobs where I can get paid to do nothing?",
+    "definition": "えー と 働かないで お金 が もらえる 仕事 が 載っている の は どれ です か",
+    "pinyinSpace": "えー と  はたらかないで おかね が もらえる しごと が のっている の は どれ です か",
+    "audio": "/audio/01-1/11.mp3"
+  },
+  "12": {
+    "character": "ないと思います",
+    "letter": "I don't think there is one.",
+    "definition": "ない と 思います",
+    "pinyinSpace": "ない と おもいます",
+    "audio": "/audio/01-1/12.mp3"
+  },
+  "13": {
+    "character": "え",
+    "letter": "Really?",
+    "definition": "え",
+    "pinyinSpace": "え",
+    "audio": "/audio/01-1/13.mp3"
+  },
+  "14": {
+    "character": "どうせなら  お洒落なバイトがいいなぁ",
+    "letter": "If I really have to work, I'd prefer a really fancy job.",
+    "definition": "どうせなら お洒落 な バイト が いい なぁ",
+    "pinyinSpace": "どうせなら  おしゃれ な バイト が いい なぁ",
+    "audio": "/audio/01-1/14.mp3"
+  },
+  "15": {
+    "character": "あ  これいいな",
+    "letter": "Oh! This looks good.",
+    "definition": "あ これ いい な",
+    "pinyinSpace": "あ  これ いい な",
+    "audio": "/audio/01-1/15.mp3"
+  },
+  "16": {
+    "character": "はい",
+    "letter": "Yes?",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/16.mp3"
+  },
+  "17": {
+    "character": "あ  もしもし  パンダと申しますが",
+    "letter": "Oh, hi, my name is Panda.",
+    "definition": "あ もしもし パンダ と 申します が",
+    "pinyinSpace": "あ  もしもし  パンダ と もうします が",
+    "audio": "/audio/01-1/17.mp3"
+  },
+  "18": {
+    "character": "そちらでデザインなー  デザイナーのアルバイト募集してますよね",
+    "letter": "You're advertising a part-time position for a designer, right?",
+    "definition": "そちら で デザイン なー デザイナー の アルバイト 募集してます よね",
+    "pinyinSpace": "そちら で デザイン なー  デザイナー の アルバイト ぼしゅう してます よね",
+    "audio": "/audio/01-1/18.mp3"
+  },
+  "19": {
+    "character": "ええ  そうですよ  経験は？",
+    "letter": "Yes, we are. Do you have experience?",
+    "definition": "ええ そう です よ 経験 は",
+    "pinyinSpace": "ええ  そう です よ  けいけん は ？",
+    "audio": "/audio/01-1/19.mp3"
+  },
+  "20": {
+    "character": "ありません",
+    "letter": "No, none.",
+    "definition": "ありません",
+    "pinyinSpace": "ありません",
+    "audio": "/audio/01-1/20.mp3"
+  },
+  "21": {
+    "character": "パソコンのマウスは使えますか",
+    "letter": "Are you able to use a computer mouse?",
+    "definition": "パソコン の マウス は 使えます か",
+    "pinyinSpace": "パソコン の マウス は つかえます か",
+    "audio": "/audio/01-1/21.mp3"
+  },
+  "22": {
+    "character": "使えないです  あんまり細かい作業はできません",
+    "letter": "Not at all! I'm not very good with detailed work.",
+    "definition": "使えないです あんまり 細かい 作業 は できません",
+    "pinyinSpace": "つかえない です  あんまり こまかい さぎょう は できません",
+    "audio": "/audio/01-1/22.mp3"
+  },
+  "23": {
+    "character": "そうですか  得意なことはありますか",
+    "letter": "I see. Do you have anything you're good at?",
+    "definition": "そう です か 得意 な こと は あります か",
+    "pinyinSpace": "そう です か  とくい な こと は あります か",
+    "audio": "/audio/01-1/23.mp3"
+  },
+  "24": {
+    "character": "あります",
+    "letter": "Yes, I do!",
+    "definition": "あります",
+    "pinyinSpace": "あります",
+    "audio": "/audio/01-1/24.mp3"
+  },
+  "25": {
+    "character": "笹を食べたり  寝ながらぼんやりするのが得意です",
+    "letter": "I'm good at eating bamboo grass, and zoning out while lying down.",
+    "definition": "笹 を 食べたり 寝 ながら ぼんやりする の が 得意 です",
+    "pinyinSpace": "ささ を たべたり  ね ながら ぼんやり する の が とくい です",
+    "audio": "/audio/01-1/25.mp3"
+  },
+  "26": {
+    "character": "あれ  もしもーし",
+    "letter": "Huh?  Hello?",
+    "definition": "あれ もし もー し",
+    "pinyinSpace": "あれ  もし もー し",
+    "audio": "/audio/01-1/26.mp3"
+  },
+  "27": {
+    "character": "もしもし  そちらでインテリアコーディネーターも募集してますよね",
+    "letter": "Oh, hello? You're also advertising a position for an interior coordinator, right?",
+    "definition": "もしもし そちら で インテリア コーディネーター も 募集してます よね",
+    "pinyinSpace": "もしもし  そちら で インテリア コーディネーター も ぼしゅう してます よね",
+    "audio": "/audio/01-1/27.mp3"
+  },
+  "28": {
+    "character": "はい",
+    "letter": "Uh, yes.",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/28.mp3"
+  },
+  "29": {
+    "character": "インテリアコーディネーターって  なんですか",
+    "letter": "What, exactly, is an interior coordinator?",
+    "definition": "インテリア コーディネーター って なんです か",
+    "pinyinSpace": "インテリア コーディネーター って  なんです か",
+    "audio": "/audio/01-1/29.mp3"
+  },
+  "30": {
+    "character": "またゴロゴロして",
+    "letter": "There you are being lazy again.",
+    "definition": "また ゴロゴロして",
+    "pinyinSpace": "また ゴロゴロ して",
+    "audio": "/audio/01-1/30.mp3"
+  },
+  "31": {
+    "character": "アルバイト見つかったの",
+    "letter": "Did you find a part-time job?",
+    "definition": "アルバイト 見つかった の",
+    "pinyinSpace": "アルバイト みつかった の",
+    "audio": "/audio/01-1/31.mp3"
+  },
+  "32": {
+    "character": "全然ないよ",
+    "letter": "There aren't any!",
+    "definition": "全然 ない よ",
+    "pinyinSpace": "ぜんぜん ない よ",
+    "audio": "/audio/01-1/32.mp3"
+  },
+  "33": {
+    "character": "確かコンビニで募集してたでしょう",
+    "letter": "Weren't there openings at the convenience store?",
+    "definition": "確か コンビニ で 募集してた でしょう",
+    "pinyinSpace": "たしか コンビニ で ぼしゅう してた でしょう",
+    "audio": "/audio/01-1/33.mp3"
+  },
+  "34": {
+    "character": "コンビニ",
+    "letter": "The convenience store? They have too many things. I won't be able to remember them all! Don't try to suck me up!",
+    "definition": "コンビニ",
+    "pinyinSpace": "コンビニ",
+    "audio": "/audio/01-1/34.mp3"
+  },
+  "35": {
+    "character": "もう  外でだらだらしようっと",
+    "letter": "Jeez. I think I'll wander around outside. Huh?  A string. Could you get it? Sure. Got it!",
+    "definition": "もう 外 で だらだらしよう っと",
+    "pinyinSpace": "もう  そと で だらだら しよう っと",
+    "audio": "/audio/01-1/35.mp3"
+  },
+  "36": {
+    "character": "ありがとう",
+    "letter": "Thank you! Oh my.",
+    "definition": "ありがとう",
+    "pinyinSpace": "ありがとう",
+    "audio": "/audio/01-1/36.mp3"
+  },
+  "37": {
+    "character": "じっとしてて",
+    "letter": "Stay right there. Hey, wait! Wow, I didn't know there was a café here. Hello.",
+    "definition": "じっとしてて",
+    "pinyinSpace": "じっと してて",
+    "audio": "/audio/01-1/37.mp3"
+  },
+  "38": {
+    "character": "ようこそ  しろくまカフェへ",
+    "letter": "Welcome to Polar Bear's Café.",
+    "definition": "ようこそ しろくま カフェ へ",
+    "pinyinSpace": "ようこそ  しろくま カフェ へ",
+    "audio": "/audio/01-1/38.mp3"
+  },
+  "39": {
+    "character": "お客様  お一人様ですか",
+    "letter": "Table for one, sir? Oh, well, I'm not exactly a custo—",
+    "definition": "お客様 お一人様 です か",
+    "pinyinSpace": "おきゃくさま  おひとりさま です か",
+    "audio": "/audio/01-1/39.mp3"
+  },
+  "40": {
+    "character": "お好きな席へどうぞ",
+    "letter": "Please have a seat anywhere you like.",
+    "definition": "お 好き な 席 へ どうぞ",
+    "pinyinSpace": "お すき な せき へ どうぞ",
+    "audio": "/audio/01-1/40.mp3"
+  },
+  "41": {
+    "character": "はい",
+    "letter": "O-Okay!",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/41.mp3"
+  },
+  "42": {
+    "character": "ご注文は",
+    "letter": "May I take your order? Let's see... Do you have bamboo?",
+    "definition": "ご注文 は",
+    "pinyinSpace": "ごちゅうもん は",
+    "audio": "/audio/01-1/42.mp3"
+  },
+  "43": {
+    "character": "竹はないです",
+    "letter": "We don't have any bamboo. Then could I get bamboo grass?",
+    "definition": "竹 は ないです",
+    "pinyinSpace": "たけ は ないです",
+    "audio": "/audio/01-1/43.mp3"
+  },
+  "44": {
+    "character": "笹もないです",
+    "letter": "We don't have bamboo grass either. Then I'll have an iced coffee.",
+    "definition": "笹 も ないです",
+    "pinyinSpace": "ささ も ないです",
+    "audio": "/audio/01-1/44.mp3"
+  },
+  "45": {
+    "character": "はい",
+    "letter": "Yes, sir.",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/45.mp3"
+  },
+  "46": {
+    "character": "ねえ  白熊くん",
+    "letter": "Hey, Polar Bear.",
+    "definition": "ねえ 白熊 くん",
+    "pinyinSpace": "ねえ  しろくま/はぐま くん",
+    "audio": "/audio/01-1/46.mp3"
+  },
+  "47": {
+    "character": "財布のポイントカードって増えすぎちゃわない",
+    "letter": "Do you ever get too many point cards in your wallet?",
+    "definition": "財布 の ポイント カード って 増え すぎちゃわない",
+    "pinyinSpace": "さいふ の ポイント カード って ふえ すぎちゃわない",
+    "audio": "/audio/01-1/47.mp3"
+  },
+  "48": {
+    "character": "ペンギンさん  ポイント貯める派",
+    "letter": "You collect points, Mr. Penguin?",
+    "definition": "ペンギン さん ポイント 貯める 派",
+    "pinyinSpace": "ペンギン さん  ポイント ためる は",
+    "audio": "/audio/01-1/48.mp3"
+  },
+  "49": {
+    "character": "うん",
+    "letter": "Yep.  Oh, could I get another café mocha? Seconds {\\i1}(okawari){\\i0}. What?",
+    "definition": "うん",
+    "pinyinSpace": "うん",
+    "audio": "/audio/01-1/49.mp3"
+  },
+  "50": {
+    "character": "それはひまわり",
+    "letter": "Those would be sunflowers {\\i1}(himawari){\\i0}.",
+    "definition": "それは ひまわり",
+    "pinyinSpace": "それは ひまわり",
+    "audio": "/audio/01-1/50.mp3"
+  },
+  "51": {
+    "character": "それは日替わり",
+    "letter": "That would be the daily special {\\i1}(higawari){\\i0}.",
+    "definition": "それは 日替わり",
+    "pinyinSpace": "それは ひがわり",
+    "audio": "/audio/01-1/51.mp3"
+  },
+  "52": {
+    "character": "それは薪割り",
+    "letter": "That would be splitting logs {\\i1}(makiwari){\\i0}.",
+    "definition": "それは 薪割り",
+    "pinyinSpace": "それは まきわり",
+    "audio": "/audio/01-1/52.mp3"
+  },
+  "53": {
+    "character": "それは西瓜割り",
+    "letter": "That's splitting a watermelon {\\i1}(suika wari){\\i0}.",
+    "definition": "それは 西瓜割り",
+    "pinyinSpace": "それは すいかわり",
+    "audio": "/audio/01-1/53.mp3"
+  },
+  "54": {
+    "character": "「おかわり」ね",
+    "letter": "Seconds, please.",
+    "definition": "おかわり ね",
+    "pinyinSpace": "「 おかわり 」 ね",
+    "audio": "/audio/01-1/54.mp3"
+  },
+  "55": {
+    "character": "はい  カフェモカ",
+    "letter": "Here's your café mocha.",
+    "definition": "はい カフェ モカ",
+    "pinyinSpace": "はい  カフェ モカ",
+    "audio": "/audio/01-1/55.mp3"
+  },
+  "56": {
+    "character": "このカフェ  ダジャレがなければなぁ",
+    "letter": "You know, if it weren't for all the puns in this café...",
+    "definition": "この カフェ ダジャレ が なければ なぁ",
+    "pinyinSpace": "この カフェ  ダジャレ が なければ なぁ",
+    "audio": "/audio/01-1/56.mp3"
+  },
+  "57": {
+    "character": "そういえば  アルバイト募集してるんだって",
+    "letter": "By the way, I heard you were looking for a part-timer?",
+    "definition": "そういえば アルバイト 募集してる ん だって",
+    "pinyinSpace": "そういえば  アルバイト ぼしゅう してる ん だって",
+    "audio": "/audio/01-1/57.mp3"
+  },
+  "58": {
+    "character": "うん  人手が足りなくて",
+    "letter": "Yes, I'm short-staffed.",
+    "definition": "うん 人手 が 足りなくて",
+    "pinyinSpace": "うん  ひとで が たりなくて",
+    "audio": "/audio/01-1/58.mp3"
+  },
+  "59": {
+    "character": "ペンギンさん  どう",
+    "letter": "Are you interested, Mr. Penguin?",
+    "definition": "ペンギン さん どう",
+    "pinyinSpace": "ペンギン さん  どう",
+    "audio": "/audio/01-1/59.mp3"
+  },
+  "60": {
+    "character": "え？ぼく  お客とバイトの両立  できるかな",
+    "letter": "Who, me? I wonder if I could handle being a customer and a part-timer.",
+    "definition": "え ぼく お 客 と バイト の 両立 できる かな",
+    "pinyinSpace": "え ？ ぼく  お きゃく と バイト の りょうりつ  できる かな",
+    "audio": "/audio/01-1/60.mp3"
+  },
+  "61": {
+    "character": "ウーソ  これから四名ほど  面接に来るんだよ",
+    "letter": "Just kidding.  I have about four interviews lined up.",
+    "definition": "ウーソ これから 四名 ほど 面接 に 来る ん だ よ",
+    "pinyinSpace": "ウーソ  これから よんめい ほど  めんせつ に くる ん だ よ",
+    "audio": "/audio/01-1/61.mp3"
+  },
+  "62": {
+    "character": "なんだ  ちょっと考えちゃったよ",
+    "letter": "Oh.  And here I was actually considering it.",
+    "definition": "な ん だ ちょっと 考えちゃった よ",
+    "pinyinSpace": "な ん だ  ちょっと かんがえちゃった よ",
+    "audio": "/audio/01-1/62.mp3"
+  },
+  "63": {
+    "character": "僕もいいですか",
+    "letter": "Could I have an interview, too?",
+    "definition": "僕 も いいです か",
+    "pinyinSpace": "ぼく も いいです か",
+    "audio": "/audio/01-1/63.mp3"
+  },
+  "64": {
+    "character": "僕もアルバイトしたいと思って",
+    "letter": "I was also thinking of working part-time.",
+    "definition": "僕 も アルバイトしたい と 思って",
+    "pinyinSpace": "ぼく も アルバイト したい と おもって",
+    "audio": "/audio/01-1/64.mp3"
+  },
+  "65": {
+    "character": "受けてみる  面接",
+    "letter": "Would you like an interview?",
+    "definition": "受けて みる 面接",
+    "pinyinSpace": "うけて みる  めんせつ",
+    "audio": "/audio/01-1/65.mp3"
+  },
+  "66": {
+    "character": "あ",
+    "letter": "What?! Well then, will the first applicant please come up.",
+    "definition": "あ",
+    "pinyinSpace": "あ",
+    "audio": "/audio/01-1/66.mp3"
+  },
+  "67": {
+    "character": "はい",
+    "letter": "Yes!",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/67.mp3"
+  },
+  "68": {
+    "character": "穴熊です",
+    "letter": "I'm Badger.",
+    "definition": "穴熊 です",
+    "pinyinSpace": "あなぐま です",
+    "audio": "/audio/01-1/68.mp3"
+  },
+  "69": {
+    "character": "えーと  ホール係やれますか",
+    "letter": "Let's see...  Would you be able to work the hall?",
+    "definition": "えー と ホール 係 やれます か",
+    "pinyinSpace": "えー と  ホール かかり やれます か",
+    "audio": "/audio/01-1/69.mp3"
+  },
+  "70": {
+    "character": "はい  ホールなら任せてください",
+    "letter": "Yes!  You can leave the holes to me!",
+    "definition": "はい ホール なら 任せてください",
+    "pinyinSpace": "はい  ホール なら まかせて ください",
+    "audio": "/audio/01-1/70.mp3"
+  },
+  "71": {
+    "character": "穴を掘るの  得意なんです",
+    "letter": "I'm a pro at digging holes!",
+    "definition": "穴 を 掘る の 得意 なんです",
+    "pinyinSpace": "あな を ほる の  とくい なんです",
+    "audio": "/audio/01-1/71.mp3"
+  },
+  "72": {
+    "character": "いや  そのホールは違うし",
+    "letter": "Er, \"hall,\" not \"hole.\"",
+    "definition": "いや その ホール は 違う し",
+    "pinyinSpace": "いや  その ホール は ちがう し",
+    "audio": "/audio/01-1/72.mp3"
+  },
+  "73": {
+    "character": "次の方",
+    "letter": "Next applicant, please.",
+    "definition": "次 の 方",
+    "pinyinSpace": "つぎ の ほう/かた",
+    "audio": "/audio/01-1/73.mp3"
+  },
+  "74": {
+    "character": "はい",
+    "letter": "Here.",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/74.mp3"
+  },
+  "75": {
+    "character": "ゾ～ウ～ガ～メ～で～す",
+    "letter": "I'm... Giant... Tortoise...",
+    "definition": "ゾ ウ ガ メ で す",
+    "pinyinSpace": "ゾ ～ ウ ～ ガ ～ メ ～ で ～ す",
+    "audio": "/audio/01-1/75.mp3"
+  },
+  "76": {
+    "character": "料理とか  運べますか",
+    "letter": "Are you able to carry orders?",
+    "definition": "料理 とか 運べます か",
+    "pinyinSpace": "りょうり とか  はこべます か",
+    "audio": "/audio/01-1/76.mp3"
+  },
+  "77": {
+    "character": "は～い～",
+    "letter": "Yes.",
+    "definition": "は い",
+    "pinyinSpace": "は ～ い ～",
+    "audio": "/audio/01-1/77.mp3"
+  },
+  "78": {
+    "character": "ヨ～イ～ショー",
+    "letter": "Here we go...",
+    "definition": "ヨ イ ショー",
+    "pinyinSpace": "ヨ ～ イ ～ ショー",
+    "audio": "/audio/01-1/78.mp3"
+  },
+  "79": {
+    "character": "ゆっくりだね",
+    "letter": "Definitely taking his time.",
+    "definition": "ゆっくり だ ね",
+    "pinyinSpace": "ゆっくり だ ね",
+    "audio": "/audio/01-1/79.mp3"
+  },
+  "80": {
+    "character": "百年くらい働かせて～",
+    "letter": "Please let me work about a hundred years.",
+    "definition": "百年 くらい 働かせて",
+    "pinyinSpace": "ひゃくねん くらい はたらかせて ～",
+    "audio": "/audio/01-1/80.mp3"
+  },
+  "81": {
+    "character": "いえ  そんなには",
+    "letter": "Er, I don't think that'll be possible.",
+    "definition": "いえ そんなに は",
+    "pinyinSpace": "いえ  そんなに は",
+    "audio": "/audio/01-1/81.mp3"
+  },
+  "82": {
+    "character": "マンドリルです",
+    "letter": "I'm Mandrill.",
+    "definition": "マンドリル です",
+    "pinyinSpace": "マンドリル です",
+    "audio": "/audio/01-1/82.mp3"
+  },
+  "83": {
+    "character": "食べるのが得意です",
+    "letter": "I'm very good at eating.",
+    "definition": "食べる の が 得意 です",
+    "pinyinSpace": "たべる の が とくい です",
+    "audio": "/audio/01-1/83.mp3"
+  },
+  "84": {
+    "character": "ちょっと  それは",
+    "letter": "Not exactly what we're looking for.",
+    "definition": "ちょっと それは",
+    "pinyinSpace": "ちょっと  それは",
+    "audio": "/audio/01-1/84.mp3"
+  },
+  "85": {
+    "character": "小蟻食です",
+    "letter": "I'm Anteater.",
+    "definition": "小 蟻食 です",
+    "pinyinSpace": "こ/しょう ありくい です",
+    "audio": "/audio/01-1/85.mp3"
+  },
+  "86": {
+    "character": "い  威嚇ができます",
+    "letter": "I-I can intimidate!",
+    "definition": "い 威嚇 が できます",
+    "pinyinSpace": "い  いかく が できます",
+    "audio": "/audio/01-1/86.mp3"
+  },
+  "87": {
+    "character": "それだけ",
+    "letter": "That's it? Seems so.",
+    "definition": "それだけ",
+    "pinyinSpace": "それだけ",
+    "audio": "/audio/01-1/87.mp3"
+  },
+  "88": {
+    "character": "最後の方  どうぞ",
+    "letter": "Will the last applicant step up, please.",
+    "definition": "最後 の 方 どうぞ",
+    "pinyinSpace": "さいご の ほう/かた  どうぞ",
+    "audio": "/audio/01-1/88.mp3"
+  },
+  "89": {
+    "character": "はい",
+    "letter": "Okay!",
+    "definition": "はい",
+    "pinyinSpace": "はい",
+    "audio": "/audio/01-1/89.mp3"
+  },
+  "90": {
+    "character": "パンダと申します",
+    "letter": "My name is Panda.",
+    "definition": "パンダ と 申します",
+    "pinyinSpace": "パンダ と もうします",
+    "audio": "/audio/01-1/90.mp3"
+  },
+  "91": {
+    "character": "よろしくです",
+    "letter": "Nice to meet you.",
+    "definition": "よろしく です",
+    "pinyinSpace": "よろしく です",
+    "audio": "/audio/01-1/91.mp3"
+  },
+  "92": {
+    "character": "やっとまともな人が来たね",
+    "letter": "Finally a decent candidate.",
+    "definition": "やっと まとも な 人 が 来た ね",
+    "pinyinSpace": "やっと まとも な ひと が きた ね",
+    "audio": "/audio/01-1/92.mp3"
+  },
+  "93": {
+    "character": "パンダ君  何か得意なことはありますか",
+    "letter": "Is there anything you're good at, Panda?",
+    "definition": "パンダ 君 何か 得意 な こと は あります か",
+    "pinyinSpace": "パンダ きみ/くん  なにか とくい な こと は あります か",
+    "audio": "/audio/01-1/93.mp3"
+  },
+  "94": {
+    "character": "はい  ゴロゴロしながら笹を食べることです",
+    "letter": "Yes! I'm very good at lying around and eating bamboo grass.",
+    "definition": "はい ゴロゴロし ながら 笹 を 食べる こと です",
+    "pinyinSpace": "はい  ゴロゴロ し ながら ささ を たべる こと です",
+    "audio": "/audio/01-1/94.mp3"
+  },
+  "95": {
+    "character": "あれ  (′?ω?)y--oO○  ??????",
+    "letter": "Huh?",
+    "definition": "あれ",
+    "pinyinSpace": "あれ (′?ω?)y--oO○  ??????",
+    "audio": "/audio/01-1/95.mp3"
+  },
+  "96": {
+    "character": "えーと  条件に希望はありますか",
+    "letter": "Er, let's see... Are there any specific conditions you'd like to request?",
+    "definition": "えー と 条件 に 希望 は あります か",
+    "pinyinSpace": "えー と  じょうけん に きぼう は あります か",
+    "audio": "/audio/01-1/96.mp3"
+  },
+  "97": {
+    "character": "週二日希望です",
+    "letter": "Two days a week, please.",
+    "definition": "週二日 希望 です",
+    "pinyinSpace": "しゅうふつか きぼう です",
+    "audio": "/audio/01-1/97.mp3"
+  },
+  "98": {
+    "character": "うん  週二日ですか",
+    "letter": "Hm, you'd prefer two days? Oh, you mean I could just work one day a week?",
+    "definition": "うん 週二日 です か",
+    "pinyinSpace": "うん  しゅうふつか です か",
+    "audio": "/audio/01-1/98.mp3"
+  },
+  "99": {
+    "character": "いや  せめて週四日くらい",
+    "letter": "No, no.  I was hoping for at least four days a week. I definitely can't do that.",
+    "definition": "いや せめて 週四日 くらい",
+    "pinyinSpace": "いや  せめて しゅうよっか くらい",
+    "audio": "/audio/01-1/99.mp3"
+  },
+  "100": {
+    "character": "あ  けど",
+    "letter": "Oh, but... if you pick me up, I'll come right away.",
+    "definition": "あ けど",
+    "pinyinSpace": "あ  けど",
+    "audio": "/audio/01-1/100.mp3"
+  },
+  "101": {
+    "character": "僕が呼びに行くんですか",
+    "letter": "I have to come and get you? Oh, of course not.",
+    "definition": "僕 が 呼び に 行く ん です か",
+    "pinyinSpace": "ぼく が よび に いく ん です か",
+    "audio": "/audio/01-1/101.mp3"
+  },
+  "102": {
+    "character": "遅刻した場合だけですよ",
+    "letter": "Only if I'm late.",
+    "definition": "遅刻した 場合 だけ です よ",
+    "pinyinSpace": "ちこく した ばあい だけ です よ",
+    "audio": "/audio/01-1/102.mp3"
+  },
+  "103": {
+    "character": "遅刻する気満々だね",
+    "letter": "You have every intention of being late, don't you?",
+    "definition": "遅刻する 気 満々 だ ね",
+    "pinyinSpace": "ちこく する き まんまん だ ね",
+    "audio": "/audio/01-1/103.mp3"
+  },
+  "104": {
+    "character": "ちなみに  やる気はありますか",
+    "letter": "Just curious... do you really intend to work?",
+    "definition": "ちなみに やる気 は あります か",
+    "pinyinSpace": "ちなみに  やるき は あります か",
+    "audio": "/audio/01-1/104.mp3"
+  },
+  "105": {
+    "character": "そんなにありません",
+    "letter": "Not really.",
+    "definition": "そんなに ありません",
+    "pinyinSpace": "そんなに ありません",
+    "audio": "/audio/01-1/105.mp3"
+  },
+  "106": {
+    "character": "発表します",
+    "letter": "And the results are",
+    "definition": "発表します",
+    "pinyinSpace": "はっぴょう します",
+    "audio": "/audio/01-1/106.mp3"
+  },
+  "107": {
+    "character": "全員不合格",
+    "letter": "none of you passed.",
+    "definition": "全員 不合格",
+    "pinyinSpace": "ぜんいん ふごうかく",
+    "audio": "/audio/01-1/107.mp3"
+  },
+  "108": {
+    "character": "えー工????(′д｀)????工",
+    "letter": "What?! Are you really that surprised?",
+    "definition": "えー 工 工",
+    "pinyinSpace": "えー たくみ/こう ????(′д｀)???? たくみ/こう",
+    "audio": "/audio/01-1/108.mp3"
+  },
+  "109": {
+    "character": "結局バイトの人",
+    "letter": "It seems, in the end...",
+    "definition": "結局 バイト の 人",
+    "pinyinSpace": "けっきょく バイト の じん/ひと/にん",
+    "audio": "/audio/01-1/109.mp3"
+  },
+  "110": {
+    "character": "見つからなかったね",
+    "letter": "...I wasn't able to find a part-timer. That's too bad. You're still here?!",
+    "definition": "見つからなかった ね",
+    "pinyinSpace": "みつからなかった ね",
+    "audio": "/audio/01-1/110.mp3"
+  },
+  "111": {
+    "character": "家に帰ると  お母さんに吸われるし",
+    "letter": "If I go home, my mom will try to suck me up.",
+    "definition": "家 に 帰る と お母さん に 吸われる し",
+    "pinyinSpace": "いえ/うち に かえる と  おかあさん に すわれる し",
+    "audio": "/audio/01-1/111.mp3"
+  },
+  "112": {
+    "character": "す  吸われる",
+    "letter": "S-Suck you up?",
+    "definition": "す 吸われる",
+    "pinyinSpace": "す  すわれる",
+    "audio": "/audio/01-1/112.mp3"
+  },
+  "113": {
+    "character": "うん　ゴーって",
+    "letter": "Yep.  Like \"whirrr.\"",
+    "definition": "うん ゴー って",
+    "pinyinSpace": "うん  ゴー って",
+    "audio": "/audio/01-1/113.mp3"
+  },
+  "114": {
+    "character": "あのう　面接中すみません",
+    "letter": "Pardon me, I hate to interrupt you during your interviews.",
+    "definition": "あのう 面接 中 すみません",
+    "pinyinSpace": "あのう  めんせつ ちゅう/じゅう すみません",
+    "audio": "/audio/01-1/114.mp3"
+  },
+  "115": {
+    "character": "住み込み希望でーす",
+    "letter": "I would like to live in...",
+    "definition": "住み込み 希望 でーす",
+    "pinyinSpace": "すみこみ きぼう でーす",
+    "audio": "/audio/01-1/115.mp3"
+  },
+  "116": {
+    "character": "不合格",
+    "letter": "I'm sorry, you fail.",
+    "definition": "不合格",
+    "pinyinSpace": "ふごうかく",
+    "audio": "/audio/01-1/116.mp3"
+  },
+  "117": {
+    "character": "あのう  アルバイト希望じゃないみたいですよ",
+    "letter": "I don't think he meant a live-in employee.",
+    "definition": "あのう アルバイト 希望 じゃない みたいです よ",
+    "pinyinSpace": "あのう  アルバイト きぼう じゃない みたいです よ",
+    "audio": "/audio/01-1/117.mp3"
+  },
+  "118": {
+    "character": "庭に住み込みたいんですー",
+    "letter": "I would like to live in your yard.",
+    "definition": "庭 に 住み込みたい ん です ー",
+    "pinyinSpace": "にわ に すみこみたい ん です ー",
+    "audio": "/audio/01-1/118.mp3"
+  },
+  "119": {
+    "character": "ここまで運んで欲しいって　頼まれちゃいまして",
+    "letter": "He asked me if I would bring him here.",
+    "definition": "ここ まで 運んで 欲しい って 頼まれちゃいまして",
+    "pinyinSpace": "ここ まで はこんで ほしい って  たのまれちゃいまして",
+    "audio": "/audio/01-1/119.mp3"
+  },
+  "120": {
+    "character": "あなた  お名前は",
+    "letter": "What is your name, Miss? Who, me?  It's Sasako.",
+    "definition": "あなた お名前 は",
+    "pinyinSpace": "あなた  おなまえ は",
+    "audio": "/audio/01-1/120.mp3"
+  },
+  "121": {
+    "character": "笹子さん  合格",
+    "letter": "Miss Sasako, you pass.",
+    "definition": "笹 子 さん 合格",
+    "pinyinSpace": "ささ こ さん  ごうかく",
+    "audio": "/audio/01-1/121.mp3"
+  },
+  "122": {
+    "character": "え",
+    "letter": "What?!",
+    "definition": "え",
+    "pinyinSpace": "え",
+    "audio": "/audio/01-1/122.mp3"
+  },
+  "123": {
+    "character": "ねぇ　お母さん",
+    "letter": "Hey, Mom.",
+    "definition": "ねぇ お母さん",
+    "pinyinSpace": "ねぇ  おかあさん",
+    "audio": "/audio/01-1/123.mp3"
+  },
+  "124": {
+    "character": "僕今日、すごくいい感じのカフェ見つけちゃったよ",
+    "letter": "I found a really neat café today.",
+    "definition": "僕 今日 すごく いい感じ の カフェ 見つけちゃった よ",
+    "pinyinSpace": "ぼく きょう 、 すごく いいかんじ の カフェ みつけちゃった よ",
+    "audio": "/audio/01-1/124.mp3"
+  },
+  "125": {
+    "character": "しろくまカフェって言うんだけど",
+    "letter": "It's called Polar Bear's Café.",
+    "definition": "しろくま カフェって 言う ん だけど",
+    "pinyinSpace": "しろくま カフェって いう ん だけど",
+    "audio": "/audio/01-1/125.mp3"
+  },
+  "126": {
+    "character": "なんに言ってるの？知ってるわよ",
+    "letter": "What are you talking about? Of course I know about it.",
+    "definition": "なん に 言ってる の 知ってる わよ",
+    "pinyinSpace": "なん に いってる の ？ しってる わよ",
+    "audio": "/audio/01-1/126.mp3"
+  },
+  "127": {
+    "character": "へ？！そうなの？",
+    "letter": "Huh?  You do?",
+    "definition": "へ そう なの",
+    "pinyinSpace": "へ ？！ そう なの ？",
+    "audio": "/audio/01-1/127.mp3"
+  },
+  "128": {
+    "character": "ずっと前からあるじゃない？",
+    "letter": "It's been there for a really long time.",
+    "definition": "ずっと 前 から ある じゃない",
+    "pinyinSpace": "ずっと ぜん/まえ から ある じゃない ？",
+    "audio": "/audio/01-1/128.mp3"
+  },
+  "129": {
+    "character": "うちの隣りに～",
+    "letter": "Right next door to us.",
+    "definition": "うち の 隣り に",
+    "pinyinSpace": "うち の となり に ～",
+    "audio": "/audio/01-1/129.mp3"
+  },
+  "130": {
+    "character": "へーーーーーーーー！！！！",
+    "letter": "What?!",
+    "definition": "へーーーーーーーー",
+    "pinyinSpace": "へーーーーーーーー ！！！！",
+    "audio": "/audio/01-1/130.mp3"
+  }
+}

@@ -1,0 +1,1605 @@
+{
+    "1": {
+        "speaker": "POLAR BEAR",
+        "character": "あけまして おめでとうございます",
+        "definition": "Happy... New Year.",
+        "timestamp": "0:01:44",
+        "audio": "/audio/39/0.01.44.mp3"
+    },
+    "2": {
+        "speaker": "ALL(BUT SLOTH)",
+        "character": "あけまして おめでとうございます",
+        "definition": "Happy...",
+        "timestamp": "0:01:48",
+        "audio": "/audio/39/0.01.48.mp3"
+    },
+    "3": {
+        "speaker": "SLOTH",
+        "character": "あけまして おめでとうございます",
+        "definition": "Happy... New Year. New...",
+        "timestamp": "0:01:48",
+        "audio": "/audio/39/0.01.48.mp3"
+    },
+    "4": {
+        "speaker": "POLAR BEAR",
+        "character": "今年も『しろくまカフェ』をよろしくお願いします",
+        "definition": "Please support Polar Bear's Café this year, too. Please support Polar Bear's Café this year, too.",
+        "timestamp": "0:01:53",
+        "audio": "/audio/39/0.01.53.mp3"
+    },
+    "5": {
+        "speaker": "SLOTH",
+        "character": "今年もよろしくお願いします",
+        "definition": "{\\a6}Please.... support...",
+        "timestamp": "0:01:58",
+        "audio": "/audio/39/0.01.58.mp3"
+    },
+    "6": {
+        "speaker": "PENGUIN",
+        "character": "じゃあ 挨拶はこのぐらいにして",
+        "definition": "Well, now that we've got the greetings over with,",
+        "timestamp": "0:02:02",
+        "audio": "/audio/39/0.02.02.mp3"
+    },
+    "7": {
+        "speaker": "PENGUIN",
+        "character": "今年も始めようか",
+        "definition": "how about we get things rolling for the new year?",
+        "timestamp": "0:02:05",
+        "audio": "/audio/39/0.02.05.mp3"
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "character": "『しろくまカフェ』新年かくし芸大会",
+        "definition": "Polar Bear's Café's New Year's hidden talent competition!",
+        "timestamp": "0:02:07",
+        "audio": "/audio/39/0.02.07.mp3"
+    },
+    "9": {
+        "speaker": "PENGUIN",
+        "character": "さて では",
+        "definition": "Well, now...",
+        "timestamp": "0:02:12",
+        "audio": "/audio/39/0.02.12.mp3"
+    },
+    "10": {
+        "speaker": "PENGUIN",
+        "character": "今年も いつものように",
+        "definition": "We will have everyone show off their hidden talents like we do every year.",
+        "timestamp": "0:02:15",
+        "audio": "/audio/39/0.02.15.mp3"
+    },
+    "11": {
+        "speaker": "GRIZZLY",
+        "character": "こんなことのために",
+        "definition": "Don't wake me up from my hibernation for something like this.",
+        "timestamp": "0:02:20",
+        "audio": "/audio/39/0.02.20.mp3"
+    },
+    "12": {
+        "speaker": "POLAR BEAR",
+        "character": "たまにはいいじゃない",
+        "definition": "It doesn't hurt someti— It's {\\i1}all{\\i0} the time! Really?",
+        "timestamp": "0:02:24",
+        "audio": "/audio/39/0.02.24.mp3"
+    },
+    "13": {
+        "speaker": "POLAR BEAR",
+        "character": "まぁまぁ お正月くらいみんなと一緒に過ごそうよ",
+        "definition": "Now, now. We should at least spend New Year's together.",
+        "timestamp": "0:02:30",
+        "audio": "/audio/39/0.02.30.mp3"
+    },
+    "14": {
+        "speaker": "GRIZZLY",
+        "character": "まぁいいや 早く始めろよ",
+        "definition": "Whatever. Hurry up and start.",
+        "timestamp": "0:02:36",
+        "audio": "/audio/39/0.02.36.mp3"
+    },
+    "15": {
+        "speaker": "PENGUIN",
+        "character": "それでは トップバッターにふさわしい",
+        "definition": "And now, a delightful New Year's appropriate display...",
+        "timestamp": "0:02:39",
+        "audio": "/audio/39/0.02.39.mp3"
+    },
+    "16": {
+        "speaker": "PENGUIN",
+        "character": "新年らしい華々しいかくし芸を披露してくれるのは…",
+        "definition": "worthy of starting us off...",
+        "timestamp": "0:02:42",
+        "audio": "/audio/39/0.02.42.mp3"
+    },
+    "17": {
+        "speaker": "PENGUIN",
+        "character": "僕 ということでいいかな",
+        "definition": "...me! Is that okay?",
+        "timestamp": "0:02:47",
+        "audio": "/audio/39/0.02.47.mp3"
+    },
+    "18": {
+        "speaker": "PANDA",
+        "character": "お正月だしいいよと言うしかないかな",
+        "definition": "I don't think we have any other choice but to say yes, since it's New Year's. Well, let's start off with another slightly idiotic ta—",
+        "timestamp": "0:02:50",
+        "audio": "/audio/39/0.02.50.mp3"
+    },
+    "19": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん",
+        "definition": "Mr. Penguin.",
+        "timestamp": "0:03:06",
+        "audio": "/audio/39/0.03.06.mp3"
+    },
+    "20": {
+        "speaker": "PENGUIN",
+        "character": "ちょっと 今始めたばかりなのに 何",
+        "definition": "Hey. I just started. What is it?",
+        "timestamp": "0:03:08",
+        "audio": "/audio/39/0.03.08.mp3"
+    },
+    "21": {
+        "speaker": "PANDA",
+        "character": "ペンギンさんの落語いつもやってるやつでしょ",
+        "definition": "You're always doing your traditional comedic storytelling, right?",
+        "timestamp": "0:03:11",
+        "audio": "/audio/39/0.03.11.mp3"
+    },
+    "22": {
+        "speaker": "PANDA",
+        "character": "かくし芸じゃないよね",
+        "definition": "That wouldn't be a hidden talent, would it?",
+        "timestamp": "0:03:15",
+        "audio": "/audio/39/0.03.15.mp3"
+    },
+    "23": {
+        "speaker": "PANDA",
+        "character": "もっと隠してるやつ見せてよ",
+        "definition": "Show us something more hidden. I guess I could show you a hidden one, but I practiced this quite a bit... Show us your hidden talent! Well, I guess I'll show you the one I want to keep hidden the most...",
+        "timestamp": "0:03:17",
+        "audio": "/audio/39/0.03.17.mp3"
+    },
+    "24": {
+        "speaker": "PENGUIN",
+        "character": "到着",
+        "definition": "We have arrived. I think you should have kept that hidden.",
+        "timestamp": "0:03:48",
+        "audio": "/audio/39/0.03.48.mp3"
+    },
+    "25": {
+        "speaker": "PENGUIN",
+        "character": "だから そう言ったよ 僕は",
+        "definition": "That's what I was saying!",
+        "timestamp": "0:03:57",
+        "audio": "/audio/39/0.03.57.mp3"
+    },
+    "26": {
+        "speaker": "PENGUIN",
+        "character": "シロクマ君 僕が立ち直るまで進めて",
+        "definition": "Polar Bear, could you keep things rolling while I lick my wounds?",
+        "timestamp": "0:04:01",
+        "audio": "/audio/39/0.04.01.mp3"
+    },
+    "27": {
+        "speaker": "POLAR BEAR",
+        "character": "うん じゃあ 次は誰",
+        "definition": "Sure. So, who's next?",
+        "timestamp": "0:04:05",
+        "audio": "/audio/39/0.04.05.mp3"
+    },
+    "28": {
+        "speaker": "SLOTH",
+        "character": "では 僕が",
+        "definition": "Well, then... I'll go...",
+        "timestamp": "0:04:08",
+        "audio": "/audio/39/0.04.08.mp3"
+    },
+    "29": {
+        "speaker": "SASAKO",
+        "character": "ナマケモノさん やる気ですね",
+        "definition": "You're rather motivated, Mr. Sloth.",
+        "timestamp": "0:04:13",
+        "audio": "/audio/39/0.04.13.mp3"
+    },
+    "30": {
+        "speaker": "SLOTH",
+        "character": "テーブルクロス引き",
+        "definition": "Tablecloth pulling... Here I go... If I pull the tablecloth quickly... The glasses... will remain in place... That's quite a slow explanation... There... Time for a break... I think this may take a while. Here we go...",
+        "timestamp": "0:04:17",
+        "audio": "/audio/39/0.04.17.mp3"
+    },
+    "31": {
+        "speaker": "PENGUIN",
+        "character": "予想どおりの結果だね",
+        "definition": "I think everyone was expecting that. Now we'll have... someone from who we don't know what to expect...",
+        "timestamp": "0:05:17",
+        "audio": "/audio/39/0.05.17.mp3"
+    },
+    "32": {
+        "speaker": "PENGUI",
+        "character": "半田さん お願い",
+        "definition": "You're up, Mr. Handa!",
+        "timestamp": "0:05:24",
+        "audio": "/audio/39/0.05.24.mp3"
+    },
+    "33": {
+        "speaker": "HANDA",
+        "character": "えっ",
+        "definition": "Huh?!",
+        "timestamp": "0:05:26",
+        "audio": "/audio/39/0.05.26.mp3"
+    },
+    "34": {
+        "speaker": "HANDA",
+        "character": "ど…どうも",
+        "definition": "Th-Thank you.",
+        "timestamp": "0:05:29",
+        "audio": "/audio/39/0.05.29.mp3"
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "character": "おもしろいことが始まりそうな気配ないけど",
+        "definition": "It doesn't seem like anything interesting will happen,",
+        "timestamp": "0:05:32",
+        "audio": "/audio/39/0.05.32.mp3"
+    },
+    "36": {
+        "speaker": "PENGUIN",
+        "character": "頑張って 半田さん",
+        "definition": "but do your best, Mr. Handa. Thanks.",
+        "timestamp": "0:05:35",
+        "audio": "/audio/39/0.05.35.mp3"
+    },
+    "37": {
+        "speaker": "HANDA",
+        "character": "それではこのキャベツの芯をくりぬいて",
+        "definition": "First, we're going to remove the core of the cabbage. And then, if we place a wet paper towel in its place...",
+        "timestamp": "0:05:41",
+        "audio": "/audio/39/0.05.41.mp3"
+    },
+    "38": {
+        "speaker": "HANDA",
+        "character": "長持ちします",
+        "definition": "It'll last a long time.",
+        "timestamp": "0:05:54",
+        "audio": "/audio/39/0.05.54.mp3"
+    },
+    "39": {
+        "speaker": "PENGUIN",
+        "character": "半田さん",
+        "definition": "Mr. Handa?",
+        "timestamp": "0:05:57",
+        "audio": "/audio/39/0.05.57.mp3"
+    },
+    "40": {
+        "speaker": "HANDA",
+        "character": "はい",
+        "definition": "Yes? That's not a hidden talent. That's like grandma's pearls of wisdom.",
+        "timestamp": "0:05:59",
+        "audio": "/audio/39/0.05.59.mp3"
+    },
+    "41": {
+        "speaker": "HANDA",
+        "character": "すみません",
+        "definition": "I'm sorry.",
+        "timestamp": "0:06:06",
+        "audio": "/audio/39/0.06.06.mp3"
+    },
+    "42": {
+        "speaker": "PENGUIN",
+        "character": "他にないの",
+        "definition": "Don't you have anything else?",
+        "timestamp": "0:06:09",
+        "audio": "/audio/39/0.06.09.mp3"
+    },
+    "43": {
+        "speaker": "HANDA",
+        "character": "他は…",
+        "definition": "Something else...",
+        "timestamp": "0:06:13",
+        "audio": "/audio/39/0.06.13.mp3"
+    },
+    "44": {
+        "speaker": "HANDA",
+        "character": "あっ ロールキャベツを作るとき",
+        "definition": "Oh! I know of a way",
+        "timestamp": "0:06:14",
+        "audio": "/audio/39/0.06.14.mp3"
+    },
+    "45": {
+        "speaker": "HANDA",
+        "character": "キャベツを破かないで剥がす方法もありますよ",
+        "definition": "to keep the leaves from tearing when making cabbage rolls!",
+        "timestamp": "0:06:17",
+        "audio": "/audio/39/0.06.17.mp3"
+    },
+    "46": {
+        "speaker": "PENGUIN",
+        "character": "半田さん キャベツから離れよう",
+        "definition": "Let's stray away from cabbages, Mr. Handa.",
+        "timestamp": "0:06:21",
+        "audio": "/audio/39/0.06.21.mp3"
+    },
+    "47": {
+        "speaker": "POLAR BEAR",
+        "character": "なんかあったかい気分になったね",
+        "definition": "I'm kinda getting that warm, fuzzy feeling on the inside. You're just trying to sound nice since it's New Year's, Polar Bear.",
+        "timestamp": "0:06:25",
+        "audio": "/audio/39/0.06.25.mp3"
+    },
+    "48": {
+        "speaker": "SASAKO",
+        "character": "半田さん キャベツの長持ちするのお店でやってみます",
+        "definition": "I'll give that trick to make cabbages last longer a try at the café, Mr. Handa.",
+        "timestamp": "0:06:32",
+        "audio": "/audio/39/0.06.32.mp3"
+    },
+    "49": {
+        "speaker": "HANDA",
+        "character": "あっ はい",
+        "definition": "Thanks.",
+        "timestamp": "0:06:37",
+        "audio": "/audio/39/0.06.37.mp3"
+    },
+    "50": {
+        "speaker": "PENGUIN",
+        "character": "じゃあ そろそろパンダ君見せてよ",
+        "definition": "Let's see what you've got, Panda.",
+        "timestamp": "0:06:40",
+        "audio": "/audio/39/0.06.40.mp3"
+    },
+    "51": {
+        "speaker": "PANDA",
+        "character": "うん",
+        "definition": "Okay.",
+        "timestamp": "0:06:43",
+        "audio": "/audio/39/0.06.43.mp3"
+    },
+    "52": {
+        "speaker": "FT PANDA",
+        "character": "どうも",
+        "definition": "Hello.",
+        "timestamp": "0:07:00",
+        "audio": "/audio/39/0.07.00.mp3"
+    },
+    "53": {
+        "speaker": "PANDA",
+        "character": "じゃあ お願い",
+        "definition": "If you would, please...",
+        "timestamp": "0:07:03",
+        "audio": "/audio/39/0.07.03.mp3"
+    },
+    "54": {
+        "speaker": "FT PANDA",
+        "character": "うん では…",
+        "definition": "Sure. Well, then...",
+        "timestamp": "0:07:05",
+        "audio": "/audio/39/0.07.05.mp3"
+    },
+    "55": {
+        "speaker": "PANDA",
+        "character": "それでは 二人羽織です",
+        "definition": "Now we will begin our helping hands act.",
+        "timestamp": "0:07:10",
+        "audio": "/audio/39/0.07.10.mp3"
+    },
+    "56": {
+        "speaker": "FT PANDA",
+        "character": "よろしくお願いします",
+        "definition": "Please watch. There. There. There. There.",
+        "timestamp": "0:07:13",
+        "audio": "/audio/39/0.07.13.mp3"
+    },
+    "57": {
+        "speaker": "PANDA",
+        "character": "あれ",
+        "definition": "Huh?",
+        "timestamp": "0:07:43",
+        "audio": "/audio/39/0.07.43.mp3"
+    },
+    "58": {
+        "speaker": "FT PANDA",
+        "character": "パンダ君 ちょっと それ貸して",
+        "definition": "Panda, could you hand me that? Panda's not doing anything.",
+        "timestamp": "0:07:45",
+        "audio": "/audio/39/0.07.45.mp3"
+    },
+    "59": {
+        "speaker": "PENGUIN",
+        "character": "あれって 常勤パンダさんの負担大きすぎるよね",
+        "definition": "Mr. Full-Time Panda is doing all the work.",
+        "timestamp": "0:07:53",
+        "audio": "/audio/39/0.07.53.mp3"
+    },
+    "60": {
+        "speaker": "SASAKO",
+        "character": "そうですね",
+        "definition": "Indeed. Ta-da!",
+        "timestamp": "0:07:57",
+        "audio": "/audio/39/0.07.57.mp3"
+    },
+    "61": {
+        "speaker": "PENGUIN",
+        "character": "パンダ君 やりきった顔してるな",
+        "definition": "Panda looks proud of himself.",
+        "timestamp": "0:08:04",
+        "audio": "/audio/39/0.08.04.mp3"
+    },
+    "62": {
+        "speaker": "POLAR BEAr",
+        "character": "常勤パンダさんやつれきった顔してるね",
+        "definition": "Mr. Full-Time Panda looks exhausted.",
+        "timestamp": "0:08:08",
+        "audio": "/audio/39/0.08.08.mp3"
+    },
+    "63": {
+        "speaker": "GRIZZLY",
+        "character": "常勤 やるじゃねえか",
+        "definition": "Not bad, Full-Time. Could you... leave me alone until I catch my breath? Well, then I think it's my turn. Please take a look at my domino setup.",
+        "timestamp": "0:08:15",
+        "audio": "/audio/39/0.08.15.mp3"
+    },
+    "64": {
+        "speaker": "ALL",
+        "character": "88)}すごい",
+        "definition": "Wow!",
+        "timestamp": "0:08:42",
+        "audio": "/audio/39/0.08.42.mp3"
+    },
+    "65": {
+        "speaker": "LLAMA",
+        "character": "この日のために２週間かけて並べました",
+        "definition": "It took me two weeks to prepare for this day.",
+        "timestamp": "0:08:43",
+        "audio": "/audio/39/0.08.43.mp3"
+    },
+    "66": {
+        "speaker": "POLAR BEAR",
+        "character": "いつの間に",
+        "definition": "When did all this happen?",
+        "timestamp": "0:08:50",
+        "audio": "/audio/39/0.08.50.mp3"
+    },
+    "67": {
+        "speaker": "PENGUIN",
+        "character": "地味だけど すごいな",
+        "definition": "Sort of ordinary, but wow.",
+        "timestamp": "0:08:51",
+        "audio": "/audio/39/0.08.51.mp3"
+    },
+    "68": {
+        "speaker": "LLAMA",
+        "character": "ありがとうございます",
+        "definition": "Thank you.",
+        "timestamp": "0:08:54",
+        "audio": "/audio/39/0.08.54.mp3"
+    },
+    "69": {
+        "speaker": "LLAMA",
+        "character": "この辺が特に苦労したんですよ",
+        "definition": "This part right here was particularly hard.",
+        "timestamp": "0:08:56",
+        "audio": "/audio/39/0.08.56.mp3"
+    },
+    "70": {
+        "speaker": "LLAMA",
+        "character": "ここに注目してください…",
+        "definition": "Please loo—",
+        "timestamp": "0:08:59",
+        "audio": "/audio/39/0.08.59.mp3"
+    },
+    "71": {
+        "speaker": "SASAKO",
+        "character": "ラマさん 落ち込んでますね",
+        "definition": "Mr. Llama looks rather depressed.",
+        "timestamp": "0:09:26",
+        "audio": "/audio/39/0.09.26.mp3"
+    },
+    "72": {
+        "speaker": "PENGUIN",
+        "character": "すごかったよ 失敗しちゃったけど",
+        "definition": "It was amazing... though it failed.",
+        "timestamp": "0:09:30",
+        "audio": "/audio/39/0.09.30.mp3"
+    },
+    "73": {
+        "speaker": "LLAMA",
+        "character": "しばらく ひとりにしてください",
+        "definition": "Could you leave me alone for a while.",
+        "timestamp": "0:09:35",
+        "audio": "/audio/39/0.09.35.mp3"
+    },
+    "74": {
+        "speaker": "POLAR BEAR",
+        "character": "どうぞ",
+        "definition": "Here you go.",
+        "timestamp": "0:09:38",
+        "audio": "/audio/39/0.09.38.mp3"
+    },
+    "75": {
+        "speaker": "LLAMA",
+        "character": "ありがとうございます",
+        "definition": "Thank you.",
+        "timestamp": "0:09:46",
+        "audio": "/audio/39/0.09.46.mp3"
+    },
+    "76": {
+        "speaker": "GRIZZLY",
+        "character": "うんちょっと待て シロクマよ",
+        "definition": "Hold it right there, Polar Bear!",
+        "timestamp": "0:09:49",
+        "audio": "/audio/39/0.09.49.mp3"
+    },
+    "77": {
+        "speaker": "GRIZZLY",
+        "character": "さんざん待たせやがって",
+        "definition": "How long are you going to make me wait?!",
+        "timestamp": "0:09:51",
+        "audio": "/audio/39/0.09.51.mp3"
+    },
+    "78": {
+        "speaker": "GRIZZLY",
+        "character": "オメエには 絶対負けられねえ",
+        "definition": "I won't lose to you!",
+        "timestamp": "0:09:55",
+        "audio": "/audio/39/0.09.55.mp3"
+    },
+    "79": {
+        "speaker": "GRIZZLY",
+        "character": "俺のかくし芸 見やがれ",
+        "definition": "Behold, my hidden talent!",
+        "timestamp": "0:09:59",
+        "audio": "/audio/39/0.09.59.mp3"
+    },
+    "80": {
+        "speaker": "GRIZZLY",
+        "character": "俺のかくし芸 見やがれ",
+        "definition": "Behold, my hidden talent!",
+        "timestamp": "0:09:59",
+        "audio": "/audio/39/0.09.59.mp3"
+    },
+    "81": {
+        "speaker": "GRIZZLY",
+        "character": "どうだ",
+        "definition": "How do you like this?",
+        "timestamp": "0:10:16",
+        "audio": "/audio/39/0.10.16.mp3"
+    },
+    "82": {
+        "speaker": "PENGUIN",
+        "character": "これはまた 荒々しいけど細やかなカードさばきだね",
+        "definition": "Once again, very violent, yet careful card handling. And then, in return, Polar Bear is...",
+        "timestamp": "0:10:19",
+        "audio": "/audio/39/0.10.19.mp3"
+    },
+    "83": {
+        "speaker": "PENGUIN",
+        "character": "華々しくも乱暴なマジック",
+        "definition": "Such rough and violent magic! Ta-da!",
+        "timestamp": "0:10:34",
+        "audio": "/audio/39/0.10.34.mp3"
+    },
+    "84": {
+        "speaker": "GRIZZLY",
+        "character": "オラ いつもより多めに回すぜ",
+        "definition": "Take this! I'll spin a bigger one than usual!",
+        "timestamp": "0:10:38",
+        "audio": "/audio/39/0.10.38.mp3"
+    },
+    "85": {
+        "speaker": "POLAR BEAR",
+        "character": "それ",
+        "definition": "There!",
+        "timestamp": "0:10:41",
+        "audio": "/audio/39/0.10.41.mp3"
+    },
+    "86": {
+        "speaker": "PENGUIN",
+        "character": "なんて戦いだ",
+        "definition": "What a battle!",
+        "timestamp": "0:10:42",
+        "audio": "/audio/39/0.10.42.mp3"
+    },
+    "87": {
+        "speaker": "GRIZzly",
+        "character": "まだまだ",
+        "definition": "I ain't done yet!",
+        "timestamp": "0:10:44",
+        "audio": "/audio/39/0.10.44.mp3"
+    },
+    "88": {
+        "speaker": "GRIZzlY",
+        "character": "はい ワンツー ワンツー",
+        "definition": "All right. One, two, one, two...",
+        "timestamp": "0:10:47",
+        "audio": "/audio/39/0.10.47.mp3"
+    },
+    "89": {
+        "speaker": "GRIZZLY",
+        "character": "ワンツー ワンツー",
+        "definition": "One, two, one, two... One, two, one, two... One, two... Come on! What do you have next?!",
+        "timestamp": "0:10:49",
+        "audio": "/audio/39/0.10.49.mp3"
+    },
+    "90": {
+        "speaker": "POlaR BEAR",
+        "character": "グリズリー君…",
+        "definition": "Grizzly...",
+        "timestamp": "0:11:00",
+        "audio": "/audio/39/0.11.00.mp3"
+    },
+    "91": {
+        "speaker": "GRIZzly",
+        "character": "なんだよ",
+        "definition": "What?",
+        "timestamp": "0:11:04",
+        "audio": "/audio/39/0.11.04.mp3"
+    },
+    "92": {
+        "speaker": "POLAR BEAR",
+        "character": "もう いいんじゃないかな 誰が勝ちでも",
+        "definition": "I think that's enough. Regardless of who wins, let's be good friends this year, too.",
+        "timestamp": "0:11:06",
+        "audio": "/audio/39/0.11.06.mp3"
+    },
+    "93": {
+        "speaker": "GRIZZLy",
+        "character": "ああ そうだな",
+        "definition": "Yeah, you're right.",
+        "timestamp": "0:11:18",
+        "audio": "/audio/39/0.11.18.mp3"
+    },
+    "94": {
+        "speaker": "SASAKO",
+        "character": "皆さん おもち焼けましたよ",
+        "definition": "I've got grilled rice cakes, everyone! They look delicious!",
+        "timestamp": "0:11:22",
+        "audio": "/audio/39/0.11.22.mp3"
+    },
+    "95": {
+        "speaker": "POLAR BEAR",
+        "character": "それじゃ あらためて…",
+        "definition": "Now, one more time... {\\a6}Happy... Happy... New Year! {\\a6}New Year... You got tired of the match, didn't you?",
+        "timestamp": "0:11:30",
+        "audio": "/audio/39/0.11.30.mp3"
+    },
+    "96": {
+        "speaker": "POLAR BEAR",
+        "character": "まあ いいじゃない",
+        "definition": "Does it matter?",
+        "timestamp": "0:11:42",
+        "audio": "/audio/39/0.11.42.mp3"
+    },
+    "97": {
+        "speaker": "GRIZZLY",
+        "character": "はっ だな",
+        "definition": "True. Polar Bear's Café",
+        "timestamp": "0:11:45",
+        "audio": "/audio/39/0.11.45.mp3"
+    },
+    "98": {
+        "speaker": "PANDA",
+        "character": "あれ シロクマ君は",
+        "definition": "Huh? Where's Polar Bear?",
+        "timestamp": "0:12:00",
+        "audio": "/audio/39/0.12.00.mp3"
+    },
+    "99": {
+        "speaker": "PANDA",
+        "character": "まだどこもお休みだな",
+        "definition": "Looks like everything is closed, still.",
+        "timestamp": "0:12:21",
+        "audio": "/audio/39/0.12.21.mp3"
+    },
+    "100": {
+        "speaker": "RINRIN",
+        "character": "あっ パンダ君あけましておめでとう",
+        "definition": "Oh, Panda! Happy New Year! Oh, no! Wait, Panda!",
+        "timestamp": "0:12:29",
+        "audio": "/audio/39/0.12.29.mp3"
+    },
+    "101": {
+        "speaker": "PANDA",
+        "character": "お正月早々リンリンに会っちゃったよ",
+        "definition": "The year's just begun, and I already bumped into Rin Rin...",
+        "timestamp": "0:12:42",
+        "audio": "/audio/39/0.12.42.mp3"
+    },
+    "102": {
+        "speaker": "PANDA",
+        "character": "しろくまカフェ 早く営業しないかな",
+        "definition": "I wonder if Polar Bear's Café will open soon...",
+        "timestamp": "0:12:48",
+        "audio": "/audio/39/0.12.48.mp3"
+    },
+    "103": {
+        "speaker": "PANDA",
+        "character": "もう帰ってゴロゴロしよう",
+        "definition": "I think I'll go home and laze around now.",
+        "timestamp": "0:12:54",
+        "audio": "/audio/39/0.12.54.mp3"
+    },
+    "104": {
+        "speaker": "PANDA MAMA",
+        "character": "あら そうなの",
+        "definition": "Oh, really?",
+        "timestamp": "0:12:57",
+        "audio": "/audio/39/0.12.57.mp3"
+    },
+    "105": {
+        "speaker": "MEI MEI",
+        "character": "それでどうなったんですか",
+        "definition": "And what happened next?",
+        "timestamp": "0:13:00",
+        "audio": "/audio/39/0.13.00.mp3"
+    },
+    "106": {
+        "speaker": "PANDA",
+        "character": "88)}ただいま",
+        "definition": "I'm home.",
+        "timestamp": "0:13:01",
+        "audio": "/audio/39/0.13.01.mp3"
+    },
+    "107": {
+        "speaker": "MEI MEI",
+        "character": "あっ お兄ちゃん",
+        "definition": "Oh, hi, Brother.",
+        "timestamp": "0:13:03",
+        "audio": "/audio/39/0.13.03.mp3"
+    },
+    "108": {
+        "speaker": "PANDA",
+        "character": "あれ ペンギンさん",
+        "definition": "Huh? Mr. Penguin?",
+        "timestamp": "0:13:04",
+        "audio": "/audio/39/0.13.04.mp3"
+    },
+    "109": {
+        "speaker": "PENGuiN",
+        "character": "おかえり",
+        "definition": "Welcome home!",
+        "timestamp": "0:13:07",
+        "audio": "/audio/39/0.13.07.mp3"
+    },
+    "110": {
+        "speaker": "PANDA MAMA",
+        "character": "おかえり",
+        "definition": "Welcome home. Happy New Year, Panda.",
+        "timestamp": "0:13:08",
+        "audio": "/audio/39/0.13.08.mp3"
+    },
+    "111": {
+        "speaker": "PANDA",
+        "character": "どうしたの",
+        "definition": "Why are you here?",
+        "timestamp": "0:13:12",
+        "audio": "/audio/39/0.13.12.mp3"
+    },
+    "112": {
+        "speaker": "PENGuin",
+        "character": "カフェが休みだったから",
+        "definition": "Well, the café was closed,",
+        "timestamp": "0:13:14",
+        "audio": "/audio/39/0.13.14.mp3"
+    },
+    "113": {
+        "speaker": "",
+        "character": "ついでに パンダ君のとこに新年のあいさつに寄ったらさ…",
+        "definition": "so I thought I'd stop by your place for New Year's greetings and...",
+        "timestamp": "0:13:16",
+        "audio": "/audio/39/0.13.16.mp3"
+    },
+    "114": {
+        "speaker": "PANDA MAMA",
+        "character": "ペンギンさんったらすぐ帰るだなんて言うからあがっていただいたのよ",
+        "definition": "Mr. Penguin said he was going to take off quickly, so I had him make himself at home.",
+        "timestamp": "0:13:20",
+        "audio": "/audio/39/0.13.20.mp3"
+    },
+    "115": {
+        "speaker": "PANDA",
+        "character": "そうなんだ",
+        "definition": "Oh, I see.",
+        "timestamp": "0:13:24",
+        "audio": "/audio/39/0.13.24.mp3"
+    },
+    "116": {
+        "speaker": "PENGUIN",
+        "character": "あっ おじいちゃん もう一本いきますか",
+        "definition": "Would you like another, Grandpa? Here you go, Grandpa.",
+        "timestamp": "0:13:27",
+        "audio": "/audio/39/0.13.27.mp3"
+    },
+    "117": {
+        "speaker": "GRANDPA",
+        "character": "謹賀新年",
+        "definition": "Happy New Year!",
+        "timestamp": "0:13:32",
+        "audio": "/audio/39/0.13.32.mp3"
+    },
+    "118": {
+        "speaker": "GRANDPA",
+        "character": "まあまあ ペンギンさんも一杯",
+        "definition": "You should have another, Mr. Penguin.",
+        "timestamp": "0:13:34",
+        "audio": "/audio/39/0.13.34.mp3"
+    },
+    "119": {
+        "speaker": "PENGUIN",
+        "character": "いえいえ 手酌で",
+        "definition": "Oh, no. I'll just pour for you.",
+        "timestamp": "0:13:37",
+        "audio": "/audio/39/0.13.37.mp3"
+    },
+    "120": {
+        "speaker": "GRANDPA",
+        "character": "そう言わずに",
+        "definition": "Oh, don't be like that.",
+        "timestamp": "0:13:39",
+        "audio": "/audio/39/0.13.39.mp3"
+    },
+    "121": {
+        "speaker": "PENGUIN",
+        "character": "恐縮です",
+        "definition": "Oh, all right.",
+        "timestamp": "0:13:40",
+        "audio": "/audio/39/0.13.40.mp3"
+    },
+    "122": {
+        "speaker": "GRANDPA",
+        "character": "意気投合",
+        "definition": "We have reached a mutual understanding.",
+        "timestamp": "0:13:42",
+        "audio": "/audio/39/0.13.42.mp3"
+    },
+    "123": {
+        "speaker": "GRANDPA",
+        "character": "もう一杯",
+        "definition": "Another?",
+        "timestamp": "0:13:49",
+        "audio": "/audio/39/0.13.49.mp3"
+    },
+    "124": {
+        "speaker": "PENGUIN",
+        "character": "恐縮です",
+        "definition": "Oh, all right.",
+        "timestamp": "0:13:50",
+        "audio": "/audio/39/0.13.50.mp3"
+    },
+    "125": {
+        "speaker": "GRANDPA",
+        "character": "一蓮托生",
+        "definition": "What's mine is yours.",
+        "timestamp": "0:13:52",
+        "audio": "/audio/39/0.13.52.mp3"
+    },
+    "126": {
+        "speaker": "PENGUIN",
+        "character": "お母さん このお刺身最高ですね",
+        "definition": "Ma'am, this sashimi is fantastic! Help yourself, Mei Mei. It's delicious.",
+        "timestamp": "0:13:59",
+        "audio": "/audio/39/0.13.59.mp3"
+    },
+    "127": {
+        "speaker": "MEI MEI",
+        "character": "ありがとうございます ペンギンさん",
+        "definition": "Thank you very much, Mr. Penguin. Sorry about that, Mr. Penguin. Not at all. I love other people's houses. Make sure you don't let go of the one you love, Mei Mei.",
+        "timestamp": "0:14:06",
+        "audio": "/audio/39/0.14.06.mp3"
+    },
+    "128": {
+        "speaker": "MEI MEI",
+        "character": "えっ やっぱりそうですよね",
+        "definition": "So you think so, too?!",
+        "timestamp": "0:14:20",
+        "audio": "/audio/39/0.14.20.mp3"
+    },
+    "129": {
+        "speaker": "PANDA",
+        "character": "メイメイ ペンギンさんに恋の話聞いてもしかたないよ",
+        "definition": "There's no use in asking Mr. Penguin about love, Mei Mei...",
+        "timestamp": "0:14:22",
+        "audio": "/audio/39/0.14.22.mp3"
+    },
+    "130": {
+        "speaker": "MEI MEI",
+        "character": "お兄ちゃんは黙ってて",
+        "definition": "Oh, shut up!",
+        "timestamp": "0:14:26",
+        "audio": "/audio/39/0.14.26.mp3"
+    },
+    "131": {
+        "speaker": "MEI MEI",
+        "character": "もっといろいろ教えてください",
+        "definition": "Please tell me more!",
+        "timestamp": "0:14:28",
+        "audio": "/audio/39/0.14.28.mp3"
+    },
+    "132": {
+        "speaker": "PENGUIN",
+        "character": "僕でよかったら 何でも聞いて",
+        "definition": "Sure, why not? Ask me anything. Mr. Penguin, you're really relaxed. Huh? Yeah. Something about being at your house is very relaxing. Really? Please, don't hold back. Thank you very much. Just one more, then.",
+        "timestamp": "0:14:31",
+        "audio": "/audio/39/0.14.31.mp3"
+    },
+    "133": {
+        "speaker": "PANDA MAMA",
+        "character": "どうぞ",
+        "definition": "There you go. Grandpa, your cup is empty. Oh, so it is.",
+        "timestamp": "0:14:52",
+        "audio": "/audio/39/0.14.52.mp3"
+    },
+    "134": {
+        "speaker": "PENGUIN",
+        "character": "まあまあ一杯",
+        "definition": "Have another. It's New Year's.",
+        "timestamp": "0:14:59",
+        "audio": "/audio/39/0.14.59.mp3"
+    },
+    "135": {
+        "speaker": "GRANDPA",
+        "character": "すみませんね",
+        "definition": "Thank you.",
+        "timestamp": "0:15:02",
+        "audio": "/audio/39/0.15.02.mp3"
+    },
+    "136": {
+        "speaker": "PENGUIN",
+        "character": "あれ パンダ君 おかわりもらえる",
+        "definition": "Huh? Could we get another, Panda?",
+        "timestamp": "0:15:04",
+        "audio": "/audio/39/0.15.04.mp3"
+    },
+    "137": {
+        "speaker": "MEI MEI",
+        "character": "お兄ちゃん ペンギンさんのおかわりえ",
+        "definition": "Get Mr. Penguin another, Brother! Huh?",
+        "timestamp": "0:15:08",
+        "audio": "/audio/39/0.15.08.mp3"
+    },
+    "138": {
+        "speaker": "GRANDPA",
+        "character": "持ってきなさい",
+        "definition": "Get him another.",
+        "timestamp": "0:15:11",
+        "audio": "/audio/39/0.15.11.mp3"
+    },
+    "139": {
+        "speaker": "MEI MEI",
+        "character": "ホントお兄ちゃんてばペンギンさんと違って気が利かないわね",
+        "definition": "You're not thoughtful like Mr. Penguin. Wha...",
+        "timestamp": "0:15:12",
+        "audio": "/audio/39/0.15.12.mp3"
+    },
+    "140": {
+        "speaker": "PANDA",
+        "character": "まいったなぁ 自分の家じゃない気分だよ",
+        "definition": "Jeez... It feels like it's not my house. Oh, I got in the bath before you, Panda.",
+        "timestamp": "0:15:23",
+        "audio": "/audio/39/0.15.23.mp3"
+    },
+    "141": {
+        "speaker": "PANDA",
+        "character": "なに お風呂入っちゃったの",
+        "definition": "What? You got in the bath?",
+        "timestamp": "0:15:36",
+        "audio": "/audio/39/0.15.36.mp3"
+    },
+    "142": {
+        "speaker": "PENGUIN",
+        "character": "入っちゃったよ お母さんが入ってくれ入ってくれって言うからさ",
+        "definition": "I did. Your mom kept asking me to get in. Nothing beats a cold ice bath in the winter.",
+        "timestamp": "0:15:39",
+        "audio": "/audio/39/0.15.39.mp3"
+    },
+    "143": {
+        "speaker": "PANDA MAMA",
+        "character": "ペンギンさん 温かいのが苦手なのに遠慮なさってるから",
+        "definition": "Mr. Penguin doesn't like hot water and was trying to hold back, so... I don't want to get into an ice bath.",
+        "timestamp": "0:15:49",
+        "audio": "/audio/39/0.15.49.mp3"
+    },
+    "144": {
+        "speaker": "pandA",
+        "character": "もう強制的に帰ってもらおうよ",
+        "definition": "Let's forcefully ask him to leave.",
+        "timestamp": "0:15:57",
+        "audio": "/audio/39/0.15.57.mp3"
+    },
+    "145": {
+        "speaker": "PANDA MAMA",
+        "character": "いいじゃないの お正月なんだから",
+        "definition": "Oh, it's fine. It's New Year's.",
+        "timestamp": "0:16:00",
+        "audio": "/audio/39/0.16.00.mp3"
+    },
+    "146": {
+        "speaker": "PENGUIN",
+        "character": "お風呂 お先にいただきました",
+        "definition": "I've finished with the bath.",
+        "timestamp": "0:16:03",
+        "audio": "/audio/39/0.16.03.mp3"
+    },
+    "147": {
+        "speaker": "panda mama",
+        "character": "ゆっくりできました",
+        "definition": "Were you able to relax?",
+        "timestamp": "0:16:06",
+        "audio": "/audio/39/0.16.06.mp3"
+    },
+    "148": {
+        "speaker": "pengUIN",
+        "character": "はい いいお風呂でした",
+        "definition": "Yes, the bath was great. Then are you going home now? Huh?",
+        "timestamp": "0:16:08",
+        "audio": "/audio/39/0.16.08.mp3"
+    },
+    "149": {
+        "speaker": "MEI MEI",
+        "character": "何言ってんの お兄ちゃん",
+        "definition": "What are you talking about, Brother?!",
+        "timestamp": "0:16:16",
+        "audio": "/audio/39/0.16.16.mp3"
+    },
+    "150": {
+        "speaker": "MEI MEI",
+        "character": "ペンギンさんは帰らないの 飲み直すの",
+        "definition": "Mr. Penguin is not going home! He's going to drink more!",
+        "timestamp": "0:16:20",
+        "audio": "/audio/39/0.16.20.mp3"
+    },
+    "151": {
+        "speaker": "MEI MEI",
+        "character": "おじいちゃんがとっておきのやつあけてくれるそうですよ ペンギンさん",
+        "definition": "Grandpa said he was opening an extra special bottle, Mr. Penguin.",
+        "timestamp": "0:16:24",
+        "audio": "/audio/39/0.16.24.mp3"
+    },
+    "152": {
+        "speaker": "PENGUIN",
+        "character": "本当 そんな 悪いな",
+        "definition": "Really? Shucks, he shouldn't have.",
+        "timestamp": "0:16:28",
+        "audio": "/audio/39/0.16.28.mp3"
+    },
+    "153": {
+        "speaker": "PANDA",
+        "character": "帰らないの",
+        "definition": "You're not going home?",
+        "timestamp": "0:16:33",
+        "audio": "/audio/39/0.16.33.mp3"
+    },
+    "154": {
+        "speaker": "MEI MEI",
+        "character": "帰らないの",
+        "definition": "No, he's not. It's a shame you're a penguin. Why not become a panda? Yeah! Maybe I should.",
+        "timestamp": "0:16:35",
+        "audio": "/audio/39/0.16.35.mp3"
+    },
+    "155": {
+        "speaker": "penguin",
+        "character": "コウテイパンダか…",
+        "definition": "An emperor panda, huh?",
+        "timestamp": "0:16:53",
+        "audio": "/audio/39/0.16.53.mp3"
+    },
+    "156": {
+        "speaker": "penguin",
+        "character": "アリかな",
+        "definition": "It's plausible.",
+        "timestamp": "0:16:56",
+        "audio": "/audio/39/0.16.56.mp3"
+    },
+    "157": {
+        "speaker": "PANDA",
+        "character": "ナシ… かな…",
+        "definition": "I don't think so... Mr. Penguin, it's almost time for the last train.",
+        "timestamp": "0:17:00",
+        "audio": "/audio/39/0.17.00.mp3"
+    },
+    "158": {
+        "speaker": "PENGUIN",
+        "character": "歩いて帰れるから大丈夫だよ",
+        "definition": "I can walk home, so it's fine.",
+        "timestamp": "0:17:10",
+        "audio": "/audio/39/0.17.10.mp3"
+    },
+    "159": {
+        "speaker": "PANDA",
+        "character": "あ そう…",
+        "definition": "Oh, okay...",
+        "timestamp": "0:17:13",
+        "audio": "/audio/39/0.17.13.mp3"
+    },
+    "160": {
+        "speaker": "PANDA MAMA",
+        "character": "ペンギンさん お布団用意しときましたから",
+        "definition": "Mr. Penguin, I've prepared your futon. Wha?!",
+        "timestamp": "0:17:15",
+        "audio": "/audio/39/0.17.15.mp3"
+    },
+    "161": {
+        "speaker": "PENGUIN",
+        "character": "いえ お母さん僕 もうそろそろ…",
+        "definition": "Oh, it's all right. I'll head out soon...",
+        "timestamp": "0:17:19",
+        "audio": "/audio/39/0.17.19.mp3"
+    },
+    "162": {
+        "speaker": "PANDA MAMA",
+        "character": "泊まってらして もう遅いし",
+        "definition": "Please stay the night. It's rather late.",
+        "timestamp": "0:17:22",
+        "audio": "/audio/39/0.17.22.mp3"
+    },
+    "163": {
+        "speaker": "MEI MEI",
+        "character": "ペンギンさん 明日も遊んでね",
+        "definition": "Please play with me tomorrow, too, Mr. Penguin.",
+        "timestamp": "0:17:26",
+        "audio": "/audio/39/0.17.26.mp3"
+    },
+    "164": {
+        "speaker": "PENGUIN",
+        "character": "ええっ そうですか",
+        "definition": "Really? Are you sure?",
+        "timestamp": "0:17:28",
+        "audio": "/audio/39/0.17.28.mp3"
+    },
+    "165": {
+        "speaker": "PENGUIN",
+        "character": "それじゃあ…",
+        "definition": "Well, then...",
+        "timestamp": "0:17:32",
+        "audio": "/audio/39/0.17.32.mp3"
+    },
+    "166": {
+        "speaker": "PENGUIN",
+        "character": "おやすみなさい",
+        "definition": "Goodnight.",
+        "timestamp": "0:17:34",
+        "audio": "/audio/39/0.17.34.mp3"
+    },
+    "167": {
+        "speaker": "PANDA",
+        "character": "泊まるの",
+        "definition": "You're spending the night?",
+        "timestamp": "0:17:37",
+        "audio": "/audio/39/0.17.37.mp3"
+    },
+    "168": {
+        "speaker": "PENGUIN",
+        "character": "うん そうだね",
+        "definition": "Yeah, I am.",
+        "timestamp": "0:17:38",
+        "audio": "/audio/39/0.17.38.mp3"
+    },
+    "169": {
+        "speaker": "PANDA",
+        "character": "家まで送っていくよ",
+        "definition": "I'll walk you to your house.",
+        "timestamp": "0:17:40",
+        "audio": "/audio/39/0.17.40.mp3"
+    },
+    "170": {
+        "speaker": "PENGUIN",
+        "character": "遅いのに 悪いよ",
+        "definition": "But it's so late, so I'd feel bad.",
+        "timestamp": "0:17:43",
+        "audio": "/audio/39/0.17.43.mp3"
+    },
+    "171": {
+        "speaker": "PANDA",
+        "character": "そうじゃなくて… 帰ってよ",
+        "definition": "That's not what I meant... Go home!",
+        "timestamp": "0:17:46",
+        "audio": "/audio/39/0.17.46.mp3"
+    },
+    "172": {
+        "speaker": "Mei Mei",
+        "character": "お兄ちゃん どうしてペンギンさんにそんなひどいこと言うの",
+        "definition": "How can you say something so mean to Mr. Penguin?!",
+        "timestamp": "0:17:50",
+        "audio": "/audio/39/0.17.50.mp3"
+    },
+    "173": {
+        "speaker": "MEI MEI",
+        "character": "ゆっくり休んでね ペンギンさん",
+        "definition": "Rest well, Mr. Penguin.",
+        "timestamp": "0:17:54",
+        "audio": "/audio/39/0.17.54.mp3"
+    },
+    "174": {
+        "speaker": "PENGUIN",
+        "character": "うん ありがとう",
+        "definition": "I will, thanks.",
+        "timestamp": "0:17:57",
+        "audio": "/audio/39/0.17.57.mp3"
+    },
+    "175": {
+        "speaker": "PANDA MAMA",
+        "character": "すみませんね お手伝いまでしていただいて",
+        "definition": "Sorry that we have you helping out.",
+        "timestamp": "0:18:22",
+        "audio": "/audio/39/0.18.22.mp3"
+    },
+    "176": {
+        "speaker": "PENGUIN",
+        "character": "いえ 一日お世話になったので",
+        "definition": "Not at all. You took care of me all day yesterday.",
+        "timestamp": "0:18:26",
+        "audio": "/audio/39/0.18.26.mp3"
+    },
+    "177": {
+        "speaker": "GRANDPA",
+        "character": "ゆずこしょう どこだったかな",
+        "definition": "Where's the yuzu pepper?",
+        "timestamp": "0:18:29",
+        "audio": "/audio/39/0.18.29.mp3"
+    },
+    "178": {
+        "speaker": "PENGUIN",
+        "character": "ああ わかります わかります",
+        "definition": "Oh, I know. Here you go, Grandpa. Thanks.",
+        "timestamp": "0:18:32",
+        "audio": "/audio/39/0.18.32.mp3"
+    },
+    "179": {
+        "speaker": "PANDA",
+        "character": "僕より家に詳しくなってない",
+        "definition": "I think you know my house better than I do.",
+        "timestamp": "0:18:41",
+        "audio": "/audio/39/0.18.41.mp3"
+    },
+    "180": {
+        "speaker": "PENGUIN",
+        "character": "お構いなく",
+        "definition": "Don't mind me.",
+        "timestamp": "0:18:44",
+        "audio": "/audio/39/0.18.44.mp3"
+    },
+    "181": {
+        "speaker": "PAnDa",
+        "character": "そろそろ家に帰ったほうがいいんじゃないかな",
+        "definition": "Maybe you should go home soon.",
+        "timestamp": "0:18:48",
+        "audio": "/audio/39/0.18.48.mp3"
+    },
+    "182": {
+        "speaker": "PENGUIN",
+        "character": "大丈夫 電話して新聞とめてもらったから",
+        "definition": "It's fine. I called and had them stop the newspaper.",
+        "timestamp": "0:18:51",
+        "audio": "/audio/39/0.18.51.mp3"
+    },
+    "183": {
+        "speaker": "penguin",
+        "character": "僕 枕が変わっても 何日でも寝られちゃうタイプなんだよね",
+        "definition": "I'm the type that can sleep for days, even when it's not my own pillow.",
+        "timestamp": "0:18:55",
+        "audio": "/audio/39/0.18.55.mp3"
+    },
+    "184": {
+        "speaker": "PANDA",
+        "character": "何日でも",
+        "definition": "For days?!",
+        "timestamp": "0:19:01",
+        "audio": "/audio/39/0.19.01.mp3"
+    },
+    "185": {
+        "speaker": "penguIN",
+        "character": "お母さん あとでお掃除しちゃいますからね",
+        "definition": "I'll clean later, Ma'am. Thank you for all of your hard work.",
+        "timestamp": "0:19:03",
+        "audio": "/audio/39/0.19.03.mp3"
+    },
+    "186": {
+        "speaker": "PENGUIN",
+        "character": "パンダ君 邪魔だよ",
+        "definition": "Panda, you're in the way. So annoying.",
+        "timestamp": "0:19:14",
+        "audio": "/audio/39/0.19.14.mp3"
+    },
+    "187": {
+        "speaker": "PANDA MAMA",
+        "character": "あなたも ペンギンさんの爪の垢でも飲ませてもらったら",
+        "definition": "You should learn something from Mr. Penguin.",
+        "timestamp": "0:19:20",
+        "audio": "/audio/39/0.19.20.mp3"
+    },
+    "188": {
+        "speaker": "PENGUIN",
+        "character": "そんな お母さん たいしたことありませんよ",
+        "definition": "Oh, it's nothing, really. Man, what a productive day.",
+        "timestamp": "0:19:25",
+        "audio": "/audio/39/0.19.25.mp3"
+    },
+    "189": {
+        "speaker": "PENGUIN",
+        "character": "パンダ君 おやすみ",
+        "definition": "Goodnight, Panda.",
+        "timestamp": "0:19:48",
+        "audio": "/audio/39/0.19.48.mp3"
+    },
+    "190": {
+        "speaker": "POLAR BEAR",
+        "character": "はい",
+        "definition": "Hello?",
+        "timestamp": "0:20:05",
+        "audio": "/audio/39/0.20.05.mp3"
+    },
+    "191": {
+        "speaker": "PANDA",
+        "character": "シロクマ君",
+        "definition": "Polar Bear?",
+        "timestamp": "0:20:06",
+        "audio": "/audio/39/0.20.06.mp3"
+    },
+    "192": {
+        "speaker": "Polar BEAr",
+        "character": "パンダ君 どうしたの",
+        "definition": "Panda? What's the matter? I have a small request...",
+        "timestamp": "0:20:08",
+        "audio": "/audio/39/0.20.08.mp3"
+    },
+    "193": {
+        "speaker": "POLAR BEAR",
+        "character": "お願い",
+        "definition": "Request?",
+        "timestamp": "0:20:15",
+        "audio": "/audio/39/0.20.15.mp3"
+    },
+    "194": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん 起きて",
+        "definition": "Wake up, Mr. Penguin.",
+        "timestamp": "0:20:26",
+        "audio": "/audio/39/0.20.26.mp3"
+    },
+    "195": {
+        "speaker": "PENGUIN",
+        "character": "何",
+        "definition": "What is it?",
+        "timestamp": "0:20:31",
+        "audio": "/audio/39/0.20.31.mp3"
+    },
+    "196": {
+        "speaker": "PANDA",
+        "character": "もうお昼だよ",
+        "definition": "It's already lunch time.",
+        "timestamp": "0:20:33",
+        "audio": "/audio/39/0.20.33.mp3"
+    },
+    "197": {
+        "speaker": "PENGUIN",
+        "character": "あっ 太極拳 忘れてた",
+        "definition": "I forgot about tai-chi.",
+        "timestamp": "0:20:35",
+        "audio": "/audio/39/0.20.35.mp3"
+    },
+    "198": {
+        "speaker": "PENGUIN",
+        "character": "おじいちゃんに謝ってこなきゃ",
+        "definition": "I should go apologize to Grandpa.",
+        "timestamp": "0:20:37",
+        "audio": "/audio/39/0.20.37.mp3"
+    },
+    "199": {
+        "speaker": "PANDA",
+        "character": "それより ペンギンさん",
+        "definition": "More importantly, Mr. Penguin...",
+        "timestamp": "0:20:40",
+        "audio": "/audio/39/0.20.40.mp3"
+    },
+    "200": {
+        "speaker": "PANDA",
+        "character": "ちょっと外で話があるんだけど",
+        "definition": "I have something to tell you outside.",
+        "timestamp": "0:20:44",
+        "audio": "/audio/39/0.20.44.mp3"
+    },
+    "201": {
+        "speaker": "PENGUIN",
+        "character": "何 パンダ君どうしたの",
+        "definition": "What? What is it, Panda?",
+        "timestamp": "0:20:49",
+        "audio": "/audio/39/0.20.49.mp3"
+    },
+    "202": {
+        "speaker": "PENGUIN",
+        "character": "だいたい しろくまカフェはまだ休みでしょ",
+        "definition": "Polar Bear's Café should still be closed. See? Huh? It's open.",
+        "timestamp": "0:20:52",
+        "audio": "/audio/39/0.20.52.mp3"
+    },
+    "203": {
+        "speaker": "PoLAR BEaR",
+        "character": "いらっしゃい",
+        "definition": "Welcome.",
+        "timestamp": "0:21:03",
+        "audio": "/audio/39/0.21.03.mp3"
+    },
+    "204": {
+        "speaker": "PENGUIN",
+        "character": "あれ ５日までお休みじゃなかったの",
+        "definition": "Huh? I thought you were off until the fifth.",
+        "timestamp": "0:21:05",
+        "audio": "/audio/39/0.21.05.mp3"
+    },
+    "205": {
+        "speaker": "Polar bear",
+        "character": "ちょっとね",
+        "definition": "Something came up.",
+        "timestamp": "0:21:09",
+        "audio": "/audio/39/0.21.09.mp3"
+    },
+    "206": {
+        "speaker": "PENGUIN",
+        "character": "へえ まあいいや",
+        "definition": "Well, whatever. Could I get a café mocha? Yes.",
+        "timestamp": "0:21:11",
+        "audio": "/audio/39/0.21.11.mp3"
+    },
+    "207": {
+        "speaker": "POLAR BEAR",
+        "character": "どうぞ",
+        "definition": "Here you go.",
+        "timestamp": "0:21:17",
+        "audio": "/audio/39/0.21.17.mp3"
+    },
+    "208": {
+        "speaker": "sASAKO",
+        "character": "はい パンダ君",
+        "definition": "Here you go, Panda. Man, it doesn't feel like a new year until I've",
+        "timestamp": "0:21:19",
+        "audio": "/audio/39/0.21.19.mp3"
+    },
+    "209": {
+        "speaker": "",
+        "character": "年が明けた気がしないね",
+        "definition": "had a mocha from here. What a relief. Thanks, Polar Bear. What?",
+        "timestamp": "0:21:28",
+        "audio": "/audio/39/0.21.28.mp3"
+    },
+    "210": {
+        "speaker": "",
+        "character": "あっ もしかして パンダ君にだけお年玉あげたの",
+        "definition": "Are you telling me you only gave Panda New Year's money? Well, something like that. Thank you, too, Miss Sasako.",
+        "timestamp": "0:21:40",
+        "audio": "/audio/39/0.21.40.mp3"
+    },
+    "211": {
+        "speaker": "saskO",
+        "character": "お正月ってやることなくて",
+        "definition": "I had nothing to do for New Year's, and I thought I'd be able to come here and see everyone. You're right.",
+        "timestamp": "0:21:48",
+        "audio": "/audio/39/0.21.48.mp3"
+    },
+    "212": {
+        "speaker": "pEnguin",
+        "character": "ほっとするなぁなんだかんだ言って",
+        "definition": "This is more relaxing. You always feel nervous at other people's houses.",
+        "timestamp": "0:21:56",
+        "audio": "/audio/39/0.21.56.mp3"
+    },
+    "213": {
+        "speaker": "penguin",
+        "character": "やっぱり 僕がくつろげる場所はしろくまカフェだけだよ",
+        "definition": "The only place I can truly relax is Polar Bear's Café.",
+        "timestamp": "0:22:03",
+        "audio": "/audio/39/0.22.03.mp3"
+    },
+    "214": {
+        "speaker": "panda",
+        "character": "シロクマ君 このカフェモカ下げちゃって",
+        "definition": "Please take away his mocha, Polar Bear!",
+        "timestamp": "0:22:07",
+        "audio": "/audio/39/0.22.07.mp3"
+    },
+    "215": {
+        "speaker": "POlaR BEAR",
+        "character": "は",
+        "definition": "Okay.",
+        "timestamp": "0:22:10",
+        "audio": "/audio/39/0.22.10.mp3"
+    },
+    "216": {
+        "speaker": "Penguin",
+        "character": "いえっ 何するの",
+        "definition": "Huh? What are you doing?!",
+        "timestamp": "0:22:11",
+        "audio": "/audio/39/0.22.11.mp3"
+    },
+    "217": {
+        "speaker": "PENGUIN",
+        "character": "ちょっと シロクマ君",
+        "definition": "Hey! Polar Bear! {\\a6}Tatsu {\\a6}mi {\\a6}Tatsumi",
+        "timestamp": "0:22:13",
+        "audio": "/audio/39/0.22.13.mp3"
+    },
+    "218": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:23:58",
+        "audio": "/audio/39/0.23.58.mp3"
+    },
+    "219": {
+        "speaker": "PENGUIN",
+        "character": "なに パンダ君",
+        "definition": "What is it, Panda?",
+        "timestamp": "0:23:59",
+        "audio": "/audio/39/0.23.59.mp3"
+    },
+    "220": {
+        "speaker": "PANDA",
+        "character": "ペンギンさんの今年の目標は絶対に聞かせないでね",
+        "definition": "Please be sure to not tell me your goals this year. When you put it that way, I want to tell you.",
+        "timestamp": "0:24:01",
+        "audio": "/audio/39/0.24.01.mp3"
+    },
+    "221": {
+        "speaker": "PANDA",
+        "character": "じゃあ カードの暗証番号教えて",
+        "definition": "Then could you give me your debit card pin?",
+        "timestamp": "0:24:06",
+        "audio": "/audio/39/0.24.06.mp3"
+    },
+    "222": {
+        "speaker": "PENGUIN",
+        "character": "教えないよ",
+        "definition": "No.",
+        "timestamp": "0:24:09",
+        "audio": "/audio/39/0.24.09.mp3"
+    },
+    "223": {
+        "speaker": "SASAKO",
+        "character": "ペンギンさん 終わってください",
+        "definition": "Please end this, Mr. Penguin.",
+        "timestamp": "0:24:10",
+        "audio": "/audio/39/0.24.10.mp3"
+    },
+    "224": {
+        "speaker": "PENGUIN",
+        "character": "僕が 笹子さん いい加減役割把握して",
+        "definition": "Me? You need to learn everyone's roles, Miss Sasako.",
+        "timestamp": "0:24:11",
+        "audio": "/audio/39/0.24.11.mp3"
+    },
+    "225": {
+        "speaker": "PENGUIN",
+        "character": "シロクマ君 終わろう",
+        "definition": "Let's end this, Polar Bear.",
+        "timestamp": "0:24:15",
+        "audio": "/audio/39/0.24.15.mp3"
+    },
+    "226": {
+        "speaker": "POLAR BEAR",
+        "character": "来週のしろくまカフェは",
+        "definition": "Next week's Polar Bear's Café",
+        "timestamp": "0:24:17",
+        "audio": "/audio/39/0.24.17.mp3"
+    },
+    "227": {
+        "speaker": "",
+        "character": "本当にうまいラーメン特集をお送りします",
+        "definition": "we will be a report on the best ramen shops.",
+        "timestamp": "0:24:19",
+        "audio": "/audio/39/0.24.19.mp3"
+    },
+    "228": {
+        "speaker": "PENGUIN",
+        "character": "しません",
+        "definition": "No, we won't.",
+        "timestamp": "0:24:21",
+        "audio": "/audio/39/0.24.21.mp3"
+    },
+    "229": {
+        "speaker": "SASAKO",
+        "character": "今年もよろしく",
+        "definition": "Enjoy! ",
+        "timestamp": "0:24:22",
+        "audio": "/audio/39/0.24.22.mp3"
+    }
+}

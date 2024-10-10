@@ -1,0 +1,2004 @@
+{
+    "1": {
+        "speaker": "PANDA",
+        "character": "{\\an8}なんで今日はニヤニヤしてるの？",
+        "definition": "why are you so smirky today?",
+        "timestamp": "0:01:41",
+        "audio": "/audio/25/0.01.41.mp3"
+    },
+    "2": {
+        "speaker": "PENGUIN",
+        "character": "{\\an8}ニコニコって言ってよ",
+        "definition": "Couldn't you just say \"smiley\"?",
+        "timestamp": "0:01:43",
+        "audio": "/audio/25/0.01.43.mp3"
+    },
+    "3": {
+        "speaker": "POLAR BEAR",
+        "character": "どうしたの？",
+        "definition": "What happened?",
+        "timestamp": "0:01:46",
+        "audio": "/audio/25/0.01.46.mp3"
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "character": "実はね 今度個展を開くことになったんだ",
+        "definition": "Well, you see... I'm going to be opening my own exhibit.",
+        "timestamp": "0:01:47",
+        "audio": "/audio/25/0.01.47.mp3"
+    },
+    "5": {
+        "speaker": "POLAR BEAR",
+        "character": "個展？",
+        "definition": "Exhibit {\\i1}(koten){\\i0}?",
+        "timestamp": "0:01:51",
+        "audio": "/audio/25/0.01.51.mp3"
+    },
+    "6": {
+        "speaker": "PENGUIN",
+        "character": "それは 辞典",
+        "definition": "That would be a dictionary {\\i1}(jiten){\\i0}.",
+        "timestamp": "0:01:53",
+        "audio": "/audio/25/0.01.53.mp3"
+    },
+    "7": {
+        "speaker": "PENGUIN",
+        "character": "それは 半纏",
+        "definition": "That would be a traditional short coat (hanten).",
+        "timestamp": "0:01:56",
+        "audio": "/audio/25/0.01.56.mp3"
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "character": "それは 前転",
+        "definition": "That would be a somersault {\\i1}(zenten){\\i0}.",
+        "timestamp": "0:02:00",
+        "audio": "/audio/25/0.02.00.mp3"
+    },
+    "9": {
+        "speaker": "PENGUIN",
+        "character": "個展だよ こーてーん！",
+        "definition": "I said an exhibit. An ex-hib-it!",
+        "timestamp": "0:02:02",
+        "audio": "/audio/25/0.02.02.mp3"
+    },
+    "10": {
+        "speaker": "SASAKO",
+        "character": "へぇ～ すごいですね",
+        "definition": "Wow, that's amazing.",
+        "timestamp": "0:02:05",
+        "audio": "/audio/25/0.02.05.mp3"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "character": "個展って なにするの？",
+        "definition": "What do you do at an exhibit? You'll just have to come and see.",
+        "timestamp": "0:02:07",
+        "audio": "/audio/25/0.02.07.mp3"
+    },
+    "12": {
+        "speaker": "PANDA",
+        "character": "どこでやってるの？",
+        "definition": "Where is it at? It should be right around here.",
+        "timestamp": "0:02:29",
+        "audio": "/audio/25/0.02.29.mp3"
+    },
+    "13": {
+        "speaker": "POLAR BEAR",
+        "character": "あっ あそこかな",
+        "definition": "I think it's right there.",
+        "timestamp": "0:02:33",
+        "audio": "/audio/25/0.02.33.mp3"
+    },
+    "14": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギン絵画展",
+        "definition": "Penguin Art Exhibit.",
+        "timestamp": "0:02:40",
+        "audio": "/audio/25/0.02.40.mp3"
+    },
+    "15": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギン その新時代 新世界",
+        "definition": "Penguin: The New Age, New World.",
+        "timestamp": "0:02:42",
+        "audio": "/audio/25/0.02.42.mp3"
+    },
+    "16": {
+        "speaker": "POLAR BEAR",
+        "character": "ハードル上げすぎだね",
+        "definition": "I think he set the bar too high.",
+        "timestamp": "0:02:46",
+        "audio": "/audio/25/0.02.46.mp3"
+    },
+    "17": {
+        "speaker": "PANDA",
+        "character": "どういう意味？",
+        "definition": "What does that mean?",
+        "timestamp": "0:02:48",
+        "audio": "/audio/25/0.02.48.mp3"
+    },
+    "18": {
+        "speaker": "POLAR BEAR",
+        "character": "たぶん 中に入ってみればわかるよ",
+        "definition": "I think you'll understand once we go inside. Hello!",
+        "timestamp": "0:02:49",
+        "audio": "/audio/25/0.02.49.mp3"
+    },
+    "19": {
+        "speaker": "POLAR BEAR",
+        "character": "おじゃまします",
+        "definition": "Pardon the intrusion.",
+        "timestamp": "0:02:56",
+        "audio": "/audio/25/0.02.56.mp3"
+    },
+    "20": {
+        "speaker": "PENGUIN",
+        "character": "やぁやぁ いらっしゃい",
+        "definition": "Well, hello. Welcome.",
+        "timestamp": "0:02:58",
+        "audio": "/audio/25/0.02.58.mp3"
+    },
+    "21": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギンさん",
+        "definition": "Mr. Penguin.",
+        "timestamp": "0:03:03",
+        "audio": "/audio/25/0.03.03.mp3"
+    },
+    "22": {
+        "speaker": "PENGUIN",
+        "character": "なに？",
+        "definition": "What?",
+        "timestamp": "0:03:04",
+        "audio": "/audio/25/0.03.04.mp3"
+    },
+    "23": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギンさんって 形から入るタイプだよね",
+        "definition": "Mr. Penguin, you certainly like to look the part.",
+        "timestamp": "0:03:06",
+        "audio": "/audio/25/0.03.06.mp3"
+    },
+    "24": {
+        "speaker": "PENGUIN",
+        "character": "いいから！",
+        "definition": "Who cares?!",
+        "timestamp": "0:03:12",
+        "audio": "/audio/25/0.03.12.mp3"
+    },
+    "25": {
+        "speaker": "PENGUIN",
+        "character": "ほら 僕の絵見てってば！",
+        "definition": "Come, look at my paintings!",
+        "timestamp": "0:03:14",
+        "audio": "/audio/25/0.03.14.mp3"
+    },
+    "26": {
+        "speaker": "PENGUIN",
+        "character": "まずは この絵を見てよ",
+        "definition": "First, look at this piece.",
+        "timestamp": "0:03:18",
+        "audio": "/audio/25/0.03.18.mp3"
+    },
+    "27": {
+        "speaker": "PENGUIN",
+        "character": "これはね 強い日ざしを浴びながら",
+        "definition": "With this, I was trying to express a flower's life force as it soaks in the sun's rays and blossoms.",
+        "timestamp": "0:03:20",
+        "audio": "/audio/25/0.03.20.mp3"
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "character": "タイトルは「タンポポ」",
+        "definition": "It's titled... \"Dandelions\"! I'm pretty sure I've seen this before...",
+        "timestamp": "0:03:27",
+        "audio": "/audio/25/0.03.27.mp3"
+    },
+    "29": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:03:37",
+        "audio": "/audio/25/0.03.37.mp3"
+    },
+    "30": {
+        "speaker": "PENGUIN",
+        "character": "なに～？",
+        "definition": "What is it?",
+        "timestamp": "0:03:39",
+        "audio": "/audio/25/0.03.39.mp3"
+    },
+    "31": {
+        "speaker": "PANDA",
+        "character": "ペンギンさんって すっごいなで肩だね",
+        "definition": "You have such sloping shoulders, Mr. Penguin.",
+        "timestamp": "0:03:40",
+        "audio": "/audio/25/0.03.40.mp3"
+    },
+    "32": {
+        "speaker": "PENGUIN",
+        "character": "それがどうしたの？",
+        "definition": "What of it?",
+        "timestamp": "0:03:44",
+        "audio": "/audio/25/0.03.44.mp3"
+    },
+    "33": {
+        "speaker": "PANDA",
+        "character": "カバンはどこにかけるの？",
+        "definition": "How do you carry a bag?",
+        "timestamp": "0:03:46",
+        "audio": "/audio/25/0.03.46.mp3"
+    },
+    "34": {
+        "speaker": "PENGUIN",
+        "character": "パンダくん！ 絵を見てってば！",
+        "definition": "Would you look at the paintings, Panda?",
+        "timestamp": "0:03:48",
+        "audio": "/audio/25/0.03.48.mp3"
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "character": "次は この絵を見てよ",
+        "definition": "Next, take a look at this piece.",
+        "timestamp": "0:03:52",
+        "audio": "/audio/25/0.03.52.mp3"
+    },
+    "36": {
+        "speaker": "PENGUIN",
+        "character": "{\\fs23}これは実際に見たものと絵に定着したものとの相関とかい離を楽しんでほしいな",
+        "definition": "In this piece, I'd like people to appreciate the familiar yet dissociative feeling of real-life objects set in a painting.",
+        "timestamp": "0:03:54",
+        "audio": "/audio/25/0.03.54.mp3"
+    },
+    "37": {
+        "speaker": "PENGUIN",
+        "character": "タイトルは「ピレネーの白卵」",
+        "definition": "It's titled... \"The White Egg of the Pyrenees.\"",
+        "timestamp": "0:04:01",
+        "audio": "/audio/25/0.04.01.mp3"
+    },
+    "38": {
+        "speaker": "POLAR BEAR",
+        "character": "見たことある絵だね",
+        "definition": "I'm pretty sure I've seen this before...",
+        "timestamp": "0:04:09",
+        "audio": "/audio/25/0.04.09.mp3"
+    },
+    "39": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin. What is it?",
+        "timestamp": "0:04:11",
+        "audio": "/audio/25/0.04.11.mp3"
+    },
+    "40": {
+        "speaker": "PANDA",
+        "character": "ペンギンさんの目はどこにあるの？",
+        "definition": "Where exactly are your eyes, Mr. Penguin?",
+        "timestamp": "0:04:15",
+        "audio": "/audio/25/0.04.15.mp3"
+    },
+    "41": {
+        "speaker": "PENGUIN",
+        "character": "ここ！",
+        "definition": "Right here.",
+        "timestamp": "0:04:17",
+        "audio": "/audio/25/0.04.17.mp3"
+    },
+    "42": {
+        "speaker": "PENGUIN",
+        "character": "いいからこっちを見てよ～！",
+        "definition": "Would you just look over here? What a pretty wall!",
+        "timestamp": "0:04:19",
+        "audio": "/audio/25/0.04.19.mp3"
+    },
+    "43": {
+        "speaker": "PENGUIN",
+        "character": "だから 絵を見てってば！",
+        "definition": "I'm asking you to look at the painting!",
+        "timestamp": "0:04:25",
+        "audio": "/audio/25/0.04.25.mp3"
+    },
+    "44": {
+        "speaker": "PENGUIN",
+        "character": "じゃあ 次は この絵ね",
+        "definition": "So this is the next piece.",
+        "timestamp": "0:04:29",
+        "audio": "/audio/25/0.04.29.mp3"
+    },
+    "45": {
+        "speaker": "PENGUIN",
+        "character": "これは 現代社会に生きる人間の不安感",
+        "definition": "This is a piece that expresses in detail the uneasiness",
+        "timestamp": "0:04:31",
+        "audio": "/audio/25/0.04.31.mp3"
+    },
+    "46": {
+        "speaker": "PENGUIN",
+        "character": "病理に 鋭く切り込んだ作品なんだ",
+        "definition": "and pathology of the people living in modern society.",
+        "timestamp": "0:04:35",
+        "audio": "/audio/25/0.04.35.mp3"
+    },
+    "47": {
+        "speaker": "PENGUIN",
+        "character": "タイトルはね…",
+        "definition": "It's titled...",
+        "timestamp": "0:04:38",
+        "audio": "/audio/25/0.04.38.mp3"
+    },
+    "48": {
+        "speaker": "POLAR BEAR",
+        "character": "「あくび」？",
+        "definition": "\"The Yawn\"?",
+        "timestamp": "0:04:41",
+        "audio": "/audio/25/0.04.41.mp3"
+    },
+    "49": {
+        "speaker": "PENGUIN",
+        "character": "なんで わかったの？",
+        "definition": "How did you know?",
+        "timestamp": "0:04:44",
+        "audio": "/audio/25/0.04.44.mp3"
+    },
+    "50": {
+        "speaker": "PANDA",
+        "character": "いや なんとなくね",
+        "definition": "Just had a feeling.",
+        "timestamp": "0:04:46",
+        "audio": "/audio/25/0.04.46.mp3"
+    },
+    "51": {
+        "speaker": "POLAR BEAR",
+        "character": "これは？",
+        "definition": "What's this? These are paintings of seas.",
+        "timestamp": "0:04:54",
+        "audio": "/audio/25/0.04.54.mp3"
+    },
+    "52": {
+        "speaker": "PENGUIN",
+        "character": "これは バルト海",
+        "definition": "This one is the Baltic Sea.",
+        "timestamp": "0:04:58",
+        "audio": "/audio/25/0.04.58.mp3"
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "character": "これは ベーリング海",
+        "definition": "This is the Bering Sea.",
+        "timestamp": "0:05:00",
+        "audio": "/audio/25/0.05.00.mp3"
+    },
+    "54": {
+        "speaker": "PENGUIN",
+        "character": "これは 北極海でね",
+        "definition": "And this one is the Arctic Sea.",
+        "timestamp": "0:05:02",
+        "audio": "/audio/25/0.05.02.mp3"
+    },
+    "55": {
+        "speaker": "PENGUIN",
+        "character": "ほら このベーリング海なんかはね",
+        "definition": "You see, I had a hard time successfully expressing",
+        "timestamp": "0:05:05",
+        "audio": "/audio/25/0.05.05.mp3"
+    },
+    "56": {
+        "speaker": "PENGUIN",
+        "character": "水温の感じを表現するのに苦労したんだよ",
+        "definition": "the water temperature in the Bering Sea painting.",
+        "timestamp": "0:05:08",
+        "audio": "/audio/25/0.05.08.mp3"
+    },
+    "57": {
+        "speaker": "PANDA",
+        "character": "ふ～ん すごいね～",
+        "definition": "Wow, that's amazing. So, where are the paintings?",
+        "timestamp": "0:05:11",
+        "audio": "/audio/25/0.05.11.mp3"
+    },
+    "58": {
+        "speaker": "PENGUIN",
+        "character": "えぇっ！？",
+        "definition": "What?!",
+        "timestamp": "0:05:17",
+        "audio": "/audio/25/0.05.17.mp3"
+    },
+    "59": {
+        "speaker": "POLAR BEAR",
+        "character": "これはペンギンさんの青の時代かな",
+        "definition": "I'm guessing this is from your blue period, Mr. Penguin.",
+        "timestamp": "0:05:18",
+        "audio": "/audio/25/0.05.18.mp3"
+    },
+    "60": {
+        "speaker": "PENGUIN",
+        "character": "ぼんやりしたフォロー ありがとう シロクマくん",
+        "definition": "Thanks for the vague follow through, Polar Bear. So, how was it? Let me know what you think.",
+        "timestamp": "0:05:22",
+        "audio": "/audio/25/0.05.22.mp3"
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "character": "う～ん ちょっと オリジナリティーが足りないかな",
+        "definition": "Hmm... I think it lacked originality.",
+        "timestamp": "0:05:32",
+        "audio": "/audio/25/0.05.32.mp3"
+    },
+    "62": {
+        "speaker": "PENGUIN",
+        "character": "えっ？ どこが？",
+        "definition": "What? How do you mean?",
+        "timestamp": "0:05:35",
+        "audio": "/audio/25/0.05.35.mp3"
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "character": "全体的にかな",
+        "definition": "In general.",
+        "timestamp": "0:05:37",
+        "audio": "/audio/25/0.05.37.mp3"
+    },
+    "64": {
+        "speaker": "PENGUIN",
+        "character": "えっ！？ なんで！？",
+        "definition": "Why?!",
+        "timestamp": "0:05:39",
+        "audio": "/audio/25/0.05.39.mp3"
+    },
+    "65": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん 早く絵を見せてよ～！",
+        "definition": "Hurry and show me your paintings, Mr. Penguin!",
+        "timestamp": "0:05:41",
+        "audio": "/audio/25/0.05.41.mp3"
+    },
+    "66": {
+        "speaker": "PENGUIN",
+        "character": "キミは… ちょっと黙っててもいいよ？",
+        "definition": "You know, it's perfectly fine if you don't say anything.",
+        "timestamp": "0:05:44",
+        "audio": "/audio/25/0.05.44.mp3"
+    },
+    "67": {
+        "speaker": "PENGUIN",
+        "character": "ほら お客さんだよ",
+        "definition": "Look! I got a customer!",
+        "timestamp": "0:05:59",
+        "audio": "/audio/25/0.05.59.mp3"
+    },
+    "68": {
+        "speaker": "PENGUIN",
+        "character": "きっとキミたちとは違う 芸術のわかる人だよ",
+        "definition": "I'm sure he's someone that understands art, unlike you two! Pardon the intrusion.",
+        "timestamp": "0:06:01",
+        "audio": "/audio/25/0.06.01.mp3"
+    },
+    "69": {
+        "speaker": "POLAR BEAR",
+        "character": "帰っちゃったね",
+        "definition": "He left.",
+        "timestamp": "0:06:13",
+        "audio": "/audio/25/0.06.13.mp3"
+    },
+    "70": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん これすごくいいよ？",
+        "definition": "Mr. Penguin, I really like this.",
+        "timestamp": "0:06:16",
+        "audio": "/audio/25/0.06.16.mp3"
+    },
+    "71": {
+        "speaker": "PENGUIN",
+        "character": "え？ どの絵が？",
+        "definition": "What? Which painting?",
+        "timestamp": "0:06:19",
+        "audio": "/audio/25/0.06.19.mp3"
+    },
+    "72": {
+        "speaker": "PANDA",
+        "character": "寝心地いいね このじゅうたん",
+        "definition": "This carpet is really comfortable to sleep on.",
+        "timestamp": "0:06:21",
+        "audio": "/audio/25/0.06.21.mp3"
+    },
+    "73": {
+        "speaker": "PENGUIN",
+        "character": "そっち！？ っていうか勝手に寝ないで！",
+        "definition": "That's what you're talking about?! Or rather, would you not sleep there!",
+        "timestamp": "0:06:23",
+        "audio": "/audio/25/0.06.23.mp3"
+    },
+    "74": {
+        "speaker": "PANDA",
+        "character": "ペンギンさんも 一緒に寝る？",
+        "definition": "Would you like to sleep, too, Mr. Penguin?",
+        "timestamp": "0:06:27",
+        "audio": "/audio/25/0.06.27.mp3"
+    },
+    "75": {
+        "speaker": "PENGUIN",
+        "character": "寝ないよ！",
+        "definition": "No!",
+        "timestamp": "0:06:29",
+        "audio": "/audio/25/0.06.29.mp3"
+    },
+    "76": {
+        "speaker": "PENGUIN",
+        "character": "{\\fs23}パンダくん キミ食べて寝る以外の趣味を持ったほうがいいんじゃない？",
+        "definition": "I think it'd be best for you to find some hobbies other than sleeping and eating, Panda.",
+        "timestamp": "0:06:41",
+        "audio": "/audio/25/0.06.41.mp3"
+    },
+    "77": {
+        "speaker": "PANDA",
+        "character": "あるよ",
+        "definition": "I have some.",
+        "timestamp": "0:06:46",
+        "audio": "/audio/25/0.06.46.mp3"
+    },
+    "78": {
+        "speaker": "PENGUIN",
+        "character": "なに？",
+        "definition": "Like what? I like to lay around.",
+        "timestamp": "0:06:47",
+        "audio": "/audio/25/0.06.47.mp3"
+    },
+    "79": {
+        "speaker": "PENGUIN",
+        "character": "それは趣味とは違うでしょ？",
+        "definition": "I don't think that counts as a hobby.",
+        "timestamp": "0:06:50",
+        "audio": "/audio/25/0.06.50.mp3"
+    },
+    "80": {
+        "speaker": "PENGUIN",
+        "character": "シロクマくんは趣味多そうだよね",
+        "definition": "You seem to have a lot of hobbies, Polar Bear.",
+        "timestamp": "0:06:53",
+        "audio": "/audio/25/0.06.53.mp3"
+    },
+    "81": {
+        "speaker": "POLAR BEAR",
+        "character": "サーフィンやスキューバ",
+        "definition": "Well, there's surfing and scuba diving.",
+        "timestamp": "0:06:56",
+        "audio": "/audio/25/0.06.56.mp3"
+    },
+    "82": {
+        "speaker": "POLAR BEAR",
+        "character": "冬はスノーボードとスキー",
+        "definition": "In the winter, I like to snowboard and ski.",
+        "timestamp": "0:06:58",
+        "audio": "/audio/25/0.06.58.mp3"
+    },
+    "83": {
+        "speaker": "POLAR BEAR",
+        "character": "あとは登山なんかもするよ",
+        "definition": "I also like mountain climbing.",
+        "timestamp": "0:07:00",
+        "audio": "/audio/25/0.07.00.mp3"
+    },
+    "84": {
+        "speaker": "PANDA",
+        "character": "へぇ 僕もそれにするよ",
+        "definition": "Wow. I think I'll do that, too.",
+        "timestamp": "0:07:02",
+        "audio": "/audio/25/0.07.02.mp3"
+    },
+    "85": {
+        "speaker": "PENGUIN",
+        "character": "パンダくんがやってる姿がイメージできるのは何一つないね",
+        "definition": "I don't think I can picture you doing any of those, Panda.",
+        "timestamp": "0:07:05",
+        "audio": "/audio/25/0.07.05.mp3"
+    },
+    "86": {
+        "speaker": "POLAR BEAR",
+        "character": "グリズリーくんは バイクに乗るのが趣味だね",
+        "definition": "Grizzly loves to ride motorcycles.",
+        "timestamp": "0:07:10",
+        "audio": "/audio/25/0.07.10.mp3"
+    },
+    "87": {
+        "speaker": "POLAR BEAR",
+        "character": "よく休日にはツーリングに行ってるよ",
+        "definition": "He loves to go touring on his days off. That's right. He has pictures around his bar.",
+        "timestamp": "0:07:14",
+        "audio": "/audio/25/0.07.14.mp3"
+    },
+    "88": {
+        "speaker": "PANDA",
+        "character": "かっこいいなぁ 僕もそれにするよ！",
+        "definition": "How cool! I'll do that, too.",
+        "timestamp": "0:07:20",
+        "audio": "/audio/25/0.07.20.mp3"
+    },
+    "89": {
+        "speaker": "PENGUIN",
+        "character": "バイク乗れるの？",
+        "definition": "Can you even ride a motorcycle?",
+        "timestamp": "0:07:24",
+        "audio": "/audio/25/0.07.24.mp3"
+    },
+    "90": {
+        "speaker": "POLAR BEAR",
+        "character": "免許取れないかもしれないね",
+        "definition": "I doubt you'd be able to get your license. If I recall correctly, Mr. Llama's hobby is bonsai.",
+        "timestamp": "0:07:26",
+        "audio": "/audio/25/0.07.26.mp3"
+    },
+    "91": {
+        "speaker": "PENGUIN",
+        "character": "盆栽？",
+        "definition": "Bonsai?",
+        "timestamp": "0:07:32",
+        "audio": "/audio/25/0.07.32.mp3"
+    },
+    "92": {
+        "speaker": "LLAMA",
+        "character": "どうです？ この枝ぶり",
+        "definition": "What do you think about these branches?",
+        "timestamp": "0:07:35",
+        "audio": "/audio/25/0.07.35.mp3"
+    },
+    "93": {
+        "speaker": "LLAMA",
+        "character": "おっと… 芽摘みしなくては",
+        "definition": "Oh, I should prune them.",
+        "timestamp": "0:07:37",
+        "audio": "/audio/25/0.07.37.mp3"
+    },
+    "94": {
+        "speaker": "LLAMA",
+        "character": "う～ん ちょっとチクチクしますね",
+        "definition": "It's a little prickly.",
+        "timestamp": "0:07:43",
+        "audio": "/audio/25/0.07.43.mp3"
+    },
+    "95": {
+        "speaker": "PENGUIN",
+        "character": "食べてるんだ…",
+        "definition": "So he's eating them.",
+        "timestamp": "0:07:47",
+        "audio": "/audio/25/0.07.47.mp3"
+    },
+    "96": {
+        "speaker": "PENGUIN",
+        "character": "趣味と実益を兼ねてるね",
+        "definition": "He's combining practicality with his hobby. I'll do that, too.",
+        "timestamp": "0:07:49",
+        "audio": "/audio/25/0.07.49.mp3"
+    },
+    "97": {
+        "speaker": "PENGUIN",
+        "character": "キミは なんにでものっかるね",
+        "definition": "Everything sounds appealing to you.",
+        "timestamp": "0:07:53",
+        "audio": "/audio/25/0.07.53.mp3"
+    },
+    "98": {
+        "speaker": "POLAR BEAR",
+        "character": "ナマケモノくんは編み物が趣味だって",
+        "definition": "Sloth says he likes knitting.",
+        "timestamp": "0:07:56",
+        "audio": "/audio/25/0.07.56.mp3"
+    },
+    "99": {
+        "speaker": "POLAR BEAR",
+        "character": "マフラー 編み始めて３年目らしいね",
+        "definition": "I hear he's been knitting a scarf for three years.",
+        "timestamp": "0:08:12",
+        "audio": "/audio/25/0.08.12.mp3"
+    },
+    "100": {
+        "speaker": "PENGUIN",
+        "character": "生きてる間に使えればいいけど…",
+        "definition": "Hopefully he'll be able to use it while he's alive.",
+        "timestamp": "0:08:16",
+        "audio": "/audio/25/0.08.16.mp3"
+    },
+    "101": {
+        "speaker": "PENGUIN",
+        "character": "どうして 作り始めちゃったんだろうね",
+        "definition": "I wonder why he even started.",
+        "timestamp": "0:08:19",
+        "audio": "/audio/25/0.08.19.mp3"
+    },
+    "102": {
+        "speaker": "PANDA",
+        "character": "僕もそれにするよ",
+        "definition": "I'll do that, too.",
+        "timestamp": "0:08:22",
+        "audio": "/audio/25/0.08.22.mp3"
+    },
+    "103": {
+        "speaker": "PENGUIN",
+        "character": "キミもう ただ言うだけになってない？",
+        "definition": "I think you just want to say that phrase now.",
+        "timestamp": "0:08:24",
+        "audio": "/audio/25/0.08.24.mp3"
+    },
+    "104": {
+        "speaker": "POLAR BEAR",
+        "character": "あと ゾウガメさんの趣味は…",
+        "definition": "And Mr. Tortoise's hobby... I thought he liked cameras.",
+        "timestamp": "0:08:27",
+        "audio": "/audio/25/0.08.27.mp3"
+    },
+    "105": {
+        "speaker": "POLAR BEAR",
+        "character": "いや 最近はスカッシュだって",
+        "definition": "Nope. Apparently he started playing squash.",
+        "timestamp": "0:08:32",
+        "audio": "/audio/25/0.08.32.mp3"
+    },
+    "106": {
+        "speaker": "PENGUIN",
+        "character": "スカッシュ？",
+        "definition": "Squash?",
+        "timestamp": "0:08:35",
+        "audio": "/audio/25/0.08.35.mp3"
+    },
+    "107": {
+        "speaker": "PENGUIN",
+        "character": "それってさ… ゾウガメくんっていうより",
+        "definition": "You know... That sounds more like the other person's hobby, rather than Tortoise's...",
+        "timestamp": "0:08:51",
+        "audio": "/audio/25/0.08.51.mp3"
+    },
+    "108": {
+        "speaker": "PANDA",
+        "character": "僕もそれにするよ",
+        "definition": "I'll do that, too.",
+        "timestamp": "0:08:57",
+        "audio": "/audio/25/0.08.57.mp3"
+    },
+    "109": {
+        "speaker": "PENGUIN",
+        "character": "パンダくん 絵かかない？",
+        "definition": "Do you want to draw, Panda?",
+        "timestamp": "0:08:59",
+        "audio": "/audio/25/0.08.59.mp3"
+    },
+    "110": {
+        "speaker": "PENGUIN",
+        "character": "僕 教えてもいいよ？",
+        "definition": "I wouldn't mind teaching you.",
+        "timestamp": "0:09:01",
+        "audio": "/audio/25/0.09.01.mp3"
+    },
+    "111": {
+        "speaker": "PANDA",
+        "character": "それは嫌だよ",
+        "definition": "I'd rather not.",
+        "timestamp": "0:09:03",
+        "audio": "/audio/25/0.09.03.mp3"
+    },
+    "112": {
+        "speaker": "POLAR BEAR",
+        "character": "嫌だって ペンギンさん",
+        "definition": "Apparently not, Mr. Penguin.",
+        "timestamp": "0:09:05",
+        "audio": "/audio/25/0.09.05.mp3"
+    },
+    "113": {
+        "speaker": "PENGUIN",
+        "character": "キミたち もう帰ったら？",
+        "definition": "Why don't you two go home? What are your hobbies, Mr. Penguin?",
+        "timestamp": "0:09:07",
+        "audio": "/audio/25/0.09.07.mp3"
+    },
+    "114": {
+        "speaker": "PENGUIN",
+        "character": "ここで それ聞くかな？",
+        "definition": "Are you really asking me that here?",
+        "timestamp": "0:09:13",
+        "audio": "/audio/25/0.09.13.mp3"
+    },
+    "115": {
+        "speaker": "PENKO1",
+        "character": "ここかしら？",
+        "definition": "I wonder if this is the place.",
+        "timestamp": "0:09:17",
+        "audio": "/audio/25/0.09.17.mp3"
+    },
+    "116": {
+        "speaker": "PENKO2",
+        "character": "そうじゃない？",
+        "definition": "I think so.",
+        "timestamp": "0:09:18",
+        "audio": "/audio/25/0.09.18.mp3"
+    },
+    "117": {
+        "speaker": "PENGUIN",
+        "character": "ペン子さんたちなら きっと芸術をわかってくれるよ！",
+        "definition": "Look! I'm sure Miss Penko and the others understand art.",
+        "timestamp": "0:09:21",
+        "audio": "/audio/25/0.09.21.mp3"
+    },
+    "118": {
+        "speaker": "PENGUIN",
+        "character": "キミら 見てて",
+        "definition": "You two, just watch!",
+        "timestamp": "0:09:24",
+        "audio": "/audio/25/0.09.24.mp3"
+    },
+    "119": {
+        "speaker": "PENKO1",
+        "character": "どれが絵なの？",
+        "definition": "Which ones are the paintings?",
+        "timestamp": "0:09:26",
+        "audio": "/audio/25/0.09.26.mp3"
+    },
+    "120": {
+        "speaker": "PENKO2",
+        "character": "これ？",
+        "definition": "This one?",
+        "timestamp": "0:09:27",
+        "audio": "/audio/25/0.09.27.mp3"
+    },
+    "121": {
+        "speaker": "PENKO1",
+        "character": "これは壁よ",
+        "definition": "That's a wall.",
+        "timestamp": "0:09:28",
+        "audio": "/audio/25/0.09.28.mp3"
+    },
+    "122": {
+        "speaker": "PENKO2",
+        "character": "これじゃない？",
+        "definition": "What about this?",
+        "timestamp": "0:09:29",
+        "audio": "/audio/25/0.09.29.mp3"
+    },
+    "123": {
+        "speaker": "PENKO1",
+        "character": "これも壁よ",
+        "definition": "That's just a wall, too.",
+        "timestamp": "0:09:30",
+        "audio": "/audio/25/0.09.30.mp3"
+    },
+    "124": {
+        "speaker": "PENKO2",
+        "character": "あっちじゃない？",
+        "definition": "I think it's over here.",
+        "timestamp": "0:09:33",
+        "audio": "/audio/25/0.09.33.mp3"
+    },
+    "125": {
+        "speaker": "PENKO3",
+        "character": "そうかも",
+        "definition": "I agree.",
+        "timestamp": "0:09:34",
+        "audio": "/audio/25/0.09.34.mp3"
+    },
+    "126": {
+        "speaker": "PENKO4",
+        "character": "絵はどこかしら？",
+        "definition": "Where are the paintings?",
+        "timestamp": "0:09:35",
+        "audio": "/audio/25/0.09.35.mp3"
+    },
+    "127": {
+        "speaker": "PENKO1",
+        "character": "これも壁よ？",
+        "definition": "This is just another wall.",
+        "timestamp": "0:09:37",
+        "audio": "/audio/25/0.09.37.mp3"
+    },
+    "128": {
+        "speaker": "PENKO2",
+        "character": "壁ばっかりね",
+        "definition": "There are only walls.",
+        "timestamp": "0:09:39",
+        "audio": "/audio/25/0.09.39.mp3"
+    },
+    "129": {
+        "speaker": "PENKO3",
+        "character": "疲れたわ",
+        "definition": "I'm tired.",
+        "timestamp": "0:09:40",
+        "audio": "/audio/25/0.09.40.mp3"
+    },
+    "130": {
+        "speaker": "PENKO4",
+        "character": "お腹へってきたわ",
+        "definition": "I'm starving.",
+        "timestamp": "0:09:41",
+        "audio": "/audio/25/0.09.41.mp3"
+    },
+    "131": {
+        "speaker": "PENKO1",
+        "character": "ご飯食べに行きましょう",
+        "definition": "Let's go eat.",
+        "timestamp": "0:09:42",
+        "audio": "/audio/25/0.09.42.mp3"
+    },
+    "132": {
+        "speaker": "PENKO2",
+        "character": "えぇ",
+        "definition": "Yes.",
+        "timestamp": "0:09:44",
+        "audio": "/audio/25/0.09.44.mp3"
+    },
+    "133": {
+        "speaker": "PANDA",
+        "character": "みんな ひどいなぁ",
+        "definition": "They're so rude.",
+        "timestamp": "0:09:48",
+        "audio": "/audio/25/0.09.48.mp3"
+    },
+    "134": {
+        "speaker": "PANDA",
+        "character": "壁はこれなのにね",
+        "definition": "The wall's right here.",
+        "timestamp": "0:09:50",
+        "audio": "/audio/25/0.09.50.mp3"
+    },
+    "135": {
+        "speaker": "PENGUIN",
+        "character": "フォローありがとう パンダくん",
+        "definition": "Thanks for the follow, Panda.",
+        "timestamp": "0:09:52",
+        "audio": "/audio/25/0.09.52.mp3"
+    },
+    "136": {
+        "speaker": "PENGUIN",
+        "character": "でもね それは絵だよ",
+        "definition": "But that's a painting.",
+        "timestamp": "0:09:55",
+        "audio": "/audio/25/0.09.55.mp3"
+    },
+    "137": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギンさん",
+        "definition": "Mr. Penguin, I brought a gift.",
+        "timestamp": "0:09:59",
+        "audio": "/audio/25/0.09.59.mp3"
+    },
+    "138": {
+        "speaker": "PANDA",
+        "character": "わ～ おいしそう！",
+        "definition": "Wow! They look delicious!",
+        "timestamp": "0:10:03",
+        "audio": "/audio/25/0.10.03.mp3"
+    },
+    "139": {
+        "speaker": "PENGUIN",
+        "character": "おいしい",
+        "definition": "It's delicious.",
+        "timestamp": "0:10:16",
+        "audio": "/audio/25/0.10.16.mp3"
+    },
+    "140": {
+        "speaker": "POLAR BEAR",
+        "character": "きっと ペン子さんたちも いつか わかってくれるよ",
+        "definition": "I'm sure Miss Penko and the others will understand someday... Polar Bear... In about fifty years.",
+        "timestamp": "0:10:17",
+        "audio": "/audio/25/0.10.17.mp3"
+    },
+    "141": {
+        "speaker": "PENGUIN",
+        "character": "僕 生きてるかな…",
+        "definition": "I wonder if I'll be alive.",
+        "timestamp": "0:10:27",
+        "audio": "/audio/25/0.10.27.mp3"
+    },
+    "142": {
+        "speaker": "LLAMA",
+        "character": "こんにちは",
+        "definition": "Hello.",
+        "timestamp": "0:10:53",
+        "audio": "/audio/25/0.10.53.mp3"
+    },
+    "143": {
+        "speaker": "GRIZZLY",
+        "character": "いらっしゃい",
+        "definition": "Welcome.",
+        "timestamp": "0:10:55",
+        "audio": "/audio/25/0.10.55.mp3"
+    },
+    "144": {
+        "speaker": "SASAKO",
+        "character": "いらっしゃいませ",
+        "definition": "Welcome!",
+        "timestamp": "0:11:03",
+        "audio": "/audio/25/0.11.03.mp3"
+    },
+    "145": {
+        "speaker": "SASAKO",
+        "character": "あら？",
+        "definition": "Oh?",
+        "timestamp": "0:11:05",
+        "audio": "/audio/25/0.11.05.mp3"
+    },
+    "146": {
+        "speaker": "SASAKO",
+        "character": "ラマさん！？",
+        "definition": "Mr. Llama?!",
+        "timestamp": "0:11:08",
+        "audio": "/audio/25/0.11.08.mp3"
+    },
+    "147": {
+        "speaker": "SASAKO",
+        "character": "大丈夫ですか？",
+        "definition": "Are you all right?",
+        "timestamp": "0:11:12",
+        "audio": "/audio/25/0.11.12.mp3"
+    },
+    "148": {
+        "speaker": "LLAMA",
+        "character": "はい",
+        "definition": "Yes.",
+        "timestamp": "0:11:14",
+        "audio": "/audio/25/0.11.14.mp3"
+    },
+    "149": {
+        "speaker": "GRIZZLY",
+        "character": "悪かったな おどかすつもりはなかったんだ",
+        "definition": "Sorry about that. Didn't mean to scare ya.",
+        "timestamp": "0:11:15",
+        "audio": "/audio/25/0.11.15.mp3"
+    },
+    "150": {
+        "speaker": "LLAMA",
+        "character": "いえいえ こちらこそ取り乱してしまって すみません",
+        "definition": "Not at all. I apologize for losing my composure. The entrance's light went out,",
+        "timestamp": "0:11:19",
+        "audio": "/audio/25/0.11.19.mp3"
+    },
+    "151": {
+        "speaker": "POLAR BEAR",
+        "character": "グリズリーくんに来てもらったんだよ",
+        "definition": "so I asked Grizzly to come over.",
+        "timestamp": "0:11:27",
+        "audio": "/audio/25/0.11.27.mp3"
+    },
+    "152": {
+        "speaker": "GRIZZLY",
+        "character": "急ぎの用があるっていうから 来たのに",
+        "definition": "I came because you said you had an urgent matter.",
+        "timestamp": "0:11:29",
+        "audio": "/audio/25/0.11.29.mp3"
+    },
+    "153": {
+        "speaker": "GRIZZLY",
+        "character": "なんで 電球の取り替えなんだよ",
+        "definition": "Why the hell am I here just to change a light bulb?",
+        "timestamp": "0:11:32",
+        "audio": "/audio/25/0.11.32.mp3"
+    },
+    "154": {
+        "speaker": "GRIZZLY",
+        "character": "お前できるだろ？",
+        "definition": "You can do that yourself.",
+        "timestamp": "0:11:35",
+        "audio": "/audio/25/0.11.35.mp3"
+    },
+    "155": {
+        "speaker": "POLAR BEAR",
+        "character": "わざわざ 手間をかけさせちゃったね",
+        "definition": "Sorry for troubling you. As long as you acknowledge that.",
+        "timestamp": "0:11:37",
+        "audio": "/audio/25/0.11.37.mp3"
+    },
+    "156": {
+        "speaker": "POLAR BEAR",
+        "character": "あっ そういえばテラスの雨どいの調子も 悪かったんだよね",
+        "definition": "Oh, now that I think of it, the rain gutter by the terrace needs work.",
+        "timestamp": "0:11:43",
+        "audio": "/audio/25/0.11.43.mp3"
+    },
+    "157": {
+        "speaker": "POLAR BEAR",
+        "character": "ついでに 直してよ",
+        "definition": "Could you fix that, too?",
+        "timestamp": "0:11:49",
+        "audio": "/audio/25/0.11.49.mp3"
+    },
+    "158": {
+        "speaker": "GRIZZLY",
+        "character": "てめえ…！ 俺を なんだと思ってやがる！",
+        "definition": "Why you... Just who do you think I am?!",
+        "timestamp": "0:11:50",
+        "audio": "/audio/25/0.11.50.mp3"
+    },
+    "159": {
+        "speaker": "POLAR BEAR",
+        "character": "友達",
+        "definition": "My friend.",
+        "timestamp": "0:11:55",
+        "audio": "/audio/25/0.11.55.mp3"
+    },
+    "160": {
+        "speaker": "PANDA",
+        "character": "グリズリーさんって いい人だよね",
+        "definition": "Mr. Grizzly is such a nice guy.",
+        "timestamp": "0:12:05",
+        "audio": "/audio/25/0.12.05.mp3"
+    },
+    "161": {
+        "speaker": "PENGUIN",
+        "character": "顔は怖いけどね",
+        "definition": "Though his face is scary.",
+        "timestamp": "0:12:08",
+        "audio": "/audio/25/0.12.08.mp3"
+    },
+    "162": {
+        "speaker": "PANDA",
+        "character": "でも かっこいいよね",
+        "definition": "But he's so cool.",
+        "timestamp": "0:12:10",
+        "audio": "/audio/25/0.12.10.mp3"
+    },
+    "163": {
+        "speaker": "PENGUIN",
+        "character": "顔は怖いけどね",
+        "definition": "Though his face is scary.",
+        "timestamp": "0:12:12",
+        "audio": "/audio/25/0.12.12.mp3"
+    },
+    "164": {
+        "speaker": "GRIZZLY",
+        "character": "怖くて 悪かったな",
+        "definition": "Sorry it's scary.",
+        "timestamp": "0:12:14",
+        "audio": "/audio/25/0.12.14.mp3"
+    },
+    "165": {
+        "speaker": "GRIZZLY",
+        "character": "直しといたぜ",
+        "definition": "I fixed it. The next time it rains, let me know how it holds up.",
+        "timestamp": "0:12:18",
+        "audio": "/audio/25/0.12.18.mp3"
+    },
+    "166": {
+        "speaker": "POLAR BEAR",
+        "character": "わかった あとさ…",
+        "definition": "Got it. Also...",
+        "timestamp": "0:12:24",
+        "audio": "/audio/25/0.12.24.mp3"
+    },
+    "167": {
+        "speaker": "GRIZZLY",
+        "character": "いいかげんにしろ この野郎！",
+        "definition": "Damn it, would you stop it?!",
+        "timestamp": "0:12:26",
+        "audio": "/audio/25/0.12.26.mp3"
+    },
+    "168": {
+        "speaker": "GRIZZLY",
+        "character": "コーヒー！",
+        "definition": "Coffee! Black, right?",
+        "timestamp": "0:12:29",
+        "audio": "/audio/25/0.12.29.mp3"
+    },
+    "169": {
+        "speaker": "GRIZZLY",
+        "character": "おう",
+        "definition": "Yeah.",
+        "timestamp": "0:12:32",
+        "audio": "/audio/25/0.12.32.mp3"
+    },
+    "170": {
+        "speaker": "PANDA",
+        "character": "ねえねえ シロクマくんと グリズリーさんっていつから友達だったの？",
+        "definition": "Hey, how long have you two been friends? I wonder how long it's been...",
+        "timestamp": "0:12:34",
+        "audio": "/audio/25/0.12.34.mp3"
+    },
+    "171": {
+        "speaker": "GRIZZLY",
+        "character": "忘れたのかよ",
+        "definition": "You forgot?",
+        "timestamp": "0:12:43",
+        "audio": "/audio/25/0.12.43.mp3"
+    },
+    "172": {
+        "speaker": "POLAR BEAR",
+        "character": "昔からだよ",
+        "definition": "For a long time. Wow.",
+        "timestamp": "0:12:45",
+        "audio": "/audio/25/0.12.45.mp3"
+    },
+    "173": {
+        "speaker": "GRIZZLY",
+        "character": "俺様は アラスカの王者だ～！",
+        "definition": "I'm the king of Alaska! How was that?",
+        "timestamp": "0:13:04",
+        "audio": "/audio/25/0.13.04.mp3"
+    },
+    "174": {
+        "speaker": "POLAR BEAR",
+        "character": "何してんの？",
+        "definition": "Whatcha doin'? Who are you?",
+        "timestamp": "0:13:51",
+        "audio": "/audio/25/0.13.51.mp3"
+    },
+    "175": {
+        "speaker": "POLAR BEAR",
+        "character": "シロクマだよ",
+        "definition": "I'm Polar Bear.",
+        "timestamp": "0:13:57",
+        "audio": "/audio/25/0.13.57.mp3"
+    },
+    "176": {
+        "speaker": "GRIZZLY",
+        "character": "シロクマ…",
+        "definition": "Polar Bear? Fear me! Run away!",
+        "timestamp": "0:13:59",
+        "audio": "/audio/25/0.13.59.mp3"
+    },
+    "177": {
+        "speaker": "GRIZZLY",
+        "character": "俺はグリズリーだ！ 偉いんだ～！ 王者なんだぞ！",
+        "definition": "I'm Grizzly! I'm special! I'm a king!",
+        "timestamp": "0:14:06",
+        "audio": "/audio/25/0.14.06.mp3"
+    },
+    "178": {
+        "speaker": "POLAR BEAR",
+        "character": "王者？",
+        "definition": "A king {\\i1}(ouja){\\i0}?",
+        "timestamp": "0:14:11",
+        "audio": "/audio/25/0.14.11.mp3"
+    },
+    "179": {
+        "speaker": "GRIZZLY",
+        "character": "それは おじや",
+        "definition": "That's porridge {\\i1}(ojiya){\\i0}.",
+        "timestamp": "0:14:14",
+        "audio": "/audio/25/0.14.14.mp3"
+    },
+    "180": {
+        "speaker": "GRIZZLY",
+        "character": "それは 神社",
+        "definition": "That's a temple {\\i1}(jinja){\\i0}.",
+        "timestamp": "0:14:16",
+        "audio": "/audio/25/0.14.16.mp3"
+    },
+    "181": {
+        "speaker": "GRIZZLY",
+        "character": "それは 賢者",
+        "definition": "That's a sage {\\i1}(kenja){\\i0}.",
+        "timestamp": "0:14:19",
+        "audio": "/audio/25/0.14.19.mp3"
+    },
+    "182": {
+        "speaker": "",
+        "character": "それは 忍者",
+        "definition": "That's a ninja!",
+        "timestamp": "0:14:21",
+        "audio": "/audio/25/0.14.21.mp3"
+    },
+    "183": {
+        "speaker": "GRIZZLY",
+        "character": "それは 億万長者",
+        "definition": "That's a billionaire {\\i1}(okumanchouja){\\i0}.",
+        "timestamp": "0:14:24",
+        "audio": "/audio/25/0.14.24.mp3"
+    },
+    "184": {
+        "speaker": "GRIZZLY",
+        "character": "ぜんぜん怖がってねえだろ お前！",
+        "definition": "You're not scared at all, are you?!",
+        "timestamp": "0:14:28",
+        "audio": "/audio/25/0.14.28.mp3"
+    },
+    "185": {
+        "speaker": "POLAR BEAR",
+        "character": "うん",
+        "definition": "Nope.",
+        "timestamp": "0:14:31",
+        "audio": "/audio/25/0.14.31.mp3"
+    },
+    "186": {
+        "speaker": "GRIZZLY",
+        "character": "グリズリーが大きくなったら",
+        "definition": "When grizzlies grow up,",
+        "timestamp": "0:14:33",
+        "audio": "/audio/25/0.14.33.mp3"
+    },
+    "187": {
+        "speaker": "",
+        "character": "ほんとに アラスカの王者なんだからな",
+        "definition": "truly become the kings of Alaska!",
+        "timestamp": "0:14:35",
+        "audio": "/audio/25/0.14.35.mp3"
+    },
+    "188": {
+        "speaker": "POLAR BEAR",
+        "character": "シロクマは 大きくなったら",
+        "definition": "When polar bears grow up...",
+        "timestamp": "0:14:38",
+        "audio": "/audio/25/0.14.38.mp3"
+    },
+    "189": {
+        "speaker": "POLAR BEAR",
+        "character": "地上最大の肉食獣だよ",
+        "definition": "They become the world's largest land carnivore.",
+        "timestamp": "0:14:42",
+        "audio": "/audio/25/0.14.42.mp3"
+    },
+    "190": {
+        "speaker": "GRIZZLY",
+        "character": "クソ～！ 王者ごっこはやめだ！ やめ！",
+        "definition": "Damn it! I'm done with the king game! Done!",
+        "timestamp": "0:14:47",
+        "audio": "/audio/25/0.14.47.mp3"
+    },
+    "191": {
+        "speaker": "POLAR BEAR",
+        "character": "グリズリーくん！",
+        "definition": "Grizzly! Who do you think you are?",
+        "timestamp": "0:14:54",
+        "audio": "/audio/25/0.14.54.mp3"
+    },
+    "192": {
+        "speaker": "POLAR BEAR",
+        "character": "シロクマだよ",
+        "definition": "I'm Polar Bear!",
+        "timestamp": "0:15:01",
+        "audio": "/audio/25/0.15.01.mp3"
+    },
+    "193": {
+        "speaker": "GRIZZLY",
+        "character": "それは 昨日聞いた！",
+        "definition": "You told me that yesterday!",
+        "timestamp": "0:15:03",
+        "audio": "/audio/25/0.15.03.mp3"
+    },
+    "194": {
+        "speaker": "GRIZZLY",
+        "character": "何しに来たんだ？",
+        "definition": "What are you doing here?",
+        "timestamp": "0:15:05",
+        "audio": "/audio/25/0.15.05.mp3"
+    },
+    "195": {
+        "speaker": "POLAR BEAR",
+        "character": "一緒に遊ばない？",
+        "definition": "Do you wanna play? What? Why would I play with yo—",
+        "timestamp": "0:15:07",
+        "audio": "/audio/25/0.15.07.mp3"
+    },
+    "196": {
+        "speaker": "GRIZZLY",
+        "character": "王者ごっこはもうやらねえぞ！",
+        "definition": "I'm not playing the king game anymore!",
+        "timestamp": "0:15:13",
+        "audio": "/audio/25/0.15.13.mp3"
+    },
+    "197": {
+        "speaker": "POLAR BEAR",
+        "character": "そうなの？",
+        "definition": "Really?",
+        "timestamp": "0:15:15",
+        "audio": "/audio/25/0.15.15.mp3"
+    },
+    "198": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ 別のことをして遊ぼう",
+        "definition": "Then let's play something else.",
+        "timestamp": "0:15:17",
+        "audio": "/audio/25/0.15.17.mp3"
+    },
+    "199": {
+        "speaker": "GRIZZLY",
+        "character": "どうだ～！ かけっこは 俺の勝ちだ～！",
+        "definition": "How was that?! I won the race!",
+        "timestamp": "0:15:40",
+        "audio": "/audio/25/0.15.40.mp3"
+    },
+    "200": {
+        "speaker": "POLAR BEAR",
+        "character": "僕のほうが荷物が重いからね",
+        "definition": "Well, my stuff is heavier. Is that bag that heavy?",
+        "timestamp": "0:15:45",
+        "audio": "/audio/25/0.15.45.mp3"
+    },
+    "201": {
+        "speaker": "POLAR BEAR",
+        "character": "うん ほら 持ってみて",
+        "definition": "Yup. Here, hold it. Why do I have to hold it?",
+        "timestamp": "0:15:52",
+        "audio": "/audio/25/0.15.52.mp3"
+    },
+    "202": {
+        "speaker": "",
+        "character": "あれ？",
+        "definition": "Huh?",
+        "timestamp": "0:16:02",
+        "audio": "/audio/25/0.16.02.mp3"
+    },
+    "203": {
+        "speaker": "POLAR BEAR",
+        "character": "よ～い スタート！",
+        "definition": "Ready, go! Hey! No fair!",
+        "timestamp": "0:16:03",
+        "audio": "/audio/25/0.16.03.mp3"
+    },
+    "204": {
+        "speaker": "GRIZZLY",
+        "character": "こら～ 待ちやがれ！",
+        "definition": "Hey! Wait! Where the heck did he go? Grizzly.",
+        "timestamp": "0:16:13",
+        "audio": "/audio/25/0.16.13.mp3"
+    },
+    "205": {
+        "speaker": "POLAR BEAR",
+        "character": "こっちこっち",
+        "definition": "Over here.",
+        "timestamp": "0:16:30",
+        "audio": "/audio/25/0.16.30.mp3"
+    },
+    "206": {
+        "speaker": "POLAR BEAR",
+        "character": "紹介するね",
+        "definition": "I'll introduce you two.",
+        "timestamp": "0:16:33",
+        "audio": "/audio/25/0.16.33.mp3"
+    },
+    "207": {
+        "speaker": "POLAR BEAR",
+        "character": "僕のお兄ちゃん 似てるでしょ？",
+        "definition": "This is my older brother. Don't we look alike?",
+        "timestamp": "0:16:35",
+        "audio": "/audio/25/0.16.35.mp3"
+    },
+    "208": {
+        "speaker": "GRIZZLY",
+        "character": "そうなのか",
+        "definition": "I see...",
+        "timestamp": "0:16:38",
+        "audio": "/audio/25/0.16.38.mp3"
+    },
+    "209": {
+        "speaker": "GRIZZLY",
+        "character": "あっ どうも はじめましてお兄さん",
+        "definition": "Oh, nice to meet you, sir.",
+        "timestamp": "0:16:40",
+        "audio": "/audio/25/0.16.40.mp3"
+    },
+    "210": {
+        "speaker": "GRIZZLY",
+        "character": "グリズリーです",
+        "definition": "My name is Grizzly. He's just a dog!",
+        "timestamp": "0:16:44",
+        "audio": "/audio/25/0.16.44.mp3"
+    },
+    "211": {
+        "speaker": "GRIZZLY",
+        "character": "お前 変わってんな",
+        "definition": "You know, you're pretty different.",
+        "timestamp": "0:17:05",
+        "audio": "/audio/25/0.17.05.mp3"
+    },
+    "212": {
+        "speaker": "POLAR BEAR",
+        "character": "そう？",
+        "definition": "Really? Everyone else that sees me gets scared and runs away.",
+        "timestamp": "0:17:08",
+        "audio": "/audio/25/0.17.08.mp3"
+    },
+    "213": {
+        "speaker": "GRIZZLY",
+        "character": "お前はぜんぜん違うもんな",
+        "definition": "But you haven't.",
+        "timestamp": "0:17:14",
+        "audio": "/audio/25/0.17.14.mp3"
+    },
+    "214": {
+        "speaker": "POLAR BEAR",
+        "character": "怖い？",
+        "definition": "Scary? Jeez. Talking to you puts me off balance.",
+        "timestamp": "0:17:17",
+        "audio": "/audio/25/0.17.17.mp3"
+    },
+    "215": {
+        "speaker": "POLAR BEAR",
+        "character": "なんで？",
+        "definition": "Why?",
+        "timestamp": "0:17:26",
+        "audio": "/audio/25/0.17.26.mp3"
+    },
+    "216": {
+        "speaker": "GRIZZLY",
+        "character": "わかんねえよ！",
+        "definition": "I don't know! Delicious! There are so many delicious things to eat in the fall!",
+        "timestamp": "0:17:28",
+        "audio": "/audio/25/0.17.28.mp3"
+    },
+    "217": {
+        "speaker": "GRIZZLY",
+        "character": "食欲の秋っていうもんな",
+        "definition": "Well, they do call autumn the \"season of good appetite.\"",
+        "timestamp": "0:17:42",
+        "audio": "/audio/25/0.17.42.mp3"
+    },
+    "218": {
+        "speaker": "POLAR BEAR",
+        "character": "グリズリーくんって いつも何食べてるの？",
+        "definition": "What do you usually eat, Grizzly?",
+        "timestamp": "0:17:45",
+        "audio": "/audio/25/0.17.45.mp3"
+    },
+    "219": {
+        "speaker": "GRIZZLY",
+        "character": "まぁ 魚とかも食うけど",
+        "definition": "Well, I eat fish, too. But the best thing to eat in autumn is berries. I see.",
+        "timestamp": "0:17:49",
+        "audio": "/audio/25/0.17.49.mp3"
+    },
+    "220": {
+        "speaker": "GRIZZLY",
+        "character": "シロクマって 何食ってんだよ？",
+        "definition": "What do you eat, Polar Bear?",
+        "timestamp": "0:17:56",
+        "audio": "/audio/25/0.17.56.mp3"
+    },
+    "221": {
+        "speaker": "POLAR BEAR",
+        "character": "アザラシ",
+        "definition": "Seals.",
+        "timestamp": "0:17:59",
+        "audio": "/audio/25/0.17.59.mp3"
+    },
+    "222": {
+        "speaker": "POLAR BEAR",
+        "character": "たまに セイウチ",
+        "definition": "Sometimes walruses.",
+        "timestamp": "0:18:01",
+        "audio": "/audio/25/0.18.01.mp3"
+    },
+    "223": {
+        "speaker": "POLAR BEAR",
+        "character": "クジラとかも食べたりするよ",
+        "definition": "I even eat whale.",
+        "timestamp": "0:18:03",
+        "audio": "/audio/25/0.18.03.mp3"
+    },
+    "224": {
+        "speaker": "GRIZZLY",
+        "character": "お… 大物だな いつも そんなのとってんのか",
+        "definition": "Th-That's huge... Do you always catch things that big?",
+        "timestamp": "0:18:05",
+        "audio": "/audio/25/0.18.05.mp3"
+    },
+    "225": {
+        "speaker": "POLAR BEAR",
+        "character": "一週間に１回くらい",
+        "definition": "About once a week.",
+        "timestamp": "0:18:10",
+        "audio": "/audio/25/0.18.10.mp3"
+    },
+    "226": {
+        "speaker": "POLAR BEAR",
+        "character": "とれない日も多いよ",
+        "definition": "Most of the time, I don't catch anything.",
+        "timestamp": "0:18:12",
+        "audio": "/audio/25/0.18.12.mp3"
+    },
+    "227": {
+        "speaker": "GRIZZLY",
+        "character": "とれないときは どうしてるんだ？",
+        "definition": "What do you do on days that you can't catch anything?",
+        "timestamp": "0:18:14",
+        "audio": "/audio/25/0.18.14.mp3"
+    },
+    "228": {
+        "speaker": "POLAR BEAR",
+        "character": "ひたすら ダラダラしてるよ",
+        "definition": "I laze around.",
+        "timestamp": "0:18:17",
+        "audio": "/audio/25/0.18.17.mp3"
+    },
+    "229": {
+        "speaker": "GRIZZLY",
+        "character": "なんか すごいんだか なんだか よくわかんないな",
+        "definition": "I don't know if I should be impressed or what...",
+        "timestamp": "0:18:19",
+        "audio": "/audio/25/0.18.19.mp3"
+    },
+    "230": {
+        "speaker": "POLAR BEAR",
+        "character": "待つしかないからね",
+        "definition": "Well, all I can do is wait.",
+        "timestamp": "0:18:23",
+        "audio": "/audio/25/0.18.23.mp3"
+    },
+    "231": {
+        "speaker": "POLAR BEAR",
+        "character": "お腹が… 減ったね",
+        "definition": "I'm... a bit hungry.",
+        "timestamp": "0:18:32",
+        "audio": "/audio/25/0.18.32.mp3"
+    },
+    "232": {
+        "speaker": "GRIZZLY",
+        "character": "お 俺は食えねえぞ！",
+        "definition": "Y-You can't eat me!",
+        "timestamp": "0:18:36",
+        "audio": "/audio/25/0.18.36.mp3"
+    },
+    "233": {
+        "speaker": "GRIZZLY",
+        "character": "ただいま",
+        "definition": "I'm home.",
+        "timestamp": "0:18:41",
+        "audio": "/audio/25/0.18.41.mp3"
+    },
+    "234": {
+        "speaker": "POLAR BEAR",
+        "character": "お邪魔しま～す",
+        "definition": "Thank you for having me.",
+        "timestamp": "0:18:42",
+        "audio": "/audio/25/0.18.42.mp3"
+    },
+    "235": {
+        "speaker": "GRIZZLY",
+        "character": "っても 誰もいないけどな",
+        "definition": "No one else is home, though.",
+        "timestamp": "0:18:45",
+        "audio": "/audio/25/0.18.45.mp3"
+    },
+    "236": {
+        "speaker": "GRIZZLY",
+        "character": "今日は 母さん遅くまで 帰ってこないんだ",
+        "definition": "My mom won't be home until later.",
+        "timestamp": "0:18:47",
+        "audio": "/audio/25/0.18.47.mp3"
+    },
+    "237": {
+        "speaker": "POLAR BEAR",
+        "character": "そうなんだ",
+        "definition": "I see.",
+        "timestamp": "0:18:50",
+        "audio": "/audio/25/0.18.50.mp3"
+    },
+    "238": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ ご飯何か作るよ",
+        "definition": "Then I'll make us something to eat.",
+        "timestamp": "0:18:52",
+        "audio": "/audio/25/0.18.52.mp3"
+    },
+    "239": {
+        "speaker": "GRIZZLY",
+        "character": "何ができるんだ？",
+        "definition": "What can you make? Well... There's bear paw stew.",
+        "timestamp": "0:18:56",
+        "audio": "/audio/25/0.18.56.mp3"
+    },
+    "240": {
+        "speaker": "POLAR BEAR",
+        "character": "ウソ ウソ",
+        "definition": "Just kidding. Your jokes are scary!",
+        "timestamp": "0:19:08",
+        "audio": "/audio/25/0.19.08.mp3"
+    },
+    "241": {
+        "speaker": "POLAR BEAR",
+        "character": "サケだ",
+        "definition": "There's salmon.",
+        "timestamp": "0:19:15",
+        "audio": "/audio/25/0.19.15.mp3"
+    },
+    "242": {
+        "speaker": "GRIZZLY",
+        "character": "おれ サケのシチューが 大好物なんだよな",
+        "definition": "I love salmon stew {\\i1}(shichuu){\\i0}.",
+        "timestamp": "0:19:16",
+        "audio": "/audio/25/0.19.16.mp3"
+    },
+    "243": {
+        "speaker": "POLAR BEAR",
+        "character": "宇宙？",
+        "definition": "Space {\\i1}(uchuu){\\i0}?",
+        "timestamp": "0:19:21",
+        "audio": "/audio/25/0.19.21.mp3"
+    },
+    "244": {
+        "speaker": "GRIZZLY",
+        "character": "違うよ",
+        "definition": "No.",
+        "timestamp": "0:19:23",
+        "audio": "/audio/25/0.19.23.mp3"
+    },
+    "245": {
+        "speaker": "POLAR BEAR",
+        "character": "地中？",
+        "definition": "Underground {\\i1}(chichuu){\\i0}? No. Bugs {\\i1}(konchuu){\\i0}? Light pole {\\i1}(denchuu){\\i0}?",
+        "timestamp": "0:19:25",
+        "audio": "/audio/25/0.19.25.mp3"
+    },
+    "246": {
+        "speaker": "GRIZZLY",
+        "character": "シチューだ！！",
+        "definition": "I said stew! You're so short-tempered.",
+        "timestamp": "0:19:33",
+        "audio": "/audio/25/0.19.33.mp3"
+    },
+    "247": {
+        "speaker": "GRIZZLY",
+        "character": "誰のせいだよ…",
+        "definition": "Whose fault is that?",
+        "timestamp": "0:19:37",
+        "audio": "/audio/25/0.19.37.mp3"
+    },
+    "248": {
+        "speaker": "GRIZZLY",
+        "character": "いただきま～す",
+        "definition": "Let's eat! How is it?",
+        "timestamp": "0:20:00",
+        "audio": "/audio/25/0.20.00.mp3"
+    },
+    "249": {
+        "speaker": "GRIZZLY",
+        "character": "おいしい！",
+        "definition": "It's delicious!",
+        "timestamp": "0:20:13",
+        "audio": "/audio/25/0.20.13.mp3"
+    },
+    "250": {
+        "speaker": "MOM",
+        "character": "ただいま",
+        "definition": "I'm home.",
+        "timestamp": "0:20:27",
+        "audio": "/audio/25/0.20.27.mp3"
+    },
+    "251": {
+        "speaker": "MOM",
+        "character": "ごめんね 遅くなっちゃって",
+        "definition": "Sorry I got back so late.",
+        "timestamp": "0:20:30",
+        "audio": "/audio/25/0.20.30.mp3"
+    },
+    "252": {
+        "speaker": "MOM",
+        "character": "あら？ 仲のいいこと",
+        "definition": "Oh? Well, aren't they precious.",
+        "timestamp": "0:20:34",
+        "audio": "/audio/25/0.20.34.mp3"
+    },
+    "253": {
+        "speaker": "GRIZZLY",
+        "character": "ごちそうさま",
+        "definition": "Thanks for the food...",
+        "timestamp": "0:20:47",
+        "audio": "/audio/25/0.20.47.mp3"
+    },
+    "254": {
+        "speaker": "SASAKO",
+        "character": "グリズリーさんとシロクマさんって",
+        "definition": "So you two have been friends since you were little.",
+        "timestamp": "0:21:03",
+        "audio": "/audio/25/0.21.03.mp3"
+    },
+    "255": {
+        "speaker": "PENGUIN",
+        "character": "幼馴染ってやつだね",
+        "definition": "So you're what they call \"childhood friends.\"",
+        "timestamp": "0:21:08",
+        "audio": "/audio/25/0.21.08.mp3"
+    },
+    "256": {
+        "speaker": "GRIZZLY",
+        "character": "まあ 子供の頃からずっとだしな",
+        "definition": "Well, we have been together since we were kids.",
+        "timestamp": "0:21:10",
+        "audio": "/audio/25/0.21.10.mp3"
+    },
+    "257": {
+        "speaker": "GRIZZLY",
+        "character": "いわゆる 腐れ縁ってやつだな",
+        "definition": "You can say we're sort of stuck with each other. I'm hungry.",
+        "timestamp": "0:21:14",
+        "audio": "/audio/25/0.21.14.mp3"
+    },
+    "258": {
+        "speaker": "LLAMA",
+        "character": "もう 夕方ですしね",
+        "definition": "Well, it is the evening.",
+        "timestamp": "0:21:25",
+        "audio": "/audio/25/0.21.25.mp3"
+    },
+    "259": {
+        "speaker": "GRIZZLY",
+        "character": "ああ 話し込んじまったな",
+        "definition": "Guess that story ran a little long.",
+        "timestamp": "0:21:27",
+        "audio": "/audio/25/0.21.27.mp3"
+    },
+    "260": {
+        "speaker": "GRIZZLY",
+        "character": "俺 そろそろ帰るわ",
+        "definition": "I'm gonna head home.",
+        "timestamp": "0:21:30",
+        "audio": "/audio/25/0.21.30.mp3"
+    },
+    "261": {
+        "speaker": "POLAR BEAR",
+        "character": "ああ ちょっと待って",
+        "definition": "Oh, wait a sec. What?",
+        "timestamp": "0:21:33",
+        "audio": "/audio/25/0.21.33.mp3"
+    },
+    "262": {
+        "speaker": "PANDA",
+        "character": "いい匂い",
+        "definition": "It smells so good! Wow.",
+        "timestamp": "0:21:46",
+        "audio": "/audio/25/0.21.46.mp3"
+    },
+    "263": {
+        "speaker": "LLAMA",
+        "character": "それは？",
+        "definition": "What's that?",
+        "timestamp": "0:21:49",
+        "audio": "/audio/25/0.21.49.mp3"
+    },
+    "264": {
+        "speaker": "SASAKO",
+        "character": "サケのシチューですか",
+        "definition": "You made salmon stew.",
+        "timestamp": "0:21:50",
+        "audio": "/audio/25/0.21.50.mp3"
+    },
+    "265": {
+        "speaker": "POLAR BEAR",
+        "character": "好きだったでしょ",
+        "definition": "You liked it, right?",
+        "timestamp": "0:21:56",
+        "audio": "/audio/25/0.21.56.mp3"
+    },
+    "266": {
+        "speaker": "GRIZZLY",
+        "character": "お前…",
+        "definition": "You...",
+        "timestamp": "0:22:00",
+        "audio": "/audio/25/0.22.00.mp3"
+    },
+    "267": {
+        "speaker": "POLAR BEAR",
+        "character": "まあ 食べてってよ",
+        "definition": "Come on, have some.",
+        "timestamp": "0:22:03",
+        "audio": "/audio/25/0.22.03.mp3"
+    },
+    "268": {
+        "speaker": "ALL",
+        "character": "いただきます",
+        "definition": "Let's eat!",
+        "timestamp": "0:22:08",
+        "audio": "/audio/25/0.22.08.mp3"
+    },
+    "269": {
+        "speaker": "PANDA",
+        "character": "おいしい",
+        "definition": "It's so good!",
+        "timestamp": "0:22:12",
+        "audio": "/audio/25/0.22.12.mp3"
+    },
+    "270": {
+        "speaker": "SASAKO",
+        "character": "ほんとね",
+        "definition": "It really is. Yes.",
+        "timestamp": "0:22:14",
+        "audio": "/audio/25/0.22.14.mp3"
+    },
+    "271": {
+        "speaker": "GRIZZLY",
+        "character": "お前 料理だけは上手いよな",
+        "definition": "You're good at cooking, if nothing else. I'm good at cooking, as well, you mean.",
+        "timestamp": "0:22:16",
+        "audio": "/audio/25/0.22.16.mp3"
+    },
+    "272": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:23:58",
+        "audio": "/audio/25/0.23.58.mp3"
+    },
+    "273": {
+        "speaker": "PENGUIN",
+        "character": "何 パンダ君",
+        "definition": "What is it, Panda? Next week's Polar Bear's Café...",
+        "timestamp": "0:23:59",
+        "audio": "/audio/25/0.23.59.mp3"
+    },
+    "274": {
+        "speaker": "PENGUIN",
+        "character": "早い",
+        "definition": "Too early!",
+        "timestamp": "0:24:02",
+        "audio": "/audio/25/0.24.02.mp3"
+    },
+    "275": {
+        "speaker": "POLAR BEAR",
+        "character": "早い",
+        "definition": "I'll wait.",
+        "timestamp": "0:24:02",
+        "audio": "/audio/25/0.24.02.mp3"
+    },
+    "276": {
+        "speaker": "PENGUIN",
+        "character": "そうして",
+        "definition": "Good.",
+        "timestamp": "0:24:03",
+        "audio": "/audio/25/0.24.03.mp3"
+    },
+    "277": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん もし生まれ変わるのなら誰の家来になりたい",
+        "definition": "Mr. Penguin, if you were reincarnated, whose subordinate would you be?",
+        "timestamp": "0:24:04",
+        "audio": "/audio/25/0.24.04.mp3"
+    },
+    "278": {
+        "speaker": "PENGUIN",
+        "character": "なりたくないかな",
+        "definition": "I don't think I'd like to be a subordinate.",
+        "timestamp": "0:24:08",
+        "audio": "/audio/25/0.24.08.mp3"
+    },
+    "279": {
+        "speaker": "PANDA",
+        "character": "じゃ生まれ変わったら どんな苦労がしたい",
+        "definition": "If you were reincarnated, what hardships would you face?",
+        "timestamp": "0:24:09",
+        "audio": "/audio/25/0.24.09.mp3"
+    },
+    "280": {
+        "speaker": "PENGUIN",
+        "character": "したくないかな",
+        "definition": "I'd rather not face any.",
+        "timestamp": "0:24:12",
+        "audio": "/audio/25/0.24.12.mp3"
+    },
+    "281": {
+        "speaker": "PENGUIN",
+        "character": "白熊君 終わろ",
+        "definition": "Let's end this, Polar Bear.",
+        "timestamp": "0:24:13",
+        "audio": "/audio/25/0.24.13.mp3"
+    },
+    "282": {
+        "speaker": "PENGUIN",
+        "character": "白熊君 今だよ",
+        "definition": "This is your part, Polar Bear!",
+        "timestamp": "0:24:16",
+        "audio": "/audio/25/0.24.16.mp3"
+    },
+    "283": {
+        "speaker": "POLAR BEAR",
+        "character": "ごめん",
+        "definition": "Sorry.",
+        "timestamp": "0:24:17",
+        "audio": "/audio/25/0.24.17.mp3"
+    },
+    "284": {
+        "speaker": "PENGUIN",
+        "character": "集中しよ",
+        "definition": "Concentrate.",
+        "timestamp": "0:24:18",
+        "audio": "/audio/25/0.24.18.mp3"
+    },
+    "285": {
+        "speaker": "POLAR BEAR",
+        "character": "来週のしろくまカフェは 爆発だ！",
+        "definition": "Next week's Polar Bear's Café... will explode! It will not.",
+        "timestamp": "0:24:19",
+        "audio": "/audio/25/0.24.19.mp3"
+    },
+    "286": {
+        "speaker": "SASAKO",
+        "character": "{\\an3}お楽しみ",
+        "definition": "Enjoy!",
+        "timestamp": "0:24:22",
+        "audio": "/audio/25/0.24.22.mp3"
+    }
+}

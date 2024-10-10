@@ -1,0 +1,1537 @@
+{
+    "1": {
+        "speaker": "PANDA",
+        "japanese": "荷物　多いね",
+        "english": "So much stuff."
+    },
+    "2": {
+        "speaker": "PENGUIN",
+        "japanese": "キャンプだからね",
+        "english": "Well, we are going camping. Camping {\\i1}(kyanpu){\\i0}?"
+    },
+    "3": {
+        "speaker": "PENGUIN",
+        "japanese": "それは　チャンプ",
+        "english": "That would be a champ {\\i1}(chanpu){\\i0}."
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "japanese": "それは　スランプ",
+        "english": "That would be a slump {\\i1}(suranpu){\\i0}."
+    },
+    "5": {
+        "speaker": "PENGUIN",
+        "japanese": "それは　バグパイプ",
+        "english": "Those would be bagpipes {\\i1}(bagupaipu){\\i0}."
+    },
+    "6": {
+        "speaker": "PENGUIN",
+        "japanese": "それは　ゴーヤチャンプルー",
+        "english": "That would be bitter melon champloo {\\i1}(goya champuru){\\i0}. {I don't know if \"goya\" is well known enough to not be translated?}"
+    },
+    "7": {
+        "speaker": "PANDA",
+        "japanese": "僕　キャンプって　したことないんだよ",
+        "english": "I've never been camping."
+    },
+    "8": {
+        "speaker": "POLAR BEAR",
+        "japanese": "キャンプっていうのはね…",
+        "english": "When you go camping,"
+    },
+    "9": {
+        "speaker": "POLAR BEAR",
+        "japanese": "真っ暗な山の中で　ひっそり寂しく 冷たい地べたの上で寝るんだよ",
+        "english": "you sleep in total darkness out in the mountains, alone and secluded on the cold, hard ground. Really?"
+    },
+    "10": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん　真っ暗なところで ひっそり寝るのが好きなの？",
+        "english": "So, you like quietly sleeping in dark places, Mr. Penguin?"
+    },
+    "11": {
+        "speaker": "PENGUIN",
+        "japanese": "好きじゃないよ",
+        "english": "No, I don't."
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "japanese": "キャンプっていうのは大自然のなかでおいしいご飯食べて",
+        "english": "Camping is when you're out in nature, eating delicious food pitching a tent,"
+    },
+    "13": {
+        "speaker": "PENGUIN",
+        "japanese": "テント張ってきれいな星空眺めたりするものでしょ！",
+        "english": "and gazing at all the pretty stars in the sky!"
+    },
+    "14": {
+        "speaker": "PANDA",
+        "japanese": "笹か竹があればいいよ",
+        "english": "As long as there's bamboo grass or bamboo."
+    },
+    "15": {
+        "speaker": "PENGUIN",
+        "japanese": "それじゃ いつもと変わらないじゃない…",
+        "english": "That's no different from any other time."
+    },
+    "16": {
+        "speaker": "POLAR BEAR",
+        "japanese": "もうすぐ　グリズリーくんも来るよ",
+        "english": "Grizzly will be here soon, too."
+    },
+    "17": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ？　それ　誰？",
+        "english": "Huh? Who's that?"
+    },
+    "18": {
+        "speaker": "POLAR BEAR",
+        "japanese": "草むしりのとき　来てたよ",
+        "english": "He was here when we were weeding."
+    },
+    "19": {
+        "speaker": "PENGUIN",
+        "japanese": "草むしり？",
+        "english": "Weeding?"
+    },
+    "20": {
+        "speaker": "PENGUIN",
+        "japanese": "あぁ！　あの　パーッと来て ピューッて帰ったクマね",
+        "english": "Oh, that bear that came in like, \"rawr\" and left like, \"whoosh.\""
+    },
+    "21": {
+        "speaker": "GRIZZLY",
+        "japanese": "よう！　シロクマ",
+        "english": "Hey, Polar Bear."
+    },
+    "22": {
+        "speaker": "PANDA",
+        "japanese": "おはよう　グリズリーさん",
+        "english": "Good morning, Mr. Grizzly."
+    },
+    "23": {
+        "speaker": "GRIZZLY",
+        "japanese": "おっ！　パンダも行くのか",
+        "english": "You're coming along, too, Panda?"
+    },
+    "24": {
+        "speaker": "GRIZZLY",
+        "japanese": "このちっちぇえのは　鳥か？",
+        "english": "The hell is this small thing, a bird?"
+    },
+    "25": {
+        "speaker": "PENGUIN",
+        "japanese": "ペンギンだよ！",
+        "english": "I'm a penguin!"
+    },
+    "26": {
+        "speaker": "GRIZZLY",
+        "japanese": "ちっちゃくて わかんなかったぜ",
+        "english": "You're so small,I couldn't tell."
+    },
+    "27": {
+        "speaker": "PENGUIN",
+        "japanese": "コウテイペンギンは　ペンギン界のなかでは 最大のペンギンだよ！",
+        "english": "Emperor penguins are the greatest among all penguins!"
+    },
+    "28": {
+        "speaker": "GRIZZLY",
+        "japanese": "クマより　ちっちぇえのに 変わりはないだろう？",
+        "english": "You're still smaller than a bear."
+    },
+    "29": {
+        "speaker": "GRIZZLY",
+        "japanese": "ほら！　行くぞ",
+        "english": "Come on, let's go."
+    },
+    "30": {
+        "speaker": "PENGUIN",
+        "japanese": "あのクマ！　失礼しちゃうな",
+        "english": "That bear is really disrespectful."
+    },
+    "31": {
+        "speaker": "PANDA",
+        "japanese": "グリズリーさん わりと　ざっくりしてるからね",
+        "english": "Mr. Grizzly doesn't think about what he says."
+    },
+    "32": {
+        "speaker": "PENGUIN",
+        "japanese": "キミが言わないで",
+        "english": "I don't want to hear that from you."
+    },
+    "33": {
+        "speaker": "PENGUIN",
+        "japanese": "涼しいね",
+        "english": "It's nice and cool out."
+    },
+    "34": {
+        "speaker": "PENGUIN",
+        "japanese": "さすが　大自然は気持いいね",
+        "english": "It feels great to be in the great outdoors!"
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "japanese": "よし！　じゃあ　まず…",
+        "english": "All right! First off..."
+    },
+    "36": {
+        "speaker": "GRIZZLY",
+        "japanese": "キャンプの係を決めようぜ！",
+        "english": "Let's decide on who's in charge of the camp. Hey! Hey! Don't jump in so abruptly!"
+    },
+    "37": {
+        "speaker": "GRIZZLY",
+        "japanese": "いいだろ？ 別に　誰が仕切っても",
+        "english": "Who cares who leads? Right?"
+    },
+    "38": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前ら！",
+        "english": "Hey!"
+    },
+    "39": {
+        "speaker": "PENGUIN",
+        "japanese": "何やってんの？",
+        "english": "What are you doing?"
+    },
+    "40": {
+        "speaker": "POLAR BEAR",
+        "japanese": "大自然のなかで読書",
+        "english": "I'm reading a book in the great outdoors."
+    },
+    "41": {
+        "speaker": "PANDA",
+        "japanese": "え～　どうしたの？ あっ！　もう　ご飯の時間？",
+        "english": "Huh? What's going on? Oh, is it already time to eat? No, it's not."
+    },
+    "42": {
+        "speaker": "GRIZZLY",
+        "japanese": "とっとと準備しねえと 日が暮れちまうぞ",
+        "english": "If we don't set up soon, it's going to get dark."
+    },
+    "43": {
+        "speaker": "PANDA",
+        "japanese": "きちんと 準備しようよ　ペンギンさん",
+        "english": "Yeah, let's get set up, Mr. Penguin."
+    },
+    "44": {
+        "speaker": "PENGUIN",
+        "japanese": "今　その話をしていたんだよ！",
+        "english": "That's what we were just saying! First, let's decide on who's in charge of what, Grizzly."
+    },
+    "45": {
+        "speaker": "GRIZZLY",
+        "japanese": "だから　そう言ってんだろ！",
+        "english": "That's what I was just saying!"
+    },
+    "46": {
+        "speaker": "PANDA",
+        "japanese": "何から　するの？",
+        "english": "What are we going to do first?"
+    },
+    "47": {
+        "speaker": "GRIZZLY",
+        "japanese": "まずはテントの設営だな　それから　火起こし　調理飯炊きは分担するか",
+        "english": "First, we have to pitch the tent. Then we can divide up the duties of making a fire, preparing the food, and making the rice."
+    },
+    "48": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ…　ご飯ができたら起こして",
+        "english": "Okay, wake me up when the food's ready."
+    },
+    "49": {
+        "speaker": "GRIZZLY",
+        "japanese": "おい！　パンダくんもやるの！",
+        "english": "Hey! You're helping, too, Panda."
+    },
+    "50": {
+        "speaker": "PANDA",
+        "japanese": "そうなの？",
+        "english": "I am?"
+    },
+    "51": {
+        "speaker": "PENGUIN",
+        "japanese": "そうなの！",
+        "english": "Yes, you are!"
+    },
+    "52": {
+        "speaker": "POLAR BEAR",
+        "japanese": "係は　どうする？",
+        "english": "So, who's in charge of what?"
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "japanese": "そうだね…",
+        "english": "Good question..."
+    },
+    "54": {
+        "speaker": "GRIZZLY",
+        "japanese": "テントはみんなで　火起こしはシロクマ",
+        "english": "Pitching the tent: everyone. Making the fire: Polar Bear."
+    },
+    "55": {
+        "speaker": "GRIZZLY",
+        "japanese": "調理が俺で　飯炊きはペンギンだ",
+        "english": "I'll prepare the food, and the penguin will make the rice."
+    },
+    "56": {
+        "speaker": "PENGUIN",
+        "japanese": "ちょっと！ 勝手にどんどん決めないでよ",
+        "english": "Hey, don't just decide for everyone."
+    },
+    "57": {
+        "speaker": "GRIZZLY",
+        "japanese": "細けぇこと　気にすんなよ　鳥！",
+        "english": "Don't sweat the small stuff, bird."
+    },
+    "58": {
+        "speaker": "PENGUIN",
+        "japanese": "と…　鳥！？",
+        "english": "B-Bird?"
+    },
+    "59": {
+        "speaker": "PANDA",
+        "japanese": "ねぇ　僕は？",
+        "english": "Hey, what about me?"
+    },
+    "60": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前は手伝い係ってとこか？",
+        "english": "You'll be something like the helper."
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ　まずはテント張ろう",
+        "english": "Well, let's get the tent up first."
+    },
+    "62": {
+        "speaker": "PANDA",
+        "japanese": "テントできた！",
+        "english": "The tent's ready!"
+    },
+    "63": {
+        "speaker": "PENGUIN",
+        "japanese": "できてないよ！",
+        "english": "No, it's not."
+    },
+    "64": {
+        "speaker": "GRIZZLY",
+        "japanese": "それ　テントじゃねえだろ！",
+        "english": "That's not a tent! All done."
+    },
+    "65": {
+        "speaker": "PANDA",
+        "japanese": "いつもは野暮ったいペンギンさんが 輝いてみえるよ",
+        "english": "You're shining right now, Mr. Penguin, even though you're usually so drab."
+    },
+    "66": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくん そういう感想はいらないから",
+        "english": "Comments like that aren't needed, Panda."
+    },
+    "67": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ　中に入ってみよう",
+        "english": "Well then, let's go inside. Yeah."
+    },
+    "68": {
+        "speaker": "GRIZzlY",
+        "japanese": "狭いだろ！",
+        "english": "It's too damn small!"
+    },
+    "69": {
+        "speaker": "PENGUIN",
+        "japanese": "これは全員入るのはムリだね",
+        "english": "It's not going to be possible for all of us to fit. What are we going to do, Polar Bear?!"
+    },
+    "70": {
+        "speaker": "POLAR BEAR",
+        "japanese": "名案があるよ",
+        "english": "I have a great idea."
+    },
+    "71": {
+        "speaker": "PANDA",
+        "japanese": "どうするの？",
+        "english": "What are we going to do?"
+    },
+    "72": {
+        "speaker": "POLAR BEAR",
+        "japanese": "テントをもう一つ持ってきたから ２つ建てよう",
+        "english": "I brought another tent, so pitch it, too."
+    },
+    "73": {
+        "speaker": "GRIZZLY",
+        "japanese": "あんのかよ！",
+        "english": "You have another one?!"
+    },
+    "74": {
+        "speaker": "PENGUIN",
+        "japanese": "先に言ってよ！",
+        "english": "You should have told us earlier!"
+    },
+    "75": {
+        "speaker": "GRIZzLY",
+        "japanese": "さぁ　夕食の支度するぞ",
+        "english": "Well then, I'm going to prepare dinner."
+    },
+    "76": {
+        "speaker": "GRIZZLY",
+        "japanese": "薪は　どうなった？",
+        "english": "How's the firewood {\\i1}(maki){\\i0} coming along?"
+    },
+    "77": {
+        "speaker": "GRIZZLY",
+        "japanese": "それは…",
+        "english": "That's a..."
+    },
+    "78": {
+        "speaker": "PENGUIN",
+        "japanese": "マス！",
+        "english": "trout {\\i1}(masu){\\i0}!"
+    },
+    "79": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくんは　マスじゃなくて 薪を集めてよ！",
+        "english": "You need to collect firewood, not trout, Polar Bear!"
+    },
+    "80": {
+        "speaker": "PENGUIN",
+        "japanese": "火起こし係なんだから！",
+        "english": "You're in charge of making the fire!"
+    },
+    "81": {
+        "speaker": "PENGUIN",
+        "japanese": "みんな　真面目に 自分の係やってほしいよ",
+        "english": "Why can't everyone do what they're supposed to? Got that right."
+    },
+    "82": {
+        "speaker": "PENGUIN",
+        "japanese": "アチッ！　アチチチ！ うわっ　アチッ！",
+        "english": "Ow!"
+    },
+    "83": {
+        "speaker": "PENGUIN",
+        "japanese": "ちょっと　やめてよ！ 火が　はぜるでしょ！",
+        "english": "Hey, stop that! You're making the fire spark!"
+    },
+    "84": {
+        "speaker": "PANDA",
+        "japanese": "え～　せっかく　集めてきたのに",
+        "english": "Aw, but I worked so hard to get some."
+    },
+    "85": {
+        "speaker": "GRIZZLY",
+        "japanese": "何やってんだ！",
+        "english": "What the hell are you doing?!"
+    },
+    "86": {
+        "speaker": "PENGUIN",
+        "japanese": "切り株はやめてよ！ むしろ　火が消えちゃうよ",
+        "english": "Don't put a stump in there! You're going to end up putting the fire out!"
+    },
+    "87": {
+        "speaker": "POLAR BEAR",
+        "japanese": "せっかく　集めてきたのに",
+        "english": "But I worked so hard to get it."
+    },
+    "88": {
+        "speaker": "GRIZZLY",
+        "japanese": "まったく　パンダもシロクマも…",
+        "english": "What the hell is wrong with Polar Bear and Panda?"
+    },
+    "89": {
+        "speaker": "PENGUIN",
+        "japanese": "手がかかるよね",
+        "english": "They're so troublesome."
+    },
+    "90": {
+        "speaker": "PANDA",
+        "japanese": "いいニオイ…",
+        "english": "It smells so good."
+    },
+    "91": {
+        "speaker": "PANDA",
+        "japanese": "何作ってるの？",
+        "english": "What are you making?"
+    },
+    "92": {
+        "speaker": "GRIZZLY",
+        "japanese": "カレーだ",
+        "english": "Curry."
+    },
+    "93": {
+        "speaker": "PENGUIN",
+        "japanese": "キャンプの定番だよね",
+        "english": "It's a standard for camping."
+    },
+    "94": {
+        "speaker": "PANDA",
+        "japanese": "あっ　そうだ！",
+        "english": "Oh, I know! For the secret ingredient."
+    },
+    "95": {
+        "speaker": "GRIZZLY",
+        "japanese": "入れんなよ！",
+        "english": "Don't you dare put that in!"
+    },
+    "96": {
+        "speaker": "PANDA",
+        "japanese": "笹がないカレーなんて…",
+        "english": "I can't imagine curry without bamboo grass..."
+    },
+    "97": {
+        "speaker": "PENGUIN",
+        "japanese": "ないの！　普通は",
+        "english": "There isn't any in normal curry!"
+    },
+    "98": {
+        "speaker": "GRIZZLY",
+        "japanese": "まったく　油断も隙もねえ",
+        "english": "Damn it, we can't let our guard down for a second."
+    },
+    "99": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん！",
+        "english": "Polar Bear!"
+    },
+    "100": {
+        "speaker": "GRIZZLY",
+        "japanese": "余計なもん 入れんなって言ってんだろ！",
+        "english": "We just said stop putting unnecessary things in there!"
+    },
+    "101": {
+        "speaker": "POLAR BEAR",
+        "japanese": "シーフードカレーにしようかと…",
+        "english": "I thought we'd make it seafood curry."
+    },
+    "102": {
+        "speaker": "PENGUIN",
+        "japanese": "シーじゃなくて レークになっちゃうでしょ",
+        "english": "This isn't the sea. It's a lake."
+    },
+    "103": {
+        "speaker": "PANDA",
+        "japanese": "ねぇ 焦げ臭くない？",
+        "english": "Hey, is something burning?"
+    },
+    "104": {
+        "speaker": "PENGUIN",
+        "japanese": "真っ黒だ…",
+        "english": "It's all black."
+    },
+    "105": {
+        "speaker": "GRIZZLY",
+        "japanese": "アイツらかまってて　忘れてたな",
+        "english": "We watching those idiotsso much, we forgot."
+    },
+    "106": {
+        "speaker": "PENGUIN",
+        "japanese": "ごめん…",
+        "english": "I'm sorry."
+    },
+    "107": {
+        "speaker": "GRIZZLY",
+        "japanese": "気にすんな",
+        "english": "Don't worry about it. Hey! I brought flour."
+    },
+    "108": {
+        "speaker": "GRIZZLY",
+        "japanese": "カレーだし　ナンでも焼くか",
+        "english": "Well, since we're having curry, how about we make some naan? Okay."
+    },
+    "109": {
+        "speaker": "PANDA",
+        "japanese": "おいしいね～",
+        "english": "It's so good."
+    },
+    "110": {
+        "speaker": "POLAR BEAR",
+        "japanese": "苦労して作った甲斐があるね",
+        "english": "A great reward for all the hard work we put in."
+    },
+    "111": {
+        "speaker": "PANDA",
+        "japanese": "シロクマくん　すご～い！",
+        "english": "Wow, you're amazing, Polar Bear! It's not pizza!"
+    },
+    "112": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ピザじゃないんだよ！",
+        "english": "Hey, hey, hey!"
+    },
+    "113": {
+        "speaker": "PENGUIN",
+        "japanese": "おもに作ったのは 僕とグリズリーくんだけど…",
+        "english": "Grizzly and I did most of the work. Exactly."
+    },
+    "114": {
+        "speaker": "GRIZZLY",
+        "japanese": "よし　沸いたな",
+        "english": "All right, it's ready."
+    },
+    "115": {
+        "speaker": "PANDA",
+        "japanese": "１ば～ん！",
+        "english": "I'm first!"
+    },
+    "116": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前は後だ",
+        "english": "You're later."
+    },
+    "117": {
+        "speaker": "GRIZZLY",
+        "japanese": "ペンギン　お前から入れよ",
+        "english": "Penguin, you go first. Huh?"
+    },
+    "118": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前が　いちばん働いたからな",
+        "english": "You worked the hardest."
+    },
+    "119": {
+        "speaker": "PENGUIN",
+        "japanese": "ありがとう",
+        "english": "Thanks."
+    },
+    "120": {
+        "speaker": "GRIZZLY",
+        "japanese": "どうだ？　湯かげんは",
+        "english": "How is it? How's the temperature?"
+    },
+    "121": {
+        "speaker": "PENGUIN",
+        "japanese": "本当は　あったかいお風呂より 冷たいほうがいいけど…",
+        "english": "Honestly, I'd prefer a cold bath instead of a hot one."
+    },
+    "122": {
+        "speaker": "PENGUIN",
+        "japanese": "ちょうどいいよ",
+        "english": "It's just right."
+    },
+    "123": {
+        "speaker": "GRIZZLY",
+        "japanese": "そうか　ま　あったまれよ",
+        "english": "Good to hear. Well, warm up."
+    },
+    "124": {
+        "speaker": "PENGUIN",
+        "japanese": "いい気持…",
+        "english": "It feels nice."
+    },
+    "125": {
+        "speaker": "PANDA",
+        "japanese": "どう？　湯かげんは",
+        "english": "Well, how's the temperature?"
+    },
+    "126": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくん　煮えてるよ！",
+        "english": "It's boiling, Panda!"
+    },
+    "127": {
+        "speaker": "POLAR BEAR",
+        "japanese": "氷風呂もあるよ",
+        "english": "There's an ice bath, too."
+    },
+    "128": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん　最初から言ってよ！",
+        "english": "You should have told me that first, Polar Bear!"
+    },
+    "129": {
+        "speaker": "GRIZZLY",
+        "japanese": "そろそろ寝るか",
+        "english": "Guess we should head to bed."
+    },
+    "130": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ　誰と誰が同じテントになるか　くじ引きしよう",
+        "english": "In that case, let's draw straws to decide who will share a tent."
+    },
+    "131": {
+        "speaker": "GRIZZLY",
+        "japanese": "みんな　１本ずつ引いてくれ",
+        "english": "Everyone grab one each."
+    },
+    "132": {
+        "speaker": "PANDA",
+        "japanese": "葉っぱがついてるよ",
+        "english": "Mine has a leaf! The first tent will be Polar Bear and Panda."
+    },
+    "133": {
+        "speaker": "GRIZZLY",
+        "japanese": "もうひとつは俺とお前だな",
+        "english": "The other will be you and me."
+    },
+    "134": {
+        "speaker": "GRIZZLY",
+        "japanese": "今日はお疲れ",
+        "english": "Thanks for all your hard work today."
+    },
+    "135": {
+        "speaker": "PENGUIN",
+        "japanese": "だね",
+        "english": "Same to you."
+    },
+    "136": {
+        "speaker": "GRIZZLY",
+        "japanese": "お前も大変だろう",
+        "english": "It must be hard for you, too."
+    },
+    "137": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ？",
+        "english": "Huh?"
+    },
+    "138": {
+        "speaker": "GRIZZLY",
+        "japanese": "ったく　シロクマもパンダも 何もしやしねえどころか",
+        "english": "Not only do Polar Bear and Panda do nothing,"
+    },
+    "139": {
+        "speaker": "GRIZZLY",
+        "japanese": "面倒ばかりかけやがるからな",
+        "english": "they cause more work for the rest of us."
+    },
+    "140": {
+        "speaker": "PENGUIN",
+        "japanese": "そうそう",
+        "english": "Exactly."
+    },
+    "141": {
+        "speaker": "GRIZZLY",
+        "japanese": "世話が焼けるよな",
+        "english": "They're so troublesome."
+    },
+    "142": {
+        "speaker": "PENGUIN",
+        "japanese": "でも　何だか",
+        "english": "But you can't just..."
+    },
+    "143": {
+        "speaker": "GRIZZLY",
+        "japanese": "放っとけねえんだよな",
+        "english": "...leave them alone."
+    },
+    "144": {
+        "speaker": "GRIZZLY",
+        "japanese": "飲むか　とっておきの 持ってきたんだよ",
+        "english": "Want to drink? I brought my special reserves."
+    },
+    "145": {
+        "speaker": "PENGUIN",
+        "japanese": "いいね！",
+        "english": "Sounds great!"
+    },
+    "146": {
+        "speaker": "GRIZZLY",
+        "japanese": "俺たちも苦労するよな",
+        "english": "We go through so much trouble!"
+    },
+    "147": {
+        "speaker": "GRIZZLY",
+        "japanese": "なぁ　ペンギン",
+        "english": "Right, Penguin?"
+    },
+    "148": {
+        "speaker": "PENGUIN",
+        "japanese": "まったくだよ　面倒見きれないよ！",
+        "english": "So true! We can't watch after you guys all the time!"
+    },
+    "149": {
+        "speaker": "GRIZZLY",
+        "japanese": "あ～　叫びたいぜ！",
+        "english": "I want to scream!"
+    },
+    "150": {
+        "speaker": "PENGUIN",
+        "japanese": "叫ぼう！",
+        "english": "Let's scream!"
+    },
+    "151": {
+        "speaker": "POLAR BEAR",
+        "japanese": "何やってるんだろう？",
+        "english": "What are they doing?"
+    },
+    "152": {
+        "speaker": "PANDA",
+        "japanese": "騒がしいね",
+        "english": "That's really annoying."
+    },
+    "153": {
+        "speaker": "POLAR BEAR",
+        "japanese": "こんなところで寝てると 風邪ひくよ",
+        "english": "You'll catch a cold sleeping out here."
+    },
+    "154": {
+        "speaker": "POLAR BEAR",
+        "japanese": "もう　ペンギンさんも グリズリーくんもホントに…",
+        "english": "Jeez, Mr. Penguin and Grizzly are so... ...troublesome, aren't they?"
+    },
+    "155": {
+        "speaker": "BOTH",
+        "japanese": "それは…",
+        "english": "That would be... the two of you!"
+    },
+    "156": {
+        "speaker": "PENGUIN",
+        "japanese": "笹子さん　人間の鼻の下の溝は 何のためにあるの？",
+        "english": "Miss Sasako, what purpose does the groove below humans' noses serve? You know, I'm not really sure."
+    },
+    "157": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん　ペンギンさん 何　パンダくん",
+        "english": "Mr. Penguin, Mr. Penguin. What is it, Panda?"
+    },
+    "158": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさんって カフェでいつもダラダラしてるけど",
+        "english": "You're always lazing around this café,"
+    },
+    "159": {
+        "speaker": "PANDA",
+        "japanese": "たまには僕みたいに ちゃんと働いたほうがいいよ",
+        "english": "but you should try working like me sometime."
+    },
+    "160": {
+        "speaker": "PENGUIN",
+        "japanese": "キミに言われたくないってことで いいかな",
+        "english": "How about I just say I'd rather not hear that from you?"
+    },
+    "161": {
+        "speaker": "PENGUIN",
+        "japanese": "そういうパンダくんこそ 今日バイトじゃないの？",
+        "english": "Speaking of, don't you have work today?"
+    },
+    "162": {
+        "speaker": "PANDA",
+        "japanese": "午後からだよ",
+        "english": "It's this afternoon."
+    },
+    "163": {
+        "speaker": "PANDA",
+        "japanese": "週２は　キツイから 午後からにしたんだ",
+        "english": "It's really hard working two days a week, so I said I'd be coming in the afternoon."
+    },
+    "164": {
+        "speaker": "PENGUIN",
+        "japanese": "よくクビにならないね",
+        "english": "I'm amazed that you haven't been fired yet."
+    },
+    "165": {
+        "speaker": "POLAR BEAR",
+        "japanese": "あれ　パンダくん来てたの",
+        "english": "Oh, you're here, Panda?"
+    },
+    "166": {
+        "speaker": "PANDA",
+        "japanese": "え　何？",
+        "english": "What? Here you go."
+    },
+    "167": {
+        "speaker": "POLAR BEAR",
+        "japanese": "はい　これ　パンダくんに",
+        "english": "This is for you, Panda."
+    },
+    "168": {
+        "speaker": "PANDA",
+        "japanese": "何　今日パンダの日",
+        "english": "What? Is it Panda Day today?"
+    },
+    "169": {
+        "speaker": "PENGUIN",
+        "japanese": "何の日それ",
+        "english": "What kind of day is that?"
+    },
+    "170": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん　これどうしたの？",
+        "english": "Where'd you get this, Polar Bear?"
+    },
+    "171": {
+        "speaker": "POLAR BEAR",
+        "japanese": "さっき…",
+        "english": "A moment ago..."
+    },
+    "172": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダくんに 渡してください",
+        "english": "Please give this to Panda."
+    },
+    "173": {
+        "speaker": "POLAR BEAR",
+        "japanese": "って頼まれた",
+        "english": "...is what he asked me."
+    },
+    "174": {
+        "speaker": "PANDA",
+        "japanese": "あげる",
+        "english": "You can have it. Huh?"
+    },
+    "175": {
+        "speaker": "PANDA",
+        "japanese": "またリンリンだよ",
+        "english": "It's Rin Rin again."
+    },
+    "176": {
+        "speaker": "SASAKO",
+        "japanese": "あの花屋さん",
+        "english": "The florist?"
+    },
+    "177": {
+        "speaker": "PANDA",
+        "japanese": "うん　僕に何の恨みがあるんだろう",
+        "english": "Yeah. I wonder what he has against me."
+    },
+    "178": {
+        "speaker": "PENGUIN",
+        "japanese": "花くれてるだけじゃない",
+        "english": "He's just giving you flowers."
+    },
+    "179": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダくん　喜んでくれたかな？",
+        "english": "I hope Panda liked those flowers."
+    },
+    "180": {
+        "speaker": "GIRL",
+        "japanese": "あっ… 厘太郎さんだ…",
+        "english": "Look! It's the florist! Welcome. Could I get this, please?"
+    },
+    "181": {
+        "speaker": "GIRL2",
+        "japanese": "すみません　これください",
+        "english": "Excuse me, could I get this?"
+    },
+    "182": {
+        "speaker": "RIN RIN",
+        "japanese": "ありがとうございました",
+        "english": "Thank you very much."
+    },
+    "183": {
+        "speaker": "GIRL",
+        "japanese": "厘太郎さん いつ見ても　ステキ…",
+        "english": "Mr. Rintarou is always so amazing."
+    },
+    "184": {
+        "speaker": "RIN RIN",
+        "japanese": "あの…　何か？",
+        "english": "Can I help you? No."
+    },
+    "185": {
+        "speaker": "GIRL",
+        "japanese": "あの…　また来ます",
+        "english": "Um... I'll come again."
+    },
+    "186": {
+        "speaker": "RIN RIN",
+        "japanese": "キミ！",
+        "english": "Wait!"
+    },
+    "187": {
+        "speaker": "RIN RIN",
+        "japanese": "はい？",
+        "english": "Yes?"
+    },
+    "188": {
+        "speaker": "RIN RIN",
+        "japanese": "今から　僕に つきあってくれないかな？",
+        "english": "Could we go somewhere together? W-W-W-W-What am I going to do?! Mr. Rintarou just asked me out!"
+    },
+    "189": {
+        "speaker": "GIRL",
+        "japanese": "これって…　デート？ ど…　ど…　ど…　どうしよう…",
+        "english": "Is this a date? W-W-W-W-What am I going to do?!"
+    },
+    "190": {
+        "speaker": "GIRL",
+        "japanese": "でも　どうして私なんて…",
+        "english": "But, why me?"
+    },
+    "191": {
+        "speaker": "GIRL",
+        "japanese": "あんなステキな女の人たちが たくさんいるのに",
+        "english": "There's all those other pretty girls. Is it my plainness?"
+    },
+    "192": {
+        "speaker": "GIRL",
+        "japanese": "女子高生の地味さが勝ったの？",
+        "english": "Could it be the plainness of being a high school student won out?"
+    },
+    "193": {
+        "speaker": "GIRL",
+        "japanese": "デート…　厘太郎さんが 私を　デートに…",
+        "english": "Wow, Mr. Rintarou asked me out."
+    },
+    "194": {
+        "speaker": "RIN RIN",
+        "japanese": "大丈夫？　行ける？",
+        "english": "Is it all right? Can you go?"
+    },
+    "195": {
+        "speaker": "GIRL",
+        "japanese": "はい！！",
+        "english": "Yes!"
+    },
+    "196": {
+        "speaker": "GIRL",
+        "japanese": "センスがいい 厘太郎さんのことだから",
+        "english": "Since Mr. Rintarou has such good taste,"
+    },
+    "197": {
+        "speaker": "GIRL",
+        "japanese": "きっと　すごくステキなところに…",
+        "english": "he must be taking me to a wonderful place."
+    },
+    "198": {
+        "speaker": "TEACHER",
+        "japanese": "は～い　みんな ゾウさんですよ",
+        "english": "Look everyone, it's Mr. Elephant."
+    },
+    "199": {
+        "speaker": "GIRL",
+        "japanese": "え～っと…",
+        "english": "Um... What's wrong?"
+    },
+    "200": {
+        "speaker": "GIRL",
+        "japanese": "あっ…　いえ　意外で…",
+        "english": "Oh, it was just a little unexpected."
+    },
+    "201": {
+        "speaker": "RIN RIN",
+        "japanese": "じゃあ　行こうか",
+        "english": "Well then, let's go."
+    },
+    "202": {
+        "speaker": "GIRL",
+        "japanese": "はい！",
+        "english": "Okay!"
+    },
+    "203": {
+        "speaker": "GIRL",
+        "japanese": "あの…　厘太郎さん",
+        "english": "Um, Mr. Rintarou."
+    },
+    "204": {
+        "speaker": "RIN RIN",
+        "japanese": "何？",
+        "english": "What is it?"
+    },
+    "205": {
+        "speaker": "GIRL",
+        "japanese": "いえ…",
+        "english": "Nevermind..."
+    },
+    "206": {
+        "speaker": "RIN RIN",
+        "japanese": "どうしたの？ 何でも聞いていいよ",
+        "english": "What is it? You can ask me anything."
+    },
+    "207": {
+        "speaker": "GIRL",
+        "japanese": "あの…　厘太郎さんの恋人って　ステキな人なんでしょうね",
+        "english": "Um, your girlfriend must be a wonderful person."
+    },
+    "208": {
+        "speaker": "RIN RIN",
+        "japanese": "恋人は　いないんだ",
+        "english": "I don't have a girlfriend."
+    },
+    "209": {
+        "speaker": "GIRL",
+        "japanese": "えっ…　そうなんですか？",
+        "english": "Oh, really? Yep."
+    },
+    "210": {
+        "speaker": "RIN RIN",
+        "japanese": "でも　僕を 夢中にさせてくれる人はいるよ",
+        "english": "But there is someone I can't stop thinking about."
+    },
+    "211": {
+        "speaker": "GIRL",
+        "japanese": "それって　もしかして…",
+        "english": "Could that be..."
+    },
+    "212": {
+        "speaker": "GIRL",
+        "japanese": "と…　歳の差は　いいんですか？",
+        "english": "D-Does the age gap matter?"
+    },
+    "213": {
+        "speaker": "RIN RIN",
+        "japanese": "歳の差？　そういうのは 考えたことないな",
+        "english": "Age gap? I never even thought about that."
+    },
+    "214": {
+        "speaker": "GIRL",
+        "japanese": "私も…",
+        "english": "Me neither!"
+    },
+    "215": {
+        "speaker": "GIRL",
+        "japanese": "その人って どんな人なんですか？",
+        "english": "What are they like?"
+    },
+    "216": {
+        "speaker": "RIN RIN",
+        "japanese": "白と黒が　かわいくて…",
+        "english": "Well, black and white looks really cute on them."
+    },
+    "217": {
+        "speaker": "GIRL",
+        "japanese": "制服？　制服フェチ？",
+        "english": "My uniform? He has a uniform fetish?"
+    },
+    "218": {
+        "speaker": "GIRL",
+        "japanese": "いい…　それでも　全然いい！",
+        "english": "That's okay. I'm totally okay with that."
+    },
+    "219": {
+        "speaker": "RIN RIN",
+        "japanese": "フサフサしてて…",
+        "english": "And they're fluffy..."
+    },
+    "220": {
+        "speaker": "GIRL",
+        "japanese": "これだ！　ツインテだ",
+        "english": "He must be talking about my pigtails!"
+    },
+    "221": {
+        "speaker": "GIRL",
+        "japanese": "偉い！　偉いよ　私！",
+        "english": "Good job! Good job, me!"
+    },
+    "222": {
+        "speaker": "RIN RIN",
+        "japanese": "ポッチャリしてて…",
+        "english": "And they're chubby."
+    },
+    "223": {
+        "speaker": "GIRL",
+        "japanese": "ポテチだ… ポテチを食べすぎた…",
+        "english": "It's the potato chips. I ate too many potato chips!"
+    },
+    "224": {
+        "speaker": "GIRL",
+        "japanese": "ダメ…　ダメよ　私…",
+        "english": "You fail. You fail, me."
+    },
+    "225": {
+        "speaker": "RIN RIN",
+        "japanese": "ゴロゴロしてる姿が たまらなくて…",
+        "english": "And they're so cute sprawled out. Peeping? Is he secretly taking photos of me?"
+    },
+    "226": {
+        "speaker": "RIN RIN",
+        "japanese": "そんな…　パンダくんに最高に夢中なんだ",
+        "english": "All that... is why I love Panda so much."
+    },
+    "227": {
+        "speaker": "GIRL",
+        "japanese": "パンダ…",
+        "english": "Panda?"
+    },
+    "228": {
+        "speaker": "RIN RIN",
+        "japanese": "うん　パンダ",
+        "english": "Yes, Panda."
+    },
+    "229": {
+        "speaker": "PANDA",
+        "japanese": "リンリン　また来てる",
+        "english": "Rin Rin's here again."
+    },
+    "230": {
+        "speaker": "RIN RIN",
+        "japanese": "ねぇ　ねぇ　キミ　ちょっと　これ　お願い",
+        "english": "And so, could you take care of this for me?"
+    },
+    "231": {
+        "speaker": "RIN RIN",
+        "japanese": "ありがとう！",
+        "english": "Thank you so much!"
+    },
+    "232": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダくんと一緒に撮った写真 初めてだよ！",
+        "english": "That's the first time I took a picture with Panda."
+    },
+    "233": {
+        "speaker": "RIN RIN",
+        "japanese": "キミに来てもらって　よかったよ",
+        "english": "I'm so happy you came with me."
+    },
+    "234": {
+        "speaker": "GIRL",
+        "japanese": "いえ…",
+        "english": "It's nothing..."
+    },
+    "235": {
+        "speaker": "RIN RIN",
+        "japanese": "キミ　パンダ好きでしょ？　それ見て　すぐわかったよ",
+        "english": "You like pandas, too, right? I could totally tell by that."
+    },
+    "236": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダ好きは パンダ好きを知るんだよね",
+        "english": "Those who like pandas can tell others who like pandas."
+    },
+    "237": {
+        "speaker": "RIN RIN",
+        "japanese": "ねっ！",
+        "english": "Right?"
+    },
+    "238": {
+        "speaker": "GIRL",
+        "japanese": "なに　このテンション…",
+        "english": "What's with this intensity?"
+    },
+    "239": {
+        "speaker": "GIRL",
+        "japanese": "ホントに　あの厘太郎さん？",
+        "english": "Is this really Mr. Rintarou? But... if pandas get me closer to Mr. Rintarou..."
+    },
+    "240": {
+        "speaker": "GIRL",
+        "japanese": "わぁ　かわいい！",
+        "english": "Wow, he's so cute!"
+    },
+    "241": {
+        "speaker": "RIN RIN",
+        "japanese": "違う違う",
+        "english": "Wrong, wrong."
+    },
+    "242": {
+        "speaker": "RIN RIN",
+        "japanese": "かわいいのは あっちのパンダさんじゃなくて　こっちのパンダくん！",
+        "english": "The one that's cute isn't the panda there, but Panda over there!"
+    },
+    "243": {
+        "speaker": "GIRL",
+        "japanese": "ち…　違うんですか？",
+        "english": "T-They're different? Completely different."
+    },
+    "244": {
+        "speaker": "RIN RIN",
+        "japanese": "いいかい？　よ～く見てごらん",
+        "english": "Here, look carefully."
+    },
+    "245": {
+        "speaker": "RIN RIN",
+        "japanese": "ボーッとしてないで見て",
+        "english": "Pay attention and look."
+    },
+    "246": {
+        "speaker": "GIRL",
+        "japanese": "は…　はい！",
+        "english": "O-Okay."
+    },
+    "247": {
+        "speaker": "RIN RIN",
+        "japanese": "あっちのパンダさんと　こっちのパンダくん",
+        "english": "Mr. Panda there, and Panda there."
+    },
+    "248": {
+        "speaker": "RIN RIN",
+        "japanese": "あっちのパンダさんと　こっちのパンダくん",
+        "english": "Mr. Panda there, and Panda there."
+    },
+    "249": {
+        "speaker": "RIN RIN",
+        "japanese": "ねっ！",
+        "english": "See?"
+    },
+    "250": {
+        "speaker": "GIRL",
+        "japanese": "全然　違いがわからない…",
+        "english": "I can't tell the difference at all."
+    },
+    "251": {
+        "speaker": "GIRL",
+        "japanese": "けど…",
+        "english": "But..."
+    },
+    "252": {
+        "speaker": "GIRL",
+        "japanese": "ホント　こっちのパンダのが　かわいい",
+        "english": "Um... that panda over there is much cuter."
+    },
+    "253": {
+        "speaker": "RIN RIN",
+        "japanese": "でしょ～！",
+        "english": "Right?!"
+    },
+    "254": {
+        "speaker": "RIN RIN",
+        "japanese": "キミ！",
+        "english": "You!"
+    },
+    "255": {
+        "speaker": "GIRL",
+        "japanese": "はい！",
+        "english": "Yes?!"
+    },
+    "256": {
+        "speaker": "RIN RIN",
+        "japanese": "一緒に　パンダくんの どこがかわいいか",
+        "english": "How about we spend another hour"
+    },
+    "257": {
+        "speaker": "RIN RIN",
+        "japanese": "小一時間　語り合わないか？",
+        "english": "talking about Panda's cuteness together? Huh?"
+    },
+    "258": {
+        "speaker": "RIN RIN",
+        "japanese": "愛くるしいよね",
+        "english": "He's so cute, isn't he?"
+    },
+    "259": {
+        "speaker": "RIN RIN",
+        "japanese": "あのモフモフした顔見た？",
+        "english": "Did you see his fluffy face?"
+    },
+    "260": {
+        "speaker": "RIN RIN",
+        "japanese": "僕は見たよ！　どうしよう！？",
+        "english": "I totally saw it! What am I going to do?"
+    },
+    "261": {
+        "speaker": "RIN RIN",
+        "japanese": "あんな かわいいものってあるかな？",
+        "english": "Is there anything cuter?"
+    },
+    "262": {
+        "speaker": "RIN RIN",
+        "japanese": "ない！　ないよ！",
+        "english": "No, there isn't!"
+    },
+    "263": {
+        "speaker": "RIN RIN",
+        "japanese": "できるならパンダコーナーで パンダくんと一緒に住みたいよね",
+        "english": "If it was possible, I'd want to live with Panda in the panda corner."
+    },
+    "264": {
+        "speaker": "RIN RIN",
+        "japanese": "いいな　それ！　どうしよう",
+        "english": "That'd be great. What would I do?"
+    },
+    "265": {
+        "speaker": "RIN RIN",
+        "japanese": "ああ　だけど パンダくん　週２日のバイトだから",
+        "english": "But Panda only works two days a week,"
+    },
+    "266": {
+        "speaker": "RIN RIN",
+        "japanese": "帰りたい…",
+        "english": "so anytime other than that..."
+    },
+    "267": {
+        "speaker": "GIRL",
+        "japanese": "帰りたい…",
+        "english": "I want to go home."
+    },
+    "268": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダくんの かわいい転がってる姿を間近で見られるなんて 最高だよね！",
+        "english": "...Being able to see him cutely rolling around up close is so amazing, isn't it?"
+    },
+    "269": {
+        "speaker": "GIRL",
+        "japanese": "帰りたい…",
+        "english": "I want to go home..."
+    },
+    "270": {
+        "speaker": "RIN RIN",
+        "japanese": "帰りたい…",
+        "english": "Panda rolling around is great,"
+    },
+    "271": {
+        "speaker": "RIN RIN",
+        "japanese": "滑り台を滑ってるパンダ君もとびきり可愛いよね",
+        "english": "but Panda sliding down his slide is totally cute, too, isn't it?"
+    },
+    "272": {
+        "speaker": "SPEAKER",
+        "japanese": "閉園の時間になりました",
+        "english": "{\\a6}We are now closed. {\\a6}We look forward to your next visit."
+    },
+    "273": {
+        "speaker": "RIN RIN",
+        "japanese": "閉園時間だね",
+        "english": "It's closing time."
+    },
+    "274": {
+        "speaker": "RIN RIN",
+        "japanese": "ごめんね　長くなっちゃったね",
+        "english": "I'm sorry, this ended up being really long."
+    },
+    "275": {
+        "speaker": "GIRL",
+        "japanese": "い…　いえ",
+        "english": "O-Oh, it's fine. Saved."
+    },
+    "276": {
+        "speaker": "RIN RIN",
+        "japanese": "じゃあ　そろそろ",
+        "english": "Well then..."
+    },
+    "277": {
+        "speaker": "GIRL",
+        "japanese": "はい！",
+        "english": "Yes. Let's go somewhere else and continue our discussion."
+    },
+    "278": {
+        "speaker": "GIRL",
+        "japanese": "すげぇ　この人…",
+        "english": "This guy is unbelievable."
+    },
+    "279": {
+        "speaker": "RIN RIN",
+        "japanese": "どこに行こうか？",
+        "english": "Where should we go?"
+    },
+    "280": {
+        "speaker": "GIRL",
+        "japanese": "あっ　いえ　あの 私　宿題あるから　失礼します！",
+        "english": "Oh, uh, I have homework! Gotta go!"
+    },
+    "281": {
+        "speaker": "RIN RIN",
+        "japanese": "ああ　キミ　ちょっと待って！",
+        "english": "Oh, hey! Wait a minute!"
+    },
+    "282": {
+        "speaker": "RIN RIN",
+        "japanese": "パンダくんの話しようよ！",
+        "english": "Let's talk more about Panda! You can have this."
+    },
+    "283": {
+        "speaker": "RIN RIN",
+        "japanese": "いいの？　ありがとう！ 一生　恩に着るよ！",
+        "english": "Really? Thank you! I owe you for a lifetime! It's okay. A lifetime is a bit extreme..."
+    },
+    "284": {
+        "speaker": "RIN RIN",
+        "japanese": "大事にするよ",
+        "english": "I'll cherish it."
+    },
+    "285": {
+        "speaker": "RIN RIN",
+        "japanese": "すごい嬉しい！",
+        "english": "I'm really happy."
+    },
+    "286": {
+        "speaker": "GIRL",
+        "japanese": "さようなら！",
+        "english": "Goodbye! Hey, wait."
+    },
+    "287": {
+        "speaker": "GIRL",
+        "japanese": "さようなら！　私の恋！",
+        "english": "Goodbye, my love."
+    },
+    "288": {
+        "speaker": "RIN RIN",
+        "japanese": "またパンダの話しようね！",
+        "english": "Let's talk about pandas again!"
+    },
+    "289": {
+        "speaker": "GIRL",
+        "japanese": "さようなら　私の恋！",
+        "english": "Goodbye, my love!"
+    },
+    "290": {
+        "speaker": "RIN RIN",
+        "japanese": "これ　返せって言っても 返さないからね！",
+        "english": "I'm not... giving this back, even if you ask!"
+    },
+    "291": {
+        "speaker": "PENGUIN",
+        "japanese": "お疲れ",
+        "english": "Thanks for your hard work."
+    },
+    "292": {
+        "speaker": "POLAR BEAR",
+        "japanese": "アイスコーヒー？",
+        "english": "Iced coffee?"
+    },
+    "293": {
+        "speaker": "PANDA",
+        "japanese": "うん",
+        "english": "Yeah."
+    },
+    "294": {
+        "speaker": "PANDA",
+        "japanese": "やっぱり 労働って半日もきついな",
+        "english": "A half day of manual labor is rough."
+    },
+    "295": {
+        "speaker": "PANDA",
+        "japanese": "なんとか 半日の半分にしてもらおう",
+        "english": "I'm going to ask if they'd make it only half of half a day."
+    },
+    "296": {
+        "speaker": "PENGUIN",
+        "japanese": "キミ　クビになってもいいのにね",
+        "english": "I think it'd be okay to fire you."
+    },
+    "297": {
+        "speaker": "PANDA",
+        "japanese": "なんで？",
+        "english": "Why's that?"
+    },
+    "298": {
+        "speaker": "PANDA",
+        "japanese": "あっ　リンリンの花！ どっかにやってよ",
+        "english": "Oh, Rin Rin's flowers! Could you move them?"
+    },
+    "299": {
+        "speaker": "POLAR BEAR",
+        "japanese": "まぁまぁ　きれいな花じゃない",
+        "english": "Now, now. They're pretty flowers."
+    },
+    "300": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん　ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "301": {
+        "speaker": "PENGUIN",
+        "japanese": "何　パンダ君？",
+        "english": "What is it, Panda?"
+    },
+    "302": {
+        "speaker": "PANDA",
+        "japanese": "ぺんぎんさんは死の特訓してでも　必殺技の一つでも身につけたいとか考えないの",
+        "english": "Don't you ever feel like you wanted to learn a special move, even if that meant you'd have to go through life-threatening training?"
+    },
+    "303": {
+        "speaker": "PENGUIN",
+        "japanese": "考えないかな",
+        "english": "I don't think I do. For example, the ability to imitate a fax machine."
+    },
+    "304": {
+        "speaker": "PENGUIN",
+        "japanese": "死の特訓してまで手に入れたくない技だね",
+        "english": "That's definitely not something I'd go through life-threatening training for. Polar Bear, let's end this."
+    },
+    "305": {
+        "speaker": "POLAR BEAR",
+        "japanese": "次回　しろくまカフェ　対　world　business　satellite",
+        "english": "Next time, Polar Bear's Café vs. World Business Satellite."
+    },
+    "306": {
+        "speaker": "PENGUIN",
+        "japanese": "しろくまカフェって普通に言えないのかな",
+        "english": "Can't you just say, \"Polar Bear's Café\"?"
+    },
+    "307": {
+        "speaker": "SASAKO",
+        "japanese": "お楽しみに",
+        "english": "Enjoy!"
+    }
+}

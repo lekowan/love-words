@@ -1,0 +1,2158 @@
+{
+    "1": {
+        "speaker": "PANDA",
+        "character": "ねぇねぇ モテ期って知ってる？",
+        "definition": "Hey, do you know about your popularity period?",
+        "timestamp": "0:01:37",
+        "audio": "/audio/07/0.01.37.mp3"
+    },
+    "2": {
+        "speaker": "POLAR BEAR",
+        "character": "モテ期？",
+        "definition": "Popularity period {\\i1}(moteki){\\i0}?",
+        "timestamp": "0:01:41",
+        "audio": "/audio/07/0.01.41.mp3"
+    },
+    "3": {
+        "speaker": "PENGUIN",
+        "character": "それは　汽笛",
+        "definition": "That would be a steam whistle {\\i1}(kiteki){\\i0}.",
+        "timestamp": "0:01:44",
+        "audio": "/audio/07/0.01.44.mp3"
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "character": "それは　射的",
+        "definition": "That would be target practice {\\i1}(shateki){\\i0}.",
+        "timestamp": "0:01:49",
+        "audio": "/audio/07/0.01.49.mp3"
+    },
+    "5": {
+        "speaker": "PENGUIN",
+        "character": "それは　奇跡",
+        "definition": "That would be a miracle {\\i1}(kiseki){\\i0}.",
+        "timestamp": "0:01:53",
+        "audio": "/audio/07/0.01.53.mp3"
+    },
+    "6": {
+        "speaker": "POLAR BEAR",
+        "character": "モテ期って？",
+        "definition": "What do you mean by \"popularity period\"?",
+        "timestamp": "0:01:55",
+        "audio": "/audio/07/0.01.55.mp3"
+    },
+    "7": {
+        "speaker": "PANDA",
+        "character": "人は一生のうちすごくモテる時期があって",
+        "definition": "Everyone has a point in their life when they become very popular",
+        "timestamp": "0:01:57",
+        "audio": "/audio/07/0.01.57.mp3"
+    },
+    "8": {
+        "speaker": "",
+        "character": "それをモテ期って言うんだって",
+        "definition": "and that's a \"popularity period.\"",
+        "timestamp": "0:02:01",
+        "audio": "/audio/07/0.02.01.mp3"
+    },
+    "9": {
+        "speaker": "POLAR BEAR",
+        "character": "それ繁殖期でしょ",
+        "definition": "Wouldn't that be breeding season?",
+        "timestamp": "0:02:03",
+        "audio": "/audio/07/0.02.03.mp3"
+    },
+    "10": {
+        "speaker": "PENGUIN",
+        "character": "だよね",
+        "definition": "I would think so.",
+        "timestamp": "0:02:05",
+        "audio": "/audio/07/0.02.05.mp3"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "character": "ちょっと違うらしいよ",
+        "definition": "Apparently it's a little different. Breeding season only comes around when it's the right season,",
+        "timestamp": "0:02:07",
+        "audio": "/audio/07/0.02.07.mp3"
+    },
+    "12": {
+        "speaker": "PANDA",
+        "character": "モテ期は　努力によって くるらしいんだよ",
+        "definition": "your popularity period apparently comes when you work hard for it. What are you all talking about?",
+        "timestamp": "0:02:14",
+        "audio": "/audio/07/0.02.14.mp3"
+    },
+    "13": {
+        "speaker": "PANDA",
+        "character": "見てて",
+        "definition": "Watch this. Miss Sasako...",
+        "timestamp": "0:02:20",
+        "audio": "/audio/07/0.02.20.mp3"
+    },
+    "14": {
+        "speaker": "SASAKO",
+        "character": "はい？",
+        "definition": "Yes?",
+        "timestamp": "0:02:23",
+        "audio": "/audio/07/0.02.23.mp3"
+    },
+    "15": {
+        "speaker": "PANDA",
+        "character": "はい！",
+        "definition": "Here.",
+        "timestamp": "0:02:25",
+        "audio": "/audio/07/0.02.25.mp3"
+    },
+    "16": {
+        "speaker": "SASAKO",
+        "character": "お面？",
+        "definition": "A mask?",
+        "timestamp": "0:02:28",
+        "audio": "/audio/07/0.02.28.mp3"
+    },
+    "17": {
+        "speaker": "PANDA",
+        "character": "あれ？　じゃあ…",
+        "definition": "Huh? Then how about...",
+        "timestamp": "0:02:31",
+        "audio": "/audio/07/0.02.31.mp3"
+    },
+    "18": {
+        "speaker": "PANDA",
+        "character": "はい",
+        "definition": "Here you go.",
+        "timestamp": "0:02:34",
+        "audio": "/audio/07/0.02.34.mp3"
+    },
+    "19": {
+        "speaker": "SASAKO",
+        "character": "ニンジン？",
+        "definition": "A carrot?",
+        "timestamp": "0:02:36",
+        "audio": "/audio/07/0.02.36.mp3"
+    },
+    "20": {
+        "speaker": "PANDA",
+        "character": "あれ？　じゃあ…",
+        "definition": "Huh? Then...",
+        "timestamp": "0:02:40",
+        "audio": "/audio/07/0.02.40.mp3"
+    },
+    "21": {
+        "speaker": "PANDA",
+        "character": "僕　体重１００キロ以上あるんだ",
+        "definition": "I weigh more than 100 kilograms.",
+        "timestamp": "0:02:42",
+        "audio": "/audio/07/0.02.42.mp3"
+    },
+    "22": {
+        "speaker": "SASAKO",
+        "character": "そう",
+        "definition": "I see.",
+        "timestamp": "0:02:46",
+        "audio": "/audio/07/0.02.46.mp3"
+    },
+    "23": {
+        "speaker": "PANDA",
+        "character": "重いでしょ？",
+        "definition": "Isn't that heavy?",
+        "timestamp": "0:02:49",
+        "audio": "/audio/07/0.02.49.mp3"
+    },
+    "24": {
+        "speaker": "SASAKO",
+        "character": "重いね",
+        "definition": "It is.",
+        "timestamp": "0:02:51",
+        "audio": "/audio/07/0.02.51.mp3"
+    },
+    "25": {
+        "speaker": "PANDA",
+        "character": "それだけ？",
+        "definition": "That's all?",
+        "timestamp": "0:02:53",
+        "audio": "/audio/07/0.02.53.mp3"
+    },
+    "26": {
+        "speaker": "SASAKO",
+        "character": "うん",
+        "definition": "Yes.",
+        "timestamp": "0:02:55",
+        "audio": "/audio/07/0.02.55.mp3"
+    },
+    "27": {
+        "speaker": "PANDA",
+        "character": "おかしいな…",
+        "definition": "How strange.",
+        "timestamp": "0:02:59",
+        "audio": "/audio/07/0.02.59.mp3"
+    },
+    "28": {
+        "speaker": "PANDA",
+        "character": "モテるには　お面で野菜で 重かったりするはずなんだけど…",
+        "definition": "I heard that in order to be popular, you had to have a mask {\\i1}(omen){\\i0}, vegetables {\\i1}(yasai){\\i0}, and be heavy {\\i1}(omoi){\\i0}.",
+        "timestamp": "0:03:02",
+        "audio": "/audio/07/0.03.02.mp3"
+    },
+    "29": {
+        "speaker": "SASAKO",
+        "character": "あの…",
+        "definition": "By chance do you mean, be good-looking {\\i1}(ikemen){\\i0}, nice {\\i1}(yasashii){\\i0}, and funny {\\i1}(omoshiroi){\\i0}?",
+        "timestamp": "0:03:07",
+        "audio": "/audio/07/0.03.07.mp3"
+    },
+    "30": {
+        "speaker": "PANDA",
+        "character": "ちょっと違った",
+        "definition": "I guess I was a little off.",
+        "timestamp": "0:03:16",
+        "audio": "/audio/07/0.03.16.mp3"
+    },
+    "31": {
+        "speaker": "POLAR BEAR",
+        "character": "ニアピン賞",
+        "definition": "You were close, though!",
+        "timestamp": "0:03:18",
+        "audio": "/audio/07/0.03.18.mp3"
+    },
+    "32": {
+        "speaker": "PENGUIN",
+        "character": "いや　大きく間違ってるから",
+        "definition": "No, he got it completely wrong. Are you making a delivery?",
+        "timestamp": "0:03:20",
+        "audio": "/audio/07/0.03.20.mp3"
+    },
+    "33": {
+        "speaker": "GIRL",
+        "character": "ステキなお花ですね",
+        "definition": "What lovely flowers!",
+        "timestamp": "0:03:32",
+        "audio": "/audio/07/0.03.32.mp3"
+    },
+    "34": {
+        "speaker": "RINRIN",
+        "character": "ありがとうございます",
+        "definition": "Thank you very much.",
+        "timestamp": "0:03:34",
+        "audio": "/audio/07/0.03.34.mp3"
+    },
+    "35": {
+        "speaker": "PANDA",
+        "character": "あれがモテ期かぁ",
+        "definition": "That must be the popularity period.",
+        "timestamp": "0:03:39",
+        "audio": "/audio/07/0.03.39.mp3"
+    },
+    "36": {
+        "speaker": "RINRIN",
+        "character": "じゃあ　これ 売店に届けてきますので",
+        "definition": "Well, I have to go deliver this to the shop.",
+        "timestamp": "0:03:42",
+        "audio": "/audio/07/0.03.42.mp3"
+    },
+    "37": {
+        "speaker": "GIRLS",
+        "character": "行っちゃイヤ！",
+        "definition": "Aw, please don't leave!",
+        "timestamp": "0:03:45",
+        "audio": "/audio/07/0.03.45.mp3"
+    },
+    "38": {
+        "speaker": "RINRIN",
+        "character": "す…　すみません",
+        "definition": "M-My apologies.",
+        "timestamp": "0:03:51",
+        "audio": "/audio/07/0.03.51.mp3"
+    },
+    "39": {
+        "speaker": "HANDA",
+        "character": "ああ　いえ　こちらこそ",
+        "definition": "Oh, no, pardon me, as well.",
+        "timestamp": "0:03:53",
+        "audio": "/audio/07/0.03.53.mp3"
+    },
+    "40": {
+        "speaker": "GIRLS",
+        "character": "大丈夫ですか？",
+        "definition": "Are you okay?",
+        "timestamp": "0:03:56",
+        "audio": "/audio/07/0.03.56.mp3"
+    },
+    "41": {
+        "speaker": "OLD LADY",
+        "character": "ケガはないかい？",
+        "definition": "Are you hurt?",
+        "timestamp": "0:03:58",
+        "audio": "/audio/07/0.03.58.mp3"
+    },
+    "42": {
+        "speaker": "RINRIN",
+        "character": "ああ　僕は　大丈夫です",
+        "definition": "No, I'm fine.",
+        "timestamp": "0:04:00",
+        "audio": "/audio/07/0.04.00.mp3"
+    },
+    "43": {
+        "speaker": "GIRLS",
+        "character": "本当に？",
+        "definition": "Are you sure?",
+        "timestamp": "0:04:02",
+        "audio": "/audio/07/0.04.02.mp3"
+    },
+    "44": {
+        "speaker": "RINRIN",
+        "character": "ええ",
+        "definition": "Yes.",
+        "timestamp": "0:04:03",
+        "audio": "/audio/07/0.04.03.mp3"
+    },
+    "45": {
+        "speaker": "GIRLS",
+        "character": "よかった",
+        "definition": "Thank goodness.",
+        "timestamp": "0:04:04",
+        "audio": "/audio/07/0.04.04.mp3"
+    },
+    "46": {
+        "speaker": "GIRLS",
+        "character": "心配しちゃったよ",
+        "definition": "I was so worried.",
+        "timestamp": "0:04:05",
+        "audio": "/audio/07/0.04.05.mp3"
+    },
+    "47": {
+        "speaker": "PANDA",
+        "character": "半田さん",
+        "definition": "Mr. Handa.",
+        "timestamp": "0:04:07",
+        "audio": "/audio/07/0.04.07.mp3"
+    },
+    "48": {
+        "speaker": "PANDA",
+        "character": "僕が力になるよ",
+        "definition": "I'll help you out.",
+        "timestamp": "0:04:09",
+        "audio": "/audio/07/0.04.09.mp3"
+    },
+    "49": {
+        "speaker": "PANDA",
+        "character": "なんとかしてあげるから",
+        "definition": "Don't worry, we'll figure it out.",
+        "timestamp": "0:04:12",
+        "audio": "/audio/07/0.04.12.mp3"
+    },
+    "50": {
+        "speaker": "RINRIN",
+        "character": "ああ　パンダくん　おはよう！",
+        "definition": "Oh, Panda! Good morning!",
+        "timestamp": "0:04:15",
+        "audio": "/audio/07/0.04.15.mp3"
+    },
+    "51": {
+        "speaker": "PANDA",
+        "character": "リンリンは　僕のこと必要ないでしょ",
+        "definition": "You don't need my help, Rin Rin. Come on, let's go, Mr. Handa. Polar Bear's Café",
+        "timestamp": "0:04:17",
+        "audio": "/audio/07/0.04.17.mp3"
+    },
+    "52": {
+        "speaker": "PENGUIN",
+        "character": "こんにちは！ 聞いて　聞いて！",
+        "definition": "Hello! Hey, listen, listen!",
+        "timestamp": "0:04:30",
+        "audio": "/audio/07/0.04.30.mp3"
+    },
+    "53": {
+        "speaker": "SASAKO",
+        "character": "どうしたんですか？",
+        "definition": "What is it?",
+        "timestamp": "0:04:34",
+        "audio": "/audio/07/0.04.34.mp3"
+    },
+    "54": {
+        "speaker": "PENGUIN",
+        "character": "やっと仮免　受かったよ",
+        "definition": "I finally got my temporary license! Finally! At last!",
+        "timestamp": "0:04:35",
+        "audio": "/audio/07/0.04.35.mp3"
+    },
+    "55": {
+        "speaker": "PENGUIN",
+        "character": "あれ？　シロクマくんはいないの？",
+        "definition": "Huh? Polar Bear's not here?",
+        "timestamp": "0:04:41",
+        "audio": "/audio/07/0.04.41.mp3"
+    },
+    "56": {
+        "speaker": "SASAKO",
+        "character": "大切な用事があるからって…",
+        "definition": "He said he had something important to do.",
+        "timestamp": "0:04:45",
+        "audio": "/audio/07/0.04.45.mp3"
+    },
+    "57": {
+        "speaker": "POLAR BEAR",
+        "character": "ここでやるの？",
+        "definition": "You're going to do it here?",
+        "timestamp": "0:04:52",
+        "audio": "/audio/07/0.04.52.mp3"
+    },
+    "58": {
+        "speaker": "PANDA",
+        "character": "協力してね　シロクマくん",
+        "definition": "Help me out, Polar Bear.",
+        "timestamp": "0:04:54",
+        "audio": "/audio/07/0.04.54.mp3"
+    },
+    "59": {
+        "speaker": "POLAR BEAR",
+        "character": "パンダくん　やる気だね",
+        "definition": "You're very determined, Panda.",
+        "timestamp": "0:04:57",
+        "audio": "/audio/07/0.04.57.mp3"
+    },
+    "60": {
+        "speaker": "PANDA",
+        "character": "いろいろ情報　仕入れてきたよ",
+        "definition": "I've been gathering information.",
+        "timestamp": "0:04:59",
+        "audio": "/audio/07/0.04.59.mp3"
+    },
+    "61": {
+        "speaker": "HANDA",
+        "character": "ごめん！　ちょっと お年寄りに道を聞かれてさ",
+        "definition": "Sorry! An older person was asking me for directions. Come on, let's go, Mr. Handa. Where to?",
+        "timestamp": "0:05:02",
+        "audio": "/audio/07/0.05.02.mp3"
+    },
+    "62": {
+        "speaker": "BEARS",
+        "character": "半田さん改造計画！",
+        "definition": "Mr. Handa's make-over plan!",
+        "timestamp": "0:05:13",
+        "audio": "/audio/07/0.05.13.mp3"
+    },
+    "63": {
+        "speaker": "PANDA",
+        "character": "まずは　ファッションだよ",
+        "definition": "First, let's start with fashion.",
+        "timestamp": "0:05:20",
+        "audio": "/audio/07/0.05.20.mp3"
+    },
+    "64": {
+        "speaker": "PANDA",
+        "character": "さり気ない　トラッド",
+        "definition": "Nonchalant trad.",
+        "timestamp": "0:05:23",
+        "audio": "/audio/07/0.05.23.mp3"
+    },
+    "65": {
+        "speaker": "POLAR BEAR",
+        "character": "う～ん　ちょっとカタイね",
+        "definition": "Hmm, seems a little too serious. How about punk? I don't know about this either.",
+        "timestamp": "0:05:26",
+        "audio": "/audio/07/0.05.26.mp3"
+    },
+    "66": {
+        "speaker": "PANDA",
+        "character": "渋谷系とか",
+        "definition": "What about Shibuya style? Seems more subculture style. Ooh, this is it!",
+        "timestamp": "0:05:38",
+        "audio": "/audio/07/0.05.38.mp3"
+    },
+    "67": {
+        "speaker": "POLAR BEAR",
+        "character": "いいんじゃない？",
+        "definition": "It's perfect.",
+        "timestamp": "0:05:47",
+        "audio": "/audio/07/0.05.47.mp3"
+    },
+    "68": {
+        "speaker": "HANDA",
+        "character": "これじゃ　いつもと同じだよ",
+        "definition": "This is the same thing I always wear. Well, then... For popular fashion,",
+        "timestamp": "0:05:49",
+        "audio": "/audio/07/0.05.49.mp3"
+    },
+    "69": {
+        "speaker": "PANDA",
+        "character": "オスとして 強く　アピールできるものがいいよね",
+        "definition": "we need to find you something that helps you proclaim your manliness.",
+        "timestamp": "0:06:01",
+        "audio": "/audio/07/0.06.01.mp3"
+    },
+    "70": {
+        "speaker": "PANDA",
+        "character": "ニワトリなら　立派なトサカだし",
+        "definition": "For a rooster, it'd be the cockscomb. For a cat, I think it'd be the ears. For birds, it'd be their feathers.",
+        "timestamp": "0:06:05",
+        "audio": "/audio/07/0.06.05.mp3"
+    },
+    "71": {
+        "speaker": "PANDA",
+        "character": "でも　やっぱ　これだよね",
+        "definition": "But most importantly, there's this.",
+        "timestamp": "0:06:17",
+        "audio": "/audio/07/0.06.17.mp3"
+    },
+    "72": {
+        "speaker": "HANDA",
+        "character": "パンダの着ぐるみ？",
+        "definition": "A panda costume?",
+        "timestamp": "0:06:20",
+        "audio": "/audio/07/0.06.20.mp3"
+    },
+    "73": {
+        "speaker": "PANDA",
+        "character": "半田さん 日ごろの僕を見てて　わからない？",
+        "definition": "You see me all the time and you don't notice, Mr. Handa?",
+        "timestamp": "0:06:23",
+        "audio": "/audio/07/0.06.23.mp3"
+    },
+    "74": {
+        "speaker": "PANDA",
+        "character": "モテモテだよ",
+        "definition": "I'm really popular.",
+        "timestamp": "0:06:27",
+        "audio": "/audio/07/0.06.27.mp3"
+    },
+    "75": {
+        "speaker": "POLAR BEAR",
+        "character": "これなんか　どう？",
+        "definition": "What about this?",
+        "timestamp": "0:06:29",
+        "audio": "/audio/07/0.06.29.mp3"
+    },
+    "76": {
+        "speaker": "POLAR BEAR",
+        "character": "ちょっと　きついけど",
+        "definition": "It's a little tight, though.",
+        "timestamp": "0:06:32",
+        "audio": "/audio/07/0.06.32.mp3"
+    },
+    "77": {
+        "speaker": "PANDA",
+        "character": "シロクマくん　パンダみたいだね",
+        "definition": "You look like a panda, Polar Bear.",
+        "timestamp": "0:06:35",
+        "audio": "/audio/07/0.06.35.mp3"
+    },
+    "78": {
+        "speaker": "POLAR BEAR",
+        "character": "パンダくんの代わりに 動物園で働こうかな",
+        "definition": "Maybe I'll work at the zoo in your place, Panda.",
+        "timestamp": "0:06:38",
+        "audio": "/audio/07/0.06.38.mp3"
+    },
+    "79": {
+        "speaker": "HANDA",
+        "character": "ムリでしょ",
+        "definition": "I don't think that's possible.",
+        "timestamp": "0:06:43",
+        "audio": "/audio/07/0.06.43.mp3"
+    },
+    "80": {
+        "speaker": "HANDA",
+        "character": "袋　開けたんだから ちゃんと買いなよ",
+        "definition": "You opened the package, so make sure you buy it.",
+        "timestamp": "0:06:45",
+        "audio": "/audio/07/0.06.45.mp3"
+    },
+    "81": {
+        "speaker": "POLAR BEAR",
+        "character": "お財布　持ってきてない",
+        "definition": "I didn't bring my wallet.",
+        "timestamp": "0:06:48",
+        "audio": "/audio/07/0.06.48.mp3"
+    },
+    "82": {
+        "speaker": "SHOP",
+        "character": "ありがとうございました",
+        "definition": "Thank you very much!",
+        "timestamp": "0:06:55",
+        "audio": "/audio/07/0.06.55.mp3"
+    },
+    "83": {
+        "speaker": "PANDA",
+        "character": "じゃあ　次",
+        "definition": "Now, on to the next stop.",
+        "timestamp": "0:06:59",
+        "audio": "/audio/07/0.06.59.mp3"
+    },
+    "84": {
+        "speaker": "PANDA",
+        "character": "グルメ情報も大事らしいよ",
+        "definition": "Apparently, it's also important to know about gourmet foods.",
+        "timestamp": "0:07:06",
+        "audio": "/audio/07/0.07.06.mp3"
+    },
+    "85": {
+        "speaker": "HANDA",
+        "character": "どう　大事なの？",
+        "definition": "How's that important?",
+        "timestamp": "0:07:09",
+        "audio": "/audio/07/0.07.09.mp3"
+    },
+    "86": {
+        "speaker": "PANDA",
+        "character": "半田さんの人生にだよ",
+        "definition": "It's important for your life, Mr. Handa.",
+        "timestamp": "0:07:11",
+        "audio": "/audio/07/0.07.11.mp3"
+    },
+    "87": {
+        "speaker": "HANDA",
+        "character": "そうなんだ…",
+        "definition": "I see... Jeez, what's with the lack of enthusiasm?",
+        "timestamp": "0:07:14",
+        "audio": "/audio/07/0.07.14.mp3"
+    },
+    "88": {
+        "speaker": "PANDA",
+        "character": "僕が　こんなに一生懸命なのに",
+        "definition": "And I'm trying so hard, too.",
+        "timestamp": "0:07:20",
+        "audio": "/audio/07/0.07.20.mp3"
+    },
+    "89": {
+        "speaker": "POLAR BEAR",
+        "character": "おいしそうなもの いっぱい　あるね",
+        "definition": "They have a lot of delicious-looking stuff. Bamboo grass yeast cakes, bamboo grass dumplings, bamboo grass red bean jelly! You should buy it for him. Looks like I don't have a choice. But just one.",
+        "timestamp": "0:07:23",
+        "audio": "/audio/07/0.07.23.mp3"
+    },
+    "90": {
+        "speaker": "POLAR BEAR",
+        "character": "これも　よろしく",
+        "definition": "And this, too.",
+        "timestamp": "0:07:44",
+        "audio": "/audio/07/0.07.44.mp3"
+    },
+    "91": {
+        "speaker": "PANDA",
+        "character": "半田さん！",
+        "definition": "Mr. Handa!",
+        "timestamp": "0:08:00",
+        "audio": "/audio/07/0.08.00.mp3"
+    },
+    "92": {
+        "speaker": "POLAR BEAR",
+        "character": "半田さん！",
+        "definition": "Mr. Handa!",
+        "timestamp": "0:08:04",
+        "audio": "/audio/07/0.08.04.mp3"
+    },
+    "93": {
+        "speaker": "POLAR BEAR",
+        "character": "１００円　１００円",
+        "definition": "One hundred yen! One hundred yen!",
+        "timestamp": "0:08:06",
+        "audio": "/audio/07/0.08.06.mp3"
+    },
+    "94": {
+        "speaker": "HANDA",
+        "character": "シロクマくん　何やってるの！？",
+        "definition": "What in the world are you doing, Polar Bear?!",
+        "timestamp": "0:08:09",
+        "audio": "/audio/07/0.08.09.mp3"
+    },
+    "95": {
+        "speaker": "PANDA",
+        "character": "半田さん　いっぱい　持ってるね　モテモテだよ",
+        "definition": "You've got your hands full, Mr. Handa. You must be popular!",
+        "timestamp": "0:08:15",
+        "audio": "/audio/07/0.08.15.mp3"
+    },
+    "96": {
+        "speaker": "POLAR BEAR",
+        "character": "これで　半田さんも だいぶ　改造人間になったね",
+        "definition": "Handa-san, you're well on your way to being remade, as a cyborg.",
+        "timestamp": "0:08:19",
+        "audio": "/audio/07/0.08.19.mp3"
+    },
+    "97": {
+        "speaker": "HANDA",
+        "character": "いや…　それ　戦っちゃうから",
+        "definition": "No, that'd mean I'd have to fight.",
+        "timestamp": "0:08:23",
+        "audio": "/audio/07/0.08.23.mp3"
+    },
+    "98": {
+        "speaker": "GIRLS",
+        "character": "なんだろう？　こっち　見てるよ",
+        "definition": "Let's go!",
+        "timestamp": "0:08:33",
+        "audio": "/audio/07/0.08.33.mp3"
+    },
+    "99": {
+        "speaker": "HANDA",
+        "character": "なんだろう？　こっち　見てるよ",
+        "definition": "I wonder what that's about? They're looking over here.",
+        "timestamp": "0:08:33",
+        "audio": "/audio/07/0.08.33.mp3"
+    },
+    "100": {
+        "speaker": "GIRL",
+        "character": "あの…",
+        "definition": "E-Excuse me.",
+        "timestamp": "0:08:38",
+        "audio": "/audio/07/0.08.38.mp3"
+    },
+    "101": {
+        "speaker": "",
+        "character": "はい",
+        "definition": "Yes?",
+        "timestamp": "0:08:40",
+        "audio": "/audio/07/0.08.40.mp3"
+    },
+    "102": {
+        "speaker": "GIRL A",
+        "character": "もし　よかったら…",
+        "definition": "If it's not too much trouble...",
+        "timestamp": "0:08:41",
+        "audio": "/audio/07/0.08.41.mp3"
+    },
+    "103": {
+        "speaker": "GIRL B",
+        "character": "一緒に写真　撮ってもらえますか？",
+        "definition": "Could you take a picture with all of us?",
+        "timestamp": "0:08:43",
+        "audio": "/audio/07/0.08.43.mp3"
+    },
+    "104": {
+        "speaker": "PANDA",
+        "character": "きたよ　モテ期！",
+        "definition": "Your popularity period has arrived!",
+        "timestamp": "0:08:49",
+        "audio": "/audio/07/0.08.49.mp3"
+    },
+    "105": {
+        "speaker": "HANDA",
+        "character": "いいですよ",
+        "definition": "Sure.",
+        "timestamp": "0:08:52",
+        "audio": "/audio/07/0.08.52.mp3"
+    },
+    "106": {
+        "speaker": "GIRL",
+        "character": "お願いします！",
+        "definition": "Thank you!",
+        "timestamp": "0:08:53",
+        "audio": "/audio/07/0.08.53.mp3"
+    },
+    "107": {
+        "speaker": "HANDA",
+        "character": "パンダくん　人気者だね",
+        "definition": "You sure are popular, Panda.",
+        "timestamp": "0:08:57",
+        "audio": "/audio/07/0.08.57.mp3"
+    },
+    "108": {
+        "speaker": "POLAR BEAR",
+        "character": "僕も一緒に撮ってくる",
+        "definition": "I'm going to get in the picture, too.",
+        "timestamp": "0:09:00",
+        "audio": "/audio/07/0.09.00.mp3"
+    },
+    "109": {
+        "speaker": "HANDA",
+        "character": "もう１枚　撮りますよ",
+        "definition": "I'm gonna take one more.",
+        "timestamp": "0:09:04",
+        "audio": "/audio/07/0.09.04.mp3"
+    },
+    "110": {
+        "speaker": "GIRLS",
+        "character": "は～い！",
+        "definition": "Okay!",
+        "timestamp": "0:09:06",
+        "audio": "/audio/07/0.09.06.mp3"
+    },
+    "111": {
+        "speaker": "PANDA",
+        "character": "あぁ　楽しかった！",
+        "definition": "Wow, that sure was fun! Welcome back. You were gone a long time.",
+        "timestamp": "0:09:13",
+        "audio": "/audio/07/0.09.13.mp3"
+    },
+    "112": {
+        "speaker": "GIRL",
+        "character": "すみません！ 注文　お願いします",
+        "definition": "Pardon me, could you take our order?",
+        "timestamp": "0:09:20",
+        "audio": "/audio/07/0.09.20.mp3"
+    },
+    "113": {
+        "speaker": "SASAKO",
+        "character": "はい　お待たせしました",
+        "definition": "Right away. There you go.",
+        "timestamp": "0:09:22",
+        "audio": "/audio/07/0.09.22.mp3"
+    },
+    "114": {
+        "speaker": "GUY",
+        "character": "お水のお代わりください",
+        "definition": "Could I get some more water?",
+        "timestamp": "0:09:24",
+        "audio": "/audio/07/0.09.24.mp3"
+    },
+    "115": {
+        "speaker": "SASAKO",
+        "character": "ただ今！",
+        "definition": "Coming right up!",
+        "timestamp": "0:09:25",
+        "audio": "/audio/07/0.09.25.mp3"
+    },
+    "116": {
+        "speaker": "HANDA",
+        "character": "忙しそうだな",
+        "definition": "It looks really busy.",
+        "timestamp": "0:09:27",
+        "audio": "/audio/07/0.09.27.mp3"
+    },
+    "117": {
+        "speaker": "PANDA",
+        "character": "笹子さん　モテモテだね",
+        "definition": "Miss Sasako... sure is popular.",
+        "timestamp": "0:09:30",
+        "audio": "/audio/07/0.09.30.mp3"
+    },
+    "118": {
+        "speaker": "LLAMA",
+        "character": "あっ！ 半田さんじゃないですか",
+        "definition": "Oh, hey, Mr. Handa.",
+        "timestamp": "0:09:35",
+        "audio": "/audio/07/0.09.35.mp3"
+    },
+    "119": {
+        "speaker": "LLAMA",
+        "character": "すみません お水　お代わり　お願いします",
+        "definition": "Pardon me, could I get some more water?",
+        "timestamp": "0:09:38",
+        "audio": "/audio/07/0.09.38.mp3"
+    },
+    "120": {
+        "speaker": "ANTEATER",
+        "character": "あぁ　半田さん！ 背中　かいてもらえますか？",
+        "definition": "Oh, Mr. Handa! Could you scratch my back?",
+        "timestamp": "0:09:41",
+        "audio": "/audio/07/0.09.41.mp3"
+    },
+    "121": {
+        "speaker": "TORTOISE",
+        "character": "半田さ～ん…",
+        "definition": "Mr. Handa!",
+        "timestamp": "0:09:45",
+        "audio": "/audio/07/0.09.45.mp3"
+    },
+    "122": {
+        "speaker": "TORTOISE",
+        "character": "ここに座らないように言って",
+        "definition": "Could you tell him not to sit on me please?",
+        "timestamp": "0:09:49",
+        "audio": "/audio/07/0.09.49.mp3"
+    },
+    "123": {
+        "speaker": "HANDA",
+        "character": "はい　はい",
+        "definition": "Sure thing. Thank you very much.",
+        "timestamp": "0:09:53",
+        "audio": "/audio/07/0.09.53.mp3"
+    },
+    "124": {
+        "speaker": "HANDA",
+        "character": "いえ　いえ",
+        "definition": "Not a problem.",
+        "timestamp": "0:09:59",
+        "audio": "/audio/07/0.09.59.mp3"
+    },
+    "125": {
+        "speaker": "HANDA",
+        "character": "このへん？",
+        "definition": "Right here?",
+        "timestamp": "0:10:00",
+        "audio": "/audio/07/0.10.00.mp3"
+    },
+    "126": {
+        "speaker": "ANTEATER",
+        "character": "も…　もうちょい　右です",
+        "definition": "A bit to the right. Please sit here.",
+        "timestamp": "0:10:01",
+        "audio": "/audio/07/0.10.01.mp3"
+    },
+    "127": {
+        "speaker": "TORTOISE",
+        "character": "ありがとう",
+        "definition": "Thank you.",
+        "timestamp": "0:10:06",
+        "audio": "/audio/07/0.10.06.mp3"
+    },
+    "128": {
+        "speaker": "PANDA",
+        "character": "半田さんにも　やっと…",
+        "definition": "It's finally arrived for Mr. Handa.",
+        "timestamp": "0:10:08",
+        "audio": "/audio/07/0.10.08.mp3"
+    },
+    "129": {
+        "speaker": "POLAR BEAR",
+        "character": "きたね",
+        "definition": "It sure has.",
+        "timestamp": "0:10:10",
+        "audio": "/audio/07/0.10.10.mp3"
+    },
+    "130": {
+        "speaker": "BEARS",
+        "character": "モテ期",
+        "definition": "His popularity period.",
+        "timestamp": "0:10:12",
+        "audio": "/audio/07/0.10.12.mp3"
+    },
+    "131": {
+        "speaker": "LLAMA",
+        "character": "半田さん お水　もう１杯　もらえますか？",
+        "definition": "Could I get another water, Mr. Handa?",
+        "timestamp": "0:10:14",
+        "audio": "/audio/07/0.10.14.mp3"
+    },
+    "132": {
+        "speaker": "HANDA",
+        "character": "半田さん　こっちもかいて",
+        "definition": "Sure thing!",
+        "timestamp": "0:10:17",
+        "audio": "/audio/07/0.10.17.mp3"
+    },
+    "133": {
+        "speaker": "ANTEATER",
+        "character": "半田さん　こっちもかいて",
+        "definition": "Could you scratch over here, too, Mr. Handa?",
+        "timestamp": "0:10:17",
+        "audio": "/audio/07/0.10.17.mp3"
+    },
+    "134": {
+        "speaker": "HANDA",
+        "character": "かくよ！",
+        "definition": "Sure!",
+        "timestamp": "0:10:20",
+        "audio": "/audio/07/0.10.20.mp3"
+    },
+    "135": {
+        "speaker": "TORTOISE",
+        "character": "半田さ～ん！",
+        "definition": "Mr. Handa!",
+        "timestamp": "0:10:21",
+        "audio": "/audio/07/0.10.21.mp3"
+    },
+    "136": {
+        "speaker": "HANDA",
+        "character": "なんだい？",
+        "definition": "What is it? Look, look!",
+        "timestamp": "0:10:23",
+        "audio": "/audio/07/0.10.23.mp3"
+    },
+    "137": {
+        "speaker": "PENGUIN",
+        "character": "ついに取ったよ！",
+        "definition": "I finally got it!",
+        "timestamp": "0:10:41",
+        "audio": "/audio/07/0.10.41.mp3"
+    },
+    "138": {
+        "speaker": "PENGUIN",
+        "character": "免許！",
+        "definition": "My license!",
+        "timestamp": "0:10:44",
+        "audio": "/audio/07/0.10.44.mp3"
+    },
+    "139": {
+        "speaker": "POLAR BEAR",
+        "character": "よかったね",
+        "definition": "Good for you. Hey! Congratulate me {\\i1}(omedetou){\\i0}!",
+        "timestamp": "0:10:48",
+        "audio": "/audio/07/0.10.48.mp3"
+    },
+    "140": {
+        "speaker": "PENGUIN",
+        "character": "それは　こんぺいとう！",
+        "definition": "That's a small candy {\\i1}(konpeitou){\\i0}!",
+        "timestamp": "0:10:54",
+        "audio": "/audio/07/0.10.54.mp3"
+    },
+    "141": {
+        "speaker": "PENGUIN",
+        "character": "それは　エッフェル塔！",
+        "definition": "That's the Eiffel Tower {\\i1}(efferu tou){\\i0}!",
+        "timestamp": "0:10:57",
+        "audio": "/audio/07/0.10.57.mp3"
+    },
+    "142": {
+        "speaker": "PENGUIN",
+        "character": "それは　合気道！",
+        "definition": "That's Aikido {\\i1}(aikidou){\\i0}!",
+        "timestamp": "0:11:01",
+        "audio": "/audio/07/0.11.01.mp3"
+    },
+    "143": {
+        "speaker": "PENGUIN",
+        "character": "違う！　全然違うよ",
+        "definition": "That's not it! That's not it at all! Congratulations.",
+        "timestamp": "0:11:03",
+        "audio": "/audio/07/0.11.03.mp3"
+    },
+    "144": {
+        "speaker": "PENGUIN",
+        "character": "うん！　ありがとう",
+        "definition": "Thank you!",
+        "timestamp": "0:11:07",
+        "audio": "/audio/07/0.11.07.mp3"
+    },
+    "145": {
+        "speaker": "PANDA",
+        "character": "おめでとう",
+        "definition": "Congratulations.",
+        "timestamp": "0:11:10",
+        "audio": "/audio/07/0.11.10.mp3"
+    },
+    "146": {
+        "speaker": "PENGUIN",
+        "character": "うん！",
+        "definition": "Thanks!",
+        "timestamp": "0:11:11",
+        "audio": "/audio/07/0.11.11.mp3"
+    },
+    "147": {
+        "speaker": "PANDA",
+        "character": "永遠に取れないかと思ったよ",
+        "definition": "I thought you'd never get it. That's not even funny.",
+        "timestamp": "0:11:12",
+        "audio": "/audio/07/0.11.12.mp3"
+    },
+    "148": {
+        "speaker": "PENGUIN",
+        "character": "さぁ　これで　ペン子さんと…",
+        "definition": "Now I can take Miss Penko...",
+        "timestamp": "0:11:17",
+        "audio": "/audio/07/0.11.17.mp3"
+    },
+    "149": {
+        "speaker": "PENGUIN",
+        "character": "海へ　ドライブだよ！",
+        "definition": "for a drive to the ocean!",
+        "timestamp": "0:11:21",
+        "audio": "/audio/07/0.11.21.mp3"
+    },
+    "150": {
+        "speaker": "POLAR BEAR",
+        "character": "いきなりはどうかな？",
+        "definition": "I don't know if it'll be that easy.",
+        "timestamp": "0:11:26",
+        "audio": "/audio/07/0.11.26.mp3"
+    },
+    "151": {
+        "speaker": "PENGUIN",
+        "character": "なんで？",
+        "definition": "Why?",
+        "timestamp": "0:11:29",
+        "audio": "/audio/07/0.11.29.mp3"
+    },
+    "152": {
+        "speaker": "POLAR BEAR",
+        "character": "たとえば…",
+        "definition": "For example...",
+        "timestamp": "0:11:30",
+        "audio": "/audio/07/0.11.30.mp3"
+    },
+    "153": {
+        "speaker": "POLAR BEAR",
+        "character": "道を間違えて　海へ行くはずが 山へ行っちゃったり…",
+        "definition": "You get lost and end up going to the mountains instead of the ocean.",
+        "timestamp": "0:11:32",
+        "audio": "/audio/07/0.11.32.mp3"
+    },
+    "154": {
+        "speaker": "POLAR BEAR",
+        "character": "ギア　壊しちゃったり…",
+        "definition": "You break the gear shift.",
+        "timestamp": "0:11:39",
+        "audio": "/audio/07/0.11.39.mp3"
+    },
+    "155": {
+        "speaker": "POLAR BEAR",
+        "character": "ハンドル　引っこ抜いたり…",
+        "definition": "The steering wheel comes off.",
+        "timestamp": "0:11:46",
+        "audio": "/audio/07/0.11.46.mp3"
+    },
+    "156": {
+        "speaker": "PENGUIN",
+        "character": "いや　そんな失敗しないから",
+        "definition": "No, I won't make any of those mistakes.",
+        "timestamp": "0:11:53",
+        "audio": "/audio/07/0.11.53.mp3"
+    },
+    "157": {
+        "speaker": "POLAR BEAR",
+        "character": "でも　ただのドライブじゃないよね？",
+        "definition": "But you're not just going on a drive, right?",
+        "timestamp": "0:11:56",
+        "audio": "/audio/07/0.11.56.mp3"
+    },
+    "158": {
+        "speaker": "POLAR BEAR",
+        "character": "デートだよ　デート",
+        "definition": "It'll be a date.",
+        "timestamp": "0:12:00",
+        "audio": "/audio/07/0.12.00.mp3"
+    },
+    "159": {
+        "speaker": "POLAR BEAR",
+        "character": "ペン子さんを助手席に乗せて",
+        "definition": "You'll have to make interesting conversation",
+        "timestamp": "0:12:02",
+        "audio": "/audio/07/0.12.02.mp3"
+    },
+    "160": {
+        "speaker": "POLAR BEAR",
+        "character": "洒落た会話をこなしつつ",
+        "definition": "with Miss Penko in the passenger seat while not getting lost. Can you do that? That's quite a mission.",
+        "timestamp": "0:12:04",
+        "audio": "/audio/07/0.12.04.mp3"
+    },
+    "161": {
+        "speaker": "PENGUIN",
+        "character": "わかった！ 明日　予行演習しよう",
+        "definition": "I know! Let's go for a practice run tomorrow!",
+        "timestamp": "0:12:16",
+        "audio": "/audio/07/0.12.16.mp3"
+    },
+    "162": {
+        "speaker": "PANDA",
+        "character": "デートの練習って何するの？",
+        "definition": "What do you do on a practice date?",
+        "timestamp": "0:12:23",
+        "audio": "/audio/07/0.12.23.mp3"
+    },
+    "163": {
+        "speaker": "POLAR BEAR",
+        "character": "それは　いろいろ考えてあるから",
+        "definition": "I've got it all figured out.",
+        "timestamp": "0:12:26",
+        "audio": "/audio/07/0.12.26.mp3"
+    },
+    "164": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギンさん　おはよう",
+        "definition": "Good morning, Mr. Penguin.",
+        "timestamp": "0:12:30",
+        "audio": "/audio/07/0.12.30.mp3"
+    },
+    "165": {
+        "speaker": "POLAR BEAR",
+        "character": "あれ？",
+        "definition": "Huh?",
+        "timestamp": "0:12:32",
+        "audio": "/audio/07/0.12.32.mp3"
+    },
+    "166": {
+        "speaker": "PENGUIN",
+        "character": "ペン子さん…",
+        "definition": "Miss Penko...",
+        "timestamp": "0:12:36",
+        "audio": "/audio/07/0.12.36.mp3"
+    },
+    "167": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん！",
+        "definition": "Mr. Penguin.",
+        "timestamp": "0:12:38",
+        "audio": "/audio/07/0.12.38.mp3"
+    },
+    "168": {
+        "speaker": "PANDA",
+        "character": "なんで　こんなとこで寝てるの？",
+        "definition": "Why are you sleeping here? Well, I got here three hours ago.",
+        "timestamp": "0:12:41",
+        "audio": "/audio/07/0.12.41.mp3"
+    },
+    "169": {
+        "speaker": "POLAR BEAR",
+        "character": "早いのはいいけど 寝るのは最悪だね",
+        "definition": "It's good that you're early, but very bad to be sleeping.",
+        "timestamp": "0:12:49",
+        "audio": "/audio/07/0.12.49.mp3"
+    },
+    "170": {
+        "speaker": "POLAR BEAR",
+        "character": "その１　待ち合わせ　不合格",
+        "definition": "No. 1, Meeting: Failed.",
+        "timestamp": "0:12:53",
+        "audio": "/audio/07/0.12.53.mp3"
+    },
+    "171": {
+        "speaker": "PENGUIN",
+        "character": "何それ？",
+        "definition": "What's that?",
+        "timestamp": "0:12:57",
+        "audio": "/audio/07/0.12.57.mp3"
+    },
+    "172": {
+        "speaker": "POLAR BEAR",
+        "character": "採点表だよ",
+        "definition": "A score card.",
+        "timestamp": "0:12:59",
+        "audio": "/audio/07/0.12.59.mp3"
+    },
+    "173": {
+        "speaker": "POLAR BEAR",
+        "character": "合格しないと デートする免許がもらえないの",
+        "definition": "If you don't pass, you don't get your dating license.",
+        "timestamp": "0:13:01",
+        "audio": "/audio/07/0.13.01.mp3"
+    },
+    "174": {
+        "speaker": "PANDA",
+        "character": "デートにも免許がいるんだ？",
+        "definition": "You need a license for dating, too?",
+        "timestamp": "0:13:05",
+        "audio": "/audio/07/0.13.05.mp3"
+    },
+    "175": {
+        "speaker": "POLAR BEAR",
+        "character": "いるの",
+        "definition": "You do.",
+        "timestamp": "0:13:08",
+        "audio": "/audio/07/0.13.08.mp3"
+    },
+    "176": {
+        "speaker": "PENGUIN",
+        "character": "いや　普通いらないから",
+        "definition": "No, you usually don't.",
+        "timestamp": "0:13:09",
+        "audio": "/audio/07/0.13.09.mp3"
+    },
+    "177": {
+        "speaker": "POLAR BEAR",
+        "character": "ペンギンさん 今日は僕がデートの教官",
+        "definition": "I'll be your dating instructor today, Mr. Penguin.",
+        "timestamp": "0:13:12",
+        "audio": "/audio/07/0.13.12.mp3"
+    },
+    "178": {
+        "speaker": "PENGUIN",
+        "character": "わ…　わかってるよ",
+        "definition": "I-I know that.",
+        "timestamp": "0:13:16",
+        "audio": "/audio/07/0.13.16.mp3"
+    },
+    "179": {
+        "speaker": "POLAR BEAR",
+        "character": "で…　今日の計画は？",
+        "definition": "So, what's your plan for today?",
+        "timestamp": "0:13:18",
+        "audio": "/audio/07/0.13.18.mp3"
+    },
+    "180": {
+        "speaker": "PENGUIN",
+        "character": "海に行きます！",
+        "definition": "We're going to the ocean!",
+        "timestamp": "0:13:21",
+        "audio": "/audio/07/0.13.21.mp3"
+    },
+    "181": {
+        "speaker": "POLAR BEAR",
+        "character": "それだけ？",
+        "definition": "That's it?",
+        "timestamp": "0:13:23",
+        "audio": "/audio/07/0.13.23.mp3"
+    },
+    "182": {
+        "speaker": "POLAR BEAR",
+        "character": "オシャレなレストランで食事したり",
+        "definition": "No dinner at a fancy restaurant,",
+        "timestamp": "0:13:25",
+        "audio": "/audio/07/0.13.25.mp3"
+    },
+    "183": {
+        "speaker": "",
+        "character": "ムード盛り上げる演出はないの？",
+        "definition": "or interesting plans to enhance the mood?",
+        "timestamp": "0:13:28",
+        "audio": "/audio/07/0.13.28.mp3"
+    },
+    "184": {
+        "speaker": "POLAR BEAR",
+        "character": "考えてなかったでしょ？",
+        "definition": "You didn't think about that, did you? No. 2, Arrangements: Failed.",
+        "timestamp": "0:13:33",
+        "audio": "/audio/07/0.13.33.mp3"
+    },
+    "185": {
+        "speaker": "PANDA",
+        "character": "合格までの道のりは 厳しそうだね",
+        "definition": "It looks like the path to passing is very hard.",
+        "timestamp": "0:13:41",
+        "audio": "/audio/07/0.13.41.mp3"
+    },
+    "186": {
+        "speaker": "PENGUIN",
+        "character": "あとはどんなチェック項目があるの？",
+        "definition": "What else is on that check list? No. 3, Fun Conversation.",
+        "timestamp": "0:13:44",
+        "audio": "/audio/07/0.13.44.mp3"
+    },
+    "187": {
+        "speaker": "",
+        "character": "４　おいしい食事",
+        "definition": "No. 4, Delicious Meal. No. 5, Romantic Mood. If you pass all of those, you'll receive a temporary license.",
+        "timestamp": "0:13:50",
+        "audio": "/audio/07/0.13.50.mp3"
+    },
+    "188": {
+        "speaker": "POLAR BEAR",
+        "character": "で　ラブラブでドライブした最後に 愛の告白",
+        "definition": "And after your love love drive, you confess your love.",
+        "timestamp": "0:13:58",
+        "audio": "/audio/07/0.13.58.mp3"
+    },
+    "189": {
+        "speaker": "POLAR BEAR",
+        "character": "そうすれば ラブラブ免許を獲得できるよ",
+        "definition": "If you can do that, you'll receive a love love license.",
+        "timestamp": "0:14:03",
+        "audio": "/audio/07/0.14.03.mp3"
+    },
+    "190": {
+        "speaker": "PENGUIN",
+        "character": "えっ　ラブラブ免許？",
+        "definition": "Love love license?",
+        "timestamp": "0:14:07",
+        "audio": "/audio/07/0.14.07.mp3"
+    },
+    "191": {
+        "speaker": "PANDA",
+        "character": "すでに２つ不合格だね",
+        "definition": "You've already failed two, though.",
+        "timestamp": "0:14:16",
+        "audio": "/audio/07/0.14.16.mp3"
+    },
+    "192": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ　やり直してみよう",
+        "definition": "Well then, let's start over.",
+        "timestamp": "0:14:21",
+        "audio": "/audio/07/0.14.21.mp3"
+    },
+    "193": {
+        "speaker": "PENGUIN",
+        "character": "はい",
+        "definition": "Okay.",
+        "timestamp": "0:14:23",
+        "audio": "/audio/07/0.14.23.mp3"
+    },
+    "194": {
+        "speaker": "POLAR BEAR",
+        "character": "おはよう　待った？",
+        "definition": "Good morning. Were you waiting long?",
+        "timestamp": "0:14:25",
+        "audio": "/audio/07/0.14.25.mp3"
+    },
+    "195": {
+        "speaker": "PENGUIN",
+        "character": "おはよう",
+        "definition": "Good morning.",
+        "timestamp": "0:14:28",
+        "audio": "/audio/07/0.14.28.mp3"
+    },
+    "196": {
+        "speaker": "PENGUIN",
+        "character": "僕も　今　来たところだよ",
+        "definition": "I just got here, too.",
+        "timestamp": "0:14:30",
+        "audio": "/audio/07/0.14.30.mp3"
+    },
+    "197": {
+        "speaker": "POLAR BEAR",
+        "character": "いいね　合格",
+        "definition": "Very nice. You passed. So what are we doing? First we'll go to a delicious restaurant, then to the ocean,",
+        "timestamp": "0:14:33",
+        "audio": "/audio/07/0.14.33.mp3"
+    },
+    "198": {
+        "speaker": "PENGUIN",
+        "character": "ムードを盛り上げて 告白します　教官",
+        "definition": "then I'll enhance the mood, and then I'll confess my love, Instructor! A bit awkward, but I guess you pass.",
+        "timestamp": "0:14:42",
+        "audio": "/audio/07/0.14.42.mp3"
+    },
+    "199": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ　いこうか",
+        "definition": "Let's go, then. I feel tired.",
+        "timestamp": "0:14:48",
+        "audio": "/audio/07/0.14.48.mp3"
+    },
+    "200": {
+        "speaker": "PENGUIN",
+        "character": "シロクマくん　運転して",
+        "definition": "Can you drive, Polar Bear?",
+        "timestamp": "0:14:53",
+        "audio": "/audio/07/0.14.53.mp3"
+    },
+    "201": {
+        "speaker": "POLAR BEAR",
+        "character": "ダメでしょ　それ",
+        "definition": "That's a no.",
+        "timestamp": "0:14:55",
+        "audio": "/audio/07/0.14.55.mp3"
+    },
+    "202": {
+        "speaker": "PANDA",
+        "character": "あ　おやつ忘れた",
+        "definition": "Oh, I forgot my snacks.",
+        "timestamp": "0:15:09",
+        "audio": "/audio/07/0.15.09.mp3"
+    },
+    "203": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん持ってない？",
+        "definition": "Do you have any, Mr. Penguin?",
+        "timestamp": "0:15:12",
+        "audio": "/audio/07/0.15.12.mp3"
+    },
+    "204": {
+        "speaker": "PENGUIN",
+        "character": "気が散るから　話かけないで",
+        "definition": "Don't talk to me. It's distracting.",
+        "timestamp": "0:15:15",
+        "audio": "/audio/07/0.15.15.mp3"
+    },
+    "205": {
+        "speaker": "PANDA",
+        "character": "そういえばさぁ　この間ね…",
+        "definition": "Oh yeah, the other day... I just told you not to talk to me.",
+        "timestamp": "0:15:21",
+        "audio": "/audio/07/0.15.21.mp3"
+    },
+    "206": {
+        "speaker": "POLAR BEAR",
+        "character": "３　楽しい会話　不合格",
+        "definition": "No. 3, Fun Conversation: Failed.",
+        "timestamp": "0:15:26",
+        "audio": "/audio/07/0.15.26.mp3"
+    },
+    "207": {
+        "speaker": "POLAR BEAR",
+        "character": "もっと盛り上げないと",
+        "definition": "You have to enhance the mood more.",
+        "timestamp": "0:15:31",
+        "audio": "/audio/07/0.15.31.mp3"
+    },
+    "208": {
+        "speaker": "PENGUIN",
+        "character": "だって　男３人でドライブじゃ 盛り上がらないよ",
+        "definition": "But it's hard to enhance the mood when it's three guys.",
+        "timestamp": "0:15:33",
+        "audio": "/audio/07/0.15.33.mp3"
+    },
+    "209": {
+        "speaker": "POLAR BEAR",
+        "character": "予行演習したいって言ったの ペンギンさんでしょ",
+        "definition": "You're the one that said you wanted to do a practice run.",
+        "timestamp": "0:15:39",
+        "audio": "/audio/07/0.15.39.mp3"
+    },
+    "210": {
+        "speaker": "PENGUIN",
+        "character": "そうだけどさ",
+        "definition": "I know, but...",
+        "timestamp": "0:15:43",
+        "audio": "/audio/07/0.15.43.mp3"
+    },
+    "211": {
+        "speaker": "POLAR BEAR",
+        "character": "仕方ないな",
+        "definition": "Looks like you've left me no choice.",
+        "timestamp": "0:15:45",
+        "audio": "/audio/07/0.15.45.mp3"
+    },
+    "212": {
+        "speaker": "POLAR BEAR",
+        "character": "うわ～　ステキな景色ね",
+        "definition": "Wow, what beautiful scenery.",
+        "timestamp": "0:15:53",
+        "audio": "/audio/07/0.15.53.mp3"
+    },
+    "213": {
+        "speaker": "PENGUIN",
+        "character": "何やってるの？",
+        "definition": "What are you doing?",
+        "timestamp": "0:15:57",
+        "audio": "/audio/07/0.15.57.mp3"
+    },
+    "214": {
+        "speaker": "POLAR BEAR",
+        "character": "僕がペン子さんのふりしてあげるから",
+        "definition": "I'll pretend to be Miss Penko. So you're a girl from now on, Polar Bear?",
+        "timestamp": "0:15:58",
+        "audio": "/audio/07/0.15.58.mp3"
+    },
+    "215": {
+        "speaker": "POLAR BEAR",
+        "character": "私　日焼け止め持ってくるの忘れちゃった",
+        "definition": "I forgot my sunblock.",
+        "timestamp": "0:16:06",
+        "audio": "/audio/07/0.16.06.mp3"
+    },
+    "216": {
+        "speaker": "POLAR BEAR",
+        "character": "ちょっと　それじゃダメ",
+        "definition": "Hey, that's not going to work. What should I say?",
+        "timestamp": "0:16:14",
+        "audio": "/audio/07/0.16.14.mp3"
+    },
+    "217": {
+        "speaker": "POLAR BEAR",
+        "character": "とにかく褒めて　私を褒めて",
+        "definition": "First you need to compliment me. Just compliment me.",
+        "timestamp": "0:16:20",
+        "audio": "/audio/07/0.16.20.mp3"
+    },
+    "218": {
+        "speaker": "PENGUIN",
+        "character": "う　うん",
+        "definition": "O-Okay.",
+        "timestamp": "0:16:23",
+        "audio": "/audio/07/0.16.23.mp3"
+    },
+    "219": {
+        "speaker": "PENGUIN",
+        "character": "シ　シロクマちゃんて 色白できれいだね",
+        "definition": "Y-You're so fair-skinned and pretty, Miss Polar Bear.",
+        "timestamp": "0:16:25",
+        "audio": "/audio/07/0.16.25.mp3"
+    },
+    "220": {
+        "speaker": "POLAR BEAR",
+        "character": "やだ　ペンギンさんたら",
+        "definition": "Oh, stop, Mr. Penguin.",
+        "timestamp": "0:16:29",
+        "audio": "/audio/07/0.16.29.mp3"
+    },
+    "221": {
+        "speaker": "POLAR BEAR",
+        "character": "あら　ごめんなさい",
+        "definition": "Oh, I'm sorry.",
+        "timestamp": "0:16:35",
+        "audio": "/audio/07/0.16.35.mp3"
+    },
+    "222": {
+        "speaker": "POLAR BEAR",
+        "character": "私　最近　太っちゃって",
+        "definition": "I seem to have gained a little bit of weight lately.",
+        "timestamp": "0:16:41",
+        "audio": "/audio/07/0.16.41.mp3"
+    },
+    "223": {
+        "speaker": "PENGUIN",
+        "character": "へぇ～",
+        "definition": "I see.",
+        "timestamp": "0:16:45",
+        "audio": "/audio/07/0.16.45.mp3"
+    },
+    "224": {
+        "speaker": "POLAR BEAR",
+        "character": "へぇ～？",
+        "definition": "You see?",
+        "timestamp": "0:16:47",
+        "audio": "/audio/07/0.16.47.mp3"
+    },
+    "225": {
+        "speaker": "PENGUIN",
+        "character": "シ　シロクマちゃんみたいにポッチャリしてる 女の子のほうが　かわいいよ",
+        "definition": "Chubby girls like you are much cuter, Miss Polar Bear. Really?! Miss Polar Bear, your nails! Your nails!",
+        "timestamp": "0:16:52",
+        "audio": "/audio/07/0.16.52.mp3"
+    },
+    "226": {
+        "speaker": "POLAR BEAR",
+        "character": "あら　ごめんなさい",
+        "definition": "Oh dear. I'm sorry, did my nails hurt?",
+        "timestamp": "0:17:04",
+        "audio": "/audio/07/0.17.04.mp3"
+    },
+    "227": {
+        "speaker": "PENGUIN",
+        "character": "痛いよ！",
+        "definition": "Of course it hurt!",
+        "timestamp": "0:17:10",
+        "audio": "/audio/07/0.17.10.mp3"
+    },
+    "228": {
+        "speaker": "PENGUIN",
+        "character": "シロクマちゃんの爪　頑丈でステキ",
+        "definition": "Your nails are so sturdy, they're truly fantastic.",
+        "timestamp": "0:17:14",
+        "audio": "/audio/07/0.17.14.mp3"
+    },
+    "229": {
+        "speaker": "POLAR BEAR",
+        "character": "ホント？",
+        "definition": "Really?",
+        "timestamp": "0:17:19",
+        "audio": "/audio/07/0.17.19.mp3"
+    },
+    "230": {
+        "speaker": "PENGUIN",
+        "character": "ホント　ホント",
+        "definition": "Really. Really.",
+        "timestamp": "0:17:20",
+        "audio": "/audio/07/0.17.20.mp3"
+    },
+    "231": {
+        "speaker": "POLAR BEAR",
+        "character": "３　楽しい会話　合格",
+        "definition": "No. 3, Fun Conversation: Passed.",
+        "timestamp": "0:17:22",
+        "audio": "/audio/07/0.17.22.mp3"
+    },
+    "232": {
+        "speaker": "PANDA",
+        "character": "よかったね　ペンギンさん",
+        "definition": "Good for you, Mr. Penguin.",
+        "timestamp": "0:17:26",
+        "audio": "/audio/07/0.17.26.mp3"
+    },
+    "233": {
+        "speaker": "POLAR BEAR",
+        "character": "お昼は　どうする？",
+        "definition": "What should we do for lunch?",
+        "timestamp": "0:17:30",
+        "audio": "/audio/07/0.17.30.mp3"
+    },
+    "234": {
+        "speaker": "PANDA",
+        "character": "笹食べたい！",
+        "definition": "I want bamboo grass! Somewhere that Miss Penko would like.",
+        "timestamp": "0:17:32",
+        "audio": "/audio/07/0.17.32.mp3"
+    },
+    "235": {
+        "speaker": "PANDA",
+        "character": "笹がない",
+        "definition": "There's no bamboo grass.",
+        "timestamp": "0:17:44",
+        "audio": "/audio/07/0.17.44.mp3"
+    },
+    "236": {
+        "speaker": "POLAR BEAR",
+        "character": "全然　レストランじゃないわね",
+        "definition": "This isn't much of a restaurant.",
+        "timestamp": "0:17:46",
+        "audio": "/audio/07/0.17.46.mp3"
+    },
+    "237": {
+        "speaker": "PENGUIN",
+        "character": "本番ではステキなシーフードレストランに行くから",
+        "definition": "When it's the real thing, we'll be going to a fancy seafood restaurant!",
+        "timestamp": "0:17:50",
+        "audio": "/audio/07/0.17.50.mp3"
+    },
+    "238": {
+        "speaker": "POLAR BEAR",
+        "character": "すみません　サーモンください",
+        "definition": "Excuse me. I'd like some salmon.",
+        "timestamp": "0:17:54",
+        "audio": "/audio/07/0.17.54.mp3"
+    },
+    "239": {
+        "speaker": "GUY",
+        "character": "売り切れです",
+        "definition": "Sorry, we're out.",
+        "timestamp": "0:17:58",
+        "audio": "/audio/07/0.17.58.mp3"
+    },
+    "240": {
+        "speaker": "PENGUIN",
+        "character": "シロクマくんが　食べきっちゃったよ　ここのサーモン",
+        "definition": "You ate all of the salmon in the place, Polar Bear.",
+        "timestamp": "0:18:02",
+        "audio": "/audio/07/0.18.02.mp3"
+    },
+    "241": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ　いきましょうか",
+        "definition": "Well then, let's go.",
+        "timestamp": "0:18:06",
+        "audio": "/audio/07/0.18.06.mp3"
+    },
+    "242": {
+        "speaker": "POLAR BEAR",
+        "character": "もちろん　ペンギンさんのおごりね",
+        "definition": "Of course, you're paying, Mr. Penguin.",
+        "timestamp": "0:18:09",
+        "audio": "/audio/07/0.18.09.mp3"
+    },
+    "243": {
+        "speaker": "POLAR BEAR",
+        "character": "えっ？",
+        "definition": "What?",
+        "timestamp": "0:18:12",
+        "audio": "/audio/07/0.18.12.mp3"
+    },
+    "244": {
+        "speaker": "",
+        "character": "えっ？",
+        "definition": "You were going to make a girl pay on the date?",
+        "timestamp": "0:18:12",
+        "audio": "/audio/07/0.18.12.mp3"
+    },
+    "245": {
+        "speaker": "POLAR BEAR",
+        "character": "信じらんな～い",
+        "definition": "That's unbelievable.",
+        "timestamp": "0:18:18",
+        "audio": "/audio/07/0.18.18.mp3"
+    },
+    "246": {
+        "speaker": "PENGUIN",
+        "character": "わかったよ…",
+        "definition": "All right, fine.",
+        "timestamp": "0:18:20",
+        "audio": "/audio/07/0.18.20.mp3"
+    },
+    "247": {
+        "speaker": "PENGUIN",
+        "character": "４　おいしい食事も合格だね",
+        "definition": "No. 4, Delicious Meal: I passed that, right? Conveyor belt sushi feels strange for a date.",
+        "timestamp": "0:18:22",
+        "audio": "/audio/07/0.18.22.mp3"
+    },
+    "248": {
+        "speaker": "PENGUIN",
+        "character": "あれだけ食べといて！？",
+        "definition": "After you ate all that?!",
+        "timestamp": "0:18:30",
+        "audio": "/audio/07/0.18.30.mp3"
+    },
+    "249": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃ　合格でいいよ　合格で…",
+        "definition": "All right, we'll say you passed.",
+        "timestamp": "0:18:33",
+        "audio": "/audio/07/0.18.33.mp3"
+    },
+    "250": {
+        "speaker": "POLAR BEAR",
+        "character": "会話…　ないんだけど",
+        "definition": "There's no... conversation.",
+        "timestamp": "0:18:42",
+        "audio": "/audio/07/0.18.42.mp3"
+    },
+    "251": {
+        "speaker": "PENGUIN",
+        "character": "そこは　もう合格したから",
+        "definition": "I already passed that section.",
+        "timestamp": "0:18:45",
+        "audio": "/audio/07/0.18.45.mp3"
+    },
+    "252": {
+        "speaker": "POLAR BEAR",
+        "character": "ここからが本番だよ",
+        "definition": "This is where it's important.",
+        "timestamp": "0:18:48",
+        "audio": "/audio/07/0.18.48.mp3"
+    },
+    "253": {
+        "speaker": "POLAR BEAR",
+        "character": "ムード　盛り上げないと",
+        "definition": "You have to enhance the mood.",
+        "timestamp": "0:18:51",
+        "audio": "/audio/07/0.18.51.mp3"
+    },
+    "254": {
+        "speaker": "PENGUIN",
+        "character": "どうやって？",
+        "definition": "How?",
+        "timestamp": "0:18:53",
+        "audio": "/audio/07/0.18.53.mp3"
+    },
+    "255": {
+        "speaker": "POLAR BEAR",
+        "character": "会話が途切れたら　ＢＧМとか",
+        "definition": "When the conversation is paused, you need something like background music.",
+        "timestamp": "0:18:54",
+        "audio": "/audio/07/0.18.54.mp3"
+    },
+    "256": {
+        "speaker": "PENGUIN",
+        "character": "ＣＤ　持ってきてないよ",
+        "definition": "I didn't bring any CDs.",
+        "timestamp": "0:18:58",
+        "audio": "/audio/07/0.18.58.mp3"
+    },
+    "257": {
+        "speaker": "PANDA",
+        "character": "じゃあ　僕　歌うよ",
+        "definition": "Then I'll sing.",
+        "timestamp": "0:19:00",
+        "audio": "/audio/07/0.19.00.mp3"
+    },
+    "258": {
+        "speaker": "PANDA",
+        "character": "「ねむれ　ねむれ」",
+        "definition": "Sleep, sleep, in your mother's embrace.",
+        "timestamp": "0:19:02",
+        "audio": "/audio/07/0.19.02.mp3"
+    },
+    "259": {
+        "speaker": "PANDA",
+        "character": "「ねむれ　ねむれ」",
+        "definition": "Sleep, slee—",
+        "timestamp": "0:19:11",
+        "audio": "/audio/07/0.19.11.mp3"
+    },
+    "260": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん！　眠っちゃ　ダメ！！",
+        "definition": "You're not supposed to fall asleep, Mr. Penguin!",
+        "timestamp": "0:19:16",
+        "audio": "/audio/07/0.19.16.mp3"
+    },
+    "261": {
+        "speaker": "PENGUIN",
+        "character": "なんで　子守唄　歌うの！？",
+        "definition": "Why would you sing a lullaby?!",
+        "timestamp": "0:19:21",
+        "audio": "/audio/07/0.19.21.mp3"
+    },
+    "262": {
+        "speaker": "POLAR BEAR",
+        "character": "これじゃ　合格点　あげられないね",
+        "definition": "I can't give you a passing grade at this rate.",
+        "timestamp": "0:19:23",
+        "audio": "/audio/07/0.19.23.mp3"
+    },
+    "263": {
+        "speaker": "PANDA",
+        "character": "じゃあ　不合格？",
+        "definition": "So he fails?",
+        "timestamp": "0:19:28",
+        "audio": "/audio/07/0.19.28.mp3"
+    },
+    "264": {
+        "speaker": "PENGUIN",
+        "character": "海　見たら　絶対　盛り上がるから！",
+        "definition": "The ocean will enhance the mood! Especially for penguins!",
+        "timestamp": "0:19:30",
+        "audio": "/audio/07/0.19.30.mp3"
+    },
+    "265": {
+        "speaker": "PANDA",
+        "character": "海だ",
+        "definition": "It's the ocean!",
+        "timestamp": "0:19:37",
+        "audio": "/audio/07/0.19.37.mp3"
+    },
+    "266": {
+        "speaker": "PANDA",
+        "character": "遠いけどね",
+        "definition": "It's a bit far, though.",
+        "timestamp": "0:19:41",
+        "audio": "/audio/07/0.19.41.mp3"
+    },
+    "267": {
+        "speaker": "PENGUIN",
+        "character": "道　間違えた…",
+        "definition": "I went the wrong way.",
+        "timestamp": "0:19:43",
+        "audio": "/audio/07/0.19.43.mp3"
+    },
+    "268": {
+        "speaker": "PANDA",
+        "character": "あっ…　ペンギンさん",
+        "definition": "Hey, Mr. Penguin.",
+        "timestamp": "0:19:47",
+        "audio": "/audio/07/0.19.47.mp3"
+    },
+    "269": {
+        "speaker": "PANDA",
+        "character": "１００円　１００円",
+        "definition": "One hundred yen! One hundred yen!",
+        "timestamp": "0:19:50",
+        "audio": "/audio/07/0.19.50.mp3"
+    },
+    "270": {
+        "speaker": "PENGUIN",
+        "character": "もう見なくていいから…",
+        "definition": "You don't need to look at it anymore.",
+        "timestamp": "0:19:52",
+        "audio": "/audio/07/0.19.52.mp3"
+    },
+    "271": {
+        "speaker": "POLAR BEAR",
+        "character": "もう… 道　間違えるなんて　最低",
+        "definition": "Seriously. How could you have gone the wrong way?",
+        "timestamp": "0:19:55",
+        "audio": "/audio/07/0.19.55.mp3"
+    },
+    "272": {
+        "speaker": "PANDA",
+        "character": "ペン子さん　怒って帰っちゃうよ？",
+        "definition": "Miss Penko will get mad and go home.",
+        "timestamp": "0:19:59",
+        "audio": "/audio/07/0.19.59.mp3"
+    },
+    "273": {
+        "speaker": "PENGUIN",
+        "character": "大丈夫…　これは　予行演習",
+        "definition": "It'll be okay, this is just a practice run.",
+        "timestamp": "0:20:03",
+        "audio": "/audio/07/0.20.03.mp3"
+    },
+    "274": {
+        "speaker": "PENGUIN",
+        "character": "今から行くと　ちょうど 海に夕日が沈む頃だから…",
+        "definition": "If we go now, the sun will be setting across the ocean.",
+        "timestamp": "0:20:06",
+        "audio": "/audio/07/0.20.06.mp3"
+    },
+    "275": {
+        "speaker": "PENGUIN",
+        "character": "絶対　ロマンチックだよ！！",
+        "definition": "It'll be romantic, no matter what! It's the ocean! But... We missed the sunset.",
+        "timestamp": "0:20:10",
+        "audio": "/audio/07/0.20.10.mp3"
+    },
+    "276": {
+        "speaker": "POLAR BEAR",
+        "character": "５　ロマンチックなムードは　不合格と…",
+        "definition": "No. 5, Romantic Mood: Failed.",
+        "timestamp": "0:20:26",
+        "audio": "/audio/07/0.20.26.mp3"
+    },
+    "277": {
+        "speaker": "PENGUIN",
+        "character": "や…　夜景も　きれいじゃない？",
+        "definition": "I-Isn't the night scenery pretty, too?",
+        "timestamp": "0:20:30",
+        "audio": "/audio/07/0.20.30.mp3"
+    },
+    "278": {
+        "speaker": "PENGUIN",
+        "character": "ほらほら　ムードが盛り上がってるよ！",
+        "definition": "See? The mood is getting better!",
+        "timestamp": "0:20:34",
+        "audio": "/audio/07/0.20.34.mp3"
+    },
+    "279": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ　いってみる？　告白",
+        "definition": "Then do you want to move on to the confession?",
+        "timestamp": "0:20:38",
+        "audio": "/audio/07/0.20.38.mp3"
+    },
+    "280": {
+        "speaker": "PANDA",
+        "character": "いってみようよ",
+        "definition": "Go for it.",
+        "timestamp": "0:20:44",
+        "audio": "/audio/07/0.20.44.mp3"
+    },
+    "281": {
+        "speaker": "POLAR BEAR",
+        "character": "さあ　ペンギンさん",
+        "definition": "Now, Mr. Penguin.",
+        "timestamp": "0:20:47",
+        "audio": "/audio/07/0.20.47.mp3"
+    },
+    "282": {
+        "speaker": "POLAR BEAR",
+        "character": "私への思いのたけを　熱く語って",
+        "definition": "Tell me how you really feel about me, passionately.",
+        "timestamp": "0:20:50",
+        "audio": "/audio/07/0.20.50.mp3"
+    },
+    "283": {
+        "speaker": "PENGUIN",
+        "character": "ペ…　ペン子さん…",
+        "definition": "M-Miss Penko...",
+        "timestamp": "0:20:54",
+        "audio": "/audio/07/0.20.54.mp3"
+    },
+    "284": {
+        "speaker": "PENGUIN",
+        "character": "ずっと…　好きでした",
+        "definition": "I've always loved you.",
+        "timestamp": "0:20:58",
+        "audio": "/audio/07/0.20.58.mp3"
+    },
+    "285": {
+        "speaker": "PENGUIN",
+        "character": "僕と…",
+        "definition": "Would you...",
+        "timestamp": "0:21:00",
+        "audio": "/audio/07/0.21.00.mp3"
+    },
+    "286": {
+        "speaker": "PENGUIN",
+        "character": "僕と…",
+        "definition": "Would you... go out with me?",
+        "timestamp": "0:21:02",
+        "audio": "/audio/07/0.21.02.mp3"
+    },
+    "287": {
+        "speaker": "POLAR BEAR",
+        "character": "はい",
+        "definition": "Yes.",
+        "timestamp": "0:21:11",
+        "audio": "/audio/07/0.21.11.mp3"
+    },
+    "288": {
+        "speaker": "PENGUIN",
+        "character": "痛い！！",
+        "definition": "Ow!",
+        "timestamp": "0:21:19",
+        "audio": "/audio/07/0.21.19.mp3"
+    },
+    "289": {
+        "speaker": "PANDA",
+        "character": "やったね！",
+        "definition": "You did it!",
+        "timestamp": "0:21:21",
+        "audio": "/audio/07/0.21.21.mp3"
+    },
+    "290": {
+        "speaker": "PENGUIN",
+        "character": "いや…　練習とわかっていても ドキドキするよね",
+        "definition": "Even though it's practice, that was nerve-wracking.",
+        "timestamp": "0:21:22",
+        "audio": "/audio/07/0.21.22.mp3"
+    },
+    "291": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ… まあ　合格ってことで",
+        "definition": "Well, let's say you passed.",
+        "timestamp": "0:21:26",
+        "audio": "/audio/07/0.21.26.mp3"
+    },
+    "292": {
+        "speaker": "POLAR BEAR",
+        "character": "はい　ラブラブ免許",
+        "definition": "Here, your love love license. Yay!",
+        "timestamp": "0:21:31",
+        "audio": "/audio/07/0.21.31.mp3"
+    },
+    "293": {
+        "speaker": "PANDA",
+        "character": "よかったね",
+        "definition": "Congratulations! Oh, Mr. Penguin.",
+        "timestamp": "0:21:35",
+        "audio": "/audio/07/0.21.35.mp3"
+    },
+    "294": {
+        "speaker": "PANDA",
+        "character": "デート　どうだった？",
+        "definition": "How was your date?",
+        "timestamp": "0:22:02",
+        "audio": "/audio/07/0.22.02.mp3"
+    },
+    "295": {
+        "speaker": "PENGUIN",
+        "character": "はい　食べて",
+        "definition": "Here you go. Enjoy.",
+        "timestamp": "0:22:04",
+        "audio": "/audio/07/0.22.04.mp3"
+    },
+    "296": {
+        "speaker": "SASAKO",
+        "character": "ありがとうございます",
+        "definition": "Thank you very much.",
+        "timestamp": "0:22:06",
+        "audio": "/audio/07/0.22.06.mp3"
+    },
+    "297": {
+        "speaker": "POLAR BEAR",
+        "character": "それで　デートは？",
+        "definition": "So, how was your date?",
+        "timestamp": "0:22:08",
+        "audio": "/audio/07/0.22.08.mp3"
+    },
+    "298": {
+        "speaker": "PENGUIN",
+        "character": "行ってないよ",
+        "definition": "We didn't go.",
+        "timestamp": "0:22:10",
+        "audio": "/audio/07/0.22.10.mp3"
+    },
+    "299": {
+        "speaker": "PENGUIN",
+        "character": "いや　ほら…　まだ夏じゃないし 海へドライブには早いよ",
+        "definition": "Well, it's not summer yet. It's not the right season for a drive to the ocean.",
+        "timestamp": "0:22:13",
+        "audio": "/audio/07/0.22.13.mp3"
+    },
+    "300": {
+        "speaker": "POLAR BEAR",
+        "character": "ダメじゃん…",
+        "definition": "That's no good.",
+        "timestamp": "0:22:22",
+        "audio": "/audio/07/0.22.22.mp3"
+    },
+    "301": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん　ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:23:58",
+        "audio": "/audio/07/0.23.58.mp3"
+    },
+    "302": {
+        "speaker": "PENGUIN",
+        "character": "何？　パンダ君",
+        "definition": "What, Panda?",
+        "timestamp": "0:24:00",
+        "audio": "/audio/07/0.24.00.mp3"
+    },
+    "303": {
+        "speaker": "PANDA",
+        "character": "どうしたら　黙っていてもアイドルたちから告白されるかな",
+        "definition": "How can I get idols to confess their love  without me having to work?",
+        "timestamp": "0:24:02",
+        "audio": "/audio/07/0.24.02.mp3"
+    },
+    "304": {
+        "speaker": "PENGUIN",
+        "character": "図々しいなぁ",
+        "definition": "Well, that's really impudent. Let's finish it, Polar Bear.",
+        "timestamp": "0:24:08",
+        "audio": "/audio/07/0.24.08.mp3"
+    },
+    "305": {
+        "speaker": "POLAR BEAR",
+        "character": "次回　しろくまカフェ",
+        "definition": "Next time on Polar Bear's Café...",
+        "timestamp": "0:24:12",
+        "audio": "/audio/07/0.24.12.mp3"
+    },
+    "306": {
+        "speaker": "POLAR BEAR",
+        "character": "ＶＳ　カンブリヤ宮殿",
+        "definition": "versus Cambrian Palace....",
+        "timestamp": "0:24:16",
+        "audio": "/audio/07/0.24.16.mp3"
+    },
+    "307": {
+        "speaker": "PENGUIN",
+        "character": "しろくまカフェだけでいいでしょう",
+        "definition": "How about just Polar Bear's Café?",
+        "timestamp": "0:24:18",
+        "audio": "/audio/07/0.24.18.mp3"
+    },
+    "308": {
+        "speaker": "SASAKO",
+        "character": "お楽しみに",
+        "definition": "Enjoy!",
+        "timestamp": "0:24:20",
+        "audio": "/audio/07/0.24.20.mp3"
+    }
+}

@@ -1,0 +1,1467 @@
+{
+    "1": {
+        "speaker": "HANDA",
+        "japanese": "{\\an8}シロクマくん 今日はわざわざ 出てきてくれて ありがとう",
+        "english": "Polar Bear. Thanks for meeting with me today."
+    },
+    "2": {
+        "speaker": "POLAR BEAR",
+        "japanese": "{\\an8}雨で お店暇だから 平気",
+        "english": "The café is slow today due to the rain, so it's no problem."
+    },
+    "3": {
+        "speaker": "HANDA",
+        "japanese": "話っていうのは…",
+        "english": "I wanted to discuss—"
+    },
+    "4": {
+        "speaker": "LESSER",
+        "japanese": "こんにちは シロクマさん 半田さん",
+        "english": "Hello, Mr. Polar Bear, Mr. Handa."
+    },
+    "5": {
+        "speaker": "LESSER",
+        "japanese": "ご注文が決まりましたら お呼びください",
+        "english": "Let me know whenever you're ready to order."
+    },
+    "6": {
+        "speaker": "HANDA",
+        "japanese": "それでさ あの… 話っていうのは…",
+        "english": "And so, I wanted to discuss..."
+    },
+    "7": {
+        "speaker": "PANDA",
+        "japanese": "笹子さん 何作ってるの？",
+        "english": "What are you making, Miss Sasako? It's a prototype for a new cake."
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "japanese": "ロールケーキ？",
+        "english": "A roll cake? It's no ordinary roll cake."
+    },
+    "9": {
+        "speaker": "SASAKO",
+        "japanese": "パンダロールケーキで～す！",
+        "english": "It's a panda roll cake! Panda-shaped foods are so enticing."
+    },
+    "10": {
+        "speaker": "PANDA",
+        "japanese": "そうでなくてもかわいいのに",
+        "english": "They're cute to begin with,"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "japanese": "お口の中まで かわいくなっちゃって",
+        "english": "but then the inside of your mouth becomes cute, too. What am I to do?"
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "japanese": "そりゃ大変だ",
+        "english": "Wow. That's rough."
+    },
+    "13": {
+        "speaker": "SASAKO",
+        "japanese": "冷蔵庫で少し冷やすから",
+        "english": "I'm going to let it cool in the fridge,"
+    },
+    "14": {
+        "speaker": "SASAKO",
+        "japanese": "あとで試食しましょ",
+        "english": "but let's try it later."
+    },
+    "15": {
+        "speaker": "PANDA",
+        "japanese": "うん 楽しみ！",
+        "english": "Yay! I'm excited."
+    },
+    "16": {
+        "speaker": "PENGUIN",
+        "japanese": "ああ 笹子さん カフェモカ おかわりね",
+        "english": "Oh, could I get another café mocha, Miss Sasako?"
+    },
+    "17": {
+        "speaker": "SASAKO",
+        "japanese": "は～い",
+        "english": "Sure."
+    },
+    "18": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん",
+        "english": "Mr. Penguin."
+    },
+    "19": {
+        "speaker": "PENGUIN",
+        "japanese": "どうしたの？",
+        "english": "What's up?"
+    },
+    "20": {
+        "speaker": "PANDA",
+        "japanese": "今日は 雨で お客さん少ないし",
+        "english": "There aren't many customers today because of the rain."
+    },
+    "21": {
+        "speaker": "PANDA",
+        "japanese": "半田さん 今日来れば笹子さんと いっぱい話せるのにね",
+        "english": "Mr. Handa could have talked to Miss Sasako a lot if he were here."
+    },
+    "22": {
+        "speaker": "PENGUIN",
+        "japanese": "ホントだ",
+        "english": "Good point."
+    },
+    "23": {
+        "speaker": "PENGUIN",
+        "japanese": "相変わらず間が悪いね",
+        "english": "He has terrible luck, as usual."
+    },
+    "24": {
+        "speaker": "PANDA",
+        "japanese": "動物園はお休みのはずなのに",
+        "english": "The zoo is closed today,"
+    },
+    "25": {
+        "speaker": "",
+        "japanese": "なんで半田さん来ないの？",
+        "english": "so I wonder why he isn't here."
+    },
+    "26": {
+        "speaker": "PENGUIN",
+        "japanese": "さぁー",
+        "english": "Who knows?"
+    },
+    "27": {
+        "speaker": "PANDA",
+        "japanese": "僕が代わりに いろいろ聞き出してあげよう",
+        "english": "I'll ask her a whole bunch of questions for him."
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "japanese": "キミ じっとしてることは できないのかな？",
+        "english": "You just can't stay still, can you?"
+    },
+    "29": {
+        "speaker": "SASAKO",
+        "japanese": "はい お待たせしました",
+        "english": "There you go. Miss Sasako, you're bright and charming"
+    },
+    "30": {
+        "speaker": "PANDA",
+        "japanese": "飼育員の人とかに モテるんだろうね",
+        "english": "so you're probably really popular with zookeepers. That's too direct!"
+    },
+    "31": {
+        "speaker": "SASAKO",
+        "japanese": "いやだ パンダくん 何言ってんの",
+        "english": "Oh, Panda, stop it!"
+    },
+    "32": {
+        "speaker": "SASAKO",
+        "japanese": "私 背高いし 肩幅あるから",
+        "english": "I'm tall and I have broad shoulders, so I'm always told I'm not feminine."
+    },
+    "33": {
+        "speaker": "",
+        "japanese": "誰かいたら 紹介してほしいくらい",
+        "english": "If you know someone, I'd like you to introduce him. What?"
+    },
+    "34": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ 肩幅 何センチ？",
+        "english": "Well, how broad are your shoulders?"
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "japanese": "え… えっと 笹子さんの好みって どんな人かな？",
+        "english": "U-Um, what kind of guys do you like, Miss Sasako? Huh?"
+    },
+    "36": {
+        "speaker": "SASAKO",
+        "japanese": "私より背が高くて 癒やし系の人かな",
+        "english": "Someone who's taller than me and comforting. What?!"
+    },
+    "37": {
+        "speaker": "SASAKO",
+        "japanese": "いらっしゃいませ",
+        "english": "Welcome!"
+    },
+    "38": {
+        "speaker": "PANDA",
+        "japanese": "ど… どうしよう…",
+        "english": "W-What are we going to do?"
+    },
+    "39": {
+        "speaker": "GUY",
+        "japanese": "笹子さん 今日も来たよ",
+        "english": "I've come by again today, Miss Sasako, since I look forward to having great coffee here on my days off."
+    },
+    "40": {
+        "speaker": "SASAKO",
+        "japanese": "ありがとうございます",
+        "english": "Well, thank you very much."
+    },
+    "41": {
+        "speaker": "GUY2(ew)",
+        "japanese": "笹子さん コーヒー おかわりちょうだい",
+        "english": "Could I get another coffee, Miss Sasako? Coming right up."
+    },
+    "42": {
+        "speaker": "GUY3",
+        "japanese": "笹子さん 今日のランチ 何かな？",
+        "english": "What's the lunch special today, Miss Sasako?"
+    },
+    "43": {
+        "speaker": "SASAKO",
+        "japanese": "メインは ベジミートの香味揚げですよ",
+        "english": "Our main dish today issavory fried soy meat."
+    },
+    "44": {
+        "speaker": "PANDA",
+        "japanese": "お客さん かっこいい人 多くない？",
+        "english": "Aren't there a lot of good looking customers?"
+    },
+    "45": {
+        "speaker": "PENGUIN",
+        "japanese": "半田さん ピンチだよ",
+        "english": "Mr. Handa's in trouble."
+    },
+    "46": {
+        "speaker": "HANDA",
+        "japanese": "話っていうのは…",
+        "english": "And so, I wanted to discuss... Yes?"
+    },
+    "47": {
+        "speaker": "HANDA",
+        "japanese": "笹子さん つきあってる人いるのかな？",
+        "english": "Is Miss Sasako dating anyone?"
+    },
+    "48": {
+        "speaker": "POLAR BEAR",
+        "japanese": "実は…",
+        "english": "Actually..."
+    },
+    "49": {
+        "speaker": "HANDA",
+        "japanese": "実は！？",
+        "english": "Actually?!"
+    },
+    "50": {
+        "speaker": "POLAR BEAR",
+        "japanese": "お昼まだなんだけど 食べていい？",
+        "english": "I haven't had lunch yet. Mind if I eat something?"
+    },
+    "51": {
+        "speaker": "HANDA",
+        "japanese": "どうぞ！ 奢るよ！",
+        "english": "Sure! It'll be on me!"
+    },
+    "52": {
+        "speaker": "POLAR BEAR",
+        "japanese": "この… １日５食限定のデラックスランチ",
+        "english": "I'll have one of the deluxe lunches you only make five of per day."
+    },
+    "53": {
+        "speaker": "HANDA",
+        "japanese": "い… いちばん高いやつ！？",
+        "english": "You're getting the most expensive thing?! U-Uh, go ahead..."
+    },
+    "54": {
+        "speaker": "LESSER",
+        "japanese": "デラックスランチですね  かしこまりました",
+        "english": "One deluxe lunch coming right up."
+    },
+    "55": {
+        "speaker": "POLAR BEAR",
+        "japanese": "本当は…",
+        "english": "Actually..."
+    },
+    "56": {
+        "speaker": "HANDA",
+        "japanese": "本当は？",
+        "english": "Actually?!"
+    },
+    "57": {
+        "speaker": "POLAR BEAR",
+        "japanese": "このスープセットも頼みたかったんだけど",
+        "english": "I wanted to order the soup set, too."
+    },
+    "58": {
+        "speaker": "HANDA",
+        "japanese": "レッサーくん スープセットも追加ね！",
+        "english": "Could we add on a soup set, Lesser?"
+    },
+    "59": {
+        "speaker": "POLAR BEAR",
+        "japanese": "今は 彼氏いないみたいだよ 笹子さん",
+        "english": "It looks like Miss Sasako doesn't have a boyfriend right now."
+    },
+    "60": {
+        "speaker": "HANDA",
+        "japanese": "そ… そうなんだ",
+        "english": "I-I see."
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "japanese": "でも…",
+        "english": "But..."
+    },
+    "62": {
+        "speaker": "HANDA",
+        "japanese": "でも！？",
+        "english": "But?!"
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "japanese": "好みは背が高くて癒やし系の人だって",
+        "english": "I heard she prefers someonetall and comforting."
+    },
+    "64": {
+        "speaker": "HANDA",
+        "japanese": "俺… 笹子さんより ５センチ以上 低いかも",
+        "english": "I think I'm at least five centimeters shorter than Miss Sasako..."
+    },
+    "65": {
+        "speaker": "POLAR BEAR",
+        "japanese": "大丈夫だよ シークレットブーツ履こう",
+        "english": "Not to worry. Just wear these elevator boots."
+    },
+    "66": {
+        "speaker": "HANDA",
+        "japanese": "急に背が伸びたら変でしょ…",
+        "english": "It'd be strange if I grew suddenly, wouldn't it?"
+    },
+    "67": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ…笹子さんのほうを縮める？",
+        "english": "Then... shall we make Miss Sasako shorter?"
+    },
+    "68": {
+        "speaker": "HANDA",
+        "japanese": "シロクマくん 本気で考えてる？",
+        "english": "Are you taking this seriously, Polar Bear?"
+    },
+    "69": {
+        "speaker": "LESSER",
+        "japanese": "お待たせしました",
+        "english": "Thank you for waiting."
+    },
+    "70": {
+        "speaker": "POLAR BEAR",
+        "japanese": "まぁ 笹子さんの好みは そう気にしなくていいよ",
+        "english": "Well, I don't think you'll have to worry much about her preferences. Really?"
+    },
+    "71": {
+        "speaker": "POLAR BEAR",
+        "japanese": "例えば 僕の好みは アザラシだけど",
+        "english": "For example, I prefer seals."
+    },
+    "72": {
+        "speaker": "POLAR BEAR",
+        "japanese": "アザラシが捕まらなかったら セイウチも食べるし",
+        "english": "But if I can't catch any seals, I'll eat walruses, too."
+    },
+    "73": {
+        "speaker": "HANDA",
+        "japanese": "シロクマくんのごはんと 一緒にしないでよ！",
+        "english": "Don't compare this with your food preferences!"
+    },
+    "74": {
+        "speaker": "HANDA",
+        "japanese": "僕だってね 好きでセイウチ体型に 生まれたわけじゃないし",
+        "english": "It's not like I wanted to be born shaped like a walrus. Oh? Walrus {\\i1}(Seiuchi){\\i0}?"
+    },
+    "75": {
+        "speaker": "POLAR BEAR",
+        "japanese": "このへん",
+        "english": "Right about here."
+    },
+    "76": {
+        "speaker": "HANDA",
+        "japanese": "それは 瀬戸内",
+        "english": "That would be the Seto region {\\i1}(Seto Uchi){\\i0}."
+    },
+    "77": {
+        "speaker": "HANDA",
+        "japanese": "それは 木の家",
+        "english": "That would be a log cabin {\\i1}(ki no uchi){\\i0}."
+    },
+    "78": {
+        "speaker": "HANDA",
+        "japanese": "イテッ！",
+        "english": "Ow!"
+    },
+    "79": {
+        "speaker": "HANDA",
+        "japanese": "それは 不意打ち",
+        "english": "That would be a surprise attack {\\i1}(fuiuchi){\\i0}."
+    },
+    "80": {
+        "speaker": "HANDA",
+        "japanese": "これは 相打ち",
+        "english": "And this would be striking simultaneously {\\i1}(aiuchi){\\i0}."
+    },
+    "81": {
+        "speaker": "HANDA",
+        "japanese": "悩んでるのに ひどい仕打ちだ！",
+        "english": "This is really poor behavior towardssomeone who's really troubled {\\i1}(shiuchi){\\i0}. Well played."
+    },
+    "82": {
+        "speaker": "POLAR BEAR",
+        "japanese": "まぁ 仲よくなれる方法を 一緒に考えてあげるよ",
+        "english": "Well, I'll help you think of a way to get closer to her. Really?"
+    },
+    "83": {
+        "speaker": "HANDA",
+        "japanese": "いつも モテモテのシロクマくんに アドバイスもらえたら",
+        "english": "I'll feel more confident after getting advice from you since you're so popular. I think..."
+    },
+    "84": {
+        "speaker": "HANDA",
+        "japanese": "考えでは？",
+        "english": "You think?"
+    },
+    "85": {
+        "speaker": "POLAR BEAR",
+        "japanese": "この店 スイーツも おいしいと思うよ",
+        "english": "...that the desserts here are delicious, too."
+    },
+    "86": {
+        "speaker": "HANDA",
+        "japanese": "ど… どうぞ！",
+        "english": "B-Be my guest!"
+    },
+    "87": {
+        "speaker": "",
+        "japanese": "好きなのなんでも頼んじゃって",
+        "english": "Order whatever you'd like!"
+    },
+    "88": {
+        "speaker": "SASAKO",
+        "japanese": "どうですか？ランチ",
+        "english": "How was the lunch special?"
+    },
+    "89": {
+        "speaker": "GUY3",
+        "japanese": "ヘルシーだし 味つけがいいね",
+        "english": "It was healthy and the flavor was great."
+    },
+    "90": {
+        "speaker": "SASAKO",
+        "japanese": "ありがとうございます",
+        "english": "Thank you very much."
+    },
+    "91": {
+        "speaker": "GUY3",
+        "japanese": "{\\an8}あと レモンティーお願い",
+        "english": "{\\a6}Oh, could I get a lemon tea, too?"
+    },
+    "92": {
+        "speaker": "PENGUIN",
+        "japanese": "{\\an8}あと レモンティーお願い",
+        "english": "Miss Sasako's getting even friendlier with the handsome guy."
+    },
+    "93": {
+        "speaker": "SASAKO",
+        "japanese": "{\\an8}かしこまりました",
+        "english": "{\\a6}Certainly. Coming right up."
+    },
+    "94": {
+        "speaker": "PANDA",
+        "japanese": "{\\an8}かしこまりました",
+        "english": "Dang it!"
+    },
+    "95": {
+        "speaker": "HANDA",
+        "japanese": "メール？ 誰だろう？",
+        "english": "A text? I wonder who it's from."
+    },
+    "96": {
+        "speaker": "HANDA",
+        "japanese": "あっ！ ラマさんだ",
+        "english": "Oh, it's from Mr. Llama. If you ask me,"
+    },
+    "97": {
+        "speaker": "LLAMA",
+        "japanese": "静かに見続けるというのも1つの方法ではないかということです",
+        "english": "continuing to admire her from afar isn't out of the question, either."
+    },
+    "98": {
+        "speaker": "HANDA",
+        "japanese": "何？ この写メ…",
+        "english": "What's with this picture message?"
+    },
+    "99": {
+        "speaker": "POLAR BEAR",
+        "japanese": "アドバイス大募集中って みんなに回しといたから",
+        "english": "I sent out a text to everyone asking for any advice. What?! E-Everyone?"
+    },
+    "100": {
+        "speaker": "POLAR BEAR",
+        "japanese": "みんなだよ",
+        "english": "Everyone."
+    },
+    "101": {
+        "speaker": "LESSER",
+        "japanese": "清潔感と細やかな心遣いに勝ることはありません",
+        "english": "Nothing can beat cleanliness and a heartfelt regard for others."
+    },
+    "102": {
+        "speaker": "",
+        "japanese": "半田さん ガンバです☆",
+        "english": "Mr. Handa, good luck!"
+    },
+    "103": {
+        "speaker": "HANDA",
+        "japanese": "レッサーくん！？",
+        "english": "Lesser?"
+    },
+    "104": {
+        "speaker": "PENGUIN",
+        "japanese": "半田さんは 間が悪いから それを逆に活かすべきだね",
+        "english": "You have terrible luck, Mr. Handa, so you need to try to use that in your favor."
+    },
+    "105": {
+        "speaker": "HANDA",
+        "japanese": "逆にって なんなのさ？",
+        "english": "What do you mean, \"use that in my favor\"?"
+    },
+    "106": {
+        "speaker": "PANDA",
+        "japanese": "半田さんの バカァ～～～～っ！！",
+        "english": "Mr. Handa, you idiot! What is this?! And what does he mean by \"idiot\"? From Miss Sasako, too?! I recommend the fried soy meat."
+    },
+    "107": {
+        "speaker": "POLAR BEAR",
+        "japanese": "よかったね",
+        "english": "Good thing"
+    },
+    "108": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ランチのアドバイスを お願いしといたよ",
+        "english": "I asked her for a recommendation for lunch. What does that even mean?! Jeez, I even sent him a text."
+    },
+    "109": {
+        "speaker": "PANDA",
+        "japanese": "半田さんたら まだ来ない",
+        "english": "Mr. Handa's still not here."
+    },
+    "110": {
+        "speaker": "PANDA",
+        "japanese": "早くしないと 笹子さん 取られちゃうよ",
+        "english": "If he doesn't hurry up, Miss Sasako's going to be taken. Panda!"
+    },
+    "111": {
+        "speaker": "PENGUIN",
+        "japanese": "さ… 笹子さ～ん！",
+        "english": "M-Miss Sasako!"
+    },
+    "112": {
+        "speaker": "PENGUIN",
+        "japanese": "ロールケーキ！ロールケーキが そろそろ食べたいな～",
+        "english": "The roll cake! I'd like to eat the roll cake right about now! Oh, really? Would you like some now?"
+    },
+    "113": {
+        "speaker": "SASAKO",
+        "japanese": "お待たせ",
+        "english": "Here you go. Oh my, Panda..."
+    },
+    "114": {
+        "speaker": "SASAKO",
+        "japanese": "にらまないでよ そんなに 待ちかねてたの？",
+        "english": "Please don't glare like that. Were you waiting that long? Mr. Handa..."
+    },
+    "115": {
+        "speaker": "PANDA",
+        "japanese": "バカ！",
+        "english": "You idiot! It's angry!"
+    },
+    "116": {
+        "speaker": "SASAKO",
+        "japanese": "痛恨のミス！",
+        "english": "A cardinal mistake!"
+    },
+    "117": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくんの念！？",
+        "english": "Is it because of Panda? Huh?"
+    },
+    "118": {
+        "speaker": "PANDA",
+        "japanese": "キリッとしてて かっこいい",
+        "english": "It looks so stern! How cool! Huh?!"
+    },
+    "119": {
+        "speaker": "POLAR BEAR",
+        "japanese": "半田さん",
+        "english": "Mr. Handa."
+    },
+    "120": {
+        "speaker": "POLAR BEAR",
+        "japanese": "半田さんは そのままが いちばんいいよ",
+        "english": "I think you should stay just the way you are."
+    },
+    "121": {
+        "speaker": "POLAR BEAR",
+        "japanese": "だって…",
+        "english": "Because"
+    },
+    "122": {
+        "speaker": "POLAR BEAR",
+        "japanese": "それが 半田さんの良さだと思うよ",
+        "english": "that's what's great about you."
+    },
+    "123": {
+        "speaker": "HANDA",
+        "japanese": "ありがとう",
+        "english": "Thank you. Come by the café again."
+    },
+    "124": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ごちそうするから",
+        "english": "I'll treat you. Sure."
+    },
+    "125": {
+        "speaker": "MAMA",
+        "japanese": "皆さん こんにちは",
+        "english": "Hello, everyone."
+    },
+    "126": {
+        "speaker": "MAMA",
+        "japanese": "私は パンダママ",
+        "english": "My name is Panda Mama."
+    },
+    "127": {
+        "speaker": "MAMA",
+        "japanese": "今日も家族のため スーパーへお買い物に来ました",
+        "english": "I'm out buying groceries at the supermarket for my family."
+    },
+    "128": {
+        "speaker": "MAMA",
+        "japanese": "やっぱり 今夜も 竹と笹の 盛り合わせでいいかしらね",
+        "english": "I think we'll have a combination platter of bamboo and bamboo grass again tonight."
+    },
+    "129": {
+        "speaker": "MAMA",
+        "japanese": "クルミの詰め放題だわ",
+        "english": "All you can stuff walnuts!"
+    },
+    "130": {
+        "speaker": "MAMA",
+        "japanese": "みんな大好きだから 買っていきましょう",
+        "english": "Everyone loves them so I'll get some."
+    },
+    "131": {
+        "speaker": "MAMA",
+        "japanese": "こんなもんかしらね",
+        "english": "This looks good. I got quite a few in."
+    },
+    "132": {
+        "speaker": "S MAMA",
+        "japanese": "あらあら パンダママじゃないの",
+        "english": "Oh, if it isn't Panda Mama. Well, hello, Mama Red Squirrel."
+    },
+    "133": {
+        "speaker": "S MAMA",
+        "japanese": "あら～！ クルミの詰め放題じゃないの",
+        "english": "Well if it isn't all you can stuff walnuts! Walnuts are our favorite!"
+    },
+    "134": {
+        "speaker": "MAMA",
+        "japanese": "うちも家族が好きなので",
+        "english": "My family loves them, too."
+    },
+    "135": {
+        "speaker": "S MAMA",
+        "japanese": "やだ！ 何 その 気合の入ってない詰め方",
+        "english": "Goodness, what's with this stuffing? There's no enthusiasm."
+    },
+    "136": {
+        "speaker": "MAMA",
+        "japanese": "そう？ だいぶ 入ったわよ",
+        "english": "Really? I got quite a few in there. That wouldn't be considered all you can stuff!"
+    },
+    "137": {
+        "speaker": "S MAMA",
+        "japanese": "パンダママったら おっとりしすぎ！",
+        "english": "You're too gentle, Panda Mama."
+    },
+    "138": {
+        "speaker": "S MAMA",
+        "japanese": "そんなんじゃ 資本主義社会を 生き抜いていけないわよ！",
+        "english": "You won't be able to survive in this capitalist society like that!"
+    },
+    "139": {
+        "speaker": "MAMA",
+        "japanese": "じゃあ どうすればいいのかしら？",
+        "english": "Then what should I do?"
+    },
+    "140": {
+        "speaker": "S MAMA",
+        "japanese": "もう… 詰め放題はね…",
+        "english": "When you're dealing with all you can stuff,"
+    },
+    "141": {
+        "speaker": "S MAMA",
+        "japanese": "まずは袋を伸ばすところからよ",
+        "english": "you have to stretch out the bag first."
+    },
+    "142": {
+        "speaker": "MAMA",
+        "japanese": "まぁ それは知らなかったわ",
+        "english": "Oh, I didn't know that."
+    },
+    "143": {
+        "speaker": "S MAMA",
+        "japanese": "破れる寸前… 限界ぎりぎりまで伸ばす",
+        "english": "You stretch it out as far as it'll go, just before it's about to rip."
+    },
+    "144": {
+        "speaker": "S MAMA",
+        "japanese": "破れちゃ 元も子もないから 見極めが肝心よ",
+        "english": "There's no point if it rips, so being extra careful is crucial. That looks about good."
+    },
+    "145": {
+        "speaker": "S MAMA",
+        "japanese": "さぁ 詰めていくわよ",
+        "english": "Now let's start stuffing."
+    },
+    "146": {
+        "speaker": "MAMA",
+        "japanese": "はい",
+        "english": "Okay."
+    },
+    "147": {
+        "speaker": "S MAMA",
+        "japanese": "あ～！ また ダメ ダメ！ そんな無頓着な詰め方",
+        "english": "No, no, you're doing it wrong. You can't fill it so carelessly. What?"
+    },
+    "148": {
+        "speaker": "S MAMA",
+        "japanese": "いい？",
+        "english": "Listen."
+    },
+    "149": {
+        "speaker": "S MAMA",
+        "japanese": "まず 壁面から攻めるの！",
+        "english": "You start from the edges!"
+    },
+    "150": {
+        "speaker": "MAMA",
+        "japanese": "へ… 壁面？",
+        "english": "E-Edges?"
+    },
+    "151": {
+        "speaker": "S MAMA",
+        "japanese": "緻密に計算して隙間を作らない",
+        "english": "You carefully measure it out so you don't leave any gaps."
+    },
+    "152": {
+        "speaker": "MAMA",
+        "japanese": "は… はい",
+        "english": "O-Okay."
+    },
+    "153": {
+        "speaker": "S MAMA",
+        "japanese": "詰め放題はね",
+        "english": "When you're dealing with all you can stuff,"
+    },
+    "154": {
+        "speaker": "S MAMA",
+        "japanese": "たくさん詰めることで 得した気分になって",
+        "english": "you feel special the more you can stuff."
+    },
+    "155": {
+        "speaker": "S MAMA",
+        "japanese": "更に 詰め方の追求もできる",
+        "english": "Then you can seek out even better methods of stuffing."
+    },
+    "156": {
+        "speaker": "S MAMA",
+        "japanese": "お買い物のエンターテインメントなのよ！",
+        "english": "It's a true form of shopping entertainment!"
+    },
+    "157": {
+        "speaker": "MAMA",
+        "japanese": "まぁ そうだったのね",
+        "english": "Oh my! I had no idea."
+    },
+    "158": {
+        "speaker": "MAMA",
+        "japanese": "すごくたくさん入ったわ",
+        "english": "I got quite a bit in there."
+    },
+    "159": {
+        "speaker": "MAMA",
+        "japanese": "あっ エゾリスママ ここに少し隙間があるみたいよ",
+        "english": "Oh, Mama Red Squirrel. Looks like you have a slight gap there."
+    },
+    "160": {
+        "speaker": "S MAMA",
+        "japanese": "あら ホント！ 私としたことが ぬかったわ",
+        "english": "Oh, you're right! I was completely off guard."
+    },
+    "161": {
+        "speaker": "S MAMA",
+        "japanese": "あなたも わかってきたようね パンダママ",
+        "english": "Looks like you're starting to get it, as well, Panda Mama."
+    },
+    "162": {
+        "speaker": "MAMA",
+        "japanese": "でも もう パンパンだし",
+        "english": "But it's filled to the brim."
+    },
+    "163": {
+        "speaker": "",
+        "japanese": "ムリかも…",
+        "english": "I don't think we can fit any more."
+    },
+    "164": {
+        "speaker": "S MAMA",
+        "japanese": "何言ってるの ここからが勝負よ！",
+        "english": "What are you talking about? The battle starts here!"
+    },
+    "165": {
+        "speaker": "MAMA",
+        "japanese": "エゾリスママ ごめんなさい",
+        "english": "I'm so sorry, Mama Red Squirrel!"
+    },
+    "166": {
+        "speaker": "MAMA",
+        "japanese": "私が余計なことを言ったばかりに",
+        "english": "I shouldn't have said anything."
+    },
+    "167": {
+        "speaker": "S MAMA",
+        "japanese": "油断したわ おごりがあったのね",
+        "english": "I let down my guard. I was too arrogant."
+    },
+    "168": {
+        "speaker": "MAMA",
+        "japanese": "一緒に詰め直しましょ エゾリスママ",
+        "english": "Let's stuff another bag together, Mama Red Squirrel."
+    },
+    "169": {
+        "speaker": "S MAMA",
+        "japanese": "おっとりし過ぎなんて 意地悪言ってごめんなさい",
+        "english": "I'm sorry I said you were too gentle earlier."
+    },
+    "170": {
+        "speaker": "MAMA",
+        "japanese": "そんな… 私こそ勉強になったわ",
+        "english": "Don't say that. I learned a valuable lesson. By the way, Mama Red Squirrel, want to go to an all-you-can-eat cake buffet afterwards?"
+    },
+    "171": {
+        "speaker": "MAMA",
+        "japanese": "キングペンギンさんと約束してるのよ",
+        "english": "I promised Ms. King Penguin I'd meet up with her. Oh, sounds wonderful!"
+    },
+    "172": {
+        "speaker": "S MAMA",
+        "japanese": "どうも お世話さま",
+        "english": "Thanks for everything!"
+    },
+    "173": {
+        "speaker": "MAMA",
+        "japanese": "またね",
+        "english": "See you later."
+    },
+    "174": {
+        "speaker": "S MAMA",
+        "japanese": "パンダママったら 何にも知らないんだもの",
+        "english": "Panda Mama didn't know a thing."
+    },
+    "175": {
+        "speaker": "KING",
+        "japanese": "そうなの",
+        "english": "Oh, really?"
+    },
+    "176": {
+        "speaker": "KING",
+        "japanese": "そういうことなら ケーキバイキングは",
+        "english": "Well, you can call the all-you-can-eat cake buffet"
+    },
+    "177": {
+        "speaker": "KING",
+        "japanese": "悩む楽しさと食べるおいしさが 両方味わえる",
+        "english": "the entertainment of sweets, since you can enjoy both the"
+    },
+    "178": {
+        "speaker": "",
+        "japanese": "スイーツのエンターテインメントと言えるわね",
+        "english": "fun of contemplating and the deliciousness of eating. Oh, my! Everything looks so delicious! Pe-pen!"
+    },
+    "179": {
+        "speaker": "KING",
+        "japanese": "まだ早いわ パンダママ",
+        "english": "Not so fast, Panda Mama! What?"
+    },
+    "180": {
+        "speaker": "KING",
+        "japanese": "ラインナップをひととおり確認したら 順位をつけるの",
+        "english": "Once you've scoped out the lineup, you have to rank them."
+    },
+    "181": {
+        "speaker": "KING",
+        "japanese": "絶対食べたいもの",
+        "english": "The ones you definitely want to eat."
+    },
+    "182": {
+        "speaker": "KING",
+        "japanese": "その次に食べたいもの",
+        "english": "Then the ones you want to eat after that."
+    },
+    "183": {
+        "speaker": "KING",
+        "japanese": "お皿に取るのはそのあとよ",
+        "english": "Only then, can you put things on your plate."
+    },
+    "184": {
+        "speaker": "MAMA",
+        "japanese": "なるほど よくわかったわ",
+        "english": "I see. I understand now."
+    },
+    "185": {
+        "speaker": "MAMA",
+        "japanese": "やっぱり いちばん食べたいのは イチゴのショートケーキ",
+        "english": "The one I want to eat the most is the strawberry shortcake. Pe-pen!"
+    },
+    "186": {
+        "speaker": "KING",
+        "japanese": "バイキングの基本は ２番目に 好きなものから食べるよ",
+        "english": "The standard of an all-you-can-eat buffet is to eat your second favorite first."
+    },
+    "187": {
+        "speaker": "MAMA",
+        "japanese": "基本なの？",
+        "english": "That's a standard?"
+    },
+    "188": {
+        "speaker": "S MAMA",
+        "japanese": "最初に いちばん好きなものを選ぶと余裕がなく",
+        "english": "If you eat your favorite first, you'll rush"
+    },
+    "189": {
+        "speaker": "S MAMA",
+        "japanese": "ちゃんと味わえない",
+        "english": "and you won't enjoy the flavor."
+    },
+    "190": {
+        "speaker": "S MAMA",
+        "japanese": "好きなものじゃないと 味わう意味がない",
+        "english": "There's no point in eating your favorite if you can't enjoy it."
+    },
+    "191": {
+        "speaker": "KING",
+        "japanese": "そのとおり エゾリスママ",
+        "english": "Precisely, Mama Red Squirrel. The all-you-can-eat cake buffet tests your way of living."
+    },
+    "192": {
+        "speaker": "S MAMA",
+        "japanese": "ハードボイルドな戦場でもあるのよ",
+        "english": "It's a hard-boiled battlefield!"
+    },
+    "193": {
+        "speaker": "MAMA",
+        "japanese": "せ 戦場…",
+        "english": "B-Battlefield? Now we'll place the cake on our plates. The thing to remember here is not to overfill your plate."
+    },
+    "194": {
+        "speaker": "KING",
+        "japanese": "３つか４つでいいのよ",
+        "english": "Just grab three or four. What? That's it?"
+    },
+    "195": {
+        "speaker": "KING",
+        "japanese": "そうよ",
+        "english": "Indeed."
+    },
+    "196": {
+        "speaker": "",
+        "japanese": "お皿は ２回目にまた違うのを使うの",
+        "english": "You use a different plate for your second round. But wouldn't that make the dishwasher's life harder?"
+    },
+    "197": {
+        "speaker": "BOTH",
+        "japanese": "気にしなくていいの！",
+        "english": "Who cares?!"
+    },
+    "198": {
+        "speaker": "MAMA",
+        "japanese": "わ わかったわ",
+        "english": "A-All right."
+    },
+    "199": {
+        "speaker": "MAMA",
+        "japanese": "一度に少しずつしか もらってこないと",
+        "english": "It's a bit of a hassle having to go back and forth"
+    },
+    "200": {
+        "speaker": "MAMA",
+        "japanese": "何度も行ったり来たり大変ね",
+        "english": "when you fill your plate with so little."
+    },
+    "201": {
+        "speaker": "KING",
+        "japanese": "それがいいんじゃないの",
+        "english": "That's what's so great about it."
+    },
+    "202": {
+        "speaker": "KING",
+        "japanese": "立ったり座ったり運動すれば",
+        "english": "If you exercise by getting up and siting back down,"
+    },
+    "203": {
+        "speaker": "KING",
+        "japanese": "そのぶんお腹が空くじゃない",
+        "english": "you'll be able to make room for more."
+    },
+    "204": {
+        "speaker": "MAMA",
+        "japanese": "そういえばそうね",
+        "english": "You have a point."
+    },
+    "205": {
+        "speaker": "MAMA",
+        "japanese": "エゾリスママは お上品に食べるのね",
+        "english": "You eat so elegantly, Mama Red Squirrel."
+    },
+    "206": {
+        "speaker": "S MAMA",
+        "japanese": "大きいんだもの",
+        "english": "Well, it's huge."
+    },
+    "207": {
+        "speaker": "S MAMA",
+        "japanese": "両手で持たないとムリ",
+        "english": "If I don't hold it with both hands, I can't eat it."
+    },
+    "208": {
+        "speaker": "KING",
+        "japanese": "体型的に エゾリスには不利ね",
+        "english": "I guess red squirrels' body size puts them at a disadvantage here."
+    },
+    "209": {
+        "speaker": "MAMA",
+        "japanese": "頬袋に ためていけばいいんじゃない",
+        "english": "Why not stuff your cheek pouches?"
+    },
+    "210": {
+        "speaker": "S MAMA",
+        "japanese": "シマリス属やニホンザルと一緒にしないで！",
+        "english": "Don't group me with chipmunks or Japanese monkeys!"
+    },
+    "211": {
+        "speaker": "S MAMA",
+        "japanese": "エゾリスには そんなものないのよ！",
+        "english": "Red squirrels don't have those! I-I'm sorry."
+    },
+    "212": {
+        "speaker": "S MAMA",
+        "japanese": "いいのよ 気にしてないわ",
+        "english": "It's fine. I'm not angry."
+    },
+    "213": {
+        "speaker": "MAMA",
+        "japanese": "キングペンギンさんも 食べ方 きれいよね",
+        "english": "You eat quite delicately, too, Ms. King Penguin."
+    },
+    "214": {
+        "speaker": "KING",
+        "japanese": "コツがあるのよ",
+        "english": "There's a trick to it."
+    },
+    "215": {
+        "speaker": "MAMA",
+        "japanese": "コツ？",
+        "english": "A trick?"
+    },
+    "216": {
+        "speaker": "KING",
+        "japanese": "まずは そっとくわえて…",
+        "english": "First, you carefully hold it in your mouth,"
+    },
+    "217": {
+        "speaker": "KING",
+        "japanese": "持ち上げ… 飲む！",
+        "english": "then bring it up... And gulp!"
+    },
+    "218": {
+        "speaker": "KING",
+        "japanese": "どう？",
+        "english": "How's that?"
+    },
+    "219": {
+        "speaker": "MAMA",
+        "japanese": "食べるところが 見えないくらいだわ",
+        "english": "It's like we can't see you eating at all! You can gulp down a cake like its a drink. Pe-pen!"
+    },
+    "220": {
+        "speaker": "MAMA",
+        "japanese": "なんなの ペッペーンって",
+        "english": "What do you mean by \"pe-pen\"?"
+    },
+    "221": {
+        "speaker": "KING",
+        "japanese": "紅茶やコーヒーは 別料金なのよ！",
+        "english": "Coffee and tea cost extra!"
+    },
+    "222": {
+        "speaker": "",
+        "japanese": "しかも ホテル価格",
+        "english": "Not to mention they're hotel-priced!"
+    },
+    "223": {
+        "speaker": "S MAMA",
+        "japanese": "税 サービス料 別",
+        "english": "And they charge tax and a service fee!"
+    },
+    "224": {
+        "speaker": "S MAMA",
+        "japanese": "よっぽどのことでないと 飲んじゃダメ！",
+        "english": "Don't drink it unless it's an emergency!"
+    },
+    "225": {
+        "speaker": "KING",
+        "japanese": "ノドが渇けば ケーキを飲めばいいのよ！",
+        "english": "If you're thirsty, just gulp down some cake!"
+    },
+    "226": {
+        "speaker": "MAMA",
+        "japanese": "でも 飲むのはいいけど",
+        "english": "That's fine and all, but my palate is getting bored of all the sweets."
+    },
+    "227": {
+        "speaker": "S MAMA",
+        "japanese": "そういうときのために…軽食というジャンルが 用意されているのよ！",
+        "english": "And for that very reason... They have light snacks ready for you, too."
+    },
+    "228": {
+        "speaker": "MAMA",
+        "japanese": "そうだったのね",
+        "english": "I see."
+    },
+    "229": {
+        "speaker": "",
+        "japanese": "ケーキバイキングと名乗るからにはお菓子を味わってこそ",
+        "english": "Since it's an all-you-can-eat cake buffet, I thought it was just for eating sweets."
+    },
+    "230": {
+        "speaker": "MAMA",
+        "japanese": "軽食なんて邪道だ なんて思ってたけど",
+        "english": "I thought light snacks would be heresy."
+    },
+    "231": {
+        "speaker": "S MAMA",
+        "japanese": "とんでもない",
+        "english": "Nonsense."
+    },
+    "232": {
+        "speaker": "KING",
+        "japanese": "オールラウンドにケーキバイキングという空間を楽しんでこそ",
+        "english": "Only once you've enjoyed all that an all-you-can-eat cake buffet has to offer,"
+    },
+    "233": {
+        "speaker": "KING",
+        "japanese": "ケーキバイキンガー！ なのよ",
+        "english": "can you be a true all-you-can-eat cake buffeter."
+    },
+    "234": {
+        "speaker": "MAMA",
+        "japanese": "お二人と 一緒に来られて よかったわ",
+        "english": "I'm very thankful I came with you two."
+    },
+    "235": {
+        "speaker": "MAMA",
+        "japanese": "１人だったら 絶対…",
+        "english": "If I had come here alone, I'd—"
+    },
+    "236": {
+        "speaker": "BOTH",
+        "japanese": "討ち死によ！",
+        "english": "Die in battle!"
+    },
+    "237": {
+        "speaker": "MAMA",
+        "japanese": "なんだか すごい達成感",
+        "english": "I feel so accomplished."
+    },
+    "238": {
+        "speaker": "KING",
+        "japanese": "やったわね 私たち",
+        "english": "We did a great job."
+    },
+    "239": {
+        "speaker": "S MAMA",
+        "japanese": "パンダママ",
+        "english": "I didn't think you were going to be able to finish that last plate, Panda Mama."
+    },
+    "240": {
+        "speaker": "S MAMA",
+        "japanese": "しびれたわ",
+        "english": "I had chills just watching."
+    },
+    "241": {
+        "speaker": "MAMA",
+        "japanese": "言わないで… 恥ずかしい",
+        "english": "Oh, stop. You're embarrassing me."
+    },
+    "242": {
+        "speaker": "MAMA",
+        "japanese": "あら？田中さんじゃない？",
+        "english": "Oh, if it isn't Ms. Tanaka."
+    },
+    "243": {
+        "speaker": "TANAKA",
+        "japanese": "こんにちは パンダママ",
+        "english": "Hello, Panda Mama. Are you out running errands?"
+    },
+    "244": {
+        "speaker": "MAMA",
+        "japanese": "それがね 田中さん 聞いてくれる？ 大充実の一日",
+        "english": "Well, you see, Ms. Tanaka, listen to this, I had a completely productive day. My last plate was so full!"
+    },
+    "245": {
+        "speaker": "TANAKA",
+        "japanese": "あら ステキ！",
+        "english": "How wonderful."
+    },
+    "246": {
+        "speaker": "MAMA",
+        "japanese": "よかったら お茶でもしない？",
+        "english": "Would you care to join us for some tea?"
+    },
+    "247": {
+        "speaker": "KING",
+        "japanese": "いいわね 休みたいわ ちょっと 食べ疲れしちゃったから",
+        "english": "That sounds great. I'd like to rest. I'm exhausted from all the eating."
+    },
+    "248": {
+        "speaker": "MAMA",
+        "japanese": "そういえば ここね 息子が常連なのよ",
+        "english": "By the way, my son's a regular here."
+    },
+    "249": {
+        "speaker": "KING",
+        "japanese": "あっ 息子さん バイトは続いてるの？",
+        "english": "Is your son still working the part-time job?"
+    },
+    "250": {
+        "speaker": "MAMA",
+        "japanese": "なんとかね",
+        "english": "It appears so."
+    },
+    "251": {
+        "speaker": "TANAKA",
+        "japanese": "いつも 会ったら挨拶してくれるわよ",
+        "english": "He always says hello when I see him."
+    },
+    "252": {
+        "speaker": "MAMA",
+        "japanese": "愛想だけはいいのよ でも将来が心配",
+        "english": "His courtesies may be his only good trait. But I'm so worried about his future."
+    },
+    "253": {
+        "speaker": "KING",
+        "japanese": "家の子も カードっていうの？",
+        "english": "My son is playing with, what are they called, cards?"
+    },
+    "254": {
+        "speaker": "KING",
+        "japanese": "それで遊んでばっかりいるから 心配なのよ",
+        "english": "He's been playing with them so much that I'm worried. Seems like everyone's in the same boat."
+    },
+    "255": {
+        "speaker": "S MAMA",
+        "japanese": "おかわりちょうだい 同じもの",
+        "english": "Oh, could I get another of the same?"
+    },
+    "256": {
+        "speaker": "POLAR BEAR",
+        "japanese": "はい",
+        "english": "Yes, ma'am. Refills are half price. Oh, my!"
+    },
+    "257": {
+        "speaker": "POLAR BEAR",
+        "japanese": "サービスですよ",
+        "english": "It's a service we provide."
+    },
+    "258": {
+        "speaker": "ALL",
+        "japanese": "おかわりなのに お金とるの！？",
+        "english": "It's a refill and you're charging us money?"
+    },
+    "259": {
+        "speaker": "TANAKA",
+        "japanese": "ホテルみたい",
+        "english": "It's like a café in a hotel!"
+    },
+    "260": {
+        "speaker": "POLAR BEAR",
+        "japanese": "も… 申し訳ありません",
+        "english": "I-I'm terribly sorry."
+    },
+    "261": {
+        "speaker": "S MAMA",
+        "japanese": "半額って高くない？",
+        "english": "Isn't half price a bit expensive?"
+    },
+    "262": {
+        "speaker": "KING",
+        "japanese": "時々 来てるんだから サービスしなさいよ",
+        "english": "We come here every now and then so it should be on the house!"
+    },
+    "263": {
+        "speaker": "POLAR BEAR",
+        "japanese": "すみません…",
+        "english": "I'm sorry."
+    },
+    "264": {
+        "speaker": "S MAMA",
+        "japanese": "ホント ゆとりって怖いわ",
+        "english": "You can't ever let your guard down."
+    },
+    "265": {
+        "speaker": "TANAKA",
+        "japanese": "あら もう こんな時間？",
+        "english": "Oh, where did the time go?"
+    },
+    "266": {
+        "speaker": "S MAMA",
+        "japanese": "やだ ホント",
+        "english": "Oh, you're right."
+    },
+    "267": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ありがとうございました",
+        "english": "Thank you very much!"
+    },
+    "268": {
+        "speaker": "KING",
+        "japanese": "ねぇ 今度は ランチバイキングに行きましょうよ",
+        "english": "Say, let's go to an all-you-can-eat lunch buffet next time."
+    },
+    "269": {
+        "speaker": "S MAMA",
+        "japanese": "いいわね どこ？",
+        "english": "Sounds great! Where should we go?"
+    },
+    "270": {
+        "speaker": "MAMA",
+        "japanese": "ちょっと 場所 教えてくれる？",
+        "english": "Sounds like you know a good place. I do!"
+    },
+    "271": {
+        "speaker": "KING",
+        "japanese": "１丁目に イタリアンレストランがあるでしょ",
+        "english": "You know the Italian restaurant on 1st street, right?"
+    },
+    "272": {
+        "speaker": "KING",
+        "japanese": "そこの評判がいいみたい",
+        "english": "I've heard great things about that place!"
+    },
+    "273": {
+        "speaker": "TANAKA",
+        "japanese": "まあ そうなの？",
+        "english": "Oh, really?"
+    },
+    "274": {
+        "speaker": "S MAMA",
+        "japanese": "あら ぜひ ご一緒したいわ",
+        "english": "We should definitely go there!"
+    },
+    "275": {
+        "speaker": "MAMA",
+        "japanese": "コーヒー おかわりいただこうかしら",
+        "english": "Could I get a refill on my coffee?"
+    },
+    "276": {
+        "speaker": "KING",
+        "japanese": "おかわりの おかわりだから ４分の１のお値段でいいわよね？",
+        "english": "It's a refill of a refill, so it'll only be a fourth of the price, right?"
+    },
+    "277": {
+        "speaker": "S MAMA",
+        "japanese": "それくらい当然よね？",
+        "english": "Makes perfect sense to me. I'd like a refill, too, Mr. Polar Bear."
+    },
+    "278": {
+        "speaker": "KING",
+        "japanese": "ああ 私も 半額の半額のおかわり もらえる？",
+        "english": "Oh, me, too. Could I get half price on a half price refill?"
+    },
+    "279": {
+        "speaker": "POLAR BEAR",
+        "japanese": "帰らないね…",
+        "english": "{\\a6}Actually, a refill on a refill will not make it a lesser price..."
+    },
+    "280": {
+        "speaker": "PANDA",
+        "japanese": "帰らないね…",
+        "english": "They're not leaving..."
+    },
+    "281": {
+        "speaker": "PENGUIN",
+        "japanese": "なんで隠れてるの？",
+        "english": "Why are you hiding?"
+    },
+    "282": {
+        "speaker": "PENGUIN",
+        "japanese": "というか なんで僕まで？",
+        "english": "Or rather, why do I have to hide with you? {\\a6}What?!"
+    },
+    "283": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "284": {
+        "speaker": "PENGUIN",
+        "japanese": "何 パンダ君",
+        "english": "What is it, Panda?"
+    },
+    "285": {
+        "speaker": "PANDA",
+        "japanese": "旅に出ると気持ちが盛り上がるね",
+        "english": "Isn't it exciting when we go on trips?"
+    },
+    "286": {
+        "speaker": "PENGUIN",
+        "japanese": "そうだね",
+        "english": "It is."
+    },
+    "287": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん 盛り上がったまま全財産窓から投げちゃえば",
+        "english": "Well since you're so excited, why don't you throw your life savings out the window?"
+    },
+    "288": {
+        "speaker": "PENGUIN",
+        "japanese": "窓開かんないし それにそこまでは盛り上がってないかな",
+        "english": "The windows won't open, not to mention I'm not {\\i1}that{\\i0} excited."
+    },
+    "289": {
+        "speaker": "PANDA",
+        "japanese": "じゃペンギンさんちょっと黙っててよ 僕ねるから",
+        "english": "Then could you shut up for a while, Mr. Penguin? I'm gonna go to sleep."
+    },
+    "290": {
+        "speaker": "PENGUIN",
+        "japanese": "君がかけてきたんだけど",
+        "english": "You're the one that started talking to me... Next week's Polar Bear Café,"
+    },
+    "291": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ペーパークラフトでお送りします",
+        "english": "will be presented to you in paper craft."
+    },
+    "292": {
+        "speaker": "PENGUIN",
+        "japanese": "アニメでいこう",
+        "english": "Let's go with animation."
+    },
+    "293": {
+        "speaker": "SASAKO",
+        "japanese": "お楽しみに",
+        "english": "Enjoy!"
+    }
+}

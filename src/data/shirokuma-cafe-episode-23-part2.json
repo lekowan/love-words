@@ -1,0 +1,2053 @@
+{
+    "1": {
+        "speaker": "HANDA",
+        "character": "{\\an8}シロクマくん 今日はわざわざ 出てきてくれて ありがとう",
+        "definition": "Polar Bear. Thanks for meeting with me today.",
+        "timestamp": "0:01:39",
+        "audio": "/audio/23/0.01.39.mp3"
+    },
+    "2": {
+        "speaker": "POLAR BEAR",
+        "character": "{\\an8}雨で お店暇だから 平気",
+        "definition": "The café is slow today due to the rain, so it's no problem.",
+        "timestamp": "0:01:44",
+        "audio": "/audio/23/0.01.44.mp3"
+    },
+    "3": {
+        "speaker": "HANDA",
+        "character": "話っていうのは…",
+        "definition": "I wanted to discuss—",
+        "timestamp": "0:01:48",
+        "audio": "/audio/23/0.01.48.mp3"
+    },
+    "4": {
+        "speaker": "LESSER",
+        "character": "こんにちは シロクマさん 半田さん",
+        "definition": "Hello, Mr. Polar Bear, Mr. Handa.",
+        "timestamp": "0:01:49",
+        "audio": "/audio/23/0.01.49.mp3"
+    },
+    "5": {
+        "speaker": "LESSER",
+        "character": "ご注文が決まりましたら お呼びください",
+        "definition": "Let me know whenever you're ready to order.",
+        "timestamp": "0:01:55",
+        "audio": "/audio/23/0.01.55.mp3"
+    },
+    "6": {
+        "speaker": "HANDA",
+        "character": "それでさ あの… 話っていうのは…",
+        "definition": "And so, I wanted to discuss...",
+        "timestamp": "0:02:04",
+        "audio": "/audio/23/0.02.04.mp3"
+    },
+    "7": {
+        "speaker": "PANDA",
+        "character": "笹子さん 何作ってるの？",
+        "definition": "What are you making, Miss Sasako? It's a prototype for a new cake.",
+        "timestamp": "0:02:16",
+        "audio": "/audio/23/0.02.16.mp3"
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "character": "ロールケーキ？",
+        "definition": "A roll cake? It's no ordinary roll cake.",
+        "timestamp": "0:02:21",
+        "audio": "/audio/23/0.02.21.mp3"
+    },
+    "9": {
+        "speaker": "SASAKO",
+        "character": "パンダロールケーキで～す！",
+        "definition": "It's a panda roll cake! Panda-shaped foods are so enticing.",
+        "timestamp": "0:02:29",
+        "audio": "/audio/23/0.02.29.mp3"
+    },
+    "10": {
+        "speaker": "PANDA",
+        "character": "そうでなくてもかわいいのに",
+        "definition": "They're cute to begin with,",
+        "timestamp": "0:02:39",
+        "audio": "/audio/23/0.02.39.mp3"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "character": "お口の中まで かわいくなっちゃって",
+        "definition": "but then the inside of your mouth becomes cute, too. What am I to do?",
+        "timestamp": "0:02:41",
+        "audio": "/audio/23/0.02.41.mp3"
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "character": "そりゃ大変だ",
+        "definition": "Wow. That's rough.",
+        "timestamp": "0:02:47",
+        "audio": "/audio/23/0.02.47.mp3"
+    },
+    "13": {
+        "speaker": "SASAKO",
+        "character": "冷蔵庫で少し冷やすから",
+        "definition": "I'm going to let it cool in the fridge,",
+        "timestamp": "0:02:50",
+        "audio": "/audio/23/0.02.50.mp3"
+    },
+    "14": {
+        "speaker": "SASAKO",
+        "character": "あとで試食しましょ",
+        "definition": "but let's try it later.",
+        "timestamp": "0:02:52",
+        "audio": "/audio/23/0.02.52.mp3"
+    },
+    "15": {
+        "speaker": "PANDA",
+        "character": "うん 楽しみ！",
+        "definition": "Yay! I'm excited.",
+        "timestamp": "0:02:54",
+        "audio": "/audio/23/0.02.54.mp3"
+    },
+    "16": {
+        "speaker": "PENGUIN",
+        "character": "ああ 笹子さん カフェモカ おかわりね",
+        "definition": "Oh, could I get another café mocha, Miss Sasako?",
+        "timestamp": "0:02:56",
+        "audio": "/audio/23/0.02.56.mp3"
+    },
+    "17": {
+        "speaker": "SASAKO",
+        "character": "は～い",
+        "definition": "Sure.",
+        "timestamp": "0:02:59",
+        "audio": "/audio/23/0.02.59.mp3"
+    },
+    "18": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん",
+        "definition": "Mr. Penguin.",
+        "timestamp": "0:03:04",
+        "audio": "/audio/23/0.03.04.mp3"
+    },
+    "19": {
+        "speaker": "PENGUIN",
+        "character": "どうしたの？",
+        "definition": "What's up?",
+        "timestamp": "0:03:05",
+        "audio": "/audio/23/0.03.05.mp3"
+    },
+    "20": {
+        "speaker": "PANDA",
+        "character": "今日は 雨で お客さん少ないし",
+        "definition": "There aren't many customers today because of the rain.",
+        "timestamp": "0:03:07",
+        "audio": "/audio/23/0.03.07.mp3"
+    },
+    "21": {
+        "speaker": "PANDA",
+        "character": "半田さん 今日来れば笹子さんと いっぱい話せるのにね",
+        "definition": "Mr. Handa could have talked to Miss Sasako a lot if he were here.",
+        "timestamp": "0:03:10",
+        "audio": "/audio/23/0.03.10.mp3"
+    },
+    "22": {
+        "speaker": "PENGUIN",
+        "character": "ホントだ",
+        "definition": "Good point.",
+        "timestamp": "0:03:14",
+        "audio": "/audio/23/0.03.14.mp3"
+    },
+    "23": {
+        "speaker": "PENGUIN",
+        "character": "相変わらず間が悪いね",
+        "definition": "He has terrible luck, as usual.",
+        "timestamp": "0:03:16",
+        "audio": "/audio/23/0.03.16.mp3"
+    },
+    "24": {
+        "speaker": "PANDA",
+        "character": "動物園はお休みのはずなのに",
+        "definition": "The zoo is closed today,",
+        "timestamp": "0:03:19",
+        "audio": "/audio/23/0.03.19.mp3"
+    },
+    "25": {
+        "speaker": "",
+        "character": "なんで半田さん来ないの？",
+        "definition": "so I wonder why he isn't here.",
+        "timestamp": "0:03:21",
+        "audio": "/audio/23/0.03.21.mp3"
+    },
+    "26": {
+        "speaker": "PENGUIN",
+        "character": "さぁー",
+        "definition": "Who knows?",
+        "timestamp": "0:03:24",
+        "audio": "/audio/23/0.03.24.mp3"
+    },
+    "27": {
+        "speaker": "PANDA",
+        "character": "僕が代わりに いろいろ聞き出してあげよう",
+        "definition": "I'll ask her a whole bunch of questions for him.",
+        "timestamp": "0:03:30",
+        "audio": "/audio/23/0.03.30.mp3"
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "character": "キミ じっとしてることは できないのかな？",
+        "definition": "You just can't stay still, can you?",
+        "timestamp": "0:03:34",
+        "audio": "/audio/23/0.03.34.mp3"
+    },
+    "29": {
+        "speaker": "SASAKO",
+        "character": "はい お待たせしました",
+        "definition": "There you go. Miss Sasako, you're bright and charming",
+        "timestamp": "0:03:39",
+        "audio": "/audio/23/0.03.39.mp3"
+    },
+    "30": {
+        "speaker": "PANDA",
+        "character": "飼育員の人とかに モテるんだろうね",
+        "definition": "so you're probably really popular with zookeepers. That's too direct!",
+        "timestamp": "0:03:45",
+        "audio": "/audio/23/0.03.45.mp3"
+    },
+    "31": {
+        "speaker": "SASAKO",
+        "character": "いやだ パンダくん 何言ってんの",
+        "definition": "Oh, Panda, stop it!",
+        "timestamp": "0:03:52",
+        "audio": "/audio/23/0.03.52.mp3"
+    },
+    "32": {
+        "speaker": "SASAKO",
+        "character": "私 背高いし 肩幅あるから",
+        "definition": "I'm tall and I have broad shoulders, so I'm always told I'm not feminine.",
+        "timestamp": "0:03:57",
+        "audio": "/audio/23/0.03.57.mp3"
+    },
+    "33": {
+        "speaker": "",
+        "character": "誰かいたら 紹介してほしいくらい",
+        "definition": "If you know someone, I'd like you to introduce him. What?",
+        "timestamp": "0:04:02",
+        "audio": "/audio/23/0.04.02.mp3"
+    },
+    "34": {
+        "speaker": "PANDA",
+        "character": "じゃあ 肩幅 何センチ？",
+        "definition": "Well, how broad are your shoulders?",
+        "timestamp": "0:04:06",
+        "audio": "/audio/23/0.04.06.mp3"
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "character": "え… えっと 笹子さんの好みって どんな人かな？",
+        "definition": "U-Um, what kind of guys do you like, Miss Sasako? Huh?",
+        "timestamp": "0:04:09",
+        "audio": "/audio/23/0.04.09.mp3"
+    },
+    "36": {
+        "speaker": "SASAKO",
+        "character": "私より背が高くて 癒やし系の人かな",
+        "definition": "Someone who's taller than me and comforting. What?!",
+        "timestamp": "0:04:14",
+        "audio": "/audio/23/0.04.14.mp3"
+    },
+    "37": {
+        "speaker": "SASAKO",
+        "character": "いらっしゃいませ",
+        "definition": "Welcome!",
+        "timestamp": "0:04:21",
+        "audio": "/audio/23/0.04.21.mp3"
+    },
+    "38": {
+        "speaker": "PANDA",
+        "character": "ど… どうしよう…",
+        "definition": "W-What are we going to do?",
+        "timestamp": "0:04:23",
+        "audio": "/audio/23/0.04.23.mp3"
+    },
+    "39": {
+        "speaker": "GUY",
+        "character": "笹子さん 今日も来たよ",
+        "definition": "I've come by again today, Miss Sasako, since I look forward to having great coffee here on my days off.",
+        "timestamp": "0:04:28",
+        "audio": "/audio/23/0.04.28.mp3"
+    },
+    "40": {
+        "speaker": "SASAKO",
+        "character": "ありがとうございます",
+        "definition": "Well, thank you very much.",
+        "timestamp": "0:04:35",
+        "audio": "/audio/23/0.04.35.mp3"
+    },
+    "41": {
+        "speaker": "GUY2(ew)",
+        "character": "笹子さん コーヒー おかわりちょうだい",
+        "definition": "Could I get another coffee, Miss Sasako? Coming right up.",
+        "timestamp": "0:04:38",
+        "audio": "/audio/23/0.04.38.mp3"
+    },
+    "42": {
+        "speaker": "GUY3",
+        "character": "笹子さん 今日のランチ 何かな？",
+        "definition": "What's the lunch special today, Miss Sasako?",
+        "timestamp": "0:04:46",
+        "audio": "/audio/23/0.04.46.mp3"
+    },
+    "43": {
+        "speaker": "SASAKO",
+        "character": "メインは ベジミートの香味揚げですよ",
+        "definition": "Our main dish today issavory fried soy meat.",
+        "timestamp": "0:04:50",
+        "audio": "/audio/23/0.04.50.mp3"
+    },
+    "44": {
+        "speaker": "PANDA",
+        "character": "お客さん かっこいい人 多くない？",
+        "definition": "Aren't there a lot of good looking customers?",
+        "timestamp": "0:04:56",
+        "audio": "/audio/23/0.04.56.mp3"
+    },
+    "45": {
+        "speaker": "PENGUIN",
+        "character": "半田さん ピンチだよ",
+        "definition": "Mr. Handa's in trouble.",
+        "timestamp": "0:04:59",
+        "audio": "/audio/23/0.04.59.mp3"
+    },
+    "46": {
+        "speaker": "HANDA",
+        "character": "話っていうのは…",
+        "definition": "And so, I wanted to discuss... Yes?",
+        "timestamp": "0:05:03",
+        "audio": "/audio/23/0.05.03.mp3"
+    },
+    "47": {
+        "speaker": "HANDA",
+        "character": "笹子さん つきあってる人いるのかな？",
+        "definition": "Is Miss Sasako dating anyone?",
+        "timestamp": "0:05:09",
+        "audio": "/audio/23/0.05.09.mp3"
+    },
+    "48": {
+        "speaker": "POLAR BEAR",
+        "character": "実は…",
+        "definition": "Actually...",
+        "timestamp": "0:05:14",
+        "audio": "/audio/23/0.05.14.mp3"
+    },
+    "49": {
+        "speaker": "HANDA",
+        "character": "実は！？",
+        "definition": "Actually?!",
+        "timestamp": "0:05:16",
+        "audio": "/audio/23/0.05.16.mp3"
+    },
+    "50": {
+        "speaker": "POLAR BEAR",
+        "character": "お昼まだなんだけど 食べていい？",
+        "definition": "I haven't had lunch yet. Mind if I eat something?",
+        "timestamp": "0:05:18",
+        "audio": "/audio/23/0.05.18.mp3"
+    },
+    "51": {
+        "speaker": "HANDA",
+        "character": "どうぞ！ 奢るよ！",
+        "definition": "Sure! It'll be on me!",
+        "timestamp": "0:05:23",
+        "audio": "/audio/23/0.05.23.mp3"
+    },
+    "52": {
+        "speaker": "POLAR BEAR",
+        "character": "この… １日５食限定のデラックスランチ",
+        "definition": "I'll have one of the deluxe lunches you only make five of per day.",
+        "timestamp": "0:05:35",
+        "audio": "/audio/23/0.05.35.mp3"
+    },
+    "53": {
+        "speaker": "HANDA",
+        "character": "い… いちばん高いやつ！？",
+        "definition": "You're getting the most expensive thing?! U-Uh, go ahead...",
+        "timestamp": "0:05:39",
+        "audio": "/audio/23/0.05.39.mp3"
+    },
+    "54": {
+        "speaker": "LESSER",
+        "character": "デラックスランチですね  かしこまりました",
+        "definition": "One deluxe lunch coming right up.",
+        "timestamp": "0:05:46",
+        "audio": "/audio/23/0.05.46.mp3"
+    },
+    "55": {
+        "speaker": "POLAR BEAR",
+        "character": "本当は…",
+        "definition": "Actually...",
+        "timestamp": "0:05:52",
+        "audio": "/audio/23/0.05.52.mp3"
+    },
+    "56": {
+        "speaker": "HANDA",
+        "character": "本当は？",
+        "definition": "Actually?!",
+        "timestamp": "0:05:55",
+        "audio": "/audio/23/0.05.55.mp3"
+    },
+    "57": {
+        "speaker": "POLAR BEAR",
+        "character": "このスープセットも頼みたかったんだけど",
+        "definition": "I wanted to order the soup set, too.",
+        "timestamp": "0:05:57",
+        "audio": "/audio/23/0.05.57.mp3"
+    },
+    "58": {
+        "speaker": "HANDA",
+        "character": "レッサーくん スープセットも追加ね！",
+        "definition": "Could we add on a soup set, Lesser?",
+        "timestamp": "0:06:02",
+        "audio": "/audio/23/0.06.02.mp3"
+    },
+    "59": {
+        "speaker": "POLAR BEAR",
+        "character": "今は 彼氏いないみたいだよ 笹子さん",
+        "definition": "It looks like Miss Sasako doesn't have a boyfriend right now.",
+        "timestamp": "0:06:05",
+        "audio": "/audio/23/0.06.05.mp3"
+    },
+    "60": {
+        "speaker": "HANDA",
+        "character": "そ… そうなんだ",
+        "definition": "I-I see.",
+        "timestamp": "0:06:11",
+        "audio": "/audio/23/0.06.11.mp3"
+    },
+    "61": {
+        "speaker": "POLAR BEAR",
+        "character": "でも…",
+        "definition": "But...",
+        "timestamp": "0:06:16",
+        "audio": "/audio/23/0.06.16.mp3"
+    },
+    "62": {
+        "speaker": "HANDA",
+        "character": "でも！？",
+        "definition": "But?!",
+        "timestamp": "0:06:17",
+        "audio": "/audio/23/0.06.17.mp3"
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "character": "好みは背が高くて癒やし系の人だって",
+        "definition": "I heard she prefers someonetall and comforting.",
+        "timestamp": "0:06:19",
+        "audio": "/audio/23/0.06.19.mp3"
+    },
+    "64": {
+        "speaker": "HANDA",
+        "character": "俺… 笹子さんより ５センチ以上 低いかも",
+        "definition": "I think I'm at least five centimeters shorter than Miss Sasako...",
+        "timestamp": "0:06:25",
+        "audio": "/audio/23/0.06.25.mp3"
+    },
+    "65": {
+        "speaker": "POLAR BEAR",
+        "character": "大丈夫だよ シークレットブーツ履こう",
+        "definition": "Not to worry. Just wear these elevator boots.",
+        "timestamp": "0:06:30",
+        "audio": "/audio/23/0.06.30.mp3"
+    },
+    "66": {
+        "speaker": "HANDA",
+        "character": "急に背が伸びたら変でしょ…",
+        "definition": "It'd be strange if I grew suddenly, wouldn't it?",
+        "timestamp": "0:06:34",
+        "audio": "/audio/23/0.06.34.mp3"
+    },
+    "67": {
+        "speaker": "POLAR BEAR",
+        "character": "じゃあ…笹子さんのほうを縮める？",
+        "definition": "Then... shall we make Miss Sasako shorter?",
+        "timestamp": "0:06:37",
+        "audio": "/audio/23/0.06.37.mp3"
+    },
+    "68": {
+        "speaker": "HANDA",
+        "character": "シロクマくん 本気で考えてる？",
+        "definition": "Are you taking this seriously, Polar Bear?",
+        "timestamp": "0:06:42",
+        "audio": "/audio/23/0.06.42.mp3"
+    },
+    "69": {
+        "speaker": "LESSER",
+        "character": "お待たせしました",
+        "definition": "Thank you for waiting.",
+        "timestamp": "0:06:47",
+        "audio": "/audio/23/0.06.47.mp3"
+    },
+    "70": {
+        "speaker": "POLAR BEAR",
+        "character": "まぁ 笹子さんの好みは そう気にしなくていいよ",
+        "definition": "Well, I don't think you'll have to worry much about her preferences. Really?",
+        "timestamp": "0:06:53",
+        "audio": "/audio/23/0.06.53.mp3"
+    },
+    "71": {
+        "speaker": "POLAR BEAR",
+        "character": "例えば 僕の好みは アザラシだけど",
+        "definition": "For example, I prefer seals.",
+        "timestamp": "0:06:59",
+        "audio": "/audio/23/0.06.59.mp3"
+    },
+    "72": {
+        "speaker": "POLAR BEAR",
+        "character": "アザラシが捕まらなかったら セイウチも食べるし",
+        "definition": "But if I can't catch any seals, I'll eat walruses, too.",
+        "timestamp": "0:07:03",
+        "audio": "/audio/23/0.07.03.mp3"
+    },
+    "73": {
+        "speaker": "HANDA",
+        "character": "シロクマくんのごはんと 一緒にしないでよ！",
+        "definition": "Don't compare this with your food preferences!",
+        "timestamp": "0:07:07",
+        "audio": "/audio/23/0.07.07.mp3"
+    },
+    "74": {
+        "speaker": "HANDA",
+        "character": "僕だってね 好きでセイウチ体型に 生まれたわけじゃないし",
+        "definition": "It's not like I wanted to be born shaped like a walrus. Oh? Walrus {\\i1}(Seiuchi){\\i0}?",
+        "timestamp": "0:07:10",
+        "audio": "/audio/23/0.07.10.mp3"
+    },
+    "75": {
+        "speaker": "POLAR BEAR",
+        "character": "このへん",
+        "definition": "Right about here.",
+        "timestamp": "0:07:19",
+        "audio": "/audio/23/0.07.19.mp3"
+    },
+    "76": {
+        "speaker": "HANDA",
+        "character": "それは 瀬戸内",
+        "definition": "That would be the Seto region {\\i1}(Seto Uchi){\\i0}.",
+        "timestamp": "0:07:20",
+        "audio": "/audio/23/0.07.20.mp3"
+    },
+    "77": {
+        "speaker": "HANDA",
+        "character": "それは 木の家",
+        "definition": "That would be a log cabin {\\i1}(ki no uchi){\\i0}.",
+        "timestamp": "0:07:23",
+        "audio": "/audio/23/0.07.23.mp3"
+    },
+    "78": {
+        "speaker": "HANDA",
+        "character": "イテッ！",
+        "definition": "Ow!",
+        "timestamp": "0:07:25",
+        "audio": "/audio/23/0.07.25.mp3"
+    },
+    "79": {
+        "speaker": "HANDA",
+        "character": "それは 不意打ち",
+        "definition": "That would be a surprise attack {\\i1}(fuiuchi){\\i0}.",
+        "timestamp": "0:07:27",
+        "audio": "/audio/23/0.07.27.mp3"
+    },
+    "80": {
+        "speaker": "HANDA",
+        "character": "これは 相打ち",
+        "definition": "And this would be striking simultaneously {\\i1}(aiuchi){\\i0}.",
+        "timestamp": "0:07:29",
+        "audio": "/audio/23/0.07.29.mp3"
+    },
+    "81": {
+        "speaker": "HANDA",
+        "character": "悩んでるのに ひどい仕打ちだ！",
+        "definition": "This is really poor behavior towardssomeone who's really troubled {\\i1}(shiuchi){\\i0}. Well played.",
+        "timestamp": "0:07:32",
+        "audio": "/audio/23/0.07.32.mp3"
+    },
+    "82": {
+        "speaker": "POLAR BEAR",
+        "character": "まぁ 仲よくなれる方法を 一緒に考えてあげるよ",
+        "definition": "Well, I'll help you think of a way to get closer to her. Really?",
+        "timestamp": "0:07:42",
+        "audio": "/audio/23/0.07.42.mp3"
+    },
+    "83": {
+        "speaker": "HANDA",
+        "character": "いつも モテモテのシロクマくんに アドバイスもらえたら",
+        "definition": "I'll feel more confident after getting advice from you since you're so popular. I think...",
+        "timestamp": "0:07:48",
+        "audio": "/audio/23/0.07.48.mp3"
+    },
+    "84": {
+        "speaker": "HANDA",
+        "character": "考えでは？",
+        "definition": "You think?",
+        "timestamp": "0:07:56",
+        "audio": "/audio/23/0.07.56.mp3"
+    },
+    "85": {
+        "speaker": "POLAR BEAR",
+        "character": "この店 スイーツも おいしいと思うよ",
+        "definition": "...that the desserts here are delicious, too.",
+        "timestamp": "0:08:00",
+        "audio": "/audio/23/0.08.00.mp3"
+    },
+    "86": {
+        "speaker": "HANDA",
+        "character": "ど… どうぞ！",
+        "definition": "B-Be my guest!",
+        "timestamp": "0:08:03",
+        "audio": "/audio/23/0.08.03.mp3"
+    },
+    "87": {
+        "speaker": "",
+        "character": "好きなのなんでも頼んじゃって",
+        "definition": "Order whatever you'd like!",
+        "timestamp": "0:08:05",
+        "audio": "/audio/23/0.08.05.mp3"
+    },
+    "88": {
+        "speaker": "SASAKO",
+        "character": "どうですか？ランチ",
+        "definition": "How was the lunch special?",
+        "timestamp": "0:08:10",
+        "audio": "/audio/23/0.08.10.mp3"
+    },
+    "89": {
+        "speaker": "GUY3",
+        "character": "ヘルシーだし 味つけがいいね",
+        "definition": "It was healthy and the flavor was great.",
+        "timestamp": "0:08:11",
+        "audio": "/audio/23/0.08.11.mp3"
+    },
+    "90": {
+        "speaker": "SASAKO",
+        "character": "ありがとうございます",
+        "definition": "Thank you very much.",
+        "timestamp": "0:08:14",
+        "audio": "/audio/23/0.08.14.mp3"
+    },
+    "91": {
+        "speaker": "GUY3",
+        "character": "{\\an8}あと レモンティーお願い",
+        "definition": "{\\a6}Oh, could I get a lemon tea, too?",
+        "timestamp": "0:08:16",
+        "audio": "/audio/23/0.08.16.mp3"
+    },
+    "92": {
+        "speaker": "PENGUIN",
+        "character": "{\\an8}あと レモンティーお願い",
+        "definition": "Miss Sasako's getting even friendlier with the handsome guy.",
+        "timestamp": "0:08:16",
+        "audio": "/audio/23/0.08.16.mp3"
+    },
+    "93": {
+        "speaker": "SASAKO",
+        "character": "{\\an8}かしこまりました",
+        "definition": "{\\a6}Certainly. Coming right up.",
+        "timestamp": "0:08:19",
+        "audio": "/audio/23/0.08.19.mp3"
+    },
+    "94": {
+        "speaker": "PANDA",
+        "character": "{\\an8}かしこまりました",
+        "definition": "Dang it!",
+        "timestamp": "0:08:19",
+        "audio": "/audio/23/0.08.19.mp3"
+    },
+    "95": {
+        "speaker": "HANDA",
+        "character": "メール？ 誰だろう？",
+        "definition": "A text? I wonder who it's from.",
+        "timestamp": "0:08:33",
+        "audio": "/audio/23/0.08.33.mp3"
+    },
+    "96": {
+        "speaker": "HANDA",
+        "character": "あっ！ ラマさんだ",
+        "definition": "Oh, it's from Mr. Llama. If you ask me,",
+        "timestamp": "0:08:37",
+        "audio": "/audio/23/0.08.37.mp3"
+    },
+    "97": {
+        "speaker": "LLAMA",
+        "character": "静かに見続けるというのも1つの方法ではないかということです",
+        "definition": "continuing to admire her from afar isn't out of the question, either.",
+        "timestamp": "0:08:41",
+        "audio": "/audio/23/0.08.41.mp3"
+    },
+    "98": {
+        "speaker": "HANDA",
+        "character": "何？ この写メ…",
+        "definition": "What's with this picture message?",
+        "timestamp": "0:08:49",
+        "audio": "/audio/23/0.08.49.mp3"
+    },
+    "99": {
+        "speaker": "POLAR BEAR",
+        "character": "アドバイス大募集中って みんなに回しといたから",
+        "definition": "I sent out a text to everyone asking for any advice. What?! E-Everyone?",
+        "timestamp": "0:08:52",
+        "audio": "/audio/23/0.08.52.mp3"
+    },
+    "100": {
+        "speaker": "POLAR BEAR",
+        "character": "みんなだよ",
+        "definition": "Everyone.",
+        "timestamp": "0:08:59",
+        "audio": "/audio/23/0.08.59.mp3"
+    },
+    "101": {
+        "speaker": "LESSER",
+        "character": "清潔感と細やかな心遣いに勝ることはありません",
+        "definition": "Nothing can beat cleanliness and a heartfelt regard for others.",
+        "timestamp": "0:09:02",
+        "audio": "/audio/23/0.09.02.mp3"
+    },
+    "102": {
+        "speaker": "",
+        "character": "半田さん ガンバです☆",
+        "definition": "Mr. Handa, good luck!",
+        "timestamp": "0:09:06",
+        "audio": "/audio/23/0.09.06.mp3"
+    },
+    "103": {
+        "speaker": "HANDA",
+        "character": "レッサーくん！？",
+        "definition": "Lesser?",
+        "timestamp": "0:09:09",
+        "audio": "/audio/23/0.09.09.mp3"
+    },
+    "104": {
+        "speaker": "PENGUIN",
+        "character": "半田さんは 間が悪いから それを逆に活かすべきだね",
+        "definition": "You have terrible luck, Mr. Handa, so you need to try to use that in your favor.",
+        "timestamp": "0:09:16",
+        "audio": "/audio/23/0.09.16.mp3"
+    },
+    "105": {
+        "speaker": "HANDA",
+        "character": "逆にって なんなのさ？",
+        "definition": "What do you mean, \"use that in my favor\"?",
+        "timestamp": "0:09:21",
+        "audio": "/audio/23/0.09.21.mp3"
+    },
+    "106": {
+        "speaker": "PANDA",
+        "character": "半田さんの バカァ～～～～っ！！",
+        "definition": "Mr. Handa, you idiot! What is this?! And what does he mean by \"idiot\"? From Miss Sasako, too?! I recommend the fried soy meat.",
+        "timestamp": "0:09:25",
+        "audio": "/audio/23/0.09.25.mp3"
+    },
+    "107": {
+        "speaker": "POLAR BEAR",
+        "character": "よかったね",
+        "definition": "Good thing",
+        "timestamp": "0:09:48",
+        "audio": "/audio/23/0.09.48.mp3"
+    },
+    "108": {
+        "speaker": "POLAR BEAR",
+        "character": "ランチのアドバイスを お願いしといたよ",
+        "definition": "I asked her for a recommendation for lunch. What does that even mean?! Jeez, I even sent him a text.",
+        "timestamp": "0:09:50",
+        "audio": "/audio/23/0.09.50.mp3"
+    },
+    "109": {
+        "speaker": "PANDA",
+        "character": "半田さんたら まだ来ない",
+        "definition": "Mr. Handa's still not here.",
+        "timestamp": "0:10:03",
+        "audio": "/audio/23/0.10.03.mp3"
+    },
+    "110": {
+        "speaker": "PANDA",
+        "character": "早くしないと 笹子さん 取られちゃうよ",
+        "definition": "If he doesn't hurry up, Miss Sasako's going to be taken. Panda!",
+        "timestamp": "0:10:05",
+        "audio": "/audio/23/0.10.05.mp3"
+    },
+    "111": {
+        "speaker": "PENGUIN",
+        "character": "さ… 笹子さ～ん！",
+        "definition": "M-Miss Sasako!",
+        "timestamp": "0:10:18",
+        "audio": "/audio/23/0.10.18.mp3"
+    },
+    "112": {
+        "speaker": "PENGUIN",
+        "character": "ロールケーキ！ロールケーキが そろそろ食べたいな～",
+        "definition": "The roll cake! I'd like to eat the roll cake right about now! Oh, really? Would you like some now?",
+        "timestamp": "0:10:19",
+        "audio": "/audio/23/0.10.19.mp3"
+    },
+    "113": {
+        "speaker": "SASAKO",
+        "character": "お待たせ",
+        "definition": "Here you go. Oh my, Panda...",
+        "timestamp": "0:10:33",
+        "audio": "/audio/23/0.10.33.mp3"
+    },
+    "114": {
+        "speaker": "SASAKO",
+        "character": "にらまないでよ そんなに 待ちかねてたの？",
+        "definition": "Please don't glare like that. Were you waiting that long? Mr. Handa...",
+        "timestamp": "0:10:39",
+        "audio": "/audio/23/0.10.39.mp3"
+    },
+    "115": {
+        "speaker": "PANDA",
+        "character": "バカ！",
+        "definition": "You idiot! It's angry!",
+        "timestamp": "0:10:46",
+        "audio": "/audio/23/0.10.46.mp3"
+    },
+    "116": {
+        "speaker": "SASAKO",
+        "character": "痛恨のミス！",
+        "definition": "A cardinal mistake!",
+        "timestamp": "0:10:55",
+        "audio": "/audio/23/0.10.55.mp3"
+    },
+    "117": {
+        "speaker": "PENGUIN",
+        "character": "パンダくんの念！？",
+        "definition": "Is it because of Panda? Huh?",
+        "timestamp": "0:10:57",
+        "audio": "/audio/23/0.10.57.mp3"
+    },
+    "118": {
+        "speaker": "PANDA",
+        "character": "キリッとしてて かっこいい",
+        "definition": "It looks so stern! How cool! Huh?!",
+        "timestamp": "0:11:04",
+        "audio": "/audio/23/0.11.04.mp3"
+    },
+    "119": {
+        "speaker": "POLAR BEAR",
+        "character": "半田さん",
+        "definition": "Mr. Handa.",
+        "timestamp": "0:11:10",
+        "audio": "/audio/23/0.11.10.mp3"
+    },
+    "120": {
+        "speaker": "POLAR BEAR",
+        "character": "半田さんは そのままが いちばんいいよ",
+        "definition": "I think you should stay just the way you are.",
+        "timestamp": "0:11:13",
+        "audio": "/audio/23/0.11.13.mp3"
+    },
+    "121": {
+        "speaker": "POLAR BEAR",
+        "character": "だって…",
+        "definition": "Because",
+        "timestamp": "0:11:17",
+        "audio": "/audio/23/0.11.17.mp3"
+    },
+    "122": {
+        "speaker": "POLAR BEAR",
+        "character": "それが 半田さんの良さだと思うよ",
+        "definition": "that's what's great about you.",
+        "timestamp": "0:11:19",
+        "audio": "/audio/23/0.11.19.mp3"
+    },
+    "123": {
+        "speaker": "HANDA",
+        "character": "ありがとう",
+        "definition": "Thank you. Come by the café again.",
+        "timestamp": "0:11:27",
+        "audio": "/audio/23/0.11.27.mp3"
+    },
+    "124": {
+        "speaker": "POLAR BEAR",
+        "character": "ごちそうするから",
+        "definition": "I'll treat you. Sure.",
+        "timestamp": "0:11:31",
+        "audio": "/audio/23/0.11.31.mp3"
+    },
+    "125": {
+        "speaker": "MAMA",
+        "character": "皆さん こんにちは",
+        "definition": "Hello, everyone.",
+        "timestamp": "0:11:51",
+        "audio": "/audio/23/0.11.51.mp3"
+    },
+    "126": {
+        "speaker": "MAMA",
+        "character": "私は パンダママ",
+        "definition": "My name is Panda Mama.",
+        "timestamp": "0:11:53",
+        "audio": "/audio/23/0.11.53.mp3"
+    },
+    "127": {
+        "speaker": "MAMA",
+        "character": "今日も家族のため スーパーへお買い物に来ました",
+        "definition": "I'm out buying groceries at the supermarket for my family.",
+        "timestamp": "0:11:55",
+        "audio": "/audio/23/0.11.55.mp3"
+    },
+    "128": {
+        "speaker": "MAMA",
+        "character": "やっぱり 今夜も 竹と笹の 盛り合わせでいいかしらね",
+        "definition": "I think we'll have a combination platter of bamboo and bamboo grass again tonight.",
+        "timestamp": "0:12:01",
+        "audio": "/audio/23/0.12.01.mp3"
+    },
+    "129": {
+        "speaker": "MAMA",
+        "character": "クルミの詰め放題だわ",
+        "definition": "All you can stuff walnuts!",
+        "timestamp": "0:12:10",
+        "audio": "/audio/23/0.12.10.mp3"
+    },
+    "130": {
+        "speaker": "MAMA",
+        "character": "みんな大好きだから 買っていきましょう",
+        "definition": "Everyone loves them so I'll get some.",
+        "timestamp": "0:12:13",
+        "audio": "/audio/23/0.12.13.mp3"
+    },
+    "131": {
+        "speaker": "MAMA",
+        "character": "こんなもんかしらね",
+        "definition": "This looks good. I got quite a few in.",
+        "timestamp": "0:12:22",
+        "audio": "/audio/23/0.12.22.mp3"
+    },
+    "132": {
+        "speaker": "S MAMA",
+        "character": "あらあら パンダママじゃないの",
+        "definition": "Oh, if it isn't Panda Mama. Well, hello, Mama Red Squirrel.",
+        "timestamp": "0:12:25",
+        "audio": "/audio/23/0.12.25.mp3"
+    },
+    "133": {
+        "speaker": "S MAMA",
+        "character": "あら～！ クルミの詰め放題じゃないの",
+        "definition": "Well if it isn't all you can stuff walnuts! Walnuts are our favorite!",
+        "timestamp": "0:12:31",
+        "audio": "/audio/23/0.12.31.mp3"
+    },
+    "134": {
+        "speaker": "MAMA",
+        "character": "うちも家族が好きなので",
+        "definition": "My family loves them, too.",
+        "timestamp": "0:12:39",
+        "audio": "/audio/23/0.12.39.mp3"
+    },
+    "135": {
+        "speaker": "S MAMA",
+        "character": "やだ！ 何 その 気合の入ってない詰め方",
+        "definition": "Goodness, what's with this stuffing? There's no enthusiasm.",
+        "timestamp": "0:12:42",
+        "audio": "/audio/23/0.12.42.mp3"
+    },
+    "136": {
+        "speaker": "MAMA",
+        "character": "そう？ だいぶ 入ったわよ",
+        "definition": "Really? I got quite a few in there. That wouldn't be considered all you can stuff!",
+        "timestamp": "0:12:46",
+        "audio": "/audio/23/0.12.46.mp3"
+    },
+    "137": {
+        "speaker": "S MAMA",
+        "character": "パンダママったら おっとりしすぎ！",
+        "definition": "You're too gentle, Panda Mama.",
+        "timestamp": "0:12:54",
+        "audio": "/audio/23/0.12.54.mp3"
+    },
+    "138": {
+        "speaker": "S MAMA",
+        "character": "そんなんじゃ 資本主義社会を 生き抜いていけないわよ！",
+        "definition": "You won't be able to survive in this capitalist society like that!",
+        "timestamp": "0:12:57",
+        "audio": "/audio/23/0.12.57.mp3"
+    },
+    "139": {
+        "speaker": "MAMA",
+        "character": "じゃあ どうすればいいのかしら？",
+        "definition": "Then what should I do?",
+        "timestamp": "0:13:01",
+        "audio": "/audio/23/0.13.01.mp3"
+    },
+    "140": {
+        "speaker": "S MAMA",
+        "character": "もう… 詰め放題はね…",
+        "definition": "When you're dealing with all you can stuff,",
+        "timestamp": "0:13:04",
+        "audio": "/audio/23/0.13.04.mp3"
+    },
+    "141": {
+        "speaker": "S MAMA",
+        "character": "まずは袋を伸ばすところからよ",
+        "definition": "you have to stretch out the bag first.",
+        "timestamp": "0:13:07",
+        "audio": "/audio/23/0.13.07.mp3"
+    },
+    "142": {
+        "speaker": "MAMA",
+        "character": "まぁ それは知らなかったわ",
+        "definition": "Oh, I didn't know that.",
+        "timestamp": "0:13:10",
+        "audio": "/audio/23/0.13.10.mp3"
+    },
+    "143": {
+        "speaker": "S MAMA",
+        "character": "破れる寸前… 限界ぎりぎりまで伸ばす",
+        "definition": "You stretch it out as far as it'll go, just before it's about to rip.",
+        "timestamp": "0:13:13",
+        "audio": "/audio/23/0.13.13.mp3"
+    },
+    "144": {
+        "speaker": "S MAMA",
+        "character": "破れちゃ 元も子もないから 見極めが肝心よ",
+        "definition": "There's no point if it rips, so being extra careful is crucial. That looks about good.",
+        "timestamp": "0:13:17",
+        "audio": "/audio/23/0.13.17.mp3"
+    },
+    "145": {
+        "speaker": "S MAMA",
+        "character": "さぁ 詰めていくわよ",
+        "definition": "Now let's start stuffing.",
+        "timestamp": "0:13:28",
+        "audio": "/audio/23/0.13.28.mp3"
+    },
+    "146": {
+        "speaker": "MAMA",
+        "character": "はい",
+        "definition": "Okay.",
+        "timestamp": "0:13:30",
+        "audio": "/audio/23/0.13.30.mp3"
+    },
+    "147": {
+        "speaker": "S MAMA",
+        "character": "あ～！ また ダメ ダメ！ そんな無頓着な詰め方",
+        "definition": "No, no, you're doing it wrong. You can't fill it so carelessly. What?",
+        "timestamp": "0:13:33",
+        "audio": "/audio/23/0.13.33.mp3"
+    },
+    "148": {
+        "speaker": "S MAMA",
+        "character": "いい？",
+        "definition": "Listen.",
+        "timestamp": "0:13:39",
+        "audio": "/audio/23/0.13.39.mp3"
+    },
+    "149": {
+        "speaker": "S MAMA",
+        "character": "まず 壁面から攻めるの！",
+        "definition": "You start from the edges!",
+        "timestamp": "0:13:40",
+        "audio": "/audio/23/0.13.40.mp3"
+    },
+    "150": {
+        "speaker": "MAMA",
+        "character": "へ… 壁面？",
+        "definition": "E-Edges?",
+        "timestamp": "0:13:43",
+        "audio": "/audio/23/0.13.43.mp3"
+    },
+    "151": {
+        "speaker": "S MAMA",
+        "character": "緻密に計算して隙間を作らない",
+        "definition": "You carefully measure it out so you don't leave any gaps.",
+        "timestamp": "0:13:45",
+        "audio": "/audio/23/0.13.45.mp3"
+    },
+    "152": {
+        "speaker": "MAMA",
+        "character": "は… はい",
+        "definition": "O-Okay.",
+        "timestamp": "0:13:48",
+        "audio": "/audio/23/0.13.48.mp3"
+    },
+    "153": {
+        "speaker": "S MAMA",
+        "character": "詰め放題はね",
+        "definition": "When you're dealing with all you can stuff,",
+        "timestamp": "0:13:50",
+        "audio": "/audio/23/0.13.50.mp3"
+    },
+    "154": {
+        "speaker": "S MAMA",
+        "character": "たくさん詰めることで 得した気分になって",
+        "definition": "you feel special the more you can stuff.",
+        "timestamp": "0:13:52",
+        "audio": "/audio/23/0.13.52.mp3"
+    },
+    "155": {
+        "speaker": "S MAMA",
+        "character": "更に 詰め方の追求もできる",
+        "definition": "Then you can seek out even better methods of stuffing.",
+        "timestamp": "0:13:55",
+        "audio": "/audio/23/0.13.55.mp3"
+    },
+    "156": {
+        "speaker": "S MAMA",
+        "character": "お買い物のエンターテインメントなのよ！",
+        "definition": "It's a true form of shopping entertainment!",
+        "timestamp": "0:13:59",
+        "audio": "/audio/23/0.13.59.mp3"
+    },
+    "157": {
+        "speaker": "MAMA",
+        "character": "まぁ そうだったのね",
+        "definition": "Oh my! I had no idea.",
+        "timestamp": "0:14:03",
+        "audio": "/audio/23/0.14.03.mp3"
+    },
+    "158": {
+        "speaker": "MAMA",
+        "character": "すごくたくさん入ったわ",
+        "definition": "I got quite a bit in there.",
+        "timestamp": "0:14:14",
+        "audio": "/audio/23/0.14.14.mp3"
+    },
+    "159": {
+        "speaker": "MAMA",
+        "character": "あっ エゾリスママ ここに少し隙間があるみたいよ",
+        "definition": "Oh, Mama Red Squirrel. Looks like you have a slight gap there.",
+        "timestamp": "0:14:17",
+        "audio": "/audio/23/0.14.17.mp3"
+    },
+    "160": {
+        "speaker": "S MAMA",
+        "character": "あら ホント！ 私としたことが ぬかったわ",
+        "definition": "Oh, you're right! I was completely off guard.",
+        "timestamp": "0:14:23",
+        "audio": "/audio/23/0.14.23.mp3"
+    },
+    "161": {
+        "speaker": "S MAMA",
+        "character": "あなたも わかってきたようね パンダママ",
+        "definition": "Looks like you're starting to get it, as well, Panda Mama.",
+        "timestamp": "0:14:29",
+        "audio": "/audio/23/0.14.29.mp3"
+    },
+    "162": {
+        "speaker": "MAMA",
+        "character": "でも もう パンパンだし",
+        "definition": "But it's filled to the brim.",
+        "timestamp": "0:14:33",
+        "audio": "/audio/23/0.14.33.mp3"
+    },
+    "163": {
+        "speaker": "",
+        "character": "ムリかも…",
+        "definition": "I don't think we can fit any more.",
+        "timestamp": "0:14:35",
+        "audio": "/audio/23/0.14.35.mp3"
+    },
+    "164": {
+        "speaker": "S MAMA",
+        "character": "何言ってるの ここからが勝負よ！",
+        "definition": "What are you talking about? The battle starts here!",
+        "timestamp": "0:14:37",
+        "audio": "/audio/23/0.14.37.mp3"
+    },
+    "165": {
+        "speaker": "MAMA",
+        "character": "エゾリスママ ごめんなさい",
+        "definition": "I'm so sorry, Mama Red Squirrel!",
+        "timestamp": "0:14:56",
+        "audio": "/audio/23/0.14.56.mp3"
+    },
+    "166": {
+        "speaker": "MAMA",
+        "character": "私が余計なことを言ったばかりに",
+        "definition": "I shouldn't have said anything.",
+        "timestamp": "0:14:58",
+        "audio": "/audio/23/0.14.58.mp3"
+    },
+    "167": {
+        "speaker": "S MAMA",
+        "character": "油断したわ おごりがあったのね",
+        "definition": "I let down my guard. I was too arrogant.",
+        "timestamp": "0:15:03",
+        "audio": "/audio/23/0.15.03.mp3"
+    },
+    "168": {
+        "speaker": "MAMA",
+        "character": "一緒に詰め直しましょ エゾリスママ",
+        "definition": "Let's stuff another bag together, Mama Red Squirrel.",
+        "timestamp": "0:15:09",
+        "audio": "/audio/23/0.15.09.mp3"
+    },
+    "169": {
+        "speaker": "S MAMA",
+        "character": "おっとりし過ぎなんて 意地悪言ってごめんなさい",
+        "definition": "I'm sorry I said you were too gentle earlier.",
+        "timestamp": "0:15:13",
+        "audio": "/audio/23/0.15.13.mp3"
+    },
+    "170": {
+        "speaker": "MAMA",
+        "character": "そんな… 私こそ勉強になったわ",
+        "definition": "Don't say that. I learned a valuable lesson. By the way, Mama Red Squirrel, want to go to an all-you-can-eat cake buffet afterwards?",
+        "timestamp": "0:15:16",
+        "audio": "/audio/23/0.15.16.mp3"
+    },
+    "171": {
+        "speaker": "MAMA",
+        "character": "キングペンギンさんと約束してるのよ",
+        "definition": "I promised Ms. King Penguin I'd meet up with her. Oh, sounds wonderful!",
+        "timestamp": "0:15:25",
+        "audio": "/audio/23/0.15.25.mp3"
+    },
+    "172": {
+        "speaker": "S MAMA",
+        "character": "どうも お世話さま",
+        "definition": "Thanks for everything!",
+        "timestamp": "0:15:31",
+        "audio": "/audio/23/0.15.31.mp3"
+    },
+    "173": {
+        "speaker": "MAMA",
+        "character": "またね",
+        "definition": "See you later.",
+        "timestamp": "0:15:32",
+        "audio": "/audio/23/0.15.32.mp3"
+    },
+    "174": {
+        "speaker": "S MAMA",
+        "character": "パンダママったら 何にも知らないんだもの",
+        "definition": "Panda Mama didn't know a thing.",
+        "timestamp": "0:15:35",
+        "audio": "/audio/23/0.15.35.mp3"
+    },
+    "175": {
+        "speaker": "KING",
+        "character": "そうなの",
+        "definition": "Oh, really?",
+        "timestamp": "0:15:39",
+        "audio": "/audio/23/0.15.39.mp3"
+    },
+    "176": {
+        "speaker": "KING",
+        "character": "そういうことなら ケーキバイキングは",
+        "definition": "Well, you can call the all-you-can-eat cake buffet",
+        "timestamp": "0:15:41",
+        "audio": "/audio/23/0.15.41.mp3"
+    },
+    "177": {
+        "speaker": "KING",
+        "character": "悩む楽しさと食べるおいしさが 両方味わえる",
+        "definition": "the entertainment of sweets, since you can enjoy both the",
+        "timestamp": "0:15:44",
+        "audio": "/audio/23/0.15.44.mp3"
+    },
+    "178": {
+        "speaker": "",
+        "character": "スイーツのエンターテインメントと言えるわね",
+        "definition": "fun of contemplating and the deliciousness of eating. Oh, my! Everything looks so delicious! Pe-pen!",
+        "timestamp": "0:15:47",
+        "audio": "/audio/23/0.15.47.mp3"
+    },
+    "179": {
+        "speaker": "KING",
+        "character": "まだ早いわ パンダママ",
+        "definition": "Not so fast, Panda Mama! What?",
+        "timestamp": "0:16:06",
+        "audio": "/audio/23/0.16.06.mp3"
+    },
+    "180": {
+        "speaker": "KING",
+        "character": "ラインナップをひととおり確認したら 順位をつけるの",
+        "definition": "Once you've scoped out the lineup, you have to rank them.",
+        "timestamp": "0:16:10",
+        "audio": "/audio/23/0.16.10.mp3"
+    },
+    "181": {
+        "speaker": "KING",
+        "character": "絶対食べたいもの",
+        "definition": "The ones you definitely want to eat.",
+        "timestamp": "0:16:14",
+        "audio": "/audio/23/0.16.14.mp3"
+    },
+    "182": {
+        "speaker": "KING",
+        "character": "その次に食べたいもの",
+        "definition": "Then the ones you want to eat after that.",
+        "timestamp": "0:16:15",
+        "audio": "/audio/23/0.16.15.mp3"
+    },
+    "183": {
+        "speaker": "KING",
+        "character": "お皿に取るのはそのあとよ",
+        "definition": "Only then, can you put things on your plate.",
+        "timestamp": "0:16:18",
+        "audio": "/audio/23/0.16.18.mp3"
+    },
+    "184": {
+        "speaker": "MAMA",
+        "character": "なるほど よくわかったわ",
+        "definition": "I see. I understand now.",
+        "timestamp": "0:16:20",
+        "audio": "/audio/23/0.16.20.mp3"
+    },
+    "185": {
+        "speaker": "MAMA",
+        "character": "やっぱり いちばん食べたいのは イチゴのショートケーキ",
+        "definition": "The one I want to eat the most is the strawberry shortcake. Pe-pen!",
+        "timestamp": "0:16:25",
+        "audio": "/audio/23/0.16.25.mp3"
+    },
+    "186": {
+        "speaker": "KING",
+        "character": "バイキングの基本は ２番目に 好きなものから食べるよ",
+        "definition": "The standard of an all-you-can-eat buffet is to eat your second favorite first.",
+        "timestamp": "0:16:32",
+        "audio": "/audio/23/0.16.32.mp3"
+    },
+    "187": {
+        "speaker": "MAMA",
+        "character": "基本なの？",
+        "definition": "That's a standard?",
+        "timestamp": "0:16:37",
+        "audio": "/audio/23/0.16.37.mp3"
+    },
+    "188": {
+        "speaker": "S MAMA",
+        "character": "最初に いちばん好きなものを選ぶと余裕がなく",
+        "definition": "If you eat your favorite first, you'll rush",
+        "timestamp": "0:16:38",
+        "audio": "/audio/23/0.16.38.mp3"
+    },
+    "189": {
+        "speaker": "S MAMA",
+        "character": "ちゃんと味わえない",
+        "definition": "and you won't enjoy the flavor.",
+        "timestamp": "0:16:41",
+        "audio": "/audio/23/0.16.41.mp3"
+    },
+    "190": {
+        "speaker": "S MAMA",
+        "character": "好きなものじゃないと 味わう意味がない",
+        "definition": "There's no point in eating your favorite if you can't enjoy it.",
+        "timestamp": "0:16:43",
+        "audio": "/audio/23/0.16.43.mp3"
+    },
+    "191": {
+        "speaker": "KING",
+        "character": "そのとおり エゾリスママ",
+        "definition": "Precisely, Mama Red Squirrel. The all-you-can-eat cake buffet tests your way of living.",
+        "timestamp": "0:16:46",
+        "audio": "/audio/23/0.16.46.mp3"
+    },
+    "192": {
+        "speaker": "S MAMA",
+        "character": "ハードボイルドな戦場でもあるのよ",
+        "definition": "It's a hard-boiled battlefield!",
+        "timestamp": "0:16:52",
+        "audio": "/audio/23/0.16.52.mp3"
+    },
+    "193": {
+        "speaker": "MAMA",
+        "character": "せ 戦場…",
+        "definition": "B-Battlefield? Now we'll place the cake on our plates. The thing to remember here is not to overfill your plate.",
+        "timestamp": "0:16:56",
+        "audio": "/audio/23/0.16.56.mp3"
+    },
+    "194": {
+        "speaker": "KING",
+        "character": "３つか４つでいいのよ",
+        "definition": "Just grab three or four. What? That's it?",
+        "timestamp": "0:17:05",
+        "audio": "/audio/23/0.17.05.mp3"
+    },
+    "195": {
+        "speaker": "KING",
+        "character": "そうよ",
+        "definition": "Indeed.",
+        "timestamp": "0:17:11",
+        "audio": "/audio/23/0.17.11.mp3"
+    },
+    "196": {
+        "speaker": "",
+        "character": "お皿は ２回目にまた違うのを使うの",
+        "definition": "You use a different plate for your second round. But wouldn't that make the dishwasher's life harder?",
+        "timestamp": "0:17:12",
+        "audio": "/audio/23/0.17.12.mp3"
+    },
+    "197": {
+        "speaker": "BOTH",
+        "character": "気にしなくていいの！",
+        "definition": "Who cares?!",
+        "timestamp": "0:17:20",
+        "audio": "/audio/23/0.17.20.mp3"
+    },
+    "198": {
+        "speaker": "MAMA",
+        "character": "わ わかったわ",
+        "definition": "A-All right.",
+        "timestamp": "0:17:24",
+        "audio": "/audio/23/0.17.24.mp3"
+    },
+    "199": {
+        "speaker": "MAMA",
+        "character": "一度に少しずつしか もらってこないと",
+        "definition": "It's a bit of a hassle having to go back and forth",
+        "timestamp": "0:17:35",
+        "audio": "/audio/23/0.17.35.mp3"
+    },
+    "200": {
+        "speaker": "MAMA",
+        "character": "何度も行ったり来たり大変ね",
+        "definition": "when you fill your plate with so little.",
+        "timestamp": "0:17:38",
+        "audio": "/audio/23/0.17.38.mp3"
+    },
+    "201": {
+        "speaker": "KING",
+        "character": "それがいいんじゃないの",
+        "definition": "That's what's so great about it.",
+        "timestamp": "0:17:41",
+        "audio": "/audio/23/0.17.41.mp3"
+    },
+    "202": {
+        "speaker": "KING",
+        "character": "立ったり座ったり運動すれば",
+        "definition": "If you exercise by getting up and siting back down,",
+        "timestamp": "0:17:43",
+        "audio": "/audio/23/0.17.43.mp3"
+    },
+    "203": {
+        "speaker": "KING",
+        "character": "そのぶんお腹が空くじゃない",
+        "definition": "you'll be able to make room for more.",
+        "timestamp": "0:17:45",
+        "audio": "/audio/23/0.17.45.mp3"
+    },
+    "204": {
+        "speaker": "MAMA",
+        "character": "そういえばそうね",
+        "definition": "You have a point.",
+        "timestamp": "0:17:47",
+        "audio": "/audio/23/0.17.47.mp3"
+    },
+    "205": {
+        "speaker": "MAMA",
+        "character": "エゾリスママは お上品に食べるのね",
+        "definition": "You eat so elegantly, Mama Red Squirrel.",
+        "timestamp": "0:17:50",
+        "audio": "/audio/23/0.17.50.mp3"
+    },
+    "206": {
+        "speaker": "S MAMA",
+        "character": "大きいんだもの",
+        "definition": "Well, it's huge.",
+        "timestamp": "0:17:53",
+        "audio": "/audio/23/0.17.53.mp3"
+    },
+    "207": {
+        "speaker": "S MAMA",
+        "character": "両手で持たないとムリ",
+        "definition": "If I don't hold it with both hands, I can't eat it.",
+        "timestamp": "0:17:54",
+        "audio": "/audio/23/0.17.54.mp3"
+    },
+    "208": {
+        "speaker": "KING",
+        "character": "体型的に エゾリスには不利ね",
+        "definition": "I guess red squirrels' body size puts them at a disadvantage here.",
+        "timestamp": "0:17:57",
+        "audio": "/audio/23/0.17.57.mp3"
+    },
+    "209": {
+        "speaker": "MAMA",
+        "character": "頬袋に ためていけばいいんじゃない",
+        "definition": "Why not stuff your cheek pouches?",
+        "timestamp": "0:18:00",
+        "audio": "/audio/23/0.18.00.mp3"
+    },
+    "210": {
+        "speaker": "S MAMA",
+        "character": "シマリス属やニホンザルと一緒にしないで！",
+        "definition": "Don't group me with chipmunks or Japanese monkeys!",
+        "timestamp": "0:18:04",
+        "audio": "/audio/23/0.18.04.mp3"
+    },
+    "211": {
+        "speaker": "S MAMA",
+        "character": "エゾリスには そんなものないのよ！",
+        "definition": "Red squirrels don't have those! I-I'm sorry.",
+        "timestamp": "0:18:07",
+        "audio": "/audio/23/0.18.07.mp3"
+    },
+    "212": {
+        "speaker": "S MAMA",
+        "character": "いいのよ 気にしてないわ",
+        "definition": "It's fine. I'm not angry.",
+        "timestamp": "0:18:13",
+        "audio": "/audio/23/0.18.13.mp3"
+    },
+    "213": {
+        "speaker": "MAMA",
+        "character": "キングペンギンさんも 食べ方 きれいよね",
+        "definition": "You eat quite delicately, too, Ms. King Penguin.",
+        "timestamp": "0:18:17",
+        "audio": "/audio/23/0.18.17.mp3"
+    },
+    "214": {
+        "speaker": "KING",
+        "character": "コツがあるのよ",
+        "definition": "There's a trick to it.",
+        "timestamp": "0:18:20",
+        "audio": "/audio/23/0.18.20.mp3"
+    },
+    "215": {
+        "speaker": "MAMA",
+        "character": "コツ？",
+        "definition": "A trick?",
+        "timestamp": "0:18:22",
+        "audio": "/audio/23/0.18.22.mp3"
+    },
+    "216": {
+        "speaker": "KING",
+        "character": "まずは そっとくわえて…",
+        "definition": "First, you carefully hold it in your mouth,",
+        "timestamp": "0:18:23",
+        "audio": "/audio/23/0.18.23.mp3"
+    },
+    "217": {
+        "speaker": "KING",
+        "character": "持ち上げ… 飲む！",
+        "definition": "then bring it up... And gulp!",
+        "timestamp": "0:18:27",
+        "audio": "/audio/23/0.18.27.mp3"
+    },
+    "218": {
+        "speaker": "KING",
+        "character": "どう？",
+        "definition": "How's that?",
+        "timestamp": "0:18:33",
+        "audio": "/audio/23/0.18.33.mp3"
+    },
+    "219": {
+        "speaker": "MAMA",
+        "character": "食べるところが 見えないくらいだわ",
+        "definition": "It's like we can't see you eating at all! You can gulp down a cake like its a drink. Pe-pen!",
+        "timestamp": "0:18:34",
+        "audio": "/audio/23/0.18.34.mp3"
+    },
+    "220": {
+        "speaker": "MAMA",
+        "character": "なんなの ペッペーンって",
+        "definition": "What do you mean by \"pe-pen\"?",
+        "timestamp": "0:18:43",
+        "audio": "/audio/23/0.18.43.mp3"
+    },
+    "221": {
+        "speaker": "KING",
+        "character": "紅茶やコーヒーは 別料金なのよ！",
+        "definition": "Coffee and tea cost extra!",
+        "timestamp": "0:18:46",
+        "audio": "/audio/23/0.18.46.mp3"
+    },
+    "222": {
+        "speaker": "",
+        "character": "しかも ホテル価格",
+        "definition": "Not to mention they're hotel-priced!",
+        "timestamp": "0:18:48",
+        "audio": "/audio/23/0.18.48.mp3"
+    },
+    "223": {
+        "speaker": "S MAMA",
+        "character": "税 サービス料 別",
+        "definition": "And they charge tax and a service fee!",
+        "timestamp": "0:18:50",
+        "audio": "/audio/23/0.18.50.mp3"
+    },
+    "224": {
+        "speaker": "S MAMA",
+        "character": "よっぽどのことでないと 飲んじゃダメ！",
+        "definition": "Don't drink it unless it's an emergency!",
+        "timestamp": "0:18:52",
+        "audio": "/audio/23/0.18.52.mp3"
+    },
+    "225": {
+        "speaker": "KING",
+        "character": "ノドが渇けば ケーキを飲めばいいのよ！",
+        "definition": "If you're thirsty, just gulp down some cake!",
+        "timestamp": "0:18:55",
+        "audio": "/audio/23/0.18.55.mp3"
+    },
+    "226": {
+        "speaker": "MAMA",
+        "character": "でも 飲むのはいいけど",
+        "definition": "That's fine and all, but my palate is getting bored of all the sweets.",
+        "timestamp": "0:19:01",
+        "audio": "/audio/23/0.19.01.mp3"
+    },
+    "227": {
+        "speaker": "S MAMA",
+        "character": "そういうときのために…軽食というジャンルが 用意されているのよ！",
+        "definition": "And for that very reason... They have light snacks ready for you, too.",
+        "timestamp": "0:19:07",
+        "audio": "/audio/23/0.19.07.mp3"
+    },
+    "228": {
+        "speaker": "MAMA",
+        "character": "そうだったのね",
+        "definition": "I see.",
+        "timestamp": "0:19:14",
+        "audio": "/audio/23/0.19.14.mp3"
+    },
+    "229": {
+        "speaker": "",
+        "character": "ケーキバイキングと名乗るからにはお菓子を味わってこそ",
+        "definition": "Since it's an all-you-can-eat cake buffet, I thought it was just for eating sweets.",
+        "timestamp": "0:19:16",
+        "audio": "/audio/23/0.19.16.mp3"
+    },
+    "230": {
+        "speaker": "MAMA",
+        "character": "軽食なんて邪道だ なんて思ってたけど",
+        "definition": "I thought light snacks would be heresy.",
+        "timestamp": "0:19:20",
+        "audio": "/audio/23/0.19.20.mp3"
+    },
+    "231": {
+        "speaker": "S MAMA",
+        "character": "とんでもない",
+        "definition": "Nonsense.",
+        "timestamp": "0:19:23",
+        "audio": "/audio/23/0.19.23.mp3"
+    },
+    "232": {
+        "speaker": "KING",
+        "character": "オールラウンドにケーキバイキングという空間を楽しんでこそ",
+        "definition": "Only once you've enjoyed all that an all-you-can-eat cake buffet has to offer,",
+        "timestamp": "0:19:25",
+        "audio": "/audio/23/0.19.25.mp3"
+    },
+    "233": {
+        "speaker": "KING",
+        "character": "ケーキバイキンガー！ なのよ",
+        "definition": "can you be a true all-you-can-eat cake buffeter.",
+        "timestamp": "0:19:29",
+        "audio": "/audio/23/0.19.29.mp3"
+    },
+    "234": {
+        "speaker": "MAMA",
+        "character": "お二人と 一緒に来られて よかったわ",
+        "definition": "I'm very thankful I came with you two.",
+        "timestamp": "0:19:34",
+        "audio": "/audio/23/0.19.34.mp3"
+    },
+    "235": {
+        "speaker": "MAMA",
+        "character": "１人だったら 絶対…",
+        "definition": "If I had come here alone, I'd—",
+        "timestamp": "0:19:37",
+        "audio": "/audio/23/0.19.37.mp3"
+    },
+    "236": {
+        "speaker": "BOTH",
+        "character": "討ち死によ！",
+        "definition": "Die in battle!",
+        "timestamp": "0:19:39",
+        "audio": "/audio/23/0.19.39.mp3"
+    },
+    "237": {
+        "speaker": "MAMA",
+        "character": "なんだか すごい達成感",
+        "definition": "I feel so accomplished.",
+        "timestamp": "0:19:50",
+        "audio": "/audio/23/0.19.50.mp3"
+    },
+    "238": {
+        "speaker": "KING",
+        "character": "やったわね 私たち",
+        "definition": "We did a great job.",
+        "timestamp": "0:19:52",
+        "audio": "/audio/23/0.19.52.mp3"
+    },
+    "239": {
+        "speaker": "S MAMA",
+        "character": "パンダママ",
+        "definition": "I didn't think you were going to be able to finish that last plate, Panda Mama.",
+        "timestamp": "0:19:54",
+        "audio": "/audio/23/0.19.54.mp3"
+    },
+    "240": {
+        "speaker": "S MAMA",
+        "character": "しびれたわ",
+        "definition": "I had chills just watching.",
+        "timestamp": "0:19:59",
+        "audio": "/audio/23/0.19.59.mp3"
+    },
+    "241": {
+        "speaker": "MAMA",
+        "character": "言わないで… 恥ずかしい",
+        "definition": "Oh, stop. You're embarrassing me.",
+        "timestamp": "0:20:00",
+        "audio": "/audio/23/0.20.00.mp3"
+    },
+    "242": {
+        "speaker": "MAMA",
+        "character": "あら？田中さんじゃない？",
+        "definition": "Oh, if it isn't Ms. Tanaka.",
+        "timestamp": "0:20:03",
+        "audio": "/audio/23/0.20.03.mp3"
+    },
+    "243": {
+        "speaker": "TANAKA",
+        "character": "こんにちは パンダママ",
+        "definition": "Hello, Panda Mama. Are you out running errands?",
+        "timestamp": "0:20:07",
+        "audio": "/audio/23/0.20.07.mp3"
+    },
+    "244": {
+        "speaker": "MAMA",
+        "character": "それがね 田中さん 聞いてくれる？ 大充実の一日",
+        "definition": "Well, you see, Ms. Tanaka, listen to this, I had a completely productive day. My last plate was so full!",
+        "timestamp": "0:20:10",
+        "audio": "/audio/23/0.20.10.mp3"
+    },
+    "245": {
+        "speaker": "TANAKA",
+        "character": "あら ステキ！",
+        "definition": "How wonderful.",
+        "timestamp": "0:20:19",
+        "audio": "/audio/23/0.20.19.mp3"
+    },
+    "246": {
+        "speaker": "MAMA",
+        "character": "よかったら お茶でもしない？",
+        "definition": "Would you care to join us for some tea?",
+        "timestamp": "0:20:20",
+        "audio": "/audio/23/0.20.20.mp3"
+    },
+    "247": {
+        "speaker": "KING",
+        "character": "いいわね 休みたいわ ちょっと 食べ疲れしちゃったから",
+        "definition": "That sounds great. I'd like to rest. I'm exhausted from all the eating.",
+        "timestamp": "0:20:22",
+        "audio": "/audio/23/0.20.22.mp3"
+    },
+    "248": {
+        "speaker": "MAMA",
+        "character": "そういえば ここね 息子が常連なのよ",
+        "definition": "By the way, my son's a regular here.",
+        "timestamp": "0:20:29",
+        "audio": "/audio/23/0.20.29.mp3"
+    },
+    "249": {
+        "speaker": "KING",
+        "character": "あっ 息子さん バイトは続いてるの？",
+        "definition": "Is your son still working the part-time job?",
+        "timestamp": "0:20:33",
+        "audio": "/audio/23/0.20.33.mp3"
+    },
+    "250": {
+        "speaker": "MAMA",
+        "character": "なんとかね",
+        "definition": "It appears so.",
+        "timestamp": "0:20:36",
+        "audio": "/audio/23/0.20.36.mp3"
+    },
+    "251": {
+        "speaker": "TANAKA",
+        "character": "いつも 会ったら挨拶してくれるわよ",
+        "definition": "He always says hello when I see him.",
+        "timestamp": "0:20:37",
+        "audio": "/audio/23/0.20.37.mp3"
+    },
+    "252": {
+        "speaker": "MAMA",
+        "character": "愛想だけはいいのよ でも将来が心配",
+        "definition": "His courtesies may be his only good trait. But I'm so worried about his future.",
+        "timestamp": "0:20:40",
+        "audio": "/audio/23/0.20.40.mp3"
+    },
+    "253": {
+        "speaker": "KING",
+        "character": "家の子も カードっていうの？",
+        "definition": "My son is playing with, what are they called, cards?",
+        "timestamp": "0:20:44",
+        "audio": "/audio/23/0.20.44.mp3"
+    },
+    "254": {
+        "speaker": "KING",
+        "character": "それで遊んでばっかりいるから 心配なのよ",
+        "definition": "He's been playing with them so much that I'm worried. Seems like everyone's in the same boat.",
+        "timestamp": "0:20:47",
+        "audio": "/audio/23/0.20.47.mp3"
+    },
+    "255": {
+        "speaker": "S MAMA",
+        "character": "おかわりちょうだい 同じもの",
+        "definition": "Oh, could I get another of the same?",
+        "timestamp": "0:20:53",
+        "audio": "/audio/23/0.20.53.mp3"
+    },
+    "256": {
+        "speaker": "POLAR BEAR",
+        "character": "はい",
+        "definition": "Yes, ma'am. Refills are half price. Oh, my!",
+        "timestamp": "0:20:56",
+        "audio": "/audio/23/0.20.56.mp3"
+    },
+    "257": {
+        "speaker": "POLAR BEAR",
+        "character": "サービスですよ",
+        "definition": "It's a service we provide.",
+        "timestamp": "0:21:04",
+        "audio": "/audio/23/0.21.04.mp3"
+    },
+    "258": {
+        "speaker": "ALL",
+        "character": "おかわりなのに お金とるの！？",
+        "definition": "It's a refill and you're charging us money?",
+        "timestamp": "0:21:07",
+        "audio": "/audio/23/0.21.07.mp3"
+    },
+    "259": {
+        "speaker": "TANAKA",
+        "character": "ホテルみたい",
+        "definition": "It's like a café in a hotel!",
+        "timestamp": "0:21:11",
+        "audio": "/audio/23/0.21.11.mp3"
+    },
+    "260": {
+        "speaker": "POLAR BEAR",
+        "character": "も… 申し訳ありません",
+        "definition": "I-I'm terribly sorry.",
+        "timestamp": "0:21:13",
+        "audio": "/audio/23/0.21.13.mp3"
+    },
+    "261": {
+        "speaker": "S MAMA",
+        "character": "半額って高くない？",
+        "definition": "Isn't half price a bit expensive?",
+        "timestamp": "0:21:15",
+        "audio": "/audio/23/0.21.15.mp3"
+    },
+    "262": {
+        "speaker": "KING",
+        "character": "時々 来てるんだから サービスしなさいよ",
+        "definition": "We come here every now and then so it should be on the house!",
+        "timestamp": "0:21:17",
+        "audio": "/audio/23/0.21.17.mp3"
+    },
+    "263": {
+        "speaker": "POLAR BEAR",
+        "character": "すみません…",
+        "definition": "I'm sorry.",
+        "timestamp": "0:21:21",
+        "audio": "/audio/23/0.21.21.mp3"
+    },
+    "264": {
+        "speaker": "S MAMA",
+        "character": "ホント ゆとりって怖いわ",
+        "definition": "You can't ever let your guard down.",
+        "timestamp": "0:21:24",
+        "audio": "/audio/23/0.21.24.mp3"
+    },
+    "265": {
+        "speaker": "TANAKA",
+        "character": "あら もう こんな時間？",
+        "definition": "Oh, where did the time go?",
+        "timestamp": "0:21:30",
+        "audio": "/audio/23/0.21.30.mp3"
+    },
+    "266": {
+        "speaker": "S MAMA",
+        "character": "やだ ホント",
+        "definition": "Oh, you're right.",
+        "timestamp": "0:21:33",
+        "audio": "/audio/23/0.21.33.mp3"
+    },
+    "267": {
+        "speaker": "POLAR BEAR",
+        "character": "ありがとうございました",
+        "definition": "Thank you very much!",
+        "timestamp": "0:21:36",
+        "audio": "/audio/23/0.21.36.mp3"
+    },
+    "268": {
+        "speaker": "KING",
+        "character": "ねぇ 今度は ランチバイキングに行きましょうよ",
+        "definition": "Say, let's go to an all-you-can-eat lunch buffet next time.",
+        "timestamp": "0:21:38",
+        "audio": "/audio/23/0.21.38.mp3"
+    },
+    "269": {
+        "speaker": "S MAMA",
+        "character": "いいわね どこ？",
+        "definition": "Sounds great! Where should we go?",
+        "timestamp": "0:21:41",
+        "audio": "/audio/23/0.21.41.mp3"
+    },
+    "270": {
+        "speaker": "MAMA",
+        "character": "ちょっと 場所 教えてくれる？",
+        "definition": "Sounds like you know a good place. I do!",
+        "timestamp": "0:21:43",
+        "audio": "/audio/23/0.21.43.mp3"
+    },
+    "271": {
+        "speaker": "KING",
+        "character": "１丁目に イタリアンレストランがあるでしょ",
+        "definition": "You know the Italian restaurant on 1st street, right?",
+        "timestamp": "0:21:47",
+        "audio": "/audio/23/0.21.47.mp3"
+    },
+    "272": {
+        "speaker": "KING",
+        "character": "そこの評判がいいみたい",
+        "definition": "I've heard great things about that place!",
+        "timestamp": "0:21:50",
+        "audio": "/audio/23/0.21.50.mp3"
+    },
+    "273": {
+        "speaker": "TANAKA",
+        "character": "まあ そうなの？",
+        "definition": "Oh, really?",
+        "timestamp": "0:21:52",
+        "audio": "/audio/23/0.21.52.mp3"
+    },
+    "274": {
+        "speaker": "S MAMA",
+        "character": "あら ぜひ ご一緒したいわ",
+        "definition": "We should definitely go there!",
+        "timestamp": "0:21:53",
+        "audio": "/audio/23/0.21.53.mp3"
+    },
+    "275": {
+        "speaker": "MAMA",
+        "character": "コーヒー おかわりいただこうかしら",
+        "definition": "Could I get a refill on my coffee?",
+        "timestamp": "0:21:56",
+        "audio": "/audio/23/0.21.56.mp3"
+    },
+    "276": {
+        "speaker": "KING",
+        "character": "おかわりの おかわりだから ４分の１のお値段でいいわよね？",
+        "definition": "It's a refill of a refill, so it'll only be a fourth of the price, right?",
+        "timestamp": "0:21:58",
+        "audio": "/audio/23/0.21.58.mp3"
+    },
+    "277": {
+        "speaker": "S MAMA",
+        "character": "それくらい当然よね？",
+        "definition": "Makes perfect sense to me. I'd like a refill, too, Mr. Polar Bear.",
+        "timestamp": "0:22:01",
+        "audio": "/audio/23/0.22.01.mp3"
+    },
+    "278": {
+        "speaker": "KING",
+        "character": "ああ 私も 半額の半額のおかわり もらえる？",
+        "definition": "Oh, me, too. Could I get half price on a half price refill?",
+        "timestamp": "0:22:06",
+        "audio": "/audio/23/0.22.06.mp3"
+    },
+    "279": {
+        "speaker": "POLAR BEAR",
+        "character": "帰らないね…",
+        "definition": "{\\a6}Actually, a refill on a refill will not make it a lesser price...",
+        "timestamp": "0:22:10",
+        "audio": "/audio/23/0.22.10.mp3"
+    },
+    "280": {
+        "speaker": "PANDA",
+        "character": "帰らないね…",
+        "definition": "They're not leaving...",
+        "timestamp": "0:22:10",
+        "audio": "/audio/23/0.22.10.mp3"
+    },
+    "281": {
+        "speaker": "PENGUIN",
+        "character": "なんで隠れてるの？",
+        "definition": "Why are you hiding?",
+        "timestamp": "0:22:12",
+        "audio": "/audio/23/0.22.12.mp3"
+    },
+    "282": {
+        "speaker": "PENGUIN",
+        "character": "というか なんで僕まで？",
+        "definition": "Or rather, why do I have to hide with you? {\\a6}What?!",
+        "timestamp": "0:22:14",
+        "audio": "/audio/23/0.22.14.mp3"
+    },
+    "283": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "timestamp": "0:23:58",
+        "audio": "/audio/23/0.23.58.mp3"
+    },
+    "284": {
+        "speaker": "PENGUIN",
+        "character": "何 パンダ君",
+        "definition": "What is it, Panda?",
+        "timestamp": "0:23:59",
+        "audio": "/audio/23/0.23.59.mp3"
+    },
+    "285": {
+        "speaker": "PANDA",
+        "character": "旅に出ると気持ちが盛り上がるね",
+        "definition": "Isn't it exciting when we go on trips?",
+        "timestamp": "0:24:01",
+        "audio": "/audio/23/0.24.01.mp3"
+    },
+    "286": {
+        "speaker": "PENGUIN",
+        "character": "そうだね",
+        "definition": "It is.",
+        "timestamp": "0:24:03",
+        "audio": "/audio/23/0.24.03.mp3"
+    },
+    "287": {
+        "speaker": "PANDA",
+        "character": "ペンギンさん 盛り上がったまま全財産窓から投げちゃえば",
+        "definition": "Well since you're so excited, why don't you throw your life savings out the window?",
+        "timestamp": "0:24:04",
+        "audio": "/audio/23/0.24.04.mp3"
+    },
+    "288": {
+        "speaker": "PENGUIN",
+        "character": "窓開かんないし それにそこまでは盛り上がってないかな",
+        "definition": "The windows won't open, not to mention I'm not {\\i1}that{\\i0} excited.",
+        "timestamp": "0:24:08",
+        "audio": "/audio/23/0.24.08.mp3"
+    },
+    "289": {
+        "speaker": "PANDA",
+        "character": "じゃペンギンさんちょっと黙っててよ 僕ねるから",
+        "definition": "Then could you shut up for a while, Mr. Penguin? I'm gonna go to sleep.",
+        "timestamp": "0:24:12",
+        "audio": "/audio/23/0.24.12.mp3"
+    },
+    "290": {
+        "speaker": "PENGUIN",
+        "character": "君がかけてきたんだけど",
+        "definition": "You're the one that started talking to me... Next week's Polar Bear Café,",
+        "timestamp": "0:24:16",
+        "audio": "/audio/23/0.24.16.mp3"
+    },
+    "291": {
+        "speaker": "POLAR BEAR",
+        "character": "ペーパークラフトでお送りします",
+        "definition": "will be presented to you in paper craft.",
+        "timestamp": "0:24:19",
+        "audio": "/audio/23/0.24.19.mp3"
+    },
+    "292": {
+        "speaker": "PENGUIN",
+        "character": "アニメでいこう",
+        "definition": "Let's go with animation.",
+        "timestamp": "0:24:21",
+        "audio": "/audio/23/0.24.21.mp3"
+    },
+    "293": {
+        "speaker": "SASAKO",
+        "character": "お楽しみに",
+        "definition": "Enjoy!",
+        "timestamp": "0:24:22",
+        "audio": "/audio/23/0.24.22.mp3"
+    }
+}

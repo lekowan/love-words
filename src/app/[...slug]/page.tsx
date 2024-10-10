@@ -3,6 +3,7 @@ import { StoryTemplate } from "../components/story-template/story-template"
 import type { Dictionary } from "../hooks/useDictionaryStore"
 
 export interface TranscriptDataEntry {
+  audio: string
   character: string
   letter: string
   pinyin: string
@@ -22,6 +23,8 @@ export async function generateStaticParams() {
 
 export default async function Story({ params }: { params: { slug: string } }) {
   const storyData: TranscriptDataProps = await getStory(params.slug)
-  const dictionary: Dictionary = await getStory(`${params.slug}-dictionary`)
+  const dictionary: Dictionary = await getStory(
+    `/dictionary/${params.slug}-dictionary`
+  )
   return <StoryTemplate data={storyData} dictionary={dictionary} />
 }

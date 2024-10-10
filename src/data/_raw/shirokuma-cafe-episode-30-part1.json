@@ -1,0 +1,1692 @@
+{
+    "1": {
+        "speaker": "PENGUIN",
+        "japanese": "{\\an8}僕 ダメなんだ 秋って",
+        "english": "I just can't deal with autumn."
+    },
+    "2": {
+        "speaker": "PENGUIN",
+        "japanese": "{\\an8}なんだか もの悲しくなってきちゃう",
+        "english": "I get really depressed."
+    },
+    "3": {
+        "speaker": "POLAR BEAR",
+        "japanese": "{\\an8}そう？ 僕は 日ざしが弱まってきたり",
+        "english": "Really? When the sun doesn't shine as much, and the north wind starts blowing... I get excited about the fact that it's getting cold."
+    },
+    "4": {
+        "speaker": "PENGUIN",
+        "japanese": "普通はものの哀れってものを 感じない",
+        "english": "Wouldn't you usually think about how fleeting everything is?"
+    },
+    "5": {
+        "speaker": "PENGUIN",
+        "japanese": "そんなのキミだけだよ",
+        "english": "You're the only one that's happy."
+    },
+    "6": {
+        "speaker": "PANDA",
+        "japanese": "ねぇねぇ 知ってる",
+        "english": "Hey, did you know?"
+    },
+    "7": {
+        "speaker": "PANDA",
+        "japanese": "ウキウキしちゃうよ",
+        "english": "You're gonna be really excited! And there's another one."
+    },
+    "8": {
+        "speaker": "PENGUIN",
+        "japanese": "パンダくん 何をそんなにはしゃいでるの",
+        "english": "What are you so excited about, Panda?"
+    },
+    "9": {
+        "speaker": "PANDA",
+        "japanese": "お菓子がもらえるんだよ",
+        "english": "You'll get candy!"
+    },
+    "10": {
+        "speaker": "PENGUIN",
+        "japanese": "誰が",
+        "english": "Who'll get candy?"
+    },
+    "11": {
+        "speaker": "PANDA",
+        "japanese": "僕かな",
+        "english": "Me, I think."
+    },
+    "12": {
+        "speaker": "PENGUIN",
+        "japanese": "誰に",
+        "english": "And who'll give you candy?"
+    },
+    "13": {
+        "speaker": "PANDA",
+        "japanese": "誰だろうね",
+        "english": "I wonder who it'll be?"
+    },
+    "14": {
+        "speaker": "PENGUIN",
+        "japanese": "この話 終わりにしていい",
+        "english": "May I end this conversation?"
+    },
+    "15": {
+        "speaker": "PANDA",
+        "japanese": "だからね 今日は お菓子がもらえる日なんだよ",
+        "english": "I'm trying to tell you that today is a day you get candy."
+    },
+    "16": {
+        "speaker": "SASAKO",
+        "japanese": "ハロウィーンのことかな",
+        "english": "Are you referring to Halloween?"
+    },
+    "17": {
+        "speaker": "PANDA",
+        "japanese": "そう それだよ",
+        "english": "Yeah, that's it!"
+    },
+    "18": {
+        "speaker": "PENGUIN",
+        "japanese": "よく こんな ふんわりした説明でわかったね",
+        "english": "I'm amazed you were able to get that from this vague explanation."
+    },
+    "19": {
+        "speaker": "SASAKO",
+        "japanese": "うちも今 ハロウィーン仕様の飾りになってますよ",
+        "english": "We have Halloween decorations up, as well."
+    },
+    "20": {
+        "speaker": "SASAKO",
+        "japanese": "あぁ どおりで",
+        "english": "See? Oh, that's why."
+    },
+    "21": {
+        "speaker": "POLAR BEAR",
+        "japanese": "笹子さん カボチャ友の会に入会したのかと思ったよ",
+        "english": "I thought you had joined the Friends-with-pumpkins group, Miss Sasako. And why is that?"
+    },
+    "22": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ほら なんとなく…",
+        "english": "Well, you know..."
+    },
+    "23": {
+        "speaker": "SASAKO",
+        "japanese": "どうしてですか",
+        "english": "Why is that?"
+    },
+    "24": {
+        "speaker": "POLAR BEAR",
+        "japanese": "なんでもないよ",
+        "english": "Never mind."
+    },
+    "25": {
+        "speaker": "PENGUIN",
+        "japanese": "笹子さん もうやめてあげよう",
+        "english": "Let's stop right there, Miss Sasako."
+    },
+    "26": {
+        "speaker": "PANDA",
+        "japanese": "なんでもいいから 早く お菓子もらいにいこうよ～",
+        "english": "Whatever. Let's just hurry and go get candy!"
+    },
+    "27": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "28": {
+        "speaker": "PENGUIN",
+        "japanese": "なに パンダくん",
+        "english": "What is it, Panda?"
+    },
+    "29": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん 似合ってるね それ",
+        "english": "You look really good in that, Mr. Penguin."
+    },
+    "30": {
+        "speaker": "PENGUIN",
+        "japanese": "そう",
+        "english": "Really?"
+    },
+    "31": {
+        "speaker": "PANDA",
+        "japanese": "かわいい たわしだね",
+        "english": "What a cute looking scrubbing brush."
+    },
+    "32": {
+        "speaker": "PENGUIN",
+        "japanese": "キングペンギンのヒナだよ",
+        "english": "I'm supposed to be a baby king penguin!"
+    },
+    "33": {
+        "speaker": "PENGUIN",
+        "japanese": "もこもこしてるでしょう",
+        "english": "It's puffy, isn't it?"
+    },
+    "34": {
+        "speaker": "POlAR BEAR",
+        "japanese": "ペンギンさん ペンギンさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "35": {
+        "speaker": "PENGUIN",
+        "japanese": "なに シロクマくん",
+        "english": "What is it, Polar Bear?"
+    },
+    "36": {
+        "speaker": "POLAR BEAR",
+        "japanese": "やっぱり ズボンもはいたほうがいいかな",
+        "english": "Should I have worn pants after all?"
+    },
+    "37": {
+        "speaker": "PENGUIN",
+        "japanese": "いや… そこは どっちでもいいんじゃない",
+        "english": "I don't think that really matters..."
+    },
+    "38": {
+        "speaker": "PANDA",
+        "japanese": "グリズリーさん お菓子 ちょうだい",
+        "english": "Give us some candy, Mr. Grizzly! Give! Give! Why the hell would I?"
+    },
+    "39": {
+        "speaker": "PANDA",
+        "japanese": "理由は いいから ちょうだい お菓子",
+        "english": "The reason's not important! Just give us candy!"
+    },
+    "40": {
+        "speaker": "GRIZZLY",
+        "japanese": "うちは バーだぞ",
+        "english": "This is a bar."
+    },
+    "41": {
+        "speaker": "GRIZZLY",
+        "japanese": "飴玉だのガムだの あるわけねえだろ",
+        "english": "Why would we have candy or gum?"
+    },
+    "42": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ… 預金通帳でもいいよ",
+        "english": "Then we'll settle for your bank book."
+    },
+    "43": {
+        "speaker": "GRIZZLY",
+        "japanese": "渡すか～",
+        "english": "Like I'd give that to you!"
+    },
+    "44": {
+        "speaker": "GRIZZLY",
+        "japanese": "おらよ",
+        "english": "Here."
+    },
+    "45": {
+        "speaker": "PENGUIN",
+        "japanese": "ビーフジャーキー しぶいな～",
+        "english": "Beef jerky? That's rather stoic. Thank you, Mr. Grizzly."
+    },
+    "46": {
+        "speaker": "GRIZZlY",
+        "japanese": "お… おう…",
+        "english": "S-Sure."
+    },
+    "47": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ありがとう グリズリーくん",
+        "english": "Thank you, my dear Grizzly."
+    },
+    "48": {
+        "speaker": "GRIZZLY",
+        "japanese": "てめえは やめろって",
+        "english": "You need to stop!"
+    },
+    "49": {
+        "speaker": "PANDA",
+        "japanese": "お菓子 くださ～い",
+        "english": "Give us candy, please!"
+    },
+    "50": {
+        "speaker": "TIGER",
+        "japanese": "なんにしましょう",
+        "english": "What'll it be?"
+    },
+    "51": {
+        "speaker": "PANDA",
+        "japanese": "えっ なんでもいいの",
+        "english": "What? We can choose anything?"
+    },
+    "52": {
+        "speaker": "PANDA",
+        "japanese": "どれにしよう",
+        "english": "I wonder what I should pick?"
+    },
+    "53": {
+        "speaker": "PENGUIN",
+        "japanese": "僕 これ",
+        "english": "I'll take this."
+    },
+    "54": {
+        "speaker": "TIGER",
+        "japanese": "はい 鮎餅",
+        "english": "Smelt mochi coming right up!"
+    },
+    "55": {
+        "speaker": "PANDA",
+        "japanese": "僕は この 肉球みたいなのがいいな～",
+        "english": "I want these things that look like paws."
+    },
+    "56": {
+        "speaker": "TIGER",
+        "japanese": "はい ねりきり",
+        "english": "Sweet paws coming right up!"
+    },
+    "57": {
+        "speaker": "TIGER",
+        "japanese": "お勘定は ご一緒で",
+        "english": "Will this all be on one check?"
+    },
+    "58": {
+        "speaker": "PENGUIN",
+        "japanese": "えっ",
+        "english": "Huh? Polar Bear's Café"
+    },
+    "59": {
+        "speaker": "PANDA",
+        "japanese": "お金 取るなんてね～",
+        "english": "Who knew we'd have to pay."
+    },
+    "60": {
+        "speaker": "PENGUIN",
+        "japanese": "いや 僕もどうかしてたけど",
+        "english": "I apparently wasn't thinking."
+    },
+    "61": {
+        "speaker": "PENGUIN",
+        "japanese": "お店 入って お金 払わないほうが ありえないよ",
+        "english": "It's only obvious that we'd have to pay for something in a store."
+    },
+    "62": {
+        "speaker": "POLAR BEAR",
+        "japanese": "アンコ おいしい",
+        "english": "The red bean filling is delicious."
+    },
+    "63": {
+        "speaker": "POLAR BEAR",
+        "japanese": "うちでも出そうかな アンコもの",
+        "english": "Maybe I should serve something with red bean at the café."
+    },
+    "64": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん",
+        "english": "Polar Bear!"
+    },
+    "65": {
+        "speaker": "POLAR BEAR",
+        "japanese": "なんちゃって",
+        "english": "Just kidding."
+    },
+    "66": {
+        "speaker": "PENGUIN",
+        "japanese": "もう… っていうか 仮装しすぎでしょう",
+        "english": "Jeez. More importantly, aren't you excessively changing costumes?"
+    },
+    "67": {
+        "speaker": "PENGUIN",
+        "japanese": "どこで着替えてんの",
+        "english": "Where are you even changing?"
+    },
+    "68": {
+        "speaker": "PENGUIN",
+        "japanese": "電柱の陰…",
+        "english": "In a dark alley?"
+    },
+    "69": {
+        "speaker": "PENGUIN",
+        "japanese": "結構 苦労してんだね",
+        "english": "Working hard, aren't you?"
+    },
+    "70": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさんの甥っ子さんたちだ",
+        "english": "It's your nephew and his friend."
+    },
+    "71": {
+        "speaker": "BABY E",
+        "japanese": "こんばんは～",
+        "english": "Good evening."
+    },
+    "72": {
+        "speaker": "PENGUIN",
+        "japanese": "おぉ お菓子いっぱいだね",
+        "english": "Wow, you've got quite a bit of candy there."
+    },
+    "73": {
+        "speaker": "BABY E",
+        "japanese": "え～っと… おじさん あげる",
+        "english": "Let's see... Here you go, Uncle. For you. Thank you."
+    },
+    "74": {
+        "speaker": "PENGUIN",
+        "japanese": "ごめん… あんまり見ないで",
+        "english": "Sorry, could you not stare at me like that?"
+    },
+    "75": {
+        "speaker": "PENGUIN",
+        "japanese": "あ… もこもこ",
+        "english": "Um... puffy?"
+    },
+    "76": {
+        "speaker": "BABY E",
+        "japanese": "バイバーイ",
+        "english": "Bye-bye!"
+    },
+    "77": {
+        "speaker": "PENGUIN",
+        "japanese": "僕… なんで この仮装にしちゃったのかな",
+        "english": "I wonder why I even picked this costume."
+    },
+    "78": {
+        "speaker": "PANDA",
+        "japanese": "お菓子 いっぱいだね",
+        "english": "This is a lot of candy."
+    },
+    "79": {
+        "speaker": "PANDA",
+        "japanese": "あの子たちと なにが違うんだろう",
+        "english": "I wonder what's so different between us and them?"
+    },
+    "80": {
+        "speaker": "PENGUIN",
+        "japanese": "そりゃ まあ かわいさじゃない",
+        "english": "Probably the level of cuteness?"
+    },
+    "81": {
+        "speaker": "PANDA",
+        "japanese": "僕だって 前代未聞のかわいさでしょ",
+        "english": "But my cuteness is unprecedented, too, isn't it?"
+    },
+    "82": {
+        "speaker": "PENGUIN",
+        "japanese": "あの２人は邪念のない 無意識のかわいさだよ",
+        "english": "Their cuteness is unconscious and free of wicked thoughts."
+    },
+    "83": {
+        "speaker": "PANDA",
+        "japanese": "よ～し 僕も お菓子もらえるように",
+        "english": "All right! I'll work on making my cuteness unconscious,"
+    },
+    "84": {
+        "speaker": "PANDA",
+        "japanese": "無意識のかわいさを目指すよ",
+        "english": "so I can get more candy!"
+    },
+    "85": {
+        "speaker": "PENGUIN",
+        "japanese": "すでに邪念だらけだよね",
+        "english": "Wicked thoughts everywhere."
+    },
+    "86": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ギクリ",
+        "english": "Uh oh."
+    },
+    "87": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん なにやってんの",
+        "english": "Whatcha doin', Polar Bear?"
+    },
+    "88": {
+        "speaker": "LLAMA",
+        "japanese": "どうぞ どうぞ",
+        "english": "Please, help yourself."
+    },
+    "89": {
+        "speaker": "LLAMA",
+        "japanese": "好きなものを 持っていってください",
+        "english": "Take whatever you'd like."
+    },
+    "90": {
+        "speaker": "PENGUIN",
+        "japanese": "気持は嬉しいんだけど…",
+        "english": "I appreciate the thought, but..."
+    },
+    "91": {
+        "speaker": "LLAMA",
+        "japanese": "丹精込めて育てた盆栽です",
+        "english": "I put a lot of effort into these bonsai."
+    },
+    "92": {
+        "speaker": "LLAMA",
+        "japanese": "いい機会ですから お譲りしますよ",
+        "english": "This is a great opportunity, so I'll let you borrow some."
+    },
+    "93": {
+        "speaker": "PENGUIN",
+        "japanese": "気持が重いなぁ…",
+        "english": "This is a little too deep for me... If I had to choose... How about this one?"
+    },
+    "94": {
+        "speaker": "LLAMA",
+        "japanese": "あぁ… ちょっと待ってください",
+        "english": "Oh, one moment."
+    },
+    "95": {
+        "speaker": "LLAMA",
+        "japanese": "枝ぶりが いまひとつ",
+        "english": "The branches need a little work. This shape is indescribable."
+    },
+    "96": {
+        "speaker": "LLAMA",
+        "japanese": "どうですか 皆さんも一緒に つまんでいきませんか",
+        "english": "How about it? Would you all like to prune them, as well?"
+    },
+    "97": {
+        "speaker": "PENGUIN",
+        "japanese": "いや… 今日は よしておくよ",
+        "english": "No, not today. Leave it to me!"
+    },
+    "98": {
+        "speaker": "PANDA",
+        "japanese": "わぁ いっぱい欲しいなぁ",
+        "english": "Okay! I want lots!"
+    },
+    "99": {
+        "speaker": "PENGUIN",
+        "japanese": "ほんと コアリクイくん",
+        "english": "Really, Anteater?"
+    },
+    "100": {
+        "speaker": "ANTEATER",
+        "japanese": "ちょうど うごめいているのがいるよ ５，０００匹ほど",
+        "english": "There's just about 5,000 of them wriggling about!"
+    },
+    "101": {
+        "speaker": "PENGUIN",
+        "japanese": "やっぱいい",
+        "english": "Never mind."
+    },
+    "102": {
+        "speaker": "ANTEATER",
+        "japanese": "そう",
+        "english": "You sure?"
+    },
+    "103": {
+        "speaker": "ANTEATER",
+        "japanese": "あぁ じゃあ",
+        "english": "Oh, I know!"
+    },
+    "104": {
+        "speaker": "ANTEATER",
+        "japanese": "黒じゃなくて 白もいるよ",
+        "english": "We have white ones, too!"
+    },
+    "105": {
+        "speaker": "ALL",
+        "japanese": "絶対 いい",
+        "english": "Not a chance!"
+    },
+    "106": {
+        "speaker": "PENGUIN",
+        "japanese": "缶コーヒーかぁ…",
+        "english": "Coffee in a can, huh?"
+    },
+    "107": {
+        "speaker": "PENGUIN",
+        "japanese": "うごめかないのは いいけど…",
+        "english": "At least it's not wriggling about."
+    },
+    "108": {
+        "speaker": "POLAR BEAR",
+        "japanese": "知ってる 缶コーヒーに含まれるカロリーは",
+        "english": "Did you know? The calories in a can of coffee"
+    },
+    "109": {
+        "speaker": "POLAR BEAR",
+        "japanese": "だいたい アリ １，８００匹分なんだって",
+        "english": "is equal to about 1,800 ants."
+    },
+    "110": {
+        "speaker": "PENGUIN",
+        "japanese": "そういう言いかたよして",
+        "english": "Could you not explain it that way?"
+    },
+    "111": {
+        "speaker": "TORTOISE",
+        "japanese": "ハ～ロ～ウィ～ン",
+        "english": "Hal... lo... ween? That's right, Tortoise. I'll go get some now."
+    },
+    "112": {
+        "speaker": "TORTOISE",
+        "japanese": "アイスクリ～ム～",
+        "english": "Ice cream! Huh?"
+    },
+    "113": {
+        "speaker": "TORTOISE",
+        "japanese": "よいしょ～ よいしょ～",
+        "english": "Heave-ho!"
+    },
+    "114": {
+        "speaker": "PENGUIN",
+        "japanese": "{\\an8}あの… ゾウガメくん",
+        "english": "Um, Tortoise?"
+    },
+    "115": {
+        "speaker": "TORTOISE",
+        "japanese": "{\\an8}あの… ゾウガメくん",
+        "english": "Heave-ho!"
+    },
+    "116": {
+        "speaker": "PENGUIN",
+        "japanese": "これはさぁ… アイスクリームっていうより…",
+        "english": "You know, this isn't really ice cream, but rather..."
+    },
+    "117": {
+        "speaker": "POLAR BEAR",
+        "japanese": "アイス汁",
+        "english": "...ice soup?"
+    },
+    "118": {
+        "speaker": "MANDRILL",
+        "japanese": "どうぞ どうぞ 上がっていってください",
+        "english": "Please, please, come in! Close, close, way too close."
+    },
+    "119": {
+        "speaker": "MANDRILL",
+        "japanese": "どうぞ どうぞ つまらないものですが",
+        "english": "Please, please. It's not much, but... Close, too close."
+    },
+    "120": {
+        "speaker": "MANDRILL",
+        "japanese": "最近 ぬか漬けに凝ってるんです",
+        "english": "Making pickles has been my hobby lately."
+    },
+    "121": {
+        "speaker": "POLAR BEAR",
+        "japanese": "大量だね",
+        "english": "We've got quite the haul."
+    },
+    "122": {
+        "speaker": "PANDA",
+        "japanese": "お菓子が欲しいのになぁ…",
+        "english": "But I want candy..."
+    },
+    "123": {
+        "speaker": "PENGUIN",
+        "japanese": "違うよね これハロウィーンじゃないよね",
+        "english": "This isn't right, is it? We can't really call this Halloween, can we?"
+    },
+    "124": {
+        "speaker": "BABY E",
+        "japanese": "うわぁ～い うわぁ～い",
+        "english": "Yay! Yay!"
+    },
+    "125": {
+        "speaker": "PANDA MAMA",
+        "japanese": "{\\an8}ほんと 今日はいい日だわ",
+        "english": "My, today is a wonderful day. Yay!"
+    },
+    "126": {
+        "speaker": "KING PENGUIN",
+        "japanese": "ほんとねぇ",
+        "english": "It sure is."
+    },
+    "127": {
+        "speaker": "PANDA MAMA",
+        "japanese": "行く先々で 粗品がもらえるなんてねぇ",
+        "english": "To think we got free items everywhere we went."
+    },
+    "128": {
+        "speaker": "KING PENGUIN",
+        "japanese": "こんなに いっぱいもらっちゃったわ",
+        "english": "I got all this!"
+    },
+    "129": {
+        "speaker": "PANDA MAMA",
+        "japanese": "ハロウィーンって いいわねぇ",
+        "english": "Halloween is a wonderful day."
+    },
+    "130": {
+        "speaker": "KING PENGUIN",
+        "japanese": "おとくだわぁ",
+        "english": "So economical!"
+    },
+    "131": {
+        "speaker": "PENGUIN",
+        "japanese": "あの人たち… なにを目指してるんだろう",
+        "english": "I wonder what they're going for."
+    },
+    "132": {
+        "speaker": "PANDA",
+        "japanese": "これ… もう一回行って お菓子に変えてもらう",
+        "english": "Should we go back and try to exchange this for candy?"
+    },
+    "133": {
+        "speaker": "POLAR BEAR",
+        "japanese": "逆は どうかな？",
+        "english": "How about the opposite?"
+    },
+    "134": {
+        "speaker": "POLAR BEAR",
+        "japanese": "もらうんじゃなくて あげてみる",
+        "english": "Instead of receiving, why don't we try giving?"
+    },
+    "135": {
+        "speaker": "PANDA",
+        "japanese": "あげる",
+        "english": "Giving?"
+    },
+    "136": {
+        "speaker": "SASAKO",
+        "japanese": "あれ 何ももらわなかったんですか",
+        "english": "Oh? You didn't get anything?"
+    },
+    "137": {
+        "speaker": "PENGUIN",
+        "japanese": "もらって それから…",
+        "english": "We received, and then..."
+    },
+    "138": {
+        "speaker": "POLAR BEAR",
+        "japanese": "あげたんだよ",
+        "english": "...we gave it away."
+    },
+    "139": {
+        "speaker": "PANDA",
+        "japanese": "いいことしたね～",
+        "english": "We did something really good."
+    },
+    "140": {
+        "speaker": "HANDA",
+        "japanese": "何だろう これ",
+        "english": "What the heck is all this?"
+    },
+    "141": {
+        "speaker": "HANDA",
+        "japanese": "半田さんへあげます 笹子より",
+        "english": "\"To Mr. Handa, This is for you. From Sasako.\""
+    },
+    "142": {
+        "speaker": "HANDA",
+        "japanese": "パンダくんか",
+        "english": "I see. It's from Panda."
+    },
+    "143": {
+        "speaker": "PANDA",
+        "japanese": "きっと 半田さん大喜びだね",
+        "english": "I bet Mr. Handa's really happy."
+    },
+    "144": {
+        "speaker": "PENGUIN",
+        "japanese": "まぁ でも レシートは いらなかったんじゃない",
+        "english": "Yeah, well... He probably didn't need the receipt."
+    },
+    "145": {
+        "speaker": "LADY",
+        "japanese": "疲れたけど楽しかったね",
+        "english": "I'm a little tired, but it was a lot of fun. It's good that we got to see everything."
+    },
+    "146": {
+        "speaker": "LLAMA",
+        "japanese": "来てませんよ。",
+        "english": "But you didn't."
+    },
+    "147": {
+        "speaker": "LLAMA",
+        "japanese": "お客様は ラマコーナーには いらっしゃいませんでした",
+        "english": "You didn't visit the Llama Corner."
+    },
+    "148": {
+        "speaker": "LLAMA",
+        "japanese": "今も通り過ぎようとしています",
+        "english": "Even now, you're trying to pass by."
+    },
+    "149": {
+        "speaker": "GUY",
+        "japanese": "え あ… ラマ",
+        "english": "Huh? Oh, a llama."
+    },
+    "150": {
+        "speaker": "LLAMA",
+        "japanese": "はい",
+        "english": "Yes."
+    },
+    "151": {
+        "speaker": "LLAMA",
+        "japanese": "ラマデーの設置を求めます",
+        "english": "I'd like to establish a Llama Day."
+    },
+    "152": {
+        "speaker": "PANDA",
+        "japanese": "な～に そのラマデーって",
+        "english": "What's this \"Llama Day\"?"
+    },
+    "153": {
+        "speaker": "LLAMA",
+        "japanese": "ラマの日です",
+        "english": "It's a day for llamas."
+    },
+    "154": {
+        "speaker": "PANDA",
+        "japanese": "ラマの日",
+        "english": "A day for llamas?"
+    },
+    "155": {
+        "speaker": "LLAMA",
+        "japanese": "ラマのラマによる ラマのための日です",
+        "english": "A day for llamas, made by llamas for llamas."
+    },
+    "156": {
+        "speaker": "HANDA",
+        "japanese": "えっと… なんでラマデーを設けるの",
+        "english": "Um... Why are we creating a Llama Day?"
+    },
+    "157": {
+        "speaker": "LLAMA",
+        "japanese": "日ごろ ラマがあまりに",
+        "english": "Because I feel that llamas are being treated too apathetically."
+    },
+    "158": {
+        "speaker": "PANDA",
+        "japanese": "おざなり",
+        "english": "Apathetically {\\i1}(ozanari){\\i0}?"
+    },
+    "159": {
+        "speaker": "BADGER",
+        "japanese": "おいしい",
+        "english": "Delicious!"
+    },
+    "160": {
+        "speaker": "LLAMA",
+        "japanese": "それは おにぎり",
+        "english": "That would be a rice ball {\\i1}(onigiri){\\i0}. Delicious!"
+    },
+    "161": {
+        "speaker": "LLAMA",
+        "japanese": "それは おいなり",
+        "english": "That would be oinari sushi."
+    },
+    "162": {
+        "speaker": "TORTOISE",
+        "japanese": "おいしい～",
+        "english": "Delicious..."
+    },
+    "163": {
+        "speaker": "LLAMA",
+        "japanese": "それは ひまわり",
+        "english": "That would be a sunflower {\\i1}(himawari){\\i0}."
+    },
+    "164": {
+        "speaker": "HANDA",
+        "japanese": "おざなりだよ",
+        "english": "Apa-the-ti-cal-ly."
+    },
+    "165": {
+        "speaker": "HANDA",
+        "japanese": "お客さんが あまり ラマさんを 気にかけないってことかな",
+        "english": "I guess he means that the customers don't pay much attention to him."
+    },
+    "166": {
+        "speaker": "KOALA",
+        "japanese": "ラマさんって そんなに人気なかったの",
+        "english": "Were you that unpopular, Mr. Llama?"
+    },
+    "167": {
+        "speaker": "PANDA",
+        "japanese": "地味だもんね ラマさん",
+        "english": "That's because you're so dull, Mr. Llama."
+    },
+    "168": {
+        "speaker": "LLAMA",
+        "japanese": "素直な意見 ありがとうございます",
+        "english": "Thank you for your honest opinion."
+    },
+    "169": {
+        "speaker": "FT PANDA",
+        "japanese": "そういえば ラマさんって 動物園のどこにいるんだっけ",
+        "english": "Come to think of it, where are you located in the zoo, Mr. Llama?"
+    },
+    "170": {
+        "speaker": "BADGER",
+        "japanese": "パンダコーナーの隣ですよ",
+        "english": "Right next to the Panda Corner."
+    },
+    "171": {
+        "speaker": "ANTEATER",
+        "japanese": "違うよ たしかあそこ食堂の脇だよ",
+        "english": "No! I think it's by the restaurant."
+    },
+    "172": {
+        "speaker": "KOALA",
+        "japanese": "いやいや 裏門のそばだよ",
+        "english": "No, no. It's right by the back gate."
+    },
+    "173": {
+        "speaker": "TORTOISE",
+        "japanese": "ど～こ～",
+        "english": "Where...?"
+    },
+    "174": {
+        "speaker": "LLAMA",
+        "japanese": "ここ",
+        "english": "Right here."
+    },
+    "175": {
+        "speaker": "KIRINO",
+        "japanese": "キリンさんの隣だよ",
+        "english": "He's right next to Mr. Giraffe."
+    },
+    "176": {
+        "speaker": "KIRINO",
+        "japanese": "みんな なんで覚えてないの",
+        "english": "Why don't any of you remember?"
+    },
+    "177": {
+        "speaker": "MANDRILL",
+        "japanese": "問題解決 お疲れさまでした",
+        "english": "Problem solved! Thanks for all your hard work!"
+    },
+    "178": {
+        "speaker": "ANIMALS",
+        "japanese": "いやぁ よかった よかった",
+        "english": "Oh, thank goodness."
+    },
+    "179": {
+        "speaker": "LLAMA",
+        "japanese": "あの だから ラマコーナーがどこかの話じゃなくて…",
+        "english": "Um, we weren't talking about where the Llama Corner is..."
+    },
+    "180": {
+        "speaker": "LLAMA",
+        "japanese": "では 会議を再開します",
+        "english": "Let us continue the meeting."
+    },
+    "181": {
+        "speaker": "TAPIR",
+        "japanese": "はい",
+        "english": "Here."
+    },
+    "182": {
+        "speaker": "LLAMA",
+        "japanese": "どうぞ バクさん",
+        "english": "Go ahead, Mr. Tapir."
+    },
+    "183": {
+        "speaker": "TAPIR",
+        "japanese": "みんな 場所がわからないから",
+        "english": "Perhaps no one visits you because they"
+    },
+    "184": {
+        "speaker": "",
+        "japanese": "ラマさんのとこに 行かないんじゃない",
+        "english": "don't know where you're located."
+    },
+    "185": {
+        "speaker": "TAPIR",
+        "japanese": "看板とか立てたら",
+        "english": "Why don't you put up a sign?"
+    },
+    "186": {
+        "speaker": "LLAMA",
+        "japanese": "いいですね",
+        "english": "That's a good idea."
+    },
+    "187": {
+        "speaker": "HANDA",
+        "japanese": "なんか ラマしかいない 動物園に見えない",
+        "english": "Um... Wouldn't it look like you were the only one at our zoo?"
+    },
+    "188": {
+        "speaker": "LLAMA",
+        "japanese": "いいですね ラマだけの動物園",
+        "english": "What a wonderful idea, a zoo with just me."
+    },
+    "189": {
+        "speaker": "HANDA",
+        "japanese": "それは困るなぁ",
+        "english": "I don't think that'll work..."
+    },
+    "190": {
+        "speaker": "PANDA",
+        "japanese": "いいね～ ラマさん以外 みんなお休み",
+        "english": "That sounds great! That means everyone else would be off!"
+    },
+    "191": {
+        "speaker": "MANDRILL",
+        "japanese": "そんなことしたら 誰も来ないかもね",
+        "english": "But then no one might come."
+    },
+    "192": {
+        "speaker": "PANDA",
+        "japanese": "それはそうだね～",
+        "english": "Good point."
+    },
+    "193": {
+        "speaker": "LLAMA",
+        "japanese": "ものすごく ストレートな意見 ありがとうございます",
+        "english": "Thank you for your brutally honest opinion."
+    },
+    "194": {
+        "speaker": "HANDA",
+        "japanese": "やっぱ 大勢いたほうがいいよね",
+        "english": "I think it's better if we have a lot of animals."
+    },
+    "195": {
+        "speaker": "LLAMA",
+        "japanese": "では 皆さんで ラマになるのはどうでしょう",
+        "english": "Then how about everyone becomes a llama?"
+    },
+    "196": {
+        "speaker": "PANDA",
+        "japanese": "僕のラマ かわいくない",
+        "english": "Aren't I cute as a llama?"
+    },
+    "197": {
+        "speaker": "ANTEATER",
+        "japanese": "ゾウガメさんのラマも 味わいがあるよ",
+        "english": "Your llama is great, too, Mr. Tortoise!"
+    },
+    "198": {
+        "speaker": "TORTOISE",
+        "japanese": "ほんと～",
+        "english": "Really...?"
+    },
+    "199": {
+        "speaker": "KIRINO",
+        "japanese": "ラマさんのラマって わけわかんないですよ",
+        "english": "I don't see the point in you wearing a llama costume, Mr. Llama."
+    },
+    "200": {
+        "speaker": "HANDA",
+        "japanese": "ラマさんの セールスポイントって何かない",
+        "english": "Do you have a sales point, Mr. Llama? Oh!"
+    },
+    "201": {
+        "speaker": "HANDA",
+        "japanese": "何 ラマさん",
+        "english": "What is it, Mr. Llama?"
+    },
+    "202": {
+        "speaker": "LLAMA",
+        "japanese": "僕 盆栽をたしなみますよ",
+        "english": "I have an interest in bonsai."
+    },
+    "203": {
+        "speaker": "KIRINO",
+        "japanese": "でも それも 結局地味ですね",
+        "english": "But that's rather dull, too."
+    },
+    "204": {
+        "speaker": "LLAMA",
+        "japanese": "そうですよね…",
+        "english": "You're right."
+    },
+    "205": {
+        "speaker": "KIRINO",
+        "japanese": "いや その… マイナスにマイナスをかけると",
+        "english": "Uh, I mean... Usually, crossing two negatives makes a positive,"
+    },
+    "206": {
+        "speaker": "KIRINO",
+        "japanese": "地味に地味をかけても 派手にはならないというか…",
+        "english": "but two dull things don't make something fancy... Right?"
+    },
+    "207": {
+        "speaker": "LLAMA",
+        "japanese": "すみません",
+        "english": "I apologize."
+    },
+    "208": {
+        "speaker": "HANDA",
+        "japanese": "これはいるね ラマデー 猛プッシュで",
+        "english": "We do need a Llama Day and we need to really push it."
+    },
+    "209": {
+        "speaker": "PANDA",
+        "japanese": "プッシュって 何をするの",
+        "english": "Push? What does that mean?"
+    },
+    "210": {
+        "speaker": "MANDRILL",
+        "japanese": "ラマさんを見たくて見たくて たまらなくなるような ことだよね",
+        "english": "We have to make it so people will be dying to see Mr. Llama, right?"
+    },
+    "211": {
+        "speaker": "BADGER",
+        "japanese": "何か特典をつけよう",
+        "english": "Let's add some bonus."
+    },
+    "212": {
+        "speaker": "FT PANDA",
+        "japanese": "特典",
+        "english": "Bonus?"
+    },
+    "213": {
+        "speaker": "BADGER",
+        "japanese": "穴 掘り放題",
+        "english": "Like all-you-can-dig-holes."
+    },
+    "214": {
+        "speaker": "KIRINO",
+        "japanese": "それはアナグマくんだけが 嬉しいかな",
+        "english": "I think you'd be the only one who'd appreciate that, Badger."
+    },
+    "215": {
+        "speaker": "MANDRILL",
+        "japanese": "見た人限定で フィギュアをプレゼントっていうのは",
+        "english": "How about giving out figures to only people who visit him?"
+    },
+    "216": {
+        "speaker": "TAPIR",
+        "japanese": "誰の",
+        "english": "A figure of who?"
+    },
+    "217": {
+        "speaker": "PANDA",
+        "japanese": "やっぱり 僕のでしょ",
+        "english": "Of me, of course. You'll receive a limited edition figure of me just for glancing at Mr. Llama."
+    },
+    "218": {
+        "speaker": "LLAMA",
+        "japanese": "僕のほうは ついでですか",
+        "english": "I guess I'm just secondary."
+    },
+    "219": {
+        "speaker": "KOALA",
+        "japanese": "じゃあ ラマさんを見たら",
+        "english": "Then how about you get to take a commemorative picture if you go see Mr. Llama?"
+    },
+    "220": {
+        "speaker": "ANTEATER",
+        "japanese": "誰と",
+        "english": "A picture with who?"
+    },
+    "221": {
+        "speaker": "KOALA",
+        "japanese": "もちろん僕と",
+        "english": "With me, of course."
+    },
+    "222": {
+        "speaker": "LLAMA",
+        "japanese": "それ 僕いらないですよね",
+        "english": "I'm not really needed there, am I?"
+    },
+    "223": {
+        "speaker": "KIRINO",
+        "japanese": "どうでしょう ラマデーに向けて",
+        "english": "How about everyone takes some"
+    },
+    "224": {
+        "speaker": "KIRINO",
+        "japanese": "みんな アイデアを 考えてくるっていうのは",
+        "english": "time to think up ideas for Llama Day? I think that's a good idea."
+    },
+    "225": {
+        "speaker": "ALL",
+        "japanese": "賛成",
+        "english": "Agreed!"
+    },
+    "226": {
+        "speaker": "TORTOISE",
+        "japanese": "賛成",
+        "english": "Agree— So you had a meeting about that..."
+    },
+    "227": {
+        "speaker": "SASAKO",
+        "japanese": "ラマさんが お友達を誘って",
+        "english": "How about you invite a friend"
+    },
+    "228": {
+        "speaker": "",
+        "japanese": "一緒に何かするっていうのは どうですか",
+        "english": "to do something with you, Mr. Llama?"
+    },
+    "229": {
+        "speaker": "PANDA",
+        "japanese": "ラマさんの友達",
+        "english": "Mr. Llama's friend?"
+    },
+    "230": {
+        "speaker": "LLAMA",
+        "japanese": "友達ですか",
+        "english": "A friend? Well, I do like Mr. Alpaca."
+    },
+    "231": {
+        "speaker": "GIRL1",
+        "japanese": "あぁ ちょっと あれ見て",
+        "english": "Hey, look at that!"
+    },
+    "232": {
+        "speaker": "GIRL2",
+        "japanese": "わぁ かわいい",
+        "english": "Oh, how cute!"
+    },
+    "233": {
+        "speaker": "GIRL",
+        "japanese": "ね 写メ撮ろう 写メ",
+        "english": "Hey, let's take a picture!"
+    },
+    "234": {
+        "speaker": "GIRL",
+        "japanese": "アルパカ 超かわいい",
+        "english": "An alpaca. How cute!"
+    },
+    "235": {
+        "speaker": "LLAMA",
+        "japanese": "僕 ラマですよ",
+        "english": "I'm a llama."
+    },
+    "236": {
+        "speaker": "BOTH",
+        "japanese": "えっ ラマ？",
+        "english": "Huh? A llama?"
+    },
+    "237": {
+        "speaker": "GIRL1",
+        "japanese": "アルパカじゃないの",
+        "english": "You're not an alpaca?"
+    },
+    "238": {
+        "speaker": "GIRL2",
+        "japanese": "そう言われると違うかも",
+        "english": "Now that you mention it, you are different."
+    },
+    "239": {
+        "speaker": "GIRL2",
+        "japanese": "まつ毛は長いけど…",
+        "english": "You have long eyelashes, but..."
+    },
+    "240": {
+        "speaker": "LLAMA",
+        "japanese": "すみません",
+        "english": "I apologize."
+    },
+    "241": {
+        "speaker": "GIRL",
+        "japanese": "じゃあ いいや",
+        "english": "Never mind, then."
+    },
+    "242": {
+        "speaker": "GIRL",
+        "japanese": "そうだね",
+        "english": "Yeah. The few people that do come to visit me, nine times out of ten,"
+    },
+    "243": {
+        "speaker": "",
+        "japanese": "僕のことアルパカだと 勘違いしてるんですよ",
+        "english": "are there because they mistook me for an alpaca."
+    },
+    "244": {
+        "speaker": "PANDA",
+        "japanese": "１０人も来るんだ",
+        "english": "You actually get ten people?"
+    },
+    "245": {
+        "speaker": "LLAMA",
+        "japanese": "パンダくん 確率の話です",
+        "english": "I'm talking about probabilities, Panda."
+    },
+    "246": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ みんなで ラクダチームってことにしたら",
+        "english": "Then why don't you all make a team of camels?"
+    },
+    "247": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ラマだの アルパカだの 気にならなくなるかも",
+        "english": "Maybe they won't be concerned with llamas or alpacas then?"
+    },
+    "248": {
+        "speaker": "PENGUIN",
+        "japanese": "シロクマくん 簡単にひとくくりにしないでよ",
+        "english": "Don't wrap it up so easily, Polar Bear!"
+    },
+    "249": {
+        "speaker": "PENGUIN",
+        "japanese": "アイデンティティーってものが あるんだから",
+        "english": "They have their own identities!"
+    },
+    "250": {
+        "speaker": "POLAR BEAR",
+        "japanese": "そういうもんなの",
+        "english": "Oh, is that so? I don't really understand."
+    },
+    "251": {
+        "speaker": "PANDA",
+        "japanese": "ほら 僕らオンリーワンだから",
+        "english": "You know, since we're one of a kind."
+    },
+    "252": {
+        "speaker": "PENGUIN",
+        "japanese": "これだから",
+        "english": "You guys... It must be nice. Neither of you look like anyone else, so you're never mistaken for someone else."
+    },
+    "253": {
+        "speaker": "SASAKO",
+        "japanese": "似てて困るんですから",
+        "english": "Well, since it's troublesome to look alike,"
+    },
+    "254": {
+        "speaker": "SASAKO",
+        "japanese": "何か違いをアピールしましょうよ",
+        "english": "why not highlight some differences?"
+    },
+    "255": {
+        "speaker": "POLAR BEAR",
+        "japanese": "違い 色",
+        "english": "Differences? Like color?"
+    },
+    "256": {
+        "speaker": "PANDA",
+        "japanese": "ラマさんは 茶色くて",
+        "english": "Mr. Llama is brown, and Mr. Alpaca is white."
+    },
+    "257": {
+        "speaker": "PENGUIN",
+        "japanese": "茶色いアルパカだっているよ",
+        "english": "But there are brown alpacas, too."
+    },
+    "258": {
+        "speaker": "PANDA",
+        "japanese": "人気あるほうが アルパカさん",
+        "english": "Mr. Alpaca is the popular one."
+    },
+    "259": {
+        "speaker": "POLAR BEAR",
+        "japanese": "地味なほうが ラマさん",
+        "english": "Mr. Llama is the dull one."
+    },
+    "260": {
+        "speaker": "PENGUIN",
+        "japanese": "それ アピールになってないよね",
+        "english": "I don't think that's considered a highlight."
+    },
+    "261": {
+        "speaker": "POLAR BEAR",
+        "japanese": "じゃあ フレッシュさを アピールっていうのは",
+        "english": "Then how about highlighting freshness?"
+    },
+    "262": {
+        "speaker": "LLAMA",
+        "japanese": "フレッシュさ",
+        "english": "Freshness?"
+    },
+    "263": {
+        "speaker": "SASAKO",
+        "japanese": "いいんじゃないですかね",
+        "english": "I think that's a great idea."
+    },
+    "264": {
+        "speaker": "SASAKO",
+        "japanese": "グレープフルーツジュースっていうのと 生グレープフルーツジュースじゃ",
+        "english": "There's a huge difference between grapefruit juice"
+    },
+    "265": {
+        "speaker": "SASAKO",
+        "japanese": "全然感じが違いますよ",
+        "english": "and fresh grapefruit juice."
+    },
+    "266": {
+        "speaker": "LLAMA",
+        "japanese": "生ラマだね",
+        "english": "So, fresh llama it is."
+    },
+    "267": {
+        "speaker": "PENGUIN",
+        "japanese": "夏の冷やし中華みたいだよ",
+        "english": "It almost seems like chilled ramen in the summer time."
+    },
+    "268": {
+        "speaker": "LLAMA",
+        "japanese": "冬になったら どうするんですか",
+        "english": "What about in the winter?"
+    },
+    "269": {
+        "speaker": "PANDA",
+        "japanese": "お休み",
+        "english": "It'll be on break."
+    },
+    "270": {
+        "speaker": "PENGUIN",
+        "japanese": "休んじゃ ダメじゃない",
+        "english": "I don't think that's a good idea."
+    },
+    "271": {
+        "speaker": "HANDA",
+        "japanese": "いろいろ考えたんだけど",
+        "english": "I've been giving it a lot of thought."
+    },
+    "272": {
+        "speaker": "HANDA",
+        "japanese": "行動展示はどうだろう",
+        "english": "How about a behavioral display?"
+    },
+    "273": {
+        "speaker": "LLAMA",
+        "japanese": "行動展示…",
+        "english": "Behavioral display?"
+    },
+    "274": {
+        "speaker": "HANDA",
+        "japanese": "ラマさんに 自然体で行動してもらって",
+        "english": "We'll have you act like you usually do"
+    },
+    "275": {
+        "speaker": "HANDA",
+        "japanese": "生まれ持った特徴や能力",
+        "english": "so people can see your natural born features and abilities"
+    },
+    "276": {
+        "speaker": "HANDA",
+        "japanese": "暮らし方を見てもらうんだよ",
+        "english": "as well as how you live."
+    },
+    "277": {
+        "speaker": "FT PANDA",
+        "japanese": "いいね",
+        "english": "Sounds good."
+    },
+    "278": {
+        "speaker": "FT PANDA",
+        "japanese": "ラマさんの生き様を見せるってわけだ",
+        "english": "So you'll be showing how Mr. Llama lives."
+    },
+    "279": {
+        "speaker": "LLAMA",
+        "japanese": "生き様…",
+        "english": "How I live?"
+    },
+    "280": {
+        "speaker": "HANDA",
+        "japanese": "ラマさんって こういうラマなんだってことを知ってもらうんだよ",
+        "english": "We'll have people know exactly what kind of llama you are."
+    },
+    "281": {
+        "speaker": "ANIMALS",
+        "japanese": "いいんじゃない",
+        "english": "Sounds great!"
+    },
+    "282": {
+        "speaker": "ANIMALS",
+        "japanese": "やりましょう",
+        "english": "Let's do it! We should do everything we can."
+    },
+    "283": {
+        "speaker": "HANDA",
+        "japanese": "ラマデーなんでしょ 頑張ろうよ",
+        "english": "It's Llama Day, right? Let's give it our all."
+    },
+    "284": {
+        "speaker": "HANDA",
+        "japanese": "そもそも ラマさんって どういうラマ",
+        "english": "So exactly what kind of llama are you?"
+    },
+    "285": {
+        "speaker": "LLAMA",
+        "japanese": "僕は 幼い頃…",
+        "english": "When I was young..."
+    },
+    "286": {
+        "speaker": "LLAMA",
+        "japanese": "たくさん 草を食べていました…",
+        "english": "I ate a lot of grass."
+    },
+    "287": {
+        "speaker": "LLAMA",
+        "japanese": "そして 大きくなった 今…",
+        "english": "And now that I'm big..."
+    },
+    "288": {
+        "speaker": "LLAMA",
+        "japanese": "草を食べています",
+        "english": "I eat grass. I eat... grass, too..."
+    },
+    "289": {
+        "speaker": "MANDRILL",
+        "japanese": "インパクトに欠けるよね…",
+        "english": "It's all about the impact."
+    },
+    "290": {
+        "speaker": "KIRINO",
+        "japanese": "じゃあ 僕らがラマさんをどう見ているか",
+        "english": "How about we all discuss how we see Mr. Llama?"
+    },
+    "291": {
+        "speaker": "PANDA",
+        "japanese": "アルパカさんより 茶色い",
+        "english": "He's more brown than Mr. Alpaca."
+    },
+    "292": {
+        "speaker": "KOALA",
+        "japanese": "アルパカさんより 耳が長い",
+        "english": "His ears are longer than Mr. Alpaca. His eyelashes are about the same length as Mr. Alpaca's."
+    },
+    "293": {
+        "speaker": "HANDA",
+        "japanese": "アルパカさんとの比較じゃなくて…",
+        "english": "We didn't mean comparisons with Mr. Alpaca."
+    },
+    "294": {
+        "speaker": "FT PANDA",
+        "japanese": "気遣いができる",
+        "english": "He's very courteous."
+    },
+    "295": {
+        "speaker": "BADGER",
+        "japanese": "静か",
+        "english": "He's very quiet."
+    },
+    "296": {
+        "speaker": "ANTEATER",
+        "japanese": "大人",
+        "english": "He's mature."
+    },
+    "297": {
+        "speaker": "MANDRILL",
+        "japanese": "穏やか",
+        "english": "He's calm."
+    },
+    "298": {
+        "speaker": "TORTOISE",
+        "japanese": "丁寧",
+        "english": "He... is... po... lite... How about something that stands out more?"
+    },
+    "299": {
+        "speaker": "HANDA",
+        "japanese": "ラマさんも遠慮してないで… 何か ない",
+        "english": "You don't need to hold back, Mr. Llama. What do you think?"
+    },
+    "300": {
+        "speaker": "LLAMA",
+        "japanese": "そうですね…",
+        "english": "Let's see..."
+    },
+    "301": {
+        "speaker": "LLAMA",
+        "japanese": "ひっそり 山岳地帯で暮らすのが好きです",
+        "english": "I like to live quietly in the mountains."
+    },
+    "302": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ ラマデーいらなくない",
+        "english": "Then do we really need a Llama Day?"
+    },
+    "303": {
+        "speaker": "LLAMA",
+        "japanese": "ひっそりと目立ちたいです",
+        "english": "I'd like to quietly stand out."
+    },
+    "304": {
+        "speaker": "BADGER",
+        "japanese": "難易度 高いね…",
+        "english": "That's a tad difficult."
+    },
+    "305": {
+        "speaker": "TAPIR",
+        "japanese": "あっ 思い出した",
+        "english": "Oh, I just remembered. You're really good at spitting, aren't you?"
+    },
+    "306": {
+        "speaker": "LLAMA",
+        "japanese": "それは 封印しています",
+        "english": "I've sealed away that ability."
+    },
+    "307": {
+        "speaker": "TAPIR",
+        "japanese": "そこを プッシュしていこうよ",
+        "english": "Why not push that angle?"
+    },
+    "308": {
+        "speaker": "LLAMA",
+        "japanese": "そうですねぇ…",
+        "english": "Well, you see..."
+    },
+    "309": {
+        "speaker": "HANDA",
+        "japanese": "お客さんに 迷惑かかるのはまずいね",
+        "english": "It's not a good idea to trouble the customers..."
+    },
+    "310": {
+        "speaker": "KIRINO",
+        "japanese": "パレードだったら どうですか",
+        "english": "What about a parade?"
+    },
+    "311": {
+        "speaker": "KIRINO",
+        "japanese": "何もしなくていいし 歩くだけ",
+        "english": "You don't really have to do anything, just walk."
+    },
+    "312": {
+        "speaker": "KOALA",
+        "japanese": "ラマティカルパレード",
+        "english": "How about a Llamatical Parade?"
+    },
+    "313": {
+        "speaker": "LLAMA",
+        "japanese": "僕は どこでしょう",
+        "english": "Where am I?"
+    },
+    "314": {
+        "speaker": "LLAMA",
+        "japanese": "ここ",
+        "english": "Here."
+    },
+    "315": {
+        "speaker": "FT PANDA",
+        "japanese": "ラマさんいなくてもできるよね  パレード",
+        "english": "We could probably do a parade even without Mr. Llama."
+    },
+    "316": {
+        "speaker": "LLAMA",
+        "japanese": "何か自慢できるものが 僕にあればいいんですが…",
+        "english": "If there was only something I could be proud of... I got it!"
+    },
+    "317": {
+        "speaker": "PENGUIN",
+        "japanese": "ラマデーって結局 何やるんだろう",
+        "english": "I wonder what they actually do on Llama Day."
+    },
+    "318": {
+        "speaker": "POLAR BEAR",
+        "japanese": "まあ 行ってみよう",
+        "english": "Well, let's go see. Hello. Welcome."
+    },
+    "319": {
+        "speaker": "PENGUIN",
+        "japanese": "あれ いつもどおりだよね",
+        "english": "Huh? Nothing's changed, has it?"
+    },
+    "320": {
+        "speaker": "POLAR BEAR",
+        "japanese": "ラマデー 何をしてるの",
+        "english": "What are you doing for Llama Day?"
+    },
+    "321": {
+        "speaker": "LLAMA",
+        "japanese": "盛ってます",
+        "english": "It's flourishing. What is?"
+    },
+    "322": {
+        "speaker": "LLAMA",
+        "japanese": "ここですよ",
+        "english": "Right here."
+    },
+    "323": {
+        "speaker": "",
+        "japanese": "ここ",
+        "english": "Here."
+    },
+    "324": {
+        "speaker": "PENGUIN",
+        "japanese": "まつ毛…",
+        "english": "Your eyelashes?"
+    },
+    "325": {
+        "speaker": "POLAR BEAR",
+        "japanese": "きらめいてるね ラマさん",
+        "english": "You're sparkling, Mr. Llama."
+    },
+    "326": {
+        "speaker": "PANDA",
+        "japanese": "ペンギンさん ぺんぎんさん",
+        "english": "Mr. Penguin, Mr. Penguin."
+    },
+    "327": {
+        "speaker": "PENGUIN",
+        "japanese": "何 パンダ君",
+        "english": "What is it, Panda?"
+    },
+    "328": {
+        "speaker": "PANDA",
+        "japanese": "一生使い切れないお金ってどこでもらえると思う",
+        "english": "Where do you think you can get more money than you'll ever be able to use?"
+    },
+    "329": {
+        "speaker": "PENGUIN",
+        "japanese": "もらえないと思うよ",
+        "english": "I don't think you can."
+    },
+    "330": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ 僕とメジャーリガーみたいに年俸契約結ばない",
+        "english": "Then how about we make an annual salary contract like a major leaguer?"
+    },
+    "331": {
+        "speaker": "PENGUIN",
+        "japanese": "僕が君と年俸契約する理由が見つからないんだけど",
+        "english": "I can't think of a reason to make an annual salary contract with you."
+    },
+    "332": {
+        "speaker": "PANDA",
+        "japanese": "じゃあ 年俸くれるだけてもいいよ",
+        "english": "Then you can just give me an annual salary."
+    },
+    "333": {
+        "speaker": "PENGUIN",
+        "japanese": "メジャー気分って言うとnoだね",
+        "english": "My major feeling on that would be a no."
+    },
+    "334": {
+        "speaker": "PENGUIN",
+        "japanese": "白熊君 終わろ",
+        "english": "Let's end this, Polar Bear."
+    },
+    "335": {
+        "speaker": "POLAR BEAR",
+        "japanese": "来週のしろくまカフェは",
+        "english": "Next week's Polar Bear's Café,"
+    },
+    "336": {
+        "speaker": "POLAR BEAR",
+        "japanese": "送れたら送ります",
+        "english": "will be presented to you if we can."
+    },
+    "337": {
+        "speaker": "PENGUIN",
+        "japanese": "ちゃんと送ります",
+        "english": "It'll be presented as usual."
+    },
+    "338": {
+        "speaker": "SASAKO",
+        "japanese": "お楽しみに",
+        "english": "Enjoy!"
+    }
+}
