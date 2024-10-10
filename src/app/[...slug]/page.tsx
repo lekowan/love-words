@@ -3,12 +3,12 @@ import { StoryTemplate } from "../components/story-template/story-template"
 import type { Dictionary } from "../hooks/useDictionaryStore"
 
 export interface TranscriptDataEntry {
-  audio: string
+  audio?: string
   character: string
-  letter: string
-  pinyin: string
+  characterWithSpace?: string
+  katakana?: string
   definition: string
-  pinyinSpace: string
+  katakanaWithSpace?: string
   speaker?: "Penguin" | "Polar Bear" | "Panda" | "Sasako" | "Handa" | "Other"
 }
 

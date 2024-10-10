@@ -25,7 +25,7 @@ export const CardList = ({
             id={index + 1}
             sentence={
               data[index + 1].characterWithSpace
-                ? data[index + 1].characterWithSpace
+                ? (data[index + 1].characterWithSpace as string)
                 : data[index + 1].character
             }
             showTranslate={showTranslate}
