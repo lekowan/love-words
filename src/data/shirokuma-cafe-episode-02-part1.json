@@ -1,0 +1,1244 @@
+{
+    "1": {
+        "character": "僕の家の朝は早いです",
+        "definition": "The mornings at my house start early.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.01.39.mp3",
+        "timestamp": "0:01:39",
+        "characterWithSpace": "僕 の 家 の 朝 は 早いです",
+        "katakanaWithSpace": "ぼく の いえ/うち の あさ は はやいです"
+    },
+    "2": {
+        "character": "朝起きて一番に　中庭に集まって家族みんなで太極拳をします",
+        "definition": "As soon as everyone wakes up, we all gather in the yard to practice Tai Chi.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.01.50.mp3",
+        "timestamp": "0:01:50",
+        "characterWithSpace": "朝起き て 一番 に 中庭 に 集まって 家族 みんな で 太極拳 を します",
+        "katakanaWithSpace": "あさおき て いちばん に  なかにわ に あつまって かぞく みんな で たいきょくけん を します"
+    },
+    "3": {
+        "character": "お爺ちゃんが中国拳法の達人だからです",
+        "definition": "The reason being, my grandfather is a master of Chinese martial arts.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.01.59.mp3",
+        "timestamp": "0:01:59",
+        "characterWithSpace": "お爺ちゃん が 中国拳法 の 達人 だから です",
+        "katakanaWithSpace": "おじいちゃん が ちゅうごくけんぽう の たつじん だ から です"
+    },
+    "4": {
+        "character": "太極拳が終わったら　朝ごはんを食べます",
+        "definition": "As soon as we're done with Tai Chi, we eat breakfast.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.02.06.mp3",
+        "timestamp": "0:02:06",
+        "characterWithSpace": "太極拳 が 終わったら 朝ごはん を 食べます",
+        "katakanaWithSpace": "たいきょくけん が おわったら  あさごはん を たべます"
+    },
+    "5": {
+        "character": "いつまで寝てるの",
+        "definition": "How long are you planning on sleeping?",
+        "speaker": "PANDA MAMA",
+        "audio": "/audio/02/0.02.18.mp3",
+        "timestamp": "0:02:18",
+        "characterWithSpace": "いつまで 寝てる の",
+        "katakanaWithSpace": "いつまで ねてる の"
+    },
+    "6": {
+        "character": "今日動物園休みなんだから　寝かせて（　^ω^）",
+        "definition": "The zoo's closed today, so let me sleep.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.02.21.mp3",
+        "timestamp": "0:02:21",
+        "characterWithSpace": "今日 動物園 休み な ん だから 寝かせて",
+        "katakanaWithSpace": "きょう どうぶつえん やすみ な ん だ から  ねかせて （ ^ω^）"
+    },
+    "7": {
+        "character": "みんなとっくに起きて太極拳やって　朝ごはん食べてるわよ",
+        "definition": "Everyone else has already gotten up, finished their Tai Chi, and are eating breakfast.",
+        "speaker": "PANDA MAMA",
+        "audio": "/audio/02/0.02.27.mp3",
+        "timestamp": "0:02:27",
+        "characterWithSpace": "みんな とっくに 起きて 太極拳 や って 朝ごはん 食べてる わよ",
+        "katakanaWithSpace": "みんな とっくに おきて たいきょくけん や って  あさごはん たべてる わよ"
+    },
+    "8": {
+        "character": "太極拳でしょう　ベッドの上でやる(*￣∇￣)ノ",
+        "definition": "Tai Chi, right? I can do that in bed.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.02.32.mp3",
+        "timestamp": "0:02:32",
+        "characterWithSpace": "太極拳 でしょう ベッド の 上 で やる ノ",
+        "katakanaWithSpace": "たいきょくけん でしょう  ベッド の うえ/じょう/かみ で やる (*￣∇￣) ノ"
+    },
+    "9": {
+        "character": "まったくもう",
+        "definition": "Good grief. Don't suck me up! Are you tired?",
+        "speaker": "PANDA MAMA",
+        "audio": "/audio/02/0.02.37.mp3",
+        "timestamp": "0:02:37",
+        "characterWithSpace": "まったくもう",
+        "katakanaWithSpace": "まったくもう"
+    },
+    "10": {
+        "character": "最近運動不足だから　肩こちゃって",
+        "definition": "I haven't been exercising enough lately, so my shoulders are stiff.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.02.57.mp3",
+        "timestamp": "0:02:57",
+        "characterWithSpace": "最近 運動不足 だから 肩こちゃ って",
+        "katakanaWithSpace": "さいきん うんどうぶそく だ から  肩こちゃ って"
+    },
+    "11": {
+        "character": "笹子さん　ちょっと　肩もんでくれない",
+        "definition": "Could you rub my shoulders, Miss Sasako?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.03.01.mp3",
+        "timestamp": "0:03:01",
+        "characterWithSpace": "笹 子 さん ちょっと 肩 もんでくれない",
+        "katakanaWithSpace": "ささ こ さん  ちょっと  かた もんで くれない"
+    },
+    "12": {
+        "character": "(´･ω･)y--oO○ ｴｰﾄ･･･",
+        "definition": "Well...",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.03.05.mp3",
+        "timestamp": "0:03:05",
+        "characterWithSpace": "",
+        "katakanaWithSpace": "(´･ω･)y--oO○ ｴｰﾄ･･･"
+    },
+    "13": {
+        "character": "どうしたの",
+        "definition": "What's wrong? I can't seem to find your shoulders.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.03.08.mp3",
+        "timestamp": "0:03:08",
+        "characterWithSpace": "どうしたの",
+        "katakanaWithSpace": "どうしたの"
+    },
+    "14": {
+        "character": "ペンギンさんの肩って　どこにあるんですか",
+        "definition": "Where exactly are your shoulders, Mr. Penguin? Huh? They're right here. Can't you tell?",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.03.13.mp3",
+        "timestamp": "0:03:13",
+        "characterWithSpace": "ペンギン さん の 肩 って どこ に ある ん です か",
+        "katakanaWithSpace": "ペンギン さん の かた って  どこ に ある ん です か"
+    },
+    "15": {
+        "character": "わかりません",
+        "definition": "I'm afraid not.",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.03.22.mp3",
+        "timestamp": "0:03:22",
+        "characterWithSpace": "わかりません",
+        "katakanaWithSpace": "わかりません"
+    },
+    "16": {
+        "character": "じゃ　白熊君　肩揉んでくれる",
+        "definition": "Then could you rub my shoulders, Polar Bear? Sure.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.03.23.mp3",
+        "timestamp": "0:03:23",
+        "characterWithSpace": "じゃ 白熊 君 肩 揉んでくれる",
+        "katakanaWithSpace": "じゃ  しろくま/はぐま きみ/くん  かた もんで くれる"
+    },
+    "17": {
+        "character": "刺さってる　刺さってるw(ﾟДﾟ)w",
+        "definition": "You're stabbing me! Stabbing! Hello.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.03.31.mp3",
+        "timestamp": "0:03:31",
+        "characterWithSpace": "刺さってる 刺さってる",
+        "katakanaWithSpace": "ささってる  ささってる w(ﾟДﾟ)w"
+    },
+    "18": {
+        "character": "いらっしゃい",
+        "definition": "Hello. Hey there, Panda.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.03.38.mp3",
+        "timestamp": "0:03:38",
+        "characterWithSpace": "いらっしゃい",
+        "katakanaWithSpace": "いらっしゃい"
+    },
+    "19": {
+        "character": "ペンギンさん　来てたの",
+        "definition": "Oh, you're here, Mr. Penguin?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.03.42.mp3",
+        "timestamp": "0:03:42",
+        "characterWithSpace": "ペンギン さん 来てた の",
+        "katakanaWithSpace": "ペンギン さん  きてた の"
+    },
+    "20": {
+        "character": "動物園のバイト　今日は休み",
+        "definition": "You have the day off from the zoo today? Yep. Could I get the usual, Miss Sasako?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.03.45.mp3",
+        "timestamp": "0:03:45",
+        "characterWithSpace": "動物園 の バイト 今日 は 休み",
+        "katakanaWithSpace": "どうぶつえん の バイト  きょう は やすみ"
+    },
+    "21": {
+        "character": "はい　竹大盛りね",
+        "definition": "A large serving of bamboo, coming right up.",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.03.52.mp3",
+        "timestamp": "0:03:52",
+        "characterWithSpace": "はい 竹 大盛り ね",
+        "katakanaWithSpace": "はい  たけ おおもり ね"
+    },
+    "22": {
+        "character": "白熊君のお店　今日も人いっぱいだね",
+        "definition": "Polar Bear's café is crowded again today.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.03.58.mp3",
+        "timestamp": "0:03:58",
+        "characterWithSpace": "白熊 君 の お店 今日 も 人 いっぱい だ ね",
+        "katakanaWithSpace": "しろくま/はぐま きみ/くん の おみせ  きょう も じん/ひと/にん いっぱい だ ね"
+    },
+    "23": {
+        "character": "コーヒーも食べ物も美味しいよね",
+        "definition": "That's because the coffee and the food are excellent.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.02.mp3",
+        "timestamp": "0:04:02",
+        "characterWithSpace": "コーヒー も 食べ物 も 美味しい よね",
+        "katakanaWithSpace": "コーヒー も たべもの も おいしい よね"
+    },
+    "24": {
+        "character": "おしゃれだしね",
+        "definition": "It has a nice atmosphere, too.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.05.mp3",
+        "timestamp": "0:04:05",
+        "characterWithSpace": "おしゃれ だ しね",
+        "katakanaWithSpace": "おしゃれ だ しね"
+    },
+    "25": {
+        "character": "そうだね",
+        "definition": "It sure is.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.07.mp3",
+        "timestamp": "0:04:07",
+        "characterWithSpace": "そうだね",
+        "katakanaWithSpace": "そうだね"
+    },
+    "26": {
+        "character": "おしゃれな女の子がいっぱいだね",
+        "definition": "There are lots of pretty girls, too. There sure are.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.09.mp3",
+        "timestamp": "0:04:09",
+        "characterWithSpace": "おしゃれ な 女の子 が いっぱい だ ね",
+        "katakanaWithSpace": "おしゃれ な おんなのこ が いっぱい だ ね"
+    },
+    "27": {
+        "character": "珍しい動物も来てるよね",
+        "definition": "Lots of exotic animals, too.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.14.mp3",
+        "timestamp": "0:04:14",
+        "characterWithSpace": "珍しい 動物 も 来てる よね",
+        "katakanaWithSpace": "めずらしい どうぶつ も きてる よね"
+    },
+    "28": {
+        "character": "そうだね",
+        "definition": "True, true.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.17.mp3",
+        "timestamp": "0:04:17",
+        "characterWithSpace": "そうだね",
+        "katakanaWithSpace": "そうだね"
+    },
+    "29": {
+        "character": "カフェやってる白熊君って格好よくない\"o((>ω< ))o\"",
+        "definition": "Polar Bear is pretty cool for running a café, isn't he?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.19.mp3",
+        "timestamp": "0:04:19",
+        "characterWithSpace": "カフェ やってる 白熊 君 って 格好よく ない",
+        "katakanaWithSpace": "カフェ やってる しろくま/はぐま きみ/くん って かっこよく ない \"o((>ω< ))o\""
+    },
+    "30": {
+        "character": "そう",
+        "definition": "You think so?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.24.mp3",
+        "timestamp": "0:04:24",
+        "characterWithSpace": "そう",
+        "katakanaWithSpace": "そう"
+    },
+    "31": {
+        "character": "まあ　お客でダラダラしてるペンギンさんは",
+        "definition": "However, since you're always lazing around here as a customer,",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.25.mp3",
+        "timestamp": "0:04:25",
+        "characterWithSpace": "まあ お 客 で ダラダラしてる ペンギン さん は",
+        "katakanaWithSpace": "まあ  お きゃく で ダラダラ してる ペンギン さん は"
+    },
+    "32": {
+        "character": "とくには格好よくないね",
+        "definition": "you're not as cool, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.04.29.mp3",
+        "timestamp": "0:04:29",
+        "characterWithSpace": "とくに は 格好よく ない ね",
+        "katakanaWithSpace": "とくに は かっこよく ない ね"
+    },
+    "33": {
+        "character": "僕と比べるのはやめてくれない(*′Д`)",
+        "definition": "Could you stop comparing us?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.31.mp3",
+        "timestamp": "0:04:31",
+        "characterWithSpace": "僕 と 比べる の は やめてくれない",
+        "katakanaWithSpace": "ぼく と くらべる の は やめて くれない (*′Д`)"
+    },
+    "34": {
+        "character": "あ　白熊君　カフェモカ頂戴",
+        "definition": "Oh, Polar Bear, one café mocha, please {\\i1}(choudai){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.34.mp3",
+        "timestamp": "0:04:34",
+        "characterWithSpace": "あ 白熊 君 カフェ モカ 頂戴",
+        "katakanaWithSpace": "あ  しろくま/はぐま きみ/くん  カフェ モカ ちょうだい"
+    },
+    "35": {
+        "character": "それは卓袱台",
+        "definition": "That would be a low dining table {\\i1}(chabudai){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.39.mp3",
+        "timestamp": "0:04:39",
+        "characterWithSpace": "それは 卓袱台",
+        "katakanaWithSpace": "それは ちゃぶだい"
+    },
+    "36": {
+        "character": "それは宿題",
+        "definition": "That would be homework {\\i1}(shukudai){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.42.mp3",
+        "timestamp": "0:04:42",
+        "characterWithSpace": "それは 宿題",
+        "katakanaWithSpace": "それは しゅくだい"
+    },
+    "37": {
+        "character": "それは兄弟",
+        "definition": "Those would be brothers {\\i1}(kyoudai){\\i0}. {\\i1}Please{\\i0}, okay? Here you go, one café mocha.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.44.mp3",
+        "timestamp": "0:04:44",
+        "characterWithSpace": "それは 兄弟",
+        "katakanaWithSpace": "それは きょうだい"
+    },
+    "38": {
+        "character": "普通にやってよね",
+        "definition": "Couldn't you just do that from the beginning?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.04.52.mp3",
+        "timestamp": "0:04:52",
+        "characterWithSpace": "普通に やって よね",
+        "katakanaWithSpace": "ふつうに やって よね"
+    },
+    "39": {
+        "character": "どうぞごゆっくり",
+        "definition": "Please enjoy yourself.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.04.54.mp3",
+        "timestamp": "0:04:54",
+        "characterWithSpace": "どうぞ ごゆっくり",
+        "katakanaWithSpace": "どうぞ ごゆっくり"
+    },
+    "40": {
+        "character": "笹子さん　ちょっと出てくるね",
+        "definition": "I'm going to step out for a bit, Miss Sasako. Oh, okay, Mr. Polar Bear. Take care!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.04.58.mp3",
+        "timestamp": "0:04:58",
+        "characterWithSpace": "笹 子 さん ちょっと 出てくる ね",
+        "katakanaWithSpace": "ささ こ さん  ちょっと でてくる ね"
+    },
+    "41": {
+        "character": "そうだ　僕もカフェを開いてみたらどうかな",
+        "definition": "I know! What if I open up a café, too? Really? You?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.05.mp3",
+        "timestamp": "0:05:05",
+        "characterWithSpace": "そう だ 僕 も カフェ を 開いて みたら どうかな",
+        "katakanaWithSpace": "そう だ  ぼく も カフェ を あいて/ひらいて みたら どうかな"
+    },
+    "42": {
+        "character": "パンダカフェ",
+        "definition": "Panda's Café!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.11.mp3",
+        "timestamp": "0:05:11",
+        "characterWithSpace": "パンダ カフェ",
+        "katakanaWithSpace": "パンダ カフェ"
+    },
+    "43": {
+        "character": "そのまんまだね",
+        "definition": "Not very original.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.05.13.mp3",
+        "timestamp": "0:05:13",
+        "characterWithSpace": "そのまんま だ ね",
+        "katakanaWithSpace": "そのまんま だ ね"
+    },
+    "44": {
+        "character": "どんなカフェにしようかなぁ",
+        "definition": "I wonder what kind of café it would be.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.15.mp3",
+        "timestamp": "0:05:15",
+        "characterWithSpace": "どんな カフェ に しよう か なぁ",
+        "katakanaWithSpace": "どんな カフェ に しよう か なぁ"
+    },
+    "45": {
+        "character": "まったりできる　レトロなカフェがいいな",
+        "definition": "I think it should be mellow, with a retro feel.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.19.mp3",
+        "timestamp": "0:05:19",
+        "characterWithSpace": "まったりできる レトロ な カフェ が いい な",
+        "katakanaWithSpace": "まったり できる  レトロ な カフェ が いい な"
+    },
+    "46": {
+        "character": "うん　コンセプトは悪くないね",
+        "definition": "Well, the concept isn't terrible.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.05.23.mp3",
+        "timestamp": "0:05:23",
+        "characterWithSpace": "うん コンセプト は 悪くない ね",
+        "katakanaWithSpace": "うん  コンセプト は わるくない ね"
+    },
+    "47": {
+        "character": "いらっしゃいませ",
+        "definition": "Welcome!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.29.mp3",
+        "timestamp": "0:05:29",
+        "characterWithSpace": "いらっしゃいませ",
+        "katakanaWithSpace": "いらっしゃいませ"
+    },
+    "48": {
+        "character": "可愛いな　僕＼（≧Д≦）＜",
+        "definition": "I'm so cute!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.33.mp3",
+        "timestamp": "0:05:33",
+        "characterWithSpace": "可愛い な 僕",
+        "katakanaWithSpace": "かわいい な  ぼく ＼（≧Д≦）＜"
+    },
+    "49": {
+        "character": "自分で言わないで",
+        "definition": "Please don't say that about yourself.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.05.35.mp3",
+        "timestamp": "0:05:35",
+        "characterWithSpace": "自分で 言わないで",
+        "katakanaWithSpace": "じぶんで いわないで"
+    },
+    "50": {
+        "character": "それでね",
+        "definition": "And then,",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.38.mp3",
+        "timestamp": "0:05:38",
+        "characterWithSpace": "それで ね",
+        "katakanaWithSpace": "それで ね"
+    },
+    "51": {
+        "character": "お店に中にね　僕のコレクションも飾ろうかな",
+        "definition": "I think I'm going to decorate the interior with my collection.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.40.mp3",
+        "timestamp": "0:05:40",
+        "characterWithSpace": "お店 に 中 に ね 僕 の コレクション も 飾ろう かな",
+        "katakanaWithSpace": "おみせ に なか/ちゅう に ね  ぼく の コレクション も かざろう かな"
+    },
+    "52": {
+        "character": "パンダ君のコレクションって　パンダグッヅ",
+        "definition": "And your collection consists of panda items? Yep. They're super cute!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.05.44.mp3",
+        "timestamp": "0:05:44",
+        "characterWithSpace": "パンダ 君 の コレクション って パンダ グッヅ",
+        "katakanaWithSpace": "パンダ きみ/くん の コレクション って  パンダ グッヅ"
+    },
+    "53": {
+        "character": "何",
+        "definition": "What? Panda everything.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.51.mp3",
+        "timestamp": "0:05:51",
+        "characterWithSpace": "何",
+        "katakanaWithSpace": "なに/なん"
+    },
+    "54": {
+        "character": "何か問題ある",
+        "definition": "Is there a problem? No, not really. Go on.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.05.54.mp3",
+        "timestamp": "0:05:54",
+        "characterWithSpace": "何か 問題 ある",
+        "katakanaWithSpace": "なにか もんだい ある"
+    },
+    "55": {
+        "character": "当店のおすすめは日替わり竹ランチです",
+        "definition": "Our specialty is the Daily Special Bamboo Lunch.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.00.mp3",
+        "timestamp": "0:06:00",
+        "characterWithSpace": "当店 の おすすめ は 日替わり 竹 ランチ です",
+        "katakanaWithSpace": "とうてん の おすすめ は ひがわり たけ ランチ です"
+    },
+    "56": {
+        "character": "お品書きはこちらです",
+        "definition": "Here's our menu. Bamboo Deluxe Special.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.04.mp3",
+        "timestamp": "0:06:04",
+        "characterWithSpace": "お 品書き は こちら です",
+        "katakanaWithSpace": "お しながき は こちら です"
+    },
+    "57": {
+        "character": "竹上",
+        "definition": "Bamboo Special.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.08.mp3",
+        "timestamp": "0:06:08",
+        "characterWithSpace": "竹 上",
+        "katakanaWithSpace": "たけ うえ/じょう/かみ"
+    },
+    "58": {
+        "character": "竹並",
+        "definition": "Bamboo, normal serving.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.09.mp3",
+        "timestamp": "0:06:09",
+        "characterWithSpace": "竹 並",
+        "katakanaWithSpace": "たけ なみ"
+    },
+    "59": {
+        "character": "若竹煮",
+        "definition": "Boiled Young Bamboo.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.10.mp3",
+        "timestamp": "0:06:10",
+        "characterWithSpace": "若 竹 煮",
+        "katakanaWithSpace": "わか たけ に"
+    },
+    "60": {
+        "character": "竹ずし",
+        "definition": "Bamboo Sushi.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.11.mp3",
+        "timestamp": "0:06:11",
+        "characterWithSpace": "竹 ずし",
+        "katakanaWithSpace": "たけ ずし"
+    },
+    "61": {
+        "character": "竹かまぼこ……",
+        "definition": "Bamboo Fishcakes.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.12.mp3",
+        "timestamp": "0:06:12",
+        "characterWithSpace": "竹 かまぼこ",
+        "katakanaWithSpace": "たけ かまぼこ ……"
+    },
+    "62": {
+        "character": "……竹定食　松　竹　梅",
+        "definition": "Bamboo Sets: Your choice of Pine, Bamboo, or Plum.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.18.mp3",
+        "timestamp": "0:06:18",
+        "characterWithSpace": "竹 定食 松 竹 梅",
+        "katakanaWithSpace": "…… たけ ていしょく  まつ  たけ  うめ"
+    },
+    "63": {
+        "character": "ちょっと　ちょっと",
+        "definition": "Wait a second.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.22.mp3",
+        "timestamp": "0:06:22",
+        "characterWithSpace": "ちょっと ちょっと",
+        "katakanaWithSpace": "ちょっと  ちょっと"
+    },
+    "64": {
+        "character": "パンダ君の好物しかおいてないじゃない　そのカフェ",
+        "definition": "You're only serving things you like at your café.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.23.mp3",
+        "timestamp": "0:06:23",
+        "characterWithSpace": "パンダ 君 の 好物 しか おいてない じゃない その カフェ",
+        "katakanaWithSpace": "パンダ きみ/くん の こうぶつ しか おいてない じゃない  その カフェ"
+    },
+    "65": {
+        "character": "僕の好きなものは　皆もきっと好きだよ",
+        "definition": "I'm sure that everyone will like the things I like.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.28.mp3",
+        "timestamp": "0:06:28",
+        "characterWithSpace": "僕 の 好き な もの は 皆 も きっと 好き だ よ",
+        "katakanaWithSpace": "ぼく の すき な もの は  みんな も きっと すき だ よ"
+    },
+    "66": {
+        "character": "美味しいよ　竹o(*￣▽￣*)o",
+        "definition": "Bamboo is delicious.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.32.mp3",
+        "timestamp": "0:06:32",
+        "characterWithSpace": "美味しい よ 竹",
+        "katakanaWithSpace": "おいしい よ  たけ o(*￣▽￣*)o"
+    },
+    "67": {
+        "character": "生魚はおいてないの",
+        "definition": "You're not going to carry any raw fish?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.34.mp3",
+        "timestamp": "0:06:34",
+        "characterWithSpace": "生魚 は おいてない の",
+        "katakanaWithSpace": "なまざかな/せいぎょ は おいてない の"
+    },
+    "68": {
+        "character": "カフェに生魚はおいてないでしょう",
+        "definition": "They don't have raw fish at cafés.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.37.mp3",
+        "timestamp": "0:06:37",
+        "characterWithSpace": "カフェ に 生魚 は おいてないでしょう",
+        "katakanaWithSpace": "カフェ に なまざかな/せいぎょ は おいてない でしょう"
+    },
+    "69": {
+        "character": "カフェに竹なんておいてないでしょう",
+        "definition": "They don't have bamboo at cafés either.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.41.mp3",
+        "timestamp": "0:06:41",
+        "characterWithSpace": "カフェ に 竹 なんて おいてないでしょう",
+        "katakanaWithSpace": "カフェ に たけ なんて おいてない でしょう"
+    },
+    "70": {
+        "character": "しろくまカフェにはおいてあるよ",
+        "definition": "They do at Polar Bear's Café.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.06.45.mp3",
+        "timestamp": "0:06:45",
+        "characterWithSpace": "しろくま カフェ には おいて ある よ",
+        "katakanaWithSpace": "しろくま カフェ には おいて ある よ"
+    },
+    "71": {
+        "character": "頼むのパンダ君だけでしょう",
+        "definition": "You're the only one that orders it, though.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.48.mp3",
+        "timestamp": "0:06:48",
+        "characterWithSpace": "頼む の パンダ 君 だけ でしょう",
+        "katakanaWithSpace": "たのむ の パンダ きみ/くん だけ でしょう"
+    },
+    "72": {
+        "character": "僕はやっぱり生魚おいて欲しいね",
+        "definition": "I'd like it if you carried raw fish. Really? We do have boiled young bamboo though. That'd be a very different genre.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.06.50.mp3",
+        "timestamp": "0:06:50",
+        "characterWithSpace": "僕 は やっぱり 生魚 おいて 欲しい ね",
+        "katakanaWithSpace": "ぼく は やっぱり なまざかな/せいぎょ おいて ほしい ね"
+    },
+    "73": {
+        "character": "だよね",
+        "definition": "Exactly!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.00.mp3",
+        "timestamp": "0:07:00",
+        "characterWithSpace": "だよね",
+        "katakanaWithSpace": "だよね"
+    },
+    "74": {
+        "character": "だいたいその竹定食の松　竹　梅って紛らわしいよ",
+        "definition": "Not to mention your Bamboo Sets of Pine, Bamboo, and Plum are rather confusing.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.01.mp3",
+        "timestamp": "0:07:01",
+        "characterWithSpace": "だいたい その 竹 定食 の 松 竹 梅 って 紛らわしい よ",
+        "katakanaWithSpace": "だいたい その たけ ていしょく の まつ  たけ  うめ って まぎらわしい よ"
+    },
+    "75": {
+        "character": "そうかな",
+        "definition": "You think so?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.06.mp3",
+        "timestamp": "0:07:06",
+        "characterWithSpace": "そうか な",
+        "katakanaWithSpace": "そうか な"
+    },
+    "76": {
+        "character": "まあ　竹中心のメニューだと　お客さんはあんまりこないよ",
+        "definition": "You're not going to get  many customers with a menu based solely on bamboo. What? There'll be tons!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.07.mp3",
+        "timestamp": "0:07:07",
+        "characterWithSpace": "まあ 竹 中心 の メニュー だ と お客さん は あんまり こない よ",
+        "katakanaWithSpace": "まあ  たけ ちゅうしん の メニュー だ と  おきゃくさん は あんまり こない よ"
+    },
+    "77": {
+        "character": "なんでそう思えるの",
+        "definition": "Exactly what makes you think that?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.14.mp3",
+        "timestamp": "0:07:14",
+        "characterWithSpace": "なんで そう 思える の",
+        "katakanaWithSpace": "なんで そう おもえる の"
+    },
+    "78": {
+        "character": "ラマさんはパンダカフェ来てくれるよね",
+        "definition": "You'll come to Panda's Café, right, Mr. Llama?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.17.mp3",
+        "timestamp": "0:07:17",
+        "characterWithSpace": "ラマ さん は パンダ カフェ 来てくれる よね",
+        "katakanaWithSpace": "ラマ さん は パンダ カフェ きて くれる よね"
+    },
+    "79": {
+        "character": "僕竹食べるとお腹痛くなっちゃうんです",
+        "definition": "I get a stomachache when I eat bamboo.",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.07.21.mp3",
+        "timestamp": "0:07:21",
+        "characterWithSpace": "僕 竹 食べる と お腹 痛くなっちゃう ん です",
+        "katakanaWithSpace": "ぼく たけ たべる と おなか いたくなっちゃう ん です"
+    },
+    "80": {
+        "character": "どうしよう　ペンギンさん",
+        "definition": "What should I do, Mr. Penguin?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.26.mp3",
+        "timestamp": "0:07:26",
+        "characterWithSpace": "どうしよう ペンギン さん",
+        "katakanaWithSpace": "どうしよう  ペンギン さん"
+    },
+    "81": {
+        "character": "普通の料理も出したら",
+        "definition": "Why don't you offer some normal food, too?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.29.mp3",
+        "timestamp": "0:07:29",
+        "characterWithSpace": "普通 の 料理 も 出したら",
+        "katakanaWithSpace": "ふつう の りょうり も だしたら"
+    },
+    "82": {
+        "character": "ほら　パスタとかさあ",
+        "definition": "See? Like pasta.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.34.mp3",
+        "timestamp": "0:07:34",
+        "characterWithSpace": "ほら パスタ とか さあ",
+        "katakanaWithSpace": "ほら  パスタ とか さあ"
+    },
+    "83": {
+        "character": "いいね　竹パスタ（≧0≦）//",
+        "definition": "Bamboo pasta! That's a great idea!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.38.mp3",
+        "timestamp": "0:07:38",
+        "characterWithSpace": "いいね 竹 パスタ",
+        "katakanaWithSpace": "いいね  たけ パスタ （≧≦）//"
+    },
+    "84": {
+        "character": "いや　竹忘れよう（′Д`）",
+        "definition": "Er, let's leave out the bamboo?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.07.40.mp3",
+        "timestamp": "0:07:40",
+        "characterWithSpace": "いや 竹 忘れよう",
+        "katakanaWithSpace": "いや  たけ わすれよう （′Д`）"
+    },
+    "85": {
+        "character": "やってみたいなあ　パンダカフェ（～o￣▽￣)～o",
+        "definition": "I really want to open Panda's Café.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.43.mp3",
+        "timestamp": "0:07:43",
+        "characterWithSpace": "やって みたい なあ パンダ カフェ",
+        "katakanaWithSpace": "やって みたい なあ  パンダ カフェ （～o￣▽￣)～o"
+    },
+    "86": {
+        "character": "悪い予感がするね  ヽ(´Д`；)ﾉ",
+        "definition": "I have a bad feeling about this.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.07.51.mp3",
+        "timestamp": "0:07:51",
+        "characterWithSpace": "悪い 予感 が する ね ヽ",
+        "katakanaWithSpace": "わるい よかん が する ね  ヽ (´Д`；)ﾉ"
+    },
+    "87": {
+        "character": "いらっしゃい",
+        "definition": "Welcome!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.07.54.mp3",
+        "timestamp": "0:07:54",
+        "characterWithSpace": "いらっしゃい",
+        "katakanaWithSpace": "いらっしゃい"
+    },
+    "88": {
+        "character": "戻してね",
+        "definition": "Change everything back.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.08.02.mp3",
+        "timestamp": "0:08:02",
+        "characterWithSpace": "戻して ね",
+        "katakanaWithSpace": "もどして ね"
+    },
+    "89": {
+        "character": "はい　竹いっちょう",
+        "definition": "One order of bamboo coming right up!",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.08.04.mp3",
+        "timestamp": "0:08:04",
+        "characterWithSpace": "はい 竹 いっちょう",
+        "katakanaWithSpace": "はい  たけ いっちょう"
+    },
+    "90": {
+        "character": "大盛りもできますよ　どうしますか",
+        "definition": "We can make it a large serving if you'd like. What do you say?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.08.07.mp3",
+        "timestamp": "0:08:07",
+        "characterWithSpace": "大盛り も できます よ どうしますか",
+        "katakanaWithSpace": "おおもり も できます よ  どうしますか"
+    },
+    "91": {
+        "character": "戻してね",
+        "definition": "Change everything back.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.08.13.mp3",
+        "timestamp": "0:08:13",
+        "characterWithSpace": "戻して ね",
+        "katakanaWithSpace": "もどして ね"
+    },
+    "92": {
+        "character": "パンダ君じゃダメだね　僕がカフェやるよ",
+        "definition": "Your idea just doesn't work, Panda. I'll open a café. What kind of café will it be?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.17.mp3",
+        "timestamp": "0:08:17",
+        "characterWithSpace": "パンダ 君 じゃ ダメ だ ね 僕 が カフェ やる よ",
+        "katakanaWithSpace": "パンダ きみ/くん じゃ ダメ だ ね  ぼく が カフェ やる よ"
+    },
+    "93": {
+        "character": "そうだね　ペンギンカフェ",
+        "definition": "Let's see... I'll call it Penguin's Café. Very original.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.23.mp3",
+        "timestamp": "0:08:23",
+        "characterWithSpace": "そうだね ペンギン カフェ",
+        "katakanaWithSpace": "そうだね  ペンギン カフェ"
+    },
+    "94": {
+        "character": "いやいや　和風のカフェなんだよ",
+        "definition": "It'll be a Japanese-style café.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.32.mp3",
+        "timestamp": "0:08:32",
+        "characterWithSpace": "いやいや 和風 の カフェ なんだ よ",
+        "katakanaWithSpace": "いやいや  わふう の カフェ なんだ よ"
+    },
+    "95": {
+        "character": "メニューは　そうだな",
+        "definition": "Let's see, the menu will center around alcohol and raw fish.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.36.mp3",
+        "timestamp": "0:08:36",
+        "characterWithSpace": "メニュー は そうだ な",
+        "katakanaWithSpace": "メニュー は  そうだ な"
+    },
+    "96": {
+        "character": "和風カフェっていうより　お寿司屋さんみたいなメニューだね",
+        "definition": "That sounds like a menu fora sushi restaurant, not a Japanese-style café.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.08.42.mp3",
+        "timestamp": "0:08:42",
+        "characterWithSpace": "和風 カフェ っていう より お 寿司屋 さん みたい な メニュー だ ね",
+        "katakanaWithSpace": "わふう カフェ っていう より  お すしや さん みたい な メニュー だ ね"
+    },
+    "97": {
+        "character": "コンセプトは四季おり売りの新鮮な海の幸を",
+        "definition": "The concept will be a café where you can eat the season's freshest seafood",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.47.mp3",
+        "timestamp": "0:08:47",
+        "characterWithSpace": "コンセプト は 四季 おり 売り の 新鮮 な 海の幸 を",
+        "katakanaWithSpace": "コンセプト は しき おり うり の しんせん な うみのさち を"
+    },
+    "98": {
+        "character": "店主が選んだ　こだわりのお酒でいただけるカフェ",
+        "definition": "along with the best sake, hand-picked by the owner.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.51.mp3",
+        "timestamp": "0:08:51",
+        "characterWithSpace": "店主 が 選んだ こだわり の お酒 で いただける カフェ",
+        "katakanaWithSpace": "てんしゅ が えらんだ  こだわり の おさけ で いただける カフェ"
+    },
+    "99": {
+        "character": "それカフェじゃなくて　お寿司屋さんじゃない",
+        "definition": "That's a sushi restaurantnot a café, right?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.08.55.mp3",
+        "timestamp": "0:08:55",
+        "characterWithSpace": "それ カフェ じゃなくて お 寿司屋 さん じゃない",
+        "katakanaWithSpace": "それ カフェ じゃなくて  お すしや さん じゃない"
+    },
+    "100": {
+        "character": "違うよ　でね",
+        "definition": "No, it's not. Also, in the middle of the café, there'll be an aquarium.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.08.59.mp3",
+        "timestamp": "0:08:59",
+        "characterWithSpace": "違う よ で ね",
+        "katakanaWithSpace": "ちがう よ  で ね"
+    },
+    "101": {
+        "character": "水槽の中では魚が泳いでいて",
+        "definition": "There'll be fish swimming around in it",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.04.mp3",
+        "timestamp": "0:09:04",
+        "characterWithSpace": "水槽 の 中 では 魚 が 泳いでいて",
+        "katakanaWithSpace": "すいそう の なか/ちゅう で は さかな が およいでいて"
+    },
+    "102": {
+        "character": "お客さんは自分の選んだ魚を食られるの",
+        "definition": "and customers can choose which fish they want to eat. There aren't any cafés with fish tanks.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.07.mp3",
+        "timestamp": "0:09:07",
+        "characterWithSpace": "お客さん は 自分 の 選んだ 魚 を 食 られる の",
+        "katakanaWithSpace": "おきゃくさん は じぶん の えらんだ さかな を しょく られる の"
+    },
+    "103": {
+        "character": "カフェっぽさも入れてよ",
+        "definition": "You need something a café would have.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.09.13.mp3",
+        "timestamp": "0:09:13",
+        "characterWithSpace": "カフェ っぽさ も 入れて よ",
+        "katakanaWithSpace": "カフェ っぽさ も いれて/はいれて よ"
+    },
+    "104": {
+        "character": "カフェっぽさ　入ってない",
+        "definition": "Something a café would have?You don't get it? It's Penguin's {\\i1}Café{\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.16.mp3",
+        "timestamp": "0:09:16",
+        "characterWithSpace": "カフェ っぽさ 入ってない",
+        "katakanaWithSpace": "カフェ っぽさ  はいってない/いってない"
+    },
+    "105": {
+        "character": "名前だけでしょう",
+        "definition": "That's just the name.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.09.21.mp3",
+        "timestamp": "0:09:21",
+        "characterWithSpace": "名前だけ でしょう",
+        "katakanaWithSpace": "なまえだけ でしょう"
+    },
+    "106": {
+        "character": "だったら　コーヒー出したりしたらどうですか",
+        "definition": "Then, why don't you try serving coffee?",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.09.23.mp3",
+        "timestamp": "0:09:23",
+        "characterWithSpace": "だったら コーヒー 出したり したら どう です か",
+        "katakanaWithSpace": "だったら  コーヒー だしたり したら どう です か"
+    },
+    "107": {
+        "character": "でも　市場まで魚の仕入れがあるかな",
+        "definition": "Well, I'd be busy getting the fish from the fish market.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.27.mp3",
+        "timestamp": "0:09:27",
+        "characterWithSpace": "でも 市場 まで 魚 の 仕入れ が ある かな",
+        "katakanaWithSpace": "でも  いちば/しじょう まで さかな の しいれ が ある かな"
+    },
+    "108": {
+        "character": "そこまで手が回るかな",
+        "definition": "I don't know if I'd be able to handle coffee, too.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.30.mp3",
+        "timestamp": "0:09:30",
+        "characterWithSpace": "そこまで 手が回る かな",
+        "katakanaWithSpace": "そこまで てがまわる かな"
+    },
+    "109": {
+        "character": "やめちゃえば　カフェ",
+        "definition": "You might as well hang up the café idea.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.09.32.mp3",
+        "timestamp": "0:09:32",
+        "characterWithSpace": "やめちゃえば カフェ",
+        "katakanaWithSpace": "やめちゃえば  カフェ"
+    },
+    "110": {
+        "character": "何言ってるの　やるよ　僕は",
+        "definition": "What are you talking about?! I'm totally going to do it!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.35.mp3",
+        "timestamp": "0:09:35",
+        "characterWithSpace": "何 言ってる の やる よ 僕 は",
+        "katakanaWithSpace": "なに いってる の  やる よ  ぼく は"
+    },
+    "111": {
+        "character": "へ　いらっしゃい　o(*≧▽≦)ツ",
+        "definition": "Welcome!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.50.mp3",
+        "timestamp": "0:09:50",
+        "characterWithSpace": "へ いらっしゃい ツ",
+        "katakanaWithSpace": "へ  いらっしゃい o(*≧▽≦) ツ"
+    },
+    "112": {
+        "character": "旦那　何しやしょうか(｀・ω・´)",
+        "definition": "Sir, what can I get'cha? Change everything back.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.09.53.mp3",
+        "timestamp": "0:09:53",
+        "characterWithSpace": "旦那 何 しや しょうか",
+        "katakanaWithSpace": "だんな  なに しや しょうか (｀・ω・´)"
+    },
+    "113": {
+        "character": "ラマカフェはどうですか",
+        "definition": "How about Llama's Café?",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.10.02.mp3",
+        "timestamp": "0:10:02",
+        "characterWithSpace": "ラマ カフェ は どう です か",
+        "katakanaWithSpace": "ラマ カフェ は どう です か"
+    },
+    "114": {
+        "character": "どんなカフェ",
+        "definition": "What kind of café is it?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.10.05.mp3",
+        "timestamp": "0:10:05",
+        "characterWithSpace": "どんな カフェ",
+        "katakanaWithSpace": "どんな カフェ"
+    },
+    "115": {
+        "character": "ラマがいるカフェなんですけど",
+        "definition": "It's a café with llamas in it.",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.10.07.mp3",
+        "timestamp": "0:10:07",
+        "characterWithSpace": "ラマ が いる カフェ なんです けど",
+        "katakanaWithSpace": "ラマ が いる カフェ なんです けど"
+    },
+    "116": {
+        "character": "そのまんまだね",
+        "definition": "Well, that's original. Would you be able to carry the coffee? It would all depend on balance.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.10.09.mp3",
+        "timestamp": "0:10:09",
+        "characterWithSpace": "そのまんま だ ね",
+        "katakanaWithSpace": "そのまんま だ ね"
+    },
+    "117": {
+        "character": "コンセプトとしては店内のラマに草をあげたり",
+        "definition": "As for the concept, it'll be a café where you can feed the llamas grass,",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.10.17.mp3",
+        "timestamp": "0:10:17",
+        "characterWithSpace": "コンセプト として は 店内 の ラマ に 草 を あげたり",
+        "katakanaWithSpace": "コンセプト として は てんない の ラマ に くさ を あげたり"
+    },
+    "118": {
+        "character": "毛繕いしたり　自由にかわいがって　いいカフェなんです",
+        "definition": "groom them, and adore them freely.",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.10.21.mp3",
+        "timestamp": "0:10:21",
+        "characterWithSpace": "毛繕いしたり 自由に かわいがって いい カフェ なんです",
+        "katakanaWithSpace": "けづくろい したり  じゆうに かわいがって  いい カフェ なんです"
+    },
+    "119": {
+        "character": "猫カフェみたいだね",
+        "definition": "It's like a Cat Café. You can groom the llamas. Isn't that amazing?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.10.27.mp3",
+        "timestamp": "0:10:27",
+        "characterWithSpace": "猫カフェ みたい だ ね",
+        "katakanaWithSpace": "ねこカフェ みたい だ ね"
+    },
+    "120": {
+        "character": "そうかな　楽しいのそれ",
+        "definition": "I don't know. Is that actually fun? Not only that, you can pick your favorite llama and take them outside for a walk. I'll take this llama.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.10.35.mp3",
+        "timestamp": "0:10:35",
+        "characterWithSpace": "そうか な 楽しい の それ",
+        "katakanaWithSpace": "そうか な  たのしい の それ"
+    },
+    "121": {
+        "character": "ありがとうございま～～す",
+        "definition": "Thank you, sir.",
+        "speaker": "GUY",
+        "audio": "/audio/02/0.10.47.mp3",
+        "timestamp": "0:10:47",
+        "characterWithSpace": "ありがとう ござ いま す",
+        "katakanaWithSpace": "ありがとう ござ いま ～～ す"
+    },
+    "122": {
+        "character": "ちょっと　草食べってかない",
+        "definition": "Do you want to stop to eat some grass? It needs a bit of salt.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.10.56.mp3",
+        "timestamp": "0:10:56",
+        "characterWithSpace": "ちょっと 草 食べ って かない",
+        "katakanaWithSpace": "ちょっと  くさ たべ って かない"
+    },
+    "123": {
+        "character": "素敵でしょう",
+        "definition": "Doesn't it sound wonderful?",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.11.10.mp3",
+        "timestamp": "0:11:10",
+        "characterWithSpace": "素敵 でしょう",
+        "katakanaWithSpace": "すてき でしょう"
+    },
+    "124": {
+        "character": "楽しいかな　それ",
+        "definition": "I'm having a hard time thinking that'd be fun.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.11.12.mp3",
+        "timestamp": "0:11:12",
+        "characterWithSpace": "楽しい かな それ",
+        "katakanaWithSpace": "たのしい かな  それ"
+    },
+    "125": {
+        "character": "やっぱりパンダカフェが一番だよ",
+        "definition": "Panda's Café is the best, without a doubt.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.11.15.mp3",
+        "timestamp": "0:11:15",
+        "characterWithSpace": "やっぱり パンダ カフェ が 一番 だ よ",
+        "katakanaWithSpace": "やっぱり パンダ カフェ が いちばん だ よ"
+    },
+    "126": {
+        "character": "ペンギンカフェじゃない",
+        "definition": "Don't you mean Penguin's Café? Hey, what do you think, Polar Bear? Llama's Café.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.11.18.mp3",
+        "timestamp": "0:11:18",
+        "characterWithSpace": "ペンギン カフェ じゃない",
+        "katakanaWithSpace": "ペンギン カフェ じゃない"
+    },
+    "127": {
+        "character": "ほらね",
+        "definition": "I told you.",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.11.29.mp3",
+        "timestamp": "0:11:29",
+        "characterWithSpace": "ほら ね",
+        "katakanaWithSpace": "ほら ね"
+    },
+    "128": {
+        "character": "笹子さんは",
+        "definition": "What about you, Miss Sasako?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.11.31.mp3",
+        "timestamp": "0:11:31",
+        "characterWithSpace": "笹 子 さん は",
+        "katakanaWithSpace": "ささ こ さん は"
+    },
+    "129": {
+        "character": "はい",
+        "definition": "Hm?",
+        "speaker": "",
+        "audio": "/audio/02/0.11.32.mp3",
+        "timestamp": "0:11:32",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "130": {
+        "character": "どのカフェがいいと思う",
+        "definition": "Which café do you think is the best?",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.11.34.mp3",
+        "timestamp": "0:11:34",
+        "characterWithSpace": "どの カフェ が いい と 思う",
+        "katakanaWithSpace": "どの カフェ が いい と おもう"
+    },
+    "131": {
+        "character": "うん　そうですね",
+        "definition": "Let's see...",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.11.36.mp3",
+        "timestamp": "0:11:36",
+        "characterWithSpace": "うん そうですね",
+        "katakanaWithSpace": "うん  そうですね"
+    },
+    "132": {
+        "character": "笹子カフェ",
+        "definition": "How about Sasako's Café?",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.11.40.mp3",
+        "timestamp": "0:11:40",
+        "characterWithSpace": "笹 子 カフェ",
+        "katakanaWithSpace": "ささ こ カフェ"
+    },
+    "133": {
+        "character": "やっぱりパンダカフェだよね",
+        "definition": "I'm telling you, it's all about Panda's Café.",
+        "speaker": "PANDA",
+        "audio": "/audio/02/0.11.45.mp3",
+        "timestamp": "0:11:45",
+        "characterWithSpace": "やっぱり パンダ カフェ だよね",
+        "katakanaWithSpace": "やっぱり パンダ カフェ だよね"
+    },
+    "134": {
+        "character": "え　ペンギンカフェでしょう",
+        "definition": "What? Surely you mean Penguin's Café. No, no, it's Llama's Café. H-Hey! Please listen!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.11.47.mp3",
+        "timestamp": "0:11:47",
+        "characterWithSpace": "え ペンギン カフェ でしょう",
+        "katakanaWithSpace": "え  ペンギン カフェ でしょう"
+    },
+    "135": {
+        "character": "うん　どんなの",
+        "definition": "What would it be like?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/02/0.11.57.mp3",
+        "timestamp": "0:11:57",
+        "characterWithSpace": "うん どんな の",
+        "katakanaWithSpace": "うん  どんな の"
+    },
+    "136": {
+        "character": "えーと　そうですね",
+        "definition": "Well, let's see... There's a panda-like Miss Sasako, right?",
+        "speaker": "SASAKO",
+        "audio": "/audio/02/0.11.58.mp3",
+        "timestamp": "0:11:58",
+        "characterWithSpace": "えー と そうですね",
+        "katakanaWithSpace": "えー と  そうですね"
+    },
+    "137": {
+        "character": "え　それじゃパンダカフェと変わらないじゃない",
+        "definition": "Then that wouldn't be any different from Panda's Café.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/02/0.12.03.mp3",
+        "timestamp": "0:12:03",
+        "characterWithSpace": "え それじゃ パンダ カフェ と 変わらない じゃない",
+        "katakanaWithSpace": "え  それじゃ パンダ カフェ と かわらない じゃない"
+    },
+    "138": {
+        "character": "いえいえ　ラマっぽい笹子さんが",
+        "definition": "No, no. There's a llama-like Miss Sasako and...",
+        "speaker": "LLAMA",
+        "audio": "/audio/02/0.12.06.mp3",
+        "timestamp": "0:12:06",
+        "characterWithSpace": "いえいえ ラマ っぽい 笹 子 さん が",
+        "katakanaWithSpace": "いえいえ  ラマ っぽい ささ こ さん が"
+    }
+}
