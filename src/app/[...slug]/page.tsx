@@ -1,15 +1,16 @@
 import { getStory } from "@/data/story"
 import { StoryTemplate } from "../components/story-template/story-template"
 import type { Dictionary } from "../hooks/useDictionaryStore"
+import { AvatarProps } from "../components"
 
 export interface TranscriptDataEntry {
-  audio?: string
+  audio: string
   character: string
   characterWithSpace?: string
   katakana?: string
   definition: string
   katakanaWithSpace?: string
-  speaker?: "Penguin" | "Polar Bear" | "Panda" | "Sasako" | "Handa" | "Other"
+  speaker: AvatarProps | "Other"
 }
 
 export interface TranscriptDataProps {

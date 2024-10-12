@@ -2,18 +2,34 @@ import Image from "next/image"
 import Panda from "../../../assets/panda.png"
 import PolarBear from "../../../assets/shirokuma.png"
 import Penguin from "../../../assets/penguin.png"
+import PandaMama from "../../../assets/panda-mama.png"
 
-export const Avatar = ({ speaker }: { speaker?: string }) => {
+export interface AvatarProps {
+  speaker:
+    | "Penguin"
+    | "Polar Bear"
+    | "Panda"
+    // | "Sasako"
+    // | "Handa"
+    | "Other"
+    | "Panda Mama"
+}
+
+export const Avatar = ({ speaker }: AvatarProps) => {
+  if (speaker == "Other") return null
   return (
-    <div className="tw-w-12 tw-h-12 tw-rounded-full">
-      {speaker?.toLowerCase() === "panda" && (
+    <div className="tw-w-8 tw-h-8 md:tw-w-12 md:tw-h-12 tw-rounded-full">
+      {speaker.toLowerCase() === "panda" && (
         <Image src={Panda} width={48} height={48} alt="Panda" />
       )}
-      {speaker?.toLowerCase() === "penguin" && (
+      {speaker.toLowerCase() === "penguin" && (
         <Image src={Penguin} width={48} height={48} alt="Penguin" />
       )}
-      {speaker?.toLowerCase() === "polar Bear" && (
+      {speaker.toLowerCase() === "polar bear" && (
         <Image src={PolarBear} width={48} height={48} alt="Polar Bear" />
+      )}
+      {speaker.toLowerCase() === "panda mama" && (
+        <Image src={PandaMama} width={48} height={48} alt="Panda Mama" />
       )}
     </div>
   )

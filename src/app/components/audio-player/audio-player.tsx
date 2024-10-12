@@ -1,12 +1,18 @@
 import { useAudioPlayback } from "@/app/hooks/useAudioPlayback"
 
-export const AudioPlayer = ({ sentence }: { sentence: string }) => {
+export const AudioPlayer = ({
+  sentence,
+  audio,
+}: {
+  sentence: string
+  audio: string
+}) => {
   const { playAudio } = useAudioPlayback()
 
   return (
     <div
       className="tw-flex tw-items-center"
-      onClick={() => playAudio(sentence)}
+      onClick={() => playAudio(audio, sentence)}
     >
       <svg
         width="22"

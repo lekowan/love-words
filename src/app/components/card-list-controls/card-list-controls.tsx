@@ -32,32 +32,13 @@ export const CardListControls = ({
     `${slug}-numberOfLine`,
     1
   )
-
   const { playAudio } = useAudioPlayback()
 
   const handleContinue = () => {
     setCurrentNumberOfLines((value) => value + 1)
     setShowTranslate(true)
-
-    const audioPath = data[currentNumberOfLines + 1].audio
-    // If the audio file exists, play it
-    if (audioPath) {
-      const playAudio = (audioPath: string | undefined) => {
-        if (audioPath) {
-          const audio = new Audio(audioPath)
-          audio.play().catch((error) => {
-            console.error("Error playing audio:", error)
-          })
-        }
-      }
-      playAudio(audioPath)
-    }
-    // Otherwise, use speechSynthesis
-    else {
-      const line = data[currentNumberOfLines + 1].character
-      playAudio(line)
-    }
-
+    const nextSlide = data[currentNumberOfLines + 1]
+    playAudio(nextSlide.audio as string, nextSlide.character)
     setNumberOfLinesInLocalStorage(currentNumberOfLines + 1)
   }
 
