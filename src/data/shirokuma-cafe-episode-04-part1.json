@@ -1,0 +1,1154 @@
+{
+    "1": {
+        "character": "ねぇ　シロクマくん",
+        "definition": "Hey, Polar Bear.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.01.42.mp3",
+        "timestamp": "0:01:42",
+        "characterWithSpace": "ねぇ シロクマ くん",
+        "katakanaWithSpace": "ねぇ  シロクマ くん"
+    },
+    "2": {
+        "character": "それ　楽しい？(^^)",
+        "definition": "Is that fun?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.01.45.mp3",
+        "timestamp": "0:01:45",
+        "characterWithSpace": "それ 楽しい",
+        "katakanaWithSpace": "それ  たのしい ？(^^)"
+    },
+    "3": {
+        "character": "そういう時もあるね",
+        "definition": "It can be at times.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.01.47.mp3",
+        "timestamp": "0:01:47",
+        "characterWithSpace": "そういう 時 も ある ね",
+        "katakanaWithSpace": "そういう とき も ある ね"
+    },
+    "4": {
+        "character": "どんな時？",
+        "definition": "Like when?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.01.50.mp3",
+        "timestamp": "0:01:50",
+        "characterWithSpace": "どんな 時",
+        "katakanaWithSpace": "どんな とき/じ ？"
+    },
+    "5": {
+        "character": "こんなのが折れた時",
+        "definition": "Like when I'm able to make something like this. It's a polar bear.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.01.52.mp3",
+        "timestamp": "0:01:52",
+        "characterWithSpace": "こんな の が 折れた 時",
+        "katakanaWithSpace": "こんな の が おれた とき/じ"
+    },
+    "6": {
+        "character": "ねぇ　どうやったの？",
+        "definition": "Hey, how'd you make it?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.01.58.mp3",
+        "timestamp": "0:01:58",
+        "characterWithSpace": "ねぇ どう やった の",
+        "katakanaWithSpace": "ねぇ  どう やった の ？"
+    },
+    "7": {
+        "character": "秘密 (#^.^#)",
+        "definition": "It's a secret.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.02.00.mp3",
+        "timestamp": "0:02:00",
+        "characterWithSpace": "秘密",
+        "katakanaWithSpace": "ひみつ (#^^#)"
+    },
+    "8": {
+        "character": "器用だね",
+        "definition": "You're quite talented.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.01.mp3",
+        "timestamp": "0:02:01",
+        "characterWithSpace": "器用 だ ね",
+        "katakanaWithSpace": "きよう だ ね"
+    },
+    "9": {
+        "character": "写真撮っていいかな？",
+        "definition": "Can I take a picture?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.03.mp3",
+        "timestamp": "0:02:03",
+        "characterWithSpace": "写真 撮っていい かな",
+        "katakanaWithSpace": "しゃしん とって いい かな ？"
+    },
+    "10": {
+        "character": "写真？　カメラ持ってるんだ？",
+        "definition": "A picture? You have a camera?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.02.05.mp3",
+        "timestamp": "0:02:05",
+        "characterWithSpace": "写真 カメラ 持ってる ん だ",
+        "katakanaWithSpace": "しゃしん ？ カメラ もってる ん だ ？"
+    },
+    "11": {
+        "character": "カメラっていうかさ…",
+        "definition": "Not a camera, exactly. I bought a sumafo (smartphone).",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.08.mp3",
+        "timestamp": "0:02:08",
+        "characterWithSpace": "カメラ っていうか さ",
+        "katakanaWithSpace": "カメラ っていうか さ …"
+    },
+    "12": {
+        "character": "なに？　スマフォって",
+        "definition": "What's a sumafo? That would be you rolled up in a reed mat {\\i1}(sumaki){\\i0}.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.02.12.mp3",
+        "timestamp": "0:02:12",
+        "characterWithSpace": "なに スマフォ って",
+        "katakanaWithSpace": "なに ？ スマフォ って"
+    },
+    "13": {
+        "character": "それは　ちまき",
+        "definition": "Those are rice dumplings wrapped in bamboo leaves {\\i1}(chimaki){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.19.mp3",
+        "timestamp": "0:02:19",
+        "characterWithSpace": "それは ちまき",
+        "katakanaWithSpace": "それは  ちまき"
+    },
+    "14": {
+        "character": "はちまき",
+        "definition": "Headband {\\i1}(hachimaki){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.22.mp3",
+        "timestamp": "0:02:22",
+        "characterWithSpace": "はちまき",
+        "katakanaWithSpace": "はちまき"
+    },
+    "15": {
+        "character": "葉巻",
+        "definition": "Cigars {\\i1}(hamaki){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.24.mp3",
+        "timestamp": "0:02:24",
+        "characterWithSpace": "葉巻",
+        "katakanaWithSpace": "はまき"
+    },
+    "16": {
+        "character": "ハマチ！",
+        "definition": "Yellowtail {\\i1}(hamachi){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.26.mp3",
+        "timestamp": "0:02:26",
+        "characterWithSpace": "ハマチ",
+        "katakanaWithSpace": "ハマチ ！"
+    },
+    "17": {
+        "character": "キムチ！",
+        "definition": "Kimchi {\\i1}(kimuchi){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.27.mp3",
+        "timestamp": "0:02:27",
+        "characterWithSpace": "キムチ",
+        "katakanaWithSpace": "キムチ ！"
+    },
+    "18": {
+        "character": "スマフォだよ！　ス　マ　フォ！(-_-;)",
+        "definition": "I said sumafo! As in smartphone! A sumafo, it's a kind of cell phone.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.28.mp3",
+        "timestamp": "0:02:28",
+        "characterWithSpace": "スマフォ だ よ ス マ フォ",
+        "katakanaWithSpace": "スマフォ だ よ ！ ス  マ  フォ ！(-_-;)"
+    },
+    "19": {
+        "character": "あっ！　ペンギンさん それが　スマートフォンですか？",
+        "definition": "Oh, Mr. Penguin, is that one of those sumafos?",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.02.37.mp3",
+        "timestamp": "0:02:37",
+        "characterWithSpace": "あっ ペンギン さん それ が スマートフォン です か",
+        "katakanaWithSpace": "あっ ！ ペンギン さん  それ が  スマートフォン です か ？"
+    },
+    "20": {
+        "character": "私も　よく知らないんですよね",
+        "definition": "I don't know much about them either.",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.02.41.mp3",
+        "timestamp": "0:02:41",
+        "characterWithSpace": "私 も よく 知らない ん です よね",
+        "katakanaWithSpace": "わたし も  よく しらない ん です よね"
+    },
+    "21": {
+        "character": "え？　笹子さんも？",
+        "definition": "You neither?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.44.mp3",
+        "timestamp": "0:02:44",
+        "characterWithSpace": "え 笹 子 さん も",
+        "katakanaWithSpace": "え ？ ささ こ さん も ？"
+    },
+    "22": {
+        "character": "何ができるんですか？",
+        "definition": "What can it do? It's really convenient. There are lots of apps too.",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.02.46.mp3",
+        "timestamp": "0:02:46",
+        "characterWithSpace": "何 が できる ん です か",
+        "katakanaWithSpace": "なに が できる ん です か ？"
+    },
+    "23": {
+        "character": "地図とかも見られますしね",
+        "definition": "And you can look up maps and such.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.02.51.mp3",
+        "timestamp": "0:02:51",
+        "characterWithSpace": "地図 とか も 見られます し ね",
+        "katakanaWithSpace": "ちず とか も みられます し ね"
+    },
+    "24": {
+        "character": "ネットだって見られるんだよ　ほら",
+        "definition": "You can browse the Internet too! See?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.02.54.mp3",
+        "timestamp": "0:02:54",
+        "characterWithSpace": "ネット だって 見られる ん だ よ ほら",
+        "katakanaWithSpace": "ネット だって みられる ん だ よ  ほら"
+    },
+    "25": {
+        "character": "なんか　小さくて 字　読みづらくないですか？",
+        "definition": "Aren't the words rather small and hard to read? Not at all! That's when you do this.",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.02.58.mp3",
+        "timestamp": "0:02:58",
+        "characterWithSpace": "なんか 小さくて 字 読みづらくないです か",
+        "katakanaWithSpace": "なんか  ちいさくて  じ/あざ  よみづらくないです か ？"
+    },
+    "26": {
+        "character": "パンチ操作って言ってね",
+        "definition": "It's called punch control.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.05.mp3",
+        "timestamp": "0:03:05",
+        "characterWithSpace": "パンチ 操作 って 言って ね",
+        "katakanaWithSpace": "パンチ そうさ って いって ね"
+    },
+    "27": {
+        "character": "叩くんですか？",
+        "definition": "You hit it? No!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.03.07.mp3",
+        "timestamp": "0:03:07",
+        "characterWithSpace": "叩く ん です か",
+        "katakanaWithSpace": "たたく ん です か ？"
+    },
+    "28": {
+        "character": "ピンチ操作じゃないですか？",
+        "definition": "Don't you mean pinch control?",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.03.10.mp3",
+        "timestamp": "0:03:10",
+        "characterWithSpace": "ピンチ 操作 じゃないです か",
+        "katakanaWithSpace": "ピンチ そうさ じゃないです か ？"
+    },
+    "29": {
+        "character": "似たようなもんでしょ",
+        "definition": "Same thing.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.12.mp3",
+        "timestamp": "0:03:12",
+        "characterWithSpace": "似た ような もん でしょ",
+        "katakanaWithSpace": "にた ような もん でしょ"
+    },
+    "30": {
+        "character": "そうですか",
+        "definition": "I see.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.03.13.mp3",
+        "timestamp": "0:03:13",
+        "characterWithSpace": "そう です か",
+        "katakanaWithSpace": "そう です か"
+    },
+    "31": {
+        "character": "そうだよ",
+        "definition": "It is!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.14.mp3",
+        "timestamp": "0:03:14",
+        "characterWithSpace": "そうだ よ",
+        "katakanaWithSpace": "そうだ よ"
+    },
+    "32": {
+        "character": "いい？　笹子さん　見てて…",
+        "definition": "Now watch this, Miss Sasako.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.15.mp3",
+        "timestamp": "0:03:15",
+        "characterWithSpace": "いい 笹 子 さん 見てて",
+        "katakanaWithSpace": "いい ？ ささ こ さん  みてて …"
+    },
+    "33": {
+        "character": "本当に　それ　便利なんですか？",
+        "definition": "Are you sure it's actually convenient? It's convenient, really!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.03.21.mp3",
+        "timestamp": "0:03:21",
+        "characterWithSpace": "本当に それ 便利 なんです か",
+        "katakanaWithSpace": "ほんとうに  それ  べんり なんです か ？"
+    },
+    "34": {
+        "character": "え～と　こうやって…",
+        "definition": "Let's see, it goes like this...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.25.mp3",
+        "timestamp": "0:03:25",
+        "characterWithSpace": "え と こうやって",
+        "katakanaWithSpace": "え ～ と  こうやって …"
+    },
+    "35": {
+        "character": "そのうち　簡単に 操作できるようになるよ",
+        "definition": "It'll get easier to use over time. Oh, you have one, too, Polar Bear? Yup. Here, check it out.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.03.28.mp3",
+        "timestamp": "0:03:28",
+        "characterWithSpace": "そのうち 簡単 に 操作できる ようになる よ",
+        "katakanaWithSpace": "そのうち  かんたん に  そうさ できる ようになる よ"
+    },
+    "36": {
+        "character": "こうやるの",
+        "definition": "You go like this.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.03.37.mp3",
+        "timestamp": "0:03:37",
+        "characterWithSpace": "こう やる の",
+        "katakanaWithSpace": "こう やる の"
+    },
+    "37": {
+        "character": "あぁ～　かっこいい！  (m´・ω・｀)m",
+        "definition": "Wow, that's so cool!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.03.39.mp3",
+        "timestamp": "0:03:39",
+        "characterWithSpace": "あぁ かっこいい",
+        "katakanaWithSpace": "あぁ ～ かっこいい ！  (m´・ω・｀)m"
+    },
+    "38": {
+        "character": "シロクマさん　器用ですね",
+        "definition": "You're so talented, Mr. Polar Bear!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.03.42.mp3",
+        "timestamp": "0:03:42",
+        "characterWithSpace": "シロクマ さん 器用 です ね",
+        "katakanaWithSpace": "シロクマ さん  きよう です ね"
+    },
+    "39": {
+        "character": "それほどでも アヤメの花　折ってみた",
+        "definition": "It's nothing, really. I folded an iris.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.03.45.mp3",
+        "timestamp": "0:03:45",
+        "characterWithSpace": "それほど でも アヤメ の 花 折って みた",
+        "katakanaWithSpace": "それほど でも  アヤメ の はな  おって みた"
+    },
+    "40": {
+        "character": "すご～い！",
+        "definition": "That's amazing!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.03.49.mp3",
+        "timestamp": "0:03:49",
+        "characterWithSpace": "す ご い",
+        "katakanaWithSpace": "す ご ～ い ！"
+    },
+    "41": {
+        "character": "ほんと器用ですね！",
+        "definition": "You really are talented!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.03.51.mp3",
+        "timestamp": "0:03:51",
+        "characterWithSpace": "ほんと 器用 です ね",
+        "katakanaWithSpace": "ほんと きよう です ね ！"
+    },
+    "42": {
+        "character": "よ～し　こうやって…",
+        "definition": "All right! Look at this! You go like this...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.53.mp3",
+        "timestamp": "0:03:53",
+        "characterWithSpace": "よ し こうやって",
+        "katakanaWithSpace": "よ ～ し  こうやって …"
+    },
+    "43": {
+        "character": "えい！　それ！(・∀・)",
+        "definition": "Take that! And that!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.03.57.mp3",
+        "timestamp": "0:03:57",
+        "characterWithSpace": "え い それ",
+        "katakanaWithSpace": "え い ！ それ ！(・∀・)"
+    },
+    "44": {
+        "character": "駄目だ…",
+        "definition": "It's no use. Don't worry. You just have to get used to it.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.01.mp3",
+        "timestamp": "0:04:01",
+        "characterWithSpace": "駄目 だ",
+        "katakanaWithSpace": "だめ だ …"
+    },
+    "45": {
+        "character": "なんか上から目線",
+        "definition": "Somehow, you sound condescending.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.05.mp3",
+        "timestamp": "0:04:05",
+        "characterWithSpace": "なんか 上から目線",
+        "katakanaWithSpace": "なんか うえからめせん"
+    },
+    "46": {
+        "character": "僕も　スマフォですし",
+        "definition": "I have a sumafo, as well. Oh, really?",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.04.07.mp3",
+        "timestamp": "0:04:07",
+        "characterWithSpace": "僕 も スマフォ です し",
+        "katakanaWithSpace": "ぼく も  スマフォ です し"
+    },
+    "47": {
+        "character": "はい",
+        "definition": "Yes.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.04.10.mp3",
+        "timestamp": "0:04:10",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "48": {
+        "character": "ラマさん　そういう君こそ 上手に操作できるの？",
+        "definition": "I hear what you're saying, but are you sure you can actually use it, Mr. Llama?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.11.mp3",
+        "timestamp": "0:04:11",
+        "characterWithSpace": "ラマ さん そういう 君 こそ 上手 に 操作できる の",
+        "katakanaWithSpace": "ラマ さん  そういう きみ/くん こそ  じょうず に そうさ できる の ？"
+    },
+    "49": {
+        "character": "もちろんですよ　見ててください",
+        "definition": "Of course. Just watch. Wow, that's amazing! Such flexible technique!",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.04.16.mp3",
+        "timestamp": "0:04:16",
+        "characterWithSpace": "もちろん です よ 見ててください",
+        "katakanaWithSpace": "もちろん です よ  みてて ください"
+    },
+    "50": {
+        "character": "そうか… わぁ…",
+        "definition": "I see now!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.30.mp3",
+        "timestamp": "0:04:30",
+        "characterWithSpace": "そうか わぁ",
+        "katakanaWithSpace": "そうか … わぁ …"
+    },
+    "51": {
+        "character": "あっ　プロフ交換します？",
+        "definition": "Oh, do you want to exchange profiles?",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.04.34.mp3",
+        "timestamp": "0:04:34",
+        "characterWithSpace": "あっ プロフ 交換します",
+        "katakanaWithSpace": "あっ  プロフ こうかん します ？"
+    },
+    "52": {
+        "character": "するする",
+        "definition": "For sure!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.36.mp3",
+        "timestamp": "0:04:36",
+        "characterWithSpace": "するする",
+        "katakanaWithSpace": "するする"
+    },
+    "53": {
+        "character": "お勧めの便利なアプリ　知ってるよ",
+        "definition": "I know some really cool apps.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.04.37.mp3",
+        "timestamp": "0:04:37",
+        "characterWithSpace": "お 勧め の 便利 な アプリ 知ってる よ",
+        "katakanaWithSpace": "お すすめ の べんり な アプリ  しってる よ"
+    },
+    "54": {
+        "character": "え？ なになに？　教えて！",
+        "definition": "Ooh, like what? Tell me!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.04.40.mp3",
+        "timestamp": "0:04:40",
+        "characterWithSpace": "え なになに 教えて",
+        "katakanaWithSpace": "え ？ なになに ？ おしえて ！"
+    },
+    "55": {
+        "character": "やっぱ時代は　スマフォだよね",
+        "definition": "We're totally in the sumafo generation!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.04.47.mp3",
+        "timestamp": "0:04:47",
+        "characterWithSpace": "やっぱ 時代 は スマフォ だよね",
+        "katakanaWithSpace": "やっぱ じだい は  スマフォ だよね"
+    },
+    "56": {
+        "character": "そうなの？",
+        "definition": "Are we?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.04.51.mp3",
+        "timestamp": "0:04:51",
+        "characterWithSpace": "そう なの",
+        "katakanaWithSpace": "そう なの ？"
+    },
+    "57": {
+        "character": "そうだよ",
+        "definition": "We are!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.04.52.mp3",
+        "timestamp": "0:04:52",
+        "characterWithSpace": "そうだ よ",
+        "katakanaWithSpace": "そうだ よ"
+    },
+    "58": {
+        "character": "スマフォがあると すっごく便利なんだから",
+        "definition": "It's really convenient to have a sumafo!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.04.54.mp3",
+        "timestamp": "0:04:54",
+        "characterWithSpace": "スマフォ が ある と すっごく 便利 な ん だから",
+        "katakanaWithSpace": "スマフォ が ある と  すっごく べんり な ん だ から"
+    },
+    "59": {
+        "character": "どんなふうに？",
+        "definition": "In what way? Let's see...",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.04.57.mp3",
+        "timestamp": "0:04:57",
+        "characterWithSpace": "どんな ふう に",
+        "katakanaWithSpace": "どんな ふう に ？"
+    },
+    "60": {
+        "character": "画面を ちまちま触って操作したり…",
+        "definition": "You can control the screen by poking it.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.01.mp3",
+        "timestamp": "0:05:01",
+        "characterWithSpace": "画面 を ちまちま 触って 操作したり",
+        "katakanaWithSpace": "がめん を  ちまちま さわって そうさ したり …"
+    },
+    "61": {
+        "character": "なめたり…",
+        "definition": "You can lick it.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.05.mp3",
+        "timestamp": "0:05:05",
+        "characterWithSpace": "なめたり",
+        "katakanaWithSpace": "なめたり …"
+    },
+    "62": {
+        "character": "くちばしで　つついたり…",
+        "definition": "You can poke it with your beak.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.09.mp3",
+        "timestamp": "0:05:09",
+        "characterWithSpace": "くちばし で つついたり",
+        "katakanaWithSpace": "くちばし で  つついたり …"
+    },
+    "63": {
+        "character": "そんでもって 字が　すっごく小さくて",
+        "definition": "And the words are really tiny and hard to read!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.14.mp3",
+        "timestamp": "0:05:14",
+        "characterWithSpace": "そんでもって 字 が すっごく 小さくて",
+        "katakanaWithSpace": "そんでもって  じ/あざ が  すっごく ちいさくて"
+    },
+    "64": {
+        "character": "便利なの？それ",
+        "definition": "Are you sure it's actually convenient?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.20.mp3",
+        "timestamp": "0:05:20",
+        "characterWithSpace": "便利 なの それ",
+        "katakanaWithSpace": "べんり なの ？ それ"
+    },
+    "65": {
+        "character": "あれ？",
+        "definition": "Huh?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.22.mp3",
+        "timestamp": "0:05:22",
+        "characterWithSpace": "あれ",
+        "katakanaWithSpace": "あれ ？"
+    },
+    "66": {
+        "character": "とにかく　外で働いてるパンダが ケータイ持ってないなんて",
+        "definition": "Anyway, a working panda like myself cannot possibly get by",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.24.mp3",
+        "timestamp": "0:05:24",
+        "characterWithSpace": "とにかく 外 で 働いてる パンダ が ケータイ 持ってない なんて",
+        "katakanaWithSpace": "とにかく  そと で はたらいてる パンダ が  ケータイ もってない なんて"
+    },
+    "67": {
+        "character": "駄目だよ　困るよ(/ω＼)",
+        "definition": "without a cell phone.",
+        "speaker": "",
+        "audio": "/audio/04/0.05.29.mp3",
+        "timestamp": "0:05:29",
+        "characterWithSpace": "駄目 だ よ 困る よ",
+        "katakanaWithSpace": "だめ だ よ  こまる よ (/ω＼)"
+    },
+    "68": {
+        "character": "別に困らないわよ",
+        "definition": "You'll get by just fine. You don't need one.",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.31.mp3",
+        "timestamp": "0:05:31",
+        "characterWithSpace": "別に 困らない わよ",
+        "katakanaWithSpace": "べつに こまらない わよ"
+    },
+    "69": {
+        "character": "それだと困るなぁ",
+        "definition": "I don't like that train of thought.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.35.mp3",
+        "timestamp": "0:05:35",
+        "characterWithSpace": "それ だ と 困る なぁ",
+        "katakanaWithSpace": "それ だ と こまる なぁ"
+    },
+    "70": {
+        "character": "何が？",
+        "definition": "What about it?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.37.mp3",
+        "timestamp": "0:05:37",
+        "characterWithSpace": "何 が",
+        "katakanaWithSpace": "なに が ？"
+    },
+    "71": {
+        "character": "ほら　ケータイあると 何かあったときに便利だよ",
+        "definition": "You see, if something happens, it'd be really convenient to have a cell phone.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.39.mp3",
+        "timestamp": "0:05:39",
+        "characterWithSpace": "ほら ケータイ ある と 何か あった とき に 便利 だ よ",
+        "katakanaWithSpace": "ほら  ケータイ ある と  なにか あった とき に べんり だ よ"
+    },
+    "72": {
+        "character": "何かあったときね…",
+        "definition": "If something happens, huh?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.43.mp3",
+        "timestamp": "0:05:43",
+        "characterWithSpace": "何か あった とき ね",
+        "katakanaWithSpace": "なにか あった とき ね …"
+    },
+    "73": {
+        "character": "ねぇ　キッチンのバルサミコ酢が きれちゃったの",
+        "definition": "Hey, we're out of balsamic vinegar.",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.48.mp3",
+        "timestamp": "0:05:48",
+        "characterWithSpace": "ねぇ キッチン の バルサミコ酢 が きれちゃった の",
+        "katakanaWithSpace": "ねぇ  キッチン の バルサミコす が  きれちゃった の"
+    },
+    "74": {
+        "character": "バイト帰りに買ってきてくれる？",
+        "definition": "Could you get some on your way home from work?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.53.mp3",
+        "timestamp": "0:05:53",
+        "characterWithSpace": "バイト 帰り に 買ってきてくれる",
+        "katakanaWithSpace": "バイト かえり に かってきて くれる ？"
+    },
+    "75": {
+        "character": "うん　いいよ",
+        "definition": "Sure thing.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.05.56.mp3",
+        "timestamp": "0:05:56",
+        "characterWithSpace": "うん いい よ",
+        "katakanaWithSpace": "うん  いい よ"
+    },
+    "76": {
+        "character": "便利じゃない！(＾ｖ＾)",
+        "definition": "It {\\i1}is{\\i0} convenient!",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.05.59.mp3",
+        "timestamp": "0:05:59",
+        "characterWithSpace": "便利 じゃない",
+        "katakanaWithSpace": "べんり じゃない ！(＾ｖ＾)"
+    },
+    "77": {
+        "character": "いいわよ　買ってあげる",
+        "definition": "All right, I'll buy you one.",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.06.02.mp3",
+        "timestamp": "0:06:02",
+        "characterWithSpace": "いい わよ 買って あげる",
+        "katakanaWithSpace": "いい わよ  かって あげる"
+    },
+    "78": {
+        "character": "やった～！Ｖ（=＾0＾=）ｖ",
+        "definition": "Hooray!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.04.mp3",
+        "timestamp": "0:06:04",
+        "characterWithSpace": "やった",
+        "katakanaWithSpace": "やった ～！Ｖ（=＾＾=）ｖ"
+    },
+    "79": {
+        "character": "ほら　見て見て～",
+        "definition": "Here, look!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.06.07.mp3",
+        "timestamp": "0:06:07",
+        "characterWithSpace": "ほら 見て 見て",
+        "katakanaWithSpace": "ほら  みて みて ～"
+    },
+    "80": {
+        "character": "何ですか？",
+        "definition": "What is it? I made the picture I took the other day my standby screen wallpaper. Are you not making anything with origami today?",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.09.mp3",
+        "timestamp": "0:06:09",
+        "characterWithSpace": "何 です か",
+        "katakanaWithSpace": "なん です か ？"
+    },
+    "81": {
+        "character": "えっ？ 気が向いたら",
+        "definition": "If I feel like it.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.06.18.mp3",
+        "timestamp": "0:06:18",
+        "characterWithSpace": "え っ 気が向いたら",
+        "katakanaWithSpace": "え っ ？ きがむいたら"
+    },
+    "82": {
+        "character": "そっちの感想！？ (;ﾟДﾟ)!",
+        "definition": "You're more impressed with that?!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.06.19.mp3",
+        "timestamp": "0:06:19",
+        "characterWithSpace": "そっち の 感想",
+        "katakanaWithSpace": "そっち の かんそう ！？ (;ﾟДﾟ)!"
+    },
+    "83": {
+        "character": "こんにちは～",
+        "definition": "Hello!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.21.mp3",
+        "timestamp": "0:06:21",
+        "characterWithSpace": "こんにちは",
+        "katakanaWithSpace": "こんにちは ～"
+    },
+    "84": {
+        "character": "いらっしゃい",
+        "definition": "Welcome!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.23.mp3",
+        "timestamp": "0:06:23",
+        "characterWithSpace": "いらっしゃい",
+        "katakanaWithSpace": "いらっしゃい"
+    },
+    "85": {
+        "character": "パンダくん　嬉しそうだね",
+        "definition": "You seem really happy, Panda.",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.25.mp3",
+        "timestamp": "0:06:25",
+        "characterWithSpace": "パンダ くん 嬉しそう だ ね",
+        "katakanaWithSpace": "パンダ くん  うれしそう だ ね"
+    },
+    "86": {
+        "character": "実はさぁ…",
+        "definition": "Well, you see...",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.27.mp3",
+        "timestamp": "0:06:27",
+        "characterWithSpace": "実は さぁ",
+        "katakanaWithSpace": "じつは さぁ …"
+    },
+    "87": {
+        "character": "あぁ　それ！",
+        "definition": "Oh, that's...",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.31.mp3",
+        "timestamp": "0:06:31",
+        "characterWithSpace": "あぁ それ",
+        "katakanaWithSpace": "あぁ  それ ！"
+    },
+    "88": {
+        "character": "パンダカバーのスマフォだよ！",
+        "definition": "It's a sumafo with a panda cover!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.33.mp3",
+        "timestamp": "0:06:33",
+        "characterWithSpace": "パンダ カバー の スマフォ だ よ",
+        "katakanaWithSpace": "パンダ カバー の スマフォ だ よ ！"
+    },
+    "89": {
+        "character": "かわいいね！(#^.^#)",
+        "definition": "It's very cute!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.35.mp3",
+        "timestamp": "0:06:35",
+        "characterWithSpace": "かわいい ね",
+        "katakanaWithSpace": "かわいい ね ！(#^^#)"
+    },
+    "90": {
+        "character": "いいでしょう～ 見つけるの苦労したんだよ",
+        "definition": "It is, isn't it? It was really hard to find.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.37.mp3",
+        "timestamp": "0:06:37",
+        "characterWithSpace": "いいでしょう 見つける の 苦労した ん だ よ",
+        "katakanaWithSpace": "いいでしょう ～ みつける の くろう した ん だ よ"
+    },
+    "91": {
+        "character": "どう？　スマフォ",
+        "definition": "How's the sumafo?",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.06.41.mp3",
+        "timestamp": "0:06:41",
+        "characterWithSpace": "どう スマフォ",
+        "katakanaWithSpace": "どう ？ スマフォ"
+    },
+    "92": {
+        "character": "やっぱり便利だよね",
+        "definition": "It's very convenient.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.44.mp3",
+        "timestamp": "0:06:44",
+        "characterWithSpace": "やっぱり 便利 だよね",
+        "katakanaWithSpace": "やっぱり べんり だよね"
+    },
+    "93": {
+        "character": "ほら　好きな時に　いつだって 天気予報も見られるしね",
+        "definition": "See? You can check the weather forecast whenever you want.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.46.mp3",
+        "timestamp": "0:06:46",
+        "characterWithSpace": "ほら 好きな時に いつだって 天気予報 も 見られる し ね",
+        "katakanaWithSpace": "ほら  すきなときに  いつだって  てんきよほう も みられる し ね"
+    },
+    "94": {
+        "character": "地図も見られるから 迷子にならなくて済むし",
+        "definition": "And you can look up maps so you don't get lost.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.06.55.mp3",
+        "timestamp": "0:06:55",
+        "characterWithSpace": "地図 も 見られる から 迷子にならなくて 済む し",
+        "katakanaWithSpace": "ちず も みられる から  まいごにならなくて すむ し"
+    },
+    "95": {
+        "character": "頭にのせて バランス感覚も　みがけるし",
+        "definition": "You can put it on your head and improve your balance, too!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.07.01.mp3",
+        "timestamp": "0:07:01",
+        "characterWithSpace": "頭 に のせて バランス 感覚 も みがける し",
+        "katakanaWithSpace": "あたま に のせて  バランス かんかく も  みがける し"
+    },
+    "96": {
+        "character": "それ スマフォの使い方じゃないけどね",
+        "definition": "That's not proper sumafo usage, though.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.07.07.mp3",
+        "timestamp": "0:07:07",
+        "characterWithSpace": "それ スマフォ の 使い方 じゃない けど ね",
+        "katakanaWithSpace": "それ  スマフォ の つかいかた じゃない けど ね"
+    },
+    "97": {
+        "character": "でも　ペンギンさんより 使いこなしてませんか？",
+        "definition": "He seems to be using it better than you though, Mr. Penguin.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.07.10.mp3",
+        "timestamp": "0:07:10",
+        "characterWithSpace": "でも ペンギン さん より 使いこなしてません か",
+        "katakanaWithSpace": "でも  ペンギン さん より  つかいこなしてません か ？"
+    },
+    "98": {
+        "character": "ぼ　僕だって 待ち受けかえてるし",
+        "definition": "B-But I changed my standby screen!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.07.14.mp3",
+        "timestamp": "0:07:14",
+        "characterWithSpace": "ぼ 僕 だって 待ち受け かえてる し",
+        "katakanaWithSpace": "ぼ  ぼく だって  まちうけ かえてる し"
+    },
+    "99": {
+        "character": "他にも…",
+        "definition": "Also...",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.07.18.mp3",
+        "timestamp": "0:07:18",
+        "characterWithSpace": "他にも",
+        "katakanaWithSpace": "ほかにも …"
+    },
+    "100": {
+        "character": "写真を撮ったり",
+        "definition": "I can take pictures!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.07.22.mp3",
+        "timestamp": "0:07:22",
+        "characterWithSpace": "写真を撮ったり",
+        "katakanaWithSpace": "しゃしんをとったり"
+    },
+    "101": {
+        "character": "音楽だって聴けるしね",
+        "definition": "And I can listen to music!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.07.27.mp3",
+        "timestamp": "0:07:27",
+        "characterWithSpace": "音楽 だって 聴ける し ね",
+        "katakanaWithSpace": "おんがく だって きける し ね"
+    },
+    "102": {
+        "character": "だ　大丈夫だよ　パンダくん",
+        "definition": "I-It's okay, Panda! Looks like the only thing that broke was the cover.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.07.41.mp3",
+        "timestamp": "0:07:41",
+        "characterWithSpace": "だ 大丈夫 だ よ パンダ くん",
+        "katakanaWithSpace": "だ  だいじょうぶ だ よ  パンダ くん"
+    },
+    "103": {
+        "character": "だって",
+        "definition": "So it seems.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.07.46.mp3",
+        "timestamp": "0:07:46",
+        "characterWithSpace": "だって",
+        "katakanaWithSpace": "だって"
+    },
+    "104": {
+        "character": "だから　元気出して",
+        "definition": "So cheer up!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.07.47.mp3",
+        "timestamp": "0:07:47",
+        "characterWithSpace": "だから 元気出して",
+        "katakanaWithSpace": "だ·から  げんきだして"
+    },
+    "105": {
+        "character": "スマフォが無事でよかったです",
+        "definition": "It's a good thing the sumafo is safe.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.07.49.mp3",
+        "timestamp": "0:07:49",
+        "characterWithSpace": "スマフォ が 無事 で よかったです",
+        "katakanaWithSpace": "スマフォ が ぶじ で よかったです"
+    },
+    "106": {
+        "character": "はい　パンダくん",
+        "definition": "Here you go, Panda.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.07.51.mp3",
+        "timestamp": "0:07:51",
+        "characterWithSpace": "はい パンダ くん",
+        "katakanaWithSpace": "はい  パンダ くん"
+    },
+    "107": {
+        "character": "僕にとって…　スマフォは パンダカバーのおまけだから",
+        "definition": "But for me, the sumafo was an accessory to the panda cover.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.07.56.mp3",
+        "timestamp": "0:07:56",
+        "characterWithSpace": "僕 にとって スマフォ は パンダ カバー の おまけ だから",
+        "katakanaWithSpace": "ぼく にとって … スマフォ は  パンダ カバー の おまけ だ から"
+    },
+    "108": {
+        "character": "あら　ちょっと スマホは　どうしたの？　スマホは",
+        "definition": "Oh. Hey, where's your sumaho?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.12.mp3",
+        "timestamp": "0:08:12",
+        "characterWithSpace": "あら ちょっと スマホ は どうしたの スマホ は",
+        "katakanaWithSpace": "あら  ちょっと  スマホ は  どうしたの ？ スマホ は"
+    },
+    "109": {
+        "character": "さっき電話したのよ",
+        "definition": "I just called you.",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.17.mp3",
+        "timestamp": "0:08:17",
+        "characterWithSpace": "さっき 電話した の よ",
+        "katakanaWithSpace": "さっき でんわ した の よ"
+    },
+    "110": {
+        "character": "ねぇ　聞こえてる？",
+        "definition": "Hey, can you hear me?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.20.mp3",
+        "timestamp": "0:08:20",
+        "characterWithSpace": "ねぇ 聞こえてる",
+        "katakanaWithSpace": "ねぇ  きこえてる ？"
+    },
+    "111": {
+        "character": "バ　ル　サ　ミ　コ　酢よ　バールーサーミーコー酢！",
+        "definition": "Bal-sa-mic vin-e-gar, got it? Bal-sam-ic vin-e-gar!",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.22.mp3",
+        "timestamp": "0:08:22",
+        "characterWithSpace": "バ ル サ ミ コ 酢 よ バー ルー サーミーコー 酢",
+        "katakanaWithSpace": "バ  ル  サ  ミ  コ  す よ  バー ルー サーミーコー す ！"
+    },
+    "112": {
+        "character": "この電話は　お客様の 都合により　出られません",
+        "definition": "We're sorry, your call cannot be completed at this time.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.08.28.mp3",
+        "timestamp": "0:08:28",
+        "characterWithSpace": "この 電話 は お客様 の 都合 に より 出られません",
+        "katakanaWithSpace": "この でんわ は  おきゃくさま の  つごう に より  でられません"
+    },
+    "113": {
+        "character": "ちっとも便利じゃないわね　スマホ",
+        "definition": "Sumahos aren't convenient at all, are they?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.36.mp3",
+        "timestamp": "0:08:36",
+        "characterWithSpace": "ちっとも 便利 じゃない わね スマホ",
+        "katakanaWithSpace": "ちっとも べんり じゃない わね  スマホ"
+    },
+    "114": {
+        "character": "あのさ　スマートフォンなんだから スマホじゃなくて　スマフォだよ",
+        "definition": "You know, it's called a \"smartphone,\" so it's \"sumafo,\" not \"sumaho.\"",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.08.40.mp3",
+        "timestamp": "0:08:40",
+        "characterWithSpace": "あのさ スマートフォン な ん だから スマホ じゃなくて スマフォ だ よ",
+        "katakanaWithSpace": "あのさ  スマートフォン な ん だ から  スマホ じゃなくて  スマフォ だ よ"
+    },
+    "115": {
+        "character": "どっちだっていいじゃない",
+        "definition": "Why does it matter?",
+        "speaker": "MAMA PANDA",
+        "audio": "/audio/04/0.08.46.mp3",
+        "timestamp": "0:08:46",
+        "characterWithSpace": "どっち だって いい じゃない",
+        "katakanaWithSpace": "どっち だって いい じゃない"
+    },
+    "116": {
+        "character": "こんにちは～(=゜ω゜)ノ",
+        "definition": "Hello! Could I get my usual, Polar Bear?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.08.51.mp3",
+        "timestamp": "0:08:51",
+        "characterWithSpace": "こんにちは ノ",
+        "katakanaWithSpace": "こんにちは ～(=゜ω゜) ノ"
+    },
+    "117": {
+        "character": "パンダくん　ひょっとして 立ち直った？",
+        "definition": "Are you feeling better, Panda?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.08.57.mp3",
+        "timestamp": "0:08:57",
+        "characterWithSpace": "パンダ くん ひょっとして 立ち直った",
+        "katakanaWithSpace": "パンダ くん  ひょっとして  たちなおった ？"
+    },
+    "118": {
+        "character": "何が？",
+        "definition": "What do you mean?",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.09.00.mp3",
+        "timestamp": "0:09:00",
+        "characterWithSpace": "何 が",
+        "katakanaWithSpace": "なに が ？"
+    },
+    "119": {
+        "character": "心配した僕が　バカだったよ",
+        "definition": "Apparently I was an idiot for worrying. Your sumafo is right here, Panda. Oh. I don't need the sumafo anymore. Are you just trying to act tough?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.09.02.mp3",
+        "timestamp": "0:09:02",
+        "characterWithSpace": "心配した 僕 が バカ だった よ",
+        "katakanaWithSpace": "しんぱい した ぼく が  バカ だった よ"
+    },
+    "120": {
+        "character": "本気　だって　パンダじゃないし",
+        "definition": "No, I'm serious. It's not even a panda.",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.09.13.mp3",
+        "timestamp": "0:09:13",
+        "characterWithSpace": "本気 だって パンダ じゃない し",
+        "katakanaWithSpace": "ほんき  だって  パンダ じゃない し"
+    },
+    "121": {
+        "character": "えっ？　せっかく買ったんだから 大事に使ったら？",
+        "definition": "What?  You just bought it, you should use it.",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.09.17.mp3",
+        "timestamp": "0:09:17",
+        "characterWithSpace": "え っ せっかく 買った ん だから 大事 に 使ったら",
+        "katakanaWithSpace": "え っ ？ せっかく かった ん だ から  だいじ に つかったら ？"
+    },
+    "122": {
+        "character": "パンダくん　これ見て　スマフォのケース",
+        "definition": "Look, Panda. A sumafo case.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.09.22.mp3",
+        "timestamp": "0:09:22",
+        "characterWithSpace": "パンダ くん これ 見て スマフォ の ケース",
+        "katakanaWithSpace": "パンダ くん  これ みて  スマフォ の ケース"
+    },
+    "123": {
+        "character": "こんなの折ってみた",
+        "definition": "I tried folding something like this.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/04/0.09.27.mp3",
+        "timestamp": "0:09:27",
+        "characterWithSpace": "こんな の 折って みた",
+        "katakanaWithSpace": "こんな の おって みた"
+    },
+    "124": {
+        "character": "あっ　パンダだ～！",
+        "definition": "Oh! It's a panda!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.09.29.mp3",
+        "timestamp": "0:09:29",
+        "characterWithSpace": "あっ パンダ だ",
+        "katakanaWithSpace": "あっ  パンダ だ ～！"
+    },
+    "125": {
+        "character": "これなら　紙だから割れないね",
+        "definition": "This time, it's made out of paper so it won't break.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/04/0.09.34.mp3",
+        "timestamp": "0:09:34",
+        "characterWithSpace": "これなら 紙 だから 割れない ね",
+        "katakanaWithSpace": "これなら  かみ だ から われない ね"
+    },
+    "126": {
+        "character": "よかったですね",
+        "definition": "Good for you.",
+        "speaker": "LLAMA",
+        "audio": "/audio/04/0.09.36.mp3",
+        "timestamp": "0:09:36",
+        "characterWithSpace": "よかったです ね",
+        "katakanaWithSpace": "よかったです ね"
+    },
+    "127": {
+        "character": "シロクマさん　さすが！",
+        "definition": "You're amazing, Mr. Polar Bear!",
+        "speaker": "SASAKO",
+        "audio": "/audio/04/0.09.38.mp3",
+        "timestamp": "0:09:38",
+        "characterWithSpace": "シロクマ さん さすが",
+        "katakanaWithSpace": "シロクマ さん  さすが ！"
+    },
+    "128": {
+        "character": "フフッ　やっぱり　パンダは最高だね",
+        "definition": "Pandas {\\i1}are{\\i0} awesome!",
+        "speaker": "PANDA",
+        "audio": "/audio/04/0.09.42.mp3",
+        "timestamp": "0:09:42",
+        "characterWithSpace": "フフ ッ やっぱり パンダ は 最高 だ ね",
+        "katakanaWithSpace": "フフ ッ  やっぱり  パンダ は さいこう だ ね"
+    }
+}

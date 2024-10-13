@@ -1,0 +1,1397 @@
+{
+    "1": {
+        "character": "こんにちは",
+        "definition": "Hello.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.12.mp3",
+        "timestamp": "0:12:12",
+        "characterWithSpace": "こんにちは",
+        "katakanaWithSpace": "こんにちは"
+    },
+    "2": {
+        "character": "シロクマくん？",
+        "definition": "Polar Bear?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.15.mp3",
+        "timestamp": "0:12:15",
+        "characterWithSpace": "シロクマ くん",
+        "katakanaWithSpace": "シロクマ くん ？"
+    },
+    "3": {
+        "character": "どうしたの？　何か考え事？",
+        "definition": "What's wrong? Is something on your mind?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.19.mp3",
+        "timestamp": "0:12:19",
+        "characterWithSpace": "どうしたの 何か 考え事",
+        "katakanaWithSpace": "どうしたの ？ なにか かんがえごと ？"
+    },
+    "4": {
+        "character": "これ",
+        "definition": "This.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.12.24.mp3",
+        "timestamp": "0:12:24",
+        "characterWithSpace": "これ",
+        "katakanaWithSpace": "これ"
+    },
+    "5": {
+        "character": "おだんご？",
+        "definition": "Candies?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.26.mp3",
+        "timestamp": "0:12:26",
+        "characterWithSpace": "お だんご",
+        "katakanaWithSpace": "お だんご ？"
+    },
+    "6": {
+        "character": "なんで　信号って 赤　青　黄色の３色なのか考えてた",
+        "definition": "I was trying to figure out why traffic lights are these three colors.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.12.27.mp3",
+        "timestamp": "0:12:27",
+        "characterWithSpace": "なんで 信号 って 赤 青 黄色 の ３色 な のか 考えてた",
+        "katakanaWithSpace": "なんで  しんごう って  あか  あお  きいろ の さんしょく な のか かんがえてた"
+    },
+    "7": {
+        "character": "そうなんだ",
+        "definition": "I see.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.33.mp3",
+        "timestamp": "0:12:33",
+        "characterWithSpace": "そう なんだ",
+        "katakanaWithSpace": "そう なんだ"
+    },
+    "8": {
+        "character": "違うよ　パンダくん",
+        "definition": "That's not it, Panda.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.12.34.mp3",
+        "timestamp": "0:12:34",
+        "characterWithSpace": "違う よ パンダ くん",
+        "katakanaWithSpace": "ちがう よ  パンダ くん"
+    },
+    "9": {
+        "character": "シロクマさん　カフェのスペシャルメニューを 考えてるんだよ",
+        "definition": "Mr. Polar Bear is trying to figure out a special menu for the café.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.12.36.mp3",
+        "timestamp": "0:12:36",
+        "characterWithSpace": "シロクマ さん カフェ の スペシャル メニュー を 考えてる ん だ よ",
+        "katakanaWithSpace": "シロクマ さん  カフェ の スペシャル メニュー を  かんがえてる ん だ よ"
+    },
+    "10": {
+        "character": "スペシャルメニュー？",
+        "definition": "A special menu? I failed the skills test again. Skills test?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.12.40.mp3",
+        "timestamp": "0:12:40",
+        "characterWithSpace": "スペシャル メニュー",
+        "katakanaWithSpace": "スペシャル メニュー ？"
+    },
+    "11": {
+        "character": "ああ　自動車教習所ね",
+        "definition": "Oh, at the driving school.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.12.51.mp3",
+        "timestamp": "0:12:51",
+        "characterWithSpace": "ああ 自動車教習所 ね",
+        "katakanaWithSpace": "ああ  じどうしゃきょうしゅうじょ ね"
+    },
+    "12": {
+        "character": "大体　あの教官 細かすぎなんだよ！",
+        "definition": "That instructor is too picky, anyway!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.12.53.mp3",
+        "timestamp": "0:12:53",
+        "characterWithSpace": "大体 あの 教官 細かすぎ なんだ よ",
+        "katakanaWithSpace": "だいたい  あの きょうかん  こまかすぎ なんだ よ ！"
+    },
+    "13": {
+        "character": "どう細かいんですか？",
+        "definition": "How were they picky?",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.12.56.mp3",
+        "timestamp": "0:12:56",
+        "characterWithSpace": "どう 細かい ん です か",
+        "katakanaWithSpace": "どう こまかい ん です か ？"
+    },
+    "14": {
+        "character": "いやね　キョロキョロしないで まっすぐ前を見ろ！　とか",
+        "definition": "Like he was telling me, \"Stop looking all over the place and watch where you're going,\"",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.12.58.mp3",
+        "timestamp": "0:12:58",
+        "characterWithSpace": "いや ね キョロキョロしないで まっすぐ 前 を 見ろ とか",
+        "katakanaWithSpace": "いや ね  キョロキョロ しないで  まっすぐ ぜん/まえ を みろ ！ とか"
+    },
+    "15": {
+        "character": "慌てすぎるな！　とか",
+        "definition": "or \"Stop panicking,\"",
+        "speaker": "",
+        "audio": "/audio/05/0.13.02.mp3",
+        "timestamp": "0:13:02",
+        "characterWithSpace": "慌て すぎる な とか",
+        "katakanaWithSpace": "あわて すぎる な ！ とか"
+    },
+    "16": {
+        "character": "ハンドルを握るときには 手を　パタパタさせるな！　とか",
+        "definition": "or \"Stop flapping around so much when you're holding the wheel.\"",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.04.mp3",
+        "timestamp": "0:13:04",
+        "characterWithSpace": "ハンドルを握る ときには 手 を パタパタさせる な とか",
+        "katakanaWithSpace": "ハンドルをにぎる ときには  て を  パタパタ させる な ！ とか"
+    },
+    "17": {
+        "character": "それは　ダメなんじゃないですか？",
+        "definition": "I think he has a point.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.13.08.mp3",
+        "timestamp": "0:13:08",
+        "characterWithSpace": "それは ダメ な ん じゃないです か",
+        "katakanaWithSpace": "それは  ダメ な ん じゃないです か ？"
+    },
+    "18": {
+        "character": "あの教官のおかげで",
+        "definition": "At this rate, I'll never be able to",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.11.mp3",
+        "timestamp": "0:13:11",
+        "characterWithSpace": "あの 教官 の おかげで",
+        "katakanaWithSpace": "あの きょうかん の おかげで"
+    },
+    "19": {
+        "character": "いつまでたってもペン子さんを　ドライブデートに誘えないよ",
+        "definition": "ask Miss Penko out on a driving date, because of that instructor.",
+        "speaker": "",
+        "audio": "/audio/05/0.13.12.mp3",
+        "timestamp": "0:13:12",
+        "characterWithSpace": "いつまでたっても ペン 子 さん を ドライブ デート に 誘えない よ",
+        "katakanaWithSpace": "いつまでたっても ペン こ さん を  ドライブ デート に さそえない よ"
+    },
+    "20": {
+        "character": "デート？",
+        "definition": "Date {\\i1}(de-to){\\i0}?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.13.17.mp3",
+        "timestamp": "0:13:17",
+        "characterWithSpace": "デート",
+        "katakanaWithSpace": "デート ？"
+    },
+    "21": {
+        "character": "それは　テント",
+        "definition": "That would be a tent {\\i1}(tento){\\i0}.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.13.20.mp3",
+        "timestamp": "0:13:20",
+        "characterWithSpace": "それは テント",
+        "katakanaWithSpace": "それは  テント"
+    },
+    "22": {
+        "character": "それは　弁当",
+        "definition": "That's a boxed lunch {\\i1}(bento){\\i0}.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.13.23.mp3",
+        "timestamp": "0:13:23",
+        "characterWithSpace": "それは 弁当",
+        "katakanaWithSpace": "それは  べんとう"
+    },
+    "23": {
+        "character": "それは　電灯",
+        "definition": "That would be an electric light {\\i1}(dento){\\i0}.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.13.26.mp3",
+        "timestamp": "0:13:26",
+        "characterWithSpace": "それは 電灯",
+        "katakanaWithSpace": "それは  でんとう"
+    },
+    "24": {
+        "character": "それは　剣道",
+        "definition": "That would be kendo.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.13.29.mp3",
+        "timestamp": "0:13:29",
+        "characterWithSpace": "それは 剣道",
+        "katakanaWithSpace": "それは  けんどう"
+    },
+    "25": {
+        "character": "デートだってば！！",
+        "definition": "I said \"date!\" I wonder how I can make her mine?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.31.mp3",
+        "timestamp": "0:13:31",
+        "characterWithSpace": "デート だ ってば",
+        "katakanaWithSpace": "デート だ ってば ！！"
+    },
+    "26": {
+        "character": "射止める…",
+        "definition": "Make her yours?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.13.39.mp3",
+        "timestamp": "0:13:39",
+        "characterWithSpace": "射止める",
+        "katakanaWithSpace": "いとめる …"
+    },
+    "27": {
+        "character": "シロクマくんなら　どうする？",
+        "definition": "What would you do, Polar Bear?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.41.mp3",
+        "timestamp": "0:13:41",
+        "characterWithSpace": "シロクマ くん なら どう する",
+        "katakanaWithSpace": "シロクマ くん なら  どう する ？"
+    },
+    "28": {
+        "character": "待つ",
+        "definition": "I'd wait.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.13.45.mp3",
+        "timestamp": "0:13:45",
+        "characterWithSpace": "待つ",
+        "katakanaWithSpace": "まつ"
+    },
+    "29": {
+        "character": "待つの？",
+        "definition": "You'd wait? I would earnestly wait.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.47.mp3",
+        "timestamp": "0:13:47",
+        "characterWithSpace": "待つ の",
+        "katakanaWithSpace": "まつ の ？"
+    },
+    "30": {
+        "character": "へえ～っ　なんか大人だね",
+        "definition": "Wow, you're such an adult. Yes, if you can't do that, you can't become an adult.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.13.51.mp3",
+        "timestamp": "0:13:51",
+        "characterWithSpace": "へ え っ なんか 大人 だ ね",
+        "katakanaWithSpace": "へ え ～ っ  なんか おとな だ ね"
+    },
+    "31": {
+        "character": "なれない？",
+        "definition": "You can't?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.13.57.mp3",
+        "timestamp": "0:13:57",
+        "characterWithSpace": "なれない",
+        "katakanaWithSpace": "なれない ？"
+    },
+    "32": {
+        "character": "ひたすら　待って　待って　待って",
+        "definition": "Earnestly wait, and wait, and wait,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.13.59.mp3",
+        "timestamp": "0:13:59",
+        "characterWithSpace": "ひたすら 待って 待って 待って",
+        "katakanaWithSpace": "ひたすら  まって  まって  まって"
+    },
+    "33": {
+        "character": "出てきたところを…",
+        "definition": "until they finally come out!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.14.07.mp3",
+        "timestamp": "0:14:07",
+        "characterWithSpace": "出てきた ところを",
+        "katakanaWithSpace": "でてきた ところ·を …"
+    },
+    "34": {
+        "character": "射止めてないよ！ それじゃ仕留めちゃうよ！",
+        "definition": "That's not making them yours {\\i1}(itomeru){\\i0}! That's taking them down {\\i1}(shitomeru){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.12.mp3",
+        "timestamp": "0:14:12",
+        "characterWithSpace": "射止めてない よ それじゃ 仕留めちゃう よ",
+        "katakanaWithSpace": "いとめてない よ ！ それじゃ しとめちゃう よ ！"
+    },
+    "35": {
+        "character": "シロクマくん　ちゃんと考えてよ！",
+        "definition": "Would you think about this seriously, Polar Bear?!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.15.mp3",
+        "timestamp": "0:14:15",
+        "characterWithSpace": "シロクマ くん ちゃんと 考えて よ",
+        "katakanaWithSpace": "シロクマ くん  ちゃんと かんがえて よ ！"
+    },
+    "36": {
+        "character": "ペンギンさん見てて思ったんだけど…",
+        "definition": "I just had an idea, looking at you, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.14.20.mp3",
+        "timestamp": "0:14:20",
+        "characterWithSpace": "ペンギン さん 見てて 思った ん だけど",
+        "katakanaWithSpace": "ペンギン さん みてて おもった ん だけど …"
+    },
+    "37": {
+        "character": "えっ　何？",
+        "definition": "Huh? What?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.23.mp3",
+        "timestamp": "0:14:23",
+        "characterWithSpace": "え っ 何",
+        "katakanaWithSpace": "え っ  なに/なん ？"
+    },
+    "38": {
+        "character": "笹子さん　パフェフェアーは　どうかな？",
+        "definition": "How about a parfait fair, Miss Sasako?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.14.26.mp3",
+        "timestamp": "0:14:26",
+        "characterWithSpace": "笹 子 さん パフェ フェアー は どうかな",
+        "katakanaWithSpace": "ささ こ さん  パフェ フェアー は  どうかな ？"
+    },
+    "39": {
+        "character": "パフェですか　いいですね",
+        "definition": "Parfaits? That's a great idea.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.14.29.mp3",
+        "timestamp": "0:14:29",
+        "characterWithSpace": "パフェ です か いいです ね",
+        "katakanaWithSpace": "パフェ です か  いいです ね"
+    },
+    "40": {
+        "character": "何それ？　デートと全然関係ないよね",
+        "definition": "What the heck? That has nothing to do with dates.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.32.mp3",
+        "timestamp": "0:14:32",
+        "characterWithSpace": "何それ デート と 全然 関係ない よね",
+        "katakanaWithSpace": "なにそれ ？ デート と ぜんぜん かんけいない よね"
+    },
+    "41": {
+        "character": "どこをどうすれば　そうなるの？",
+        "definition": "How in the world did you get to that subject?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.35.mp3",
+        "timestamp": "0:14:35",
+        "characterWithSpace": "どこをどう すれば そう なる の",
+        "katakanaWithSpace": "どこをどう すれば  そう なる の ？"
+    },
+    "42": {
+        "character": "さっきまでスペシャルメニューの話を してたんですけど",
+        "definition": "We were just talking about making a special menu,",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.14.37.mp3",
+        "timestamp": "0:14:37",
+        "characterWithSpace": "さっき まで スペシャル メニュー の 話 を してた ん です けど",
+        "katakanaWithSpace": "さっき まで スペシャル メニュー の はなし を  してた ん です けど"
+    },
+    "43": {
+        "character": "なかなか決まらなくて",
+        "definition": "but we couldn't figure out what it should be.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.14.41.mp3",
+        "timestamp": "0:14:41",
+        "characterWithSpace": "なかなか 決まらなくて",
+        "katakanaWithSpace": "なかなか きまらなくて"
+    },
+    "44": {
+        "character": "スペシャルメニューでパフェ？",
+        "definition": "So your special menu is going to have parfaits?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.14.44.mp3",
+        "timestamp": "0:14:44",
+        "characterWithSpace": "スペシャル メニュー で パフェ",
+        "katakanaWithSpace": "スペシャル メニュー で パフェ ？"
+    },
+    "45": {
+        "character": "僕　パフェ好き",
+        "definition": "I love parfaits!",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.14.47.mp3",
+        "timestamp": "0:14:47",
+        "characterWithSpace": "僕 パフェ 好き",
+        "katakanaWithSpace": "ぼく  パフェ すき"
+    },
+    "46": {
+        "character": "パフェはいいですけど",
+        "definition": "Parfaits are a great idea,",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.14.49.mp3",
+        "timestamp": "0:14:49",
+        "characterWithSpace": "パフェ は いいです けど",
+        "katakanaWithSpace": "パフェ は いいです けど"
+    },
+    "47": {
+        "character": "パフェフェアーって なんか言いづらいですよね",
+        "definition": "but isn't \"parfait fair\" a bit hard to say?",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.14.51.mp3",
+        "timestamp": "0:14:51",
+        "characterWithSpace": "パフェ フェアー って なんか 言いづらいです よね",
+        "katakanaWithSpace": "パフェ フェアー って  なんか いいづらいです よね"
+    },
+    "48": {
+        "character": "いや　全然大丈夫",
+        "definition": "No, it'll be fine.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.14.55.mp3",
+        "timestamp": "0:14:55",
+        "characterWithSpace": "いや 全然 大丈夫",
+        "katakanaWithSpace": "いや  ぜんぜん だいじょうぶ"
+    },
+    "49": {
+        "character": "よし　決まり",
+        "definition": "All right, it's settled.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.14.57.mp3",
+        "timestamp": "0:14:57",
+        "characterWithSpace": "よし 決まり",
+        "katakanaWithSpace": "よし  きまり"
+    },
+    "50": {
+        "character": "パヘヘアーにしよう",
+        "definition": "We'll call it \"parhay hair.\"",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.15.00.mp3",
+        "timestamp": "0:15:00",
+        "characterWithSpace": "パヘ ヘアー に しよう",
+        "katakanaWithSpace": "パヘ ヘアー に しよう"
+    },
+    "51": {
+        "character": "言えてないよね",
+        "definition": "You couldn't say it.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.15.04.mp3",
+        "timestamp": "0:15:04",
+        "characterWithSpace": "言えてない よね",
+        "katakanaWithSpace": "いえてない よね"
+    },
+    "52": {
+        "character": "イチゴパフェ　バナナパフェ　チョコパフェ",
+        "definition": "Strawberry parfait, banana parfait, chocolate parfait.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.15.22.mp3",
+        "timestamp": "0:15:22",
+        "characterWithSpace": "イチゴ パフェ バナナ パフェ チョコ パフェ",
+        "katakanaWithSpace": "イチゴ パフェ  バナナ パフェ  チョコ パフェ"
+    },
+    "53": {
+        "character": "間違いはないけど　フェアなのに 定番だけじゃつまらない",
+        "definition": "These are definitely parfaits, but it'd be boring to have just the normal lineup for the fair. Hmm, special parfaits, huh?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.15.27.mp3",
+        "timestamp": "0:15:27",
+        "characterWithSpace": "間違い は ない けど フェア な のに 定番 だけ じゃ つまらない",
+        "katakanaWithSpace": "まちがい は ない けど  フェア な のに  ていばん だけ じゃ つまらない"
+    },
+    "54": {
+        "character": "シロクマさん",
+        "definition": "Mr. Polar Bear.",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.15.46.mp3",
+        "timestamp": "0:15:46",
+        "characterWithSpace": "シロクマ さん",
+        "katakanaWithSpace": "シロクマ さん"
+    },
+    "55": {
+        "character": "パフェフェアー",
+        "definition": "Parfait Fair.",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.15.52.mp3",
+        "timestamp": "0:15:52",
+        "characterWithSpace": "パフェ フェアー",
+        "katakanaWithSpace": "パフェ フェアー"
+    },
+    "56": {
+        "character": "をするんですよね？ メニューは決まりましたか？",
+        "definition": "Huh?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.15.54.mp3",
+        "timestamp": "0:15:54",
+        "characterWithSpace": "を する ん です よね メニュー は 決まりました か",
+        "katakanaWithSpace": "を する ん です よね ？ メニュー は きまりました か ？"
+    },
+    "57": {
+        "character": "をするんですよね？ メニューは決まりましたか？",
+        "definition": "You're having one, right? Have you decided on the menu yet?",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.15.54.mp3",
+        "timestamp": "0:15:54",
+        "characterWithSpace": "を する ん です よね メニュー は 決まりました か",
+        "katakanaWithSpace": "を する ん です よね ？ メニュー は きまりました か ？"
+    },
+    "58": {
+        "character": "今　検討中",
+        "definition": "I'm trying to decide as we speak.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.15.59.mp3",
+        "timestamp": "0:15:59",
+        "characterWithSpace": "今 検討中",
+        "katakanaWithSpace": "いま  けんとうちゅう"
+    },
+    "59": {
+        "character": "だったらマンドリルパフェは　どうですか？",
+        "definition": "Then how about a mandrill parfait?",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.16.01.mp3",
+        "timestamp": "0:16:01",
+        "characterWithSpace": "だったら マンドリル パフェ は どう です か",
+        "katakanaWithSpace": "だったら マンドリル パフェ は  どう です か ？"
+    },
+    "60": {
+        "character": "それ　何？",
+        "definition": "What's that?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.04.mp3",
+        "timestamp": "0:16:04",
+        "characterWithSpace": "それ 何",
+        "katakanaWithSpace": "それ  なに/なん ？"
+    },
+    "61": {
+        "character": "マンドリルなパフェです",
+        "definition": "It is a parfait that is a mandrill.",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.16.06.mp3",
+        "timestamp": "0:16:06",
+        "characterWithSpace": "マンドリル な パフェ です",
+        "katakanaWithSpace": "マンドリル な パフェ です"
+    },
+    "62": {
+        "character": "それはもう　すごい迫力なんです！",
+        "definition": "And it is... {\\i1}intense{\\i0}!",
+        "speaker": "MANDRILL",
+        "audio": "/audio/05/0.16.08.mp3",
+        "timestamp": "0:16:08",
+        "characterWithSpace": "それは もう すごい 迫力 なんです",
+        "katakanaWithSpace": "それは もう  すごい はくりょく なんです ！"
+    },
+    "63": {
+        "character": "パフェに迫力はいらないかな",
+        "definition": "I don't think parfaits need intensity.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.13.mp3",
+        "timestamp": "0:16:13",
+        "characterWithSpace": "パフェ に 迫力 は いらない かな",
+        "katakanaWithSpace": "パフェ に はくりょく は いらない かな"
+    },
+    "64": {
+        "character": "う～ん　スペシャルなパフェね",
+        "definition": "Hmm, special parfaits, huh?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.17.mp3",
+        "timestamp": "0:16:17",
+        "characterWithSpace": "う ん スペシャル な パフェ ね",
+        "katakanaWithSpace": "う ～ ん  スペシャル な パフェ ね"
+    },
+    "65": {
+        "character": "シロクマさんじゃないですか",
+        "definition": "Well, if it isn't Mr. Polar Bear.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.21.mp3",
+        "timestamp": "0:16:21",
+        "characterWithSpace": "シロクマ さん じゃないです か",
+        "katakanaWithSpace": "シロクマ さん じゃないです か"
+    },
+    "66": {
+        "character": "ああ　ラマさん",
+        "definition": "Oh, hello, Mr. Llama.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.23.mp3",
+        "timestamp": "0:16:23",
+        "characterWithSpace": "ああ ラマ さん",
+        "katakanaWithSpace": "ああ  ラマ さん"
+    },
+    "67": {
+        "character": "こんにちは",
+        "definition": "Hello.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.25.mp3",
+        "timestamp": "0:16:25",
+        "characterWithSpace": "こんにちは",
+        "katakanaWithSpace": "こんにちは"
+    },
+    "68": {
+        "character": "聞きましたよ",
+        "definition": "So, I heard the news.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.27.mp3",
+        "timestamp": "0:16:27",
+        "characterWithSpace": "聞きました よ",
+        "katakanaWithSpace": "ききました よ"
+    },
+    "69": {
+        "character": "何を？",
+        "definition": "What?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.28.mp3",
+        "timestamp": "0:16:28",
+        "characterWithSpace": "何 を",
+        "katakanaWithSpace": "なに を ？"
+    },
+    "70": {
+        "character": "パフェフェアーをやるんですよね？",
+        "definition": "You're going to have a parfait fair, right?",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.29.mp3",
+        "timestamp": "0:16:29",
+        "characterWithSpace": "パフェ フェアー を やる ん です よね",
+        "katakanaWithSpace": "パフェ フェアー を やる ん です よね ？"
+    },
+    "71": {
+        "character": "ステキなパフェを思いついたんですよ",
+        "definition": "I thought up a spectacular parfait.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.33.mp3",
+        "timestamp": "0:16:33",
+        "characterWithSpace": "ステキ な パフェ を 思いついた ん です よ",
+        "katakanaWithSpace": "ステキ な パフェ を おもいついた ん です よ"
+    },
+    "72": {
+        "character": "パフェなのに　とってもヘルシーなんです",
+        "definition": "It's a parfait, but it's very healthy.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.36.mp3",
+        "timestamp": "0:16:36",
+        "characterWithSpace": "パフェ な のに とっても ヘルシー なんです",
+        "katakanaWithSpace": "パフェ な のに  とっても ヘルシー なんです"
+    },
+    "73": {
+        "character": "いいね　どんなの？",
+        "definition": "Sounds great. What is it?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.39.mp3",
+        "timestamp": "0:16:39",
+        "characterWithSpace": "いいね どんな の",
+        "katakanaWithSpace": "いいね  どんな の ？"
+    },
+    "74": {
+        "character": "自信作ですよ",
+        "definition": "One of my best ideas.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.41.mp3",
+        "timestamp": "0:16:41",
+        "characterWithSpace": "自信作 です よ",
+        "katakanaWithSpace": "じしんさく です よ"
+    },
+    "75": {
+        "character": "草　大盛りパフェです",
+        "definition": "A parfait with a large serving of grass.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.43.mp3",
+        "timestamp": "0:16:43",
+        "characterWithSpace": "草 大盛り パフェ です",
+        "katakanaWithSpace": "くさ  おおもり パフェ です"
+    },
+    "76": {
+        "character": "どんなパフェかというとですね",
+        "definition": "To explain the parfait in further detail,",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.47.mp3",
+        "timestamp": "0:16:47",
+        "characterWithSpace": "どんな パフェ か というと です ね",
+        "katakanaWithSpace": "どんな パフェ か というと です ね"
+    },
+    "77": {
+        "character": "お皿の上に草がのっていてですね",
+        "definition": "there's grass on top of the plate...",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.50.mp3",
+        "timestamp": "0:16:50",
+        "characterWithSpace": "お皿 の 上 に 草 が のっていて です ね",
+        "katakanaWithSpace": "おさら の うえ/じょう/かみ に くさ が のっていて です ね"
+    },
+    "78": {
+        "character": "お皿？",
+        "definition": "A plate?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.16.53.mp3",
+        "timestamp": "0:16:53",
+        "characterWithSpace": "お皿",
+        "katakanaWithSpace": "おさら ？"
+    },
+    "79": {
+        "character": "その上に水煮の草が のっていていてですね",
+        "definition": "And on top of that, there'll be boiled grass...",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.54.mp3",
+        "timestamp": "0:16:54",
+        "characterWithSpace": "その上 に 水煮 の 草 が のっていていて です ね",
+        "katakanaWithSpace": "そのかみ に みずに の くさ が  のっていていて です ね"
+    },
+    "80": {
+        "character": "更に　その上に覆いかぶさるように 産地直送の草がのるんです",
+        "definition": "and then freshly delivered grass from the fields... will hang over the dish.",
+        "speaker": "LLAMA",
+        "audio": "/audio/05/0.16.58.mp3",
+        "timestamp": "0:16:58",
+        "characterWithSpace": "更に その上 に 覆いかぶさる ように 産地直送 の 草 が のる ん です",
+        "katakanaWithSpace": "さらに  そのかみ に おおいかぶさる ように  さんちちょくそう の くさ が のる ん です"
+    },
+    "81": {
+        "character": "いや　それすでにパフェじゃないし どっちかっていうとサラダかな",
+        "definition": "Well, that's definitely not a parfait. If you had to call it something, it'd probably be a salad.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.17.06.mp3",
+        "timestamp": "0:17:06",
+        "characterWithSpace": "いや それ すでに パフェ じゃない し どっち か っていう と サラダ かな",
+        "katakanaWithSpace": "いや  それ すでに パフェ じゃない し  どっち か っていう と サラダ かな"
+    },
+    "82": {
+        "character": "う～ん　スペシャルなパフェ…",
+        "definition": "Hmm, special parfaits...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.17.12.mp3",
+        "timestamp": "0:17:12",
+        "characterWithSpace": "う ん スペシャル な パフェ",
+        "katakanaWithSpace": "う ～ ん  スペシャル な パフェ …"
+    },
+    "83": {
+        "character": "シロクマさ～ん　ここです！",
+        "definition": "Mr. Polar Bear... Over here...",
+        "speaker": "TORTOISE",
+        "audio": "/audio/05/0.17.17.mp3",
+        "timestamp": "0:17:17",
+        "characterWithSpace": "シロクマ さ ん ここ です",
+        "katakanaWithSpace": "シロクマ さ ～ ん  ここ です ！"
+    },
+    "84": {
+        "character": "待って～！ヽ(*´∀｀)ノ",
+        "definition": "Please wait... I have... something to tell you.",
+        "speaker": "TORTOISE",
+        "audio": "/audio/05/0.17.25.mp3",
+        "timestamp": "0:17:25",
+        "characterWithSpace": "待って ヽ ノ",
+        "katakanaWithSpace": "まって ～！ ヽ (*´∀｀) ノ"
+    },
+    "85": {
+        "character": "どうしたの？　ゾウガメさん",
+        "definition": "What's the matter, Mr. Tortoise?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.17.39.mp3",
+        "timestamp": "0:17:39",
+        "characterWithSpace": "どうしたの ゾウガメ さん",
+        "katakanaWithSpace": "どうしたの ？ ゾウガメ さん"
+    },
+    "86": {
+        "character": "パフェ…　フェ…",
+        "definition": "Parfai... fai...",
+        "speaker": "TORTOISE",
+        "audio": "/audio/05/0.17.42.mp3",
+        "timestamp": "0:17:42",
+        "characterWithSpace": "パフェ フェ",
+        "katakanaWithSpace": "パフェ … フェ …"
+    },
+    "87": {
+        "character": "パフェフェアー？",
+        "definition": "Parfait fair?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.17.45.mp3",
+        "timestamp": "0:17:45",
+        "characterWithSpace": "パフェ フェアー",
+        "katakanaWithSpace": "パフェ フェアー ？"
+    },
+    "88": {
+        "character": "甲羅パフェは？",
+        "definition": "How about a shell parfait?",
+        "speaker": "TORTOISE",
+        "audio": "/audio/05/0.17.49.mp3",
+        "timestamp": "0:17:49",
+        "characterWithSpace": "甲羅 パフェ は",
+        "katakanaWithSpace": "こうら パフェ は ？"
+    },
+    "89": {
+        "character": "甲羅パフェ？",
+        "definition": "Shell parfait?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.17.52.mp3",
+        "timestamp": "0:17:52",
+        "characterWithSpace": "甲羅 パフェ",
+        "katakanaWithSpace": "こうら パフェ ？"
+    },
+    "90": {
+        "character": "食べづらいかな",
+        "definition": "That might be a little hard to eat.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.01.mp3",
+        "timestamp": "0:18:01",
+        "characterWithSpace": "食べ づらい かな",
+        "katakanaWithSpace": "たべ づらい かな"
+    },
+    "91": {
+        "character": "う～ん　スペシャルなパフェ…",
+        "definition": "Hmm, special parfaits... I wonder what would be good.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.04.mp3",
+        "timestamp": "0:18:04",
+        "characterWithSpace": "う ん スペシャル な パフェ",
+        "katakanaWithSpace": "う ～ ん  スペシャル な パフェ …"
+    },
+    "92": {
+        "character": "シロクマさん！",
+        "definition": "Mr. Polar Bear!",
+        "speaker": "ANTEATER",
+        "audio": "/audio/05/0.18.14.mp3",
+        "timestamp": "0:18:14",
+        "characterWithSpace": "シロクマ さん",
+        "katakanaWithSpace": "シロクマ さん ！"
+    },
+    "93": {
+        "character": "あっ！　コアリクイくん",
+        "definition": "Oh, hello, Anteater.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.15.mp3",
+        "timestamp": "0:18:15",
+        "characterWithSpace": "あっ コ アリクイ くん",
+        "katakanaWithSpace": "あっ ！ コ アリクイ くん"
+    },
+    "94": {
+        "character": "すごいパフェを…",
+        "definition": "I thought of... I thought of a great parfait!",
+        "speaker": "ANTEATER",
+        "audio": "/audio/05/0.18.17.mp3",
+        "timestamp": "0:18:17",
+        "characterWithSpace": "すごい パフェ を",
+        "katakanaWithSpace": "すごい パフェ を …"
+    },
+    "95": {
+        "character": "どんなパフェ？",
+        "definition": "What kind of parfait is it? The topping is absolutely amazing!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.24.mp3",
+        "timestamp": "0:18:24",
+        "characterWithSpace": "どんな パフェ",
+        "katakanaWithSpace": "どんな パフェ ？"
+    },
+    "96": {
+        "character": "ビジュアルは黒ゴマ的ですが…",
+        "definition": "Visually, it looks like black sesame,",
+        "speaker": "ANTEATER",
+        "audio": "/audio/05/0.18.28.mp3",
+        "timestamp": "0:18:28",
+        "characterWithSpace": "ビジュアル は 黒ゴマ 的 ですが",
+        "katakanaWithSpace": "ビジュアル は くろごま てき/まと ですが …"
+    },
+    "97": {
+        "character": "すごく　うごめいている！",
+        "definition": "but they're wriggling!",
+        "speaker": "ANTEATER",
+        "audio": "/audio/05/0.18.31.mp3",
+        "timestamp": "0:18:31",
+        "characterWithSpace": "すごく うごめいている",
+        "katakanaWithSpace": "すごく  うごめいている ！"
+    },
+    "98": {
+        "character": "いや　それは　いいかな",
+        "definition": "No, I'm going to pass.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.35.mp3",
+        "timestamp": "0:18:35",
+        "characterWithSpace": "いや それは いい かな",
+        "katakanaWithSpace": "いや  それは  いい かな"
+    },
+    "99": {
+        "character": "だから　めちゃくちゃ　生き生きと うごめいている　黒ゴマ的トッピングの…",
+        "definition": "But they're like lively black sesame that wriggle! Japanese style is good, too, but...",
+        "speaker": "ANTEATER",
+        "audio": "/audio/05/0.18.38.mp3",
+        "timestamp": "0:18:38",
+        "characterWithSpace": "だから めちゃくちゃ 生き生き と うごめいている 黒ゴマ 的 トッピング の",
+        "katakanaWithSpace": "だ·から  めちゃくちゃ  いきいき と  うごめいている  くろごま てき/まと トッピング の …"
+    },
+    "100": {
+        "character": "どうしたの？　シロクマくん",
+        "definition": "What's wrong, Polar Bear?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.18.49.mp3",
+        "timestamp": "0:18:49",
+        "characterWithSpace": "どうしたの シロクマ くん",
+        "katakanaWithSpace": "どうしたの ？ シロクマ くん"
+    },
+    "101": {
+        "character": "早く　パフェフェアーのメニュー　考えないと みんなが暴走してるから",
+        "definition": "I need to hurry up and decide on the menu for the parfait fair. Everyone's going crazy.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.18.52.mp3",
+        "timestamp": "0:18:52",
+        "characterWithSpace": "早く パフェ フェアー の メニュー 考えない と みんな が 暴走してる から",
+        "katakanaWithSpace": "はやく  パフェ フェアー の メニュー  かんがえない と  みんな が ぼうそう してる から"
+    },
+    "102": {
+        "character": "暴走？(;ﾟДﾟ)!",
+        "definition": "Going crazy?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.18.58.mp3",
+        "timestamp": "0:18:58",
+        "characterWithSpace": "暴走",
+        "katakanaWithSpace": "ぼうそう ？(;ﾟДﾟ)!"
+    },
+    "103": {
+        "character": "スペシャルメニューだけに　みんな 結構　楽しみにしてるんだね",
+        "definition": "Since it's the special menu, I'm guessing everyone is looking forward to it.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.18.59.mp3",
+        "timestamp": "0:18:59",
+        "characterWithSpace": "スペシャル メニュー だけ に みんな 結構 楽しみにしてる ん だ ね",
+        "katakanaWithSpace": "スペシャル メニュー だけ に  みんな  けっこう  たのしみにしてる ん だ ね"
+    },
+    "104": {
+        "character": "はい　は～い！　僕に　いいアイディア",
+        "definition": "Hey! I have a great idea!",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.04.mp3",
+        "timestamp": "0:19:04",
+        "characterWithSpace": "はい は い 僕 に いい アイディア",
+        "katakanaWithSpace": "はい  は ～ い ！ ぼく に  いい アイディア"
+    },
+    "105": {
+        "character": "はい",
+        "definition": "Here you go!",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.19.09.mp3",
+        "timestamp": "0:19:09",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "106": {
+        "character": "これ　これ！　竹パフェ",
+        "definition": "This is it! The bamboo parfait!",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.10.mp3",
+        "timestamp": "0:19:10",
+        "characterWithSpace": "これ これ 竹 パフェ",
+        "katakanaWithSpace": "これ  これ ！ たけ パフェ"
+    },
+    "107": {
+        "character": "パンダくんに聞いて　作ってみました",
+        "definition": "I got Panda's advice and tried to make it.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.19.13.mp3",
+        "timestamp": "0:19:13",
+        "characterWithSpace": "パンダ くん に 聞いて 作って みました",
+        "katakanaWithSpace": "パンダ くん に きいて  つくって みました"
+    },
+    "108": {
+        "character": "すごいでしょ？",
+        "definition": "Isn't it amazing?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.15.mp3",
+        "timestamp": "0:19:15",
+        "characterWithSpace": "すごい でしょ",
+        "katakanaWithSpace": "すごい でしょ ？"
+    },
+    "109": {
+        "character": "竹ゼリーに笹クリームをのせて 新鮮な笹とタケノコをトッピングした上に",
+        "definition": "You start with bamboo jello and bamboo grass whipped cream, then top it with fresh bamboo grass and bamboo shoots,",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.17.mp3",
+        "timestamp": "0:19:17",
+        "characterWithSpace": "竹 ゼリー に 笹 クリーム を のせて 新鮮 な 笹 と タケノコ を トッピングした 上 に",
+        "katakanaWithSpace": "たけ ゼリー に ささ クリーム を のせて  しんせん な ささ と タケノコ を トッピング した うえ/じょう/かみ に"
+    },
+    "110": {
+        "character": "刻んだ竹が いっぱい　のっかってるの",
+        "definition": "and finish it off with lots of bamboo shavings!",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.23.mp3",
+        "timestamp": "0:19:23",
+        "characterWithSpace": "刻んだ 竹 が いっぱい のっかってる の",
+        "katakanaWithSpace": "きざんだ たけ が  いっぱい  のっかってる の"
+    },
+    "111": {
+        "character": "すごく緑色なパフェだね(-_-;)",
+        "definition": "That's a very green parfait.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.29.mp3",
+        "timestamp": "0:19:29",
+        "characterWithSpace": "すごく 緑色 な パフェ だ ね",
+        "katakanaWithSpace": "すごく みどりいろ な パフェ だ ね (-_-;)"
+    },
+    "112": {
+        "character": "パンダくん以外　食べないかも",
+        "definition": "I don't think anyone would eat it other than you, Panda.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.19.31.mp3",
+        "timestamp": "0:19:31",
+        "characterWithSpace": "パンダ くん 以外 食べない かも",
+        "katakanaWithSpace": "パンダ くん いがい  たべない かも"
+    },
+    "113": {
+        "character": "そう？ こんなに　おいしそうなのに？",
+        "definition": "Really? Even though it looks this delicious?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.19.33.mp3",
+        "timestamp": "0:19:33",
+        "characterWithSpace": "そう こんなに おいしそう な のに",
+        "katakanaWithSpace": "そう ？ こんなに  おいしそう な のに ？"
+    },
+    "114": {
+        "character": "刻んだ竹が口に刺さりそうだよ",
+        "definition": "The bamboo shavings look like they'll stab you in the mouth.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.37.mp3",
+        "timestamp": "0:19:37",
+        "characterWithSpace": "刻んだ 竹 が 口 に 刺さりそう だ よ",
+        "katakanaWithSpace": "きざんだ たけ が くち に ささりそう だ よ"
+    },
+    "115": {
+        "character": "パンダくん…　パフェって言えば なんでも　パフェだと思ってるでしょ",
+        "definition": "You probably think that anything can be on a parfait, Panda.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.40.mp3",
+        "timestamp": "0:19:40",
+        "characterWithSpace": "パンダ くん パフェ って 言えば なんでも パフェ だ と 思ってる でしょ",
+        "katakanaWithSpace": "パンダ くん … パフェ って いえば  なんでも  パフェ だ と おもってる でしょ"
+    },
+    "116": {
+        "character": "任せておけないよ",
+        "definition": "We can't leave it up to you.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.44.mp3",
+        "timestamp": "0:19:44",
+        "characterWithSpace": "任せておけない よ",
+        "katakanaWithSpace": "まかせておけない よ"
+    },
+    "117": {
+        "character": "よし　ここは　僕のアイディアを…",
+        "definition": "Here, I'll throw in my idea, too.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.46.mp3",
+        "timestamp": "0:19:46",
+        "characterWithSpace": "よし ここ は 僕 の アイディア を",
+        "katakanaWithSpace": "よし  ここ は  ぼく の アイディア を …"
+    },
+    "118": {
+        "character": "イワシパフェ",
+        "definition": "A sardine parfait.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.50.mp3",
+        "timestamp": "0:19:50",
+        "characterWithSpace": "イワシ パフェ",
+        "katakanaWithSpace": "イワシ パフェ"
+    },
+    "119": {
+        "character": "ＤＨＡたっぷり　頭もよくなる",
+        "definition": "It's full of DHA and it'll make you smart.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.52.mp3",
+        "timestamp": "0:19:52",
+        "characterWithSpace": "たっぷり 頭 も よくなる",
+        "katakanaWithSpace": "ＤＨＡ たっぷり  あたま も よくなる"
+    },
+    "120": {
+        "character": "ダメ？",
+        "definition": "No?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.57.mp3",
+        "timestamp": "0:19:57",
+        "characterWithSpace": "ダメ",
+        "katakanaWithSpace": "ダメ ？"
+    },
+    "121": {
+        "character": "じゃあ　今からだと 旬なアジとかでも　いいと思うよ",
+        "definition": "Well, horse mackerel are in season, too. Let's avoid fish altogether.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.19.58.mp3",
+        "timestamp": "0:19:58",
+        "characterWithSpace": "じゃあ 今から だ と 旬 な アジ とか でも いい と 思う よ",
+        "katakanaWithSpace": "じゃあ  いまから だ と  しゅん な アジ とか でも  いい と おもう よ"
+    },
+    "122": {
+        "character": "なんていうか　それ パフェっていうより…",
+        "definition": "I wouldn't call that a parfait...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.20.04.mp3",
+        "timestamp": "0:20:04",
+        "characterWithSpace": "なん ていうか それ パフェ っていう より",
+        "katakanaWithSpace": "なん ていうか  それ  パフェ っていう より …"
+    },
+    "123": {
+        "character": "オシャレなお刺身？",
+        "definition": "It's more like fancy sashimi.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.07.mp3",
+        "timestamp": "0:20:07",
+        "characterWithSpace": "オシャレ な お 刺身",
+        "katakanaWithSpace": "オシャレ な お さしみ ？"
+    },
+    "124": {
+        "character": "あっ！ こういうのは　どうでしょうか？",
+        "definition": "Oh, how about this?",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.10.mp3",
+        "timestamp": "0:20:10",
+        "characterWithSpace": "あっ こういう の は どう でしょうか",
+        "katakanaWithSpace": "あっ ！ こういう の は  どう でしょうか ？"
+    },
+    "125": {
+        "character": "パンダパフェ",
+        "definition": "How about a panda parfait?",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.21.mp3",
+        "timestamp": "0:20:21",
+        "characterWithSpace": "パンダ パフェ",
+        "katakanaWithSpace": "パンダ パフェ"
+    },
+    "126": {
+        "character": "パンダの頭は　バニラアイスで 耳や顔は　チョコレートです",
+        "definition": "The panda's head is made with vanilla ice cream, and its face and ears are made with chocolate.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.25.mp3",
+        "timestamp": "0:20:25",
+        "characterWithSpace": "パンダ の 頭 は バニラ アイス で 耳 や 顔 は チョコレート です",
+        "katakanaWithSpace": "パンダ の あたま は  バニラ アイス で  みみ や かお は  チョコレート です"
+    },
+    "127": {
+        "character": "わぁ～！　パフェになっても パンダって　やっぱり　かわいいね",
+        "definition": "Wow, pandas are cute even as parfaits!",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.20.30.mp3",
+        "timestamp": "0:20:30",
+        "characterWithSpace": "わぁ パフェ に なっても パンダ って やっぱり かわいい ね",
+        "katakanaWithSpace": "わぁ ～！ パフェ に なっても  パンダ って  やっぱり  かわいい ね"
+    },
+    "128": {
+        "character": "クマクマパフェ",
+        "definition": "Then there's the bear bear parfait.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.37.mp3",
+        "timestamp": "0:20:37",
+        "characterWithSpace": "クマ クマ パフェ",
+        "katakanaWithSpace": "クマ クマ パフェ"
+    },
+    "129": {
+        "character": "バニラとコーヒーアイスで作ってみました",
+        "definition": "I made it with vanilla and coffee ice cream.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.39.mp3",
+        "timestamp": "0:20:39",
+        "characterWithSpace": "バニラ と コーヒー アイス で 作って みました",
+        "katakanaWithSpace": "バニラ と コーヒー アイス で つくって みました"
+    },
+    "130": {
+        "character": "南極パフェ",
+        "definition": "The south pole parfait.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.44.mp3",
+        "timestamp": "0:20:44",
+        "characterWithSpace": "南極 パフェ",
+        "katakanaWithSpace": "なんきょく パフェ"
+    },
+    "131": {
+        "character": "かき氷で氷山をイメージしました",
+        "definition": "I made a glacier with shaved ice.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.46.mp3",
+        "timestamp": "0:20:46",
+        "characterWithSpace": "かき氷 で 氷山 を イメージしました",
+        "katakanaWithSpace": "かきごおり で ひょうざん を イメージ しました"
+    },
+    "132": {
+        "character": "すご～い！ かわいい！　新商品ですか？",
+        "definition": "Wow! How cute! Are these new?",
+        "speaker": "GIRLS",
+        "audio": "/audio/05/0.20.48.mp3",
+        "timestamp": "0:20:48",
+        "characterWithSpace": "す ご い かわいい 新商品 です か",
+        "katakanaWithSpace": "す ご ～ い ！ かわいい ！ しんしょうひん です か ？"
+    },
+    "133": {
+        "character": "あ…　いえ　試作品です",
+        "definition": "Oh no, they're test products. You're welcome to try them if you'd like.",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.20.52.mp3",
+        "timestamp": "0:20:52",
+        "characterWithSpace": "あ いえ 試作品 です",
+        "katakanaWithSpace": "あ … いえ  しさくひん です"
+    },
+    "134": {
+        "character": "えっ！？　いいんですか？",
+        "definition": "Wow, really?",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.20.56.mp3",
+        "timestamp": "0:20:56",
+        "characterWithSpace": "え っ いい ん です か",
+        "katakanaWithSpace": "え っ ！？ いい ん です か ？"
+    },
+    "135": {
+        "character": "では… いただきます！",
+        "definition": "Well then, thanks for the food!",
+        "speaker": "GIRLs",
+        "audio": "/audio/05/0.21.00.mp3",
+        "timestamp": "0:21:00",
+        "characterWithSpace": "では いただきます",
+        "katakanaWithSpace": "で·は … いただきます ！"
+    },
+    "136": {
+        "character": "まずは　パンダさんから！",
+        "definition": "Let's start with the panda.",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.21.03.mp3",
+        "timestamp": "0:21:03",
+        "characterWithSpace": "まず は パンダ さん から",
+        "katakanaWithSpace": "まず は  パンダ さん から ！"
+    },
+    "137": {
+        "character": "じゃあ　ペンギンさんも！",
+        "definition": "And then the penguin.",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.21.07.mp3",
+        "timestamp": "0:21:07",
+        "characterWithSpace": "じゃあ ペンギン さん も",
+        "katakanaWithSpace": "じゃあ  ペンギン さん も ！"
+    },
+    "138": {
+        "character": "じゃあ　シロクマさんも！",
+        "definition": "And then the polar bear. I think I'll eat the nose, too.",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.21.12.mp3",
+        "timestamp": "0:21:12",
+        "characterWithSpace": "じゃあ シロクマ さん も",
+        "katakanaWithSpace": "じゃあ  シロクマ さん も ！"
+    },
+    "139": {
+        "character": "アハハハハ！　ひどい！！　私も　えい！",
+        "definition": "Oh, how mean! I'll have some, too.",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.21.20.mp3",
+        "timestamp": "0:21:20",
+        "characterWithSpace": "アハハハハ ひどい 私 も え い",
+        "katakanaWithSpace": "アハハハハ ！ ひどい ！！ わたし も  え い ！"
+    },
+    "140": {
+        "character": "これ　絶対 お店で出してくださいね",
+        "definition": "Please put these on your menu! How wonderful! They're a hit.",
+        "speaker": "GIRL",
+        "audio": "/audio/05/0.21.24.mp3",
+        "timestamp": "0:21:24",
+        "characterWithSpace": "これ 絶対 お店 で 出してください ね",
+        "katakanaWithSpace": "これ  ぜったい  おみせ で だして ください ね"
+    },
+    "141": {
+        "character": "そ…　そうだね",
+        "definition": "Y-Yeah, great... Hey, listen to this! I failed the test again!",
+        "speaker": "THREE",
+        "audio": "/audio/05/0.21.32.mp3",
+        "timestamp": "0:21:32",
+        "characterWithSpace": "そ そうだね",
+        "katakanaWithSpace": "そ … そうだね"
+    },
+    "142": {
+        "character": "いつも以上に大繁盛じゃない どうしたの？",
+        "definition": "This place is a lot busier than usual. What happened?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.21.59.mp3",
+        "timestamp": "0:21:59",
+        "characterWithSpace": "いつも 以上 に 大 繁盛 じゃない どうしたの",
+        "katakanaWithSpace": "いつも いじょう に おお/だい はんじょう じゃない  どうしたの ？"
+    },
+    "143": {
+        "character": "新メニューのフェアが大人気らしいよ",
+        "definition": "Apparently the new menu items are a hit.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.22.03.mp3",
+        "timestamp": "0:22:03",
+        "characterWithSpace": "新メニュー の フェア が 大人気 らしい よ",
+        "katakanaWithSpace": "しんメニュー の フェア が だいにんき/おとなげ らしい よ"
+    },
+    "144": {
+        "character": "あぁ　パフェフェアー？",
+        "definition": "Oh, the parfait fair?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.22.06.mp3",
+        "timestamp": "0:22:06",
+        "characterWithSpace": "あぁ パフェ フェアー",
+        "katakanaWithSpace": "あぁ  パフェ フェアー ？"
+    },
+    "145": {
+        "character": "ワンプレートランチフェア",
+        "definition": "The one plate lunch fair.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.22.11.mp3",
+        "timestamp": "0:22:11",
+        "characterWithSpace": "ワンプレートランチ フェア",
+        "katakanaWithSpace": "ワンプレートランチ フェア"
+    },
+    "146": {
+        "character": "パフェじゃないんだ？",
+        "definition": "So it wasn't parfaits...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.22.21.mp3",
+        "timestamp": "0:22:21",
+        "characterWithSpace": "パフェ じゃない ん だ",
+        "katakanaWithSpace": "パフェ じゃない ん だ ？"
+    },
+    "147": {
+        "character": "ペンギンさん　ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.23.59.mp3",
+        "timestamp": "0:23:59",
+        "characterWithSpace": "ペンギン さん ペンギン さん",
+        "katakanaWithSpace": "ペンギン さん  ペンギン さん"
+    },
+    "148": {
+        "character": "どうしたの　パンダ君",
+        "definition": "What's wrong, Panda?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.24.01.mp3",
+        "timestamp": "0:24:01",
+        "characterWithSpace": "どうしたの パンダ 君",
+        "katakanaWithSpace": "どうしたの  パンダ きみ/くん"
+    },
+    "149": {
+        "character": "何も言わないで　預金通帳もらえるかな",
+        "definition": "Without asking me the details, could I have your bank book?",
+        "speaker": "PANDA",
+        "audio": "/audio/05/0.24.03.mp3",
+        "timestamp": "0:24:03",
+        "characterWithSpace": "何も 言わないで 預金通帳 もらえる かな",
+        "katakanaWithSpace": "なにも いわないで  よきんつうちょう もらえる かな"
+    },
+    "150": {
+        "character": "嫌だってこといいかな",
+        "definition": "How about no?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.24.07.mp3",
+        "timestamp": "0:24:07",
+        "characterWithSpace": "嫌 だって こと いい かな",
+        "katakanaWithSpace": "いや だって こと いい かな"
+    },
+    "151": {
+        "character": "白熊君　まとめて",
+        "definition": "Wrap it up, Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.24.09.mp3",
+        "timestamp": "0:24:09",
+        "characterWithSpace": "白熊 君 まとめて",
+        "katakanaWithSpace": "しろくま/はぐま きみ/くん  まとめて"
+    },
+    "152": {
+        "character": "次回のしろくまカフェは",
+        "definition": "Next time, Polar Bear's Café...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.24.11.mp3",
+        "timestamp": "0:24:11",
+        "characterWithSpace": "次回 の しろくま カフェ は",
+        "katakanaWithSpace": "じかい の しろくま カフェ は"
+    },
+    "153": {
+        "character": "ボルトがル語でお送りします",
+        "definition": "will be presented in Portuguese.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/05/0.24.16.mp3",
+        "timestamp": "0:24:16",
+        "characterWithSpace": "ボルト が ル 語 で お 送り します",
+        "katakanaWithSpace": "ボルト が ル ご で お おくり します"
+    },
+    "154": {
+        "character": "日本語で行こう",
+        "definition": "Let's go with Japanese.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/05/0.24.18.mp3",
+        "timestamp": "0:24:18",
+        "characterWithSpace": "日本語 で 行こう",
+        "katakanaWithSpace": "にほんご で いこう"
+    },
+    "155": {
+        "character": "お楽しみにY(>_<、)Y",
+        "definition": "Enjoy!",
+        "speaker": "SASAKO",
+        "audio": "/audio/05/0.24.19.mp3",
+        "timestamp": "0:24:19",
+        "characterWithSpace": "お 楽しみ に",
+        "katakanaWithSpace": "お たのしみ に Y(>_<、)Y"
+    }
+}

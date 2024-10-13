@@ -1,0 +1,1559 @@
+{
+    "1": {
+        "character": "なんだい？",
+        "definition": "Look, look!",
+        "speaker": "HANDA",
+        "audio": "/audio/07/0.10.23.mp3",
+        "timestamp": "0:10:23",
+        "characterWithSpace": "なんだい",
+        "katakanaWithSpace": "なんだい ？"
+    },
+    "2": {
+        "character": "ついに取ったよ！",
+        "definition": "I finally got it!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.10.41.mp3",
+        "timestamp": "0:10:41",
+        "characterWithSpace": "ついに 取った よ",
+        "katakanaWithSpace": "ついに とった よ ！"
+    },
+    "3": {
+        "character": "免許！",
+        "definition": "My license!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.10.44.mp3",
+        "timestamp": "0:10:44",
+        "characterWithSpace": "免許",
+        "katakanaWithSpace": "めんきょ ！"
+    },
+    "4": {
+        "character": "よかったね",
+        "definition": "Good for you. Hey! Congratulate me {\\i1}(omedetou){\\i0}!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.10.48.mp3",
+        "timestamp": "0:10:48",
+        "characterWithSpace": "よかった ね",
+        "katakanaWithSpace": "よかった ね"
+    },
+    "5": {
+        "character": "それは　こんぺいとう！",
+        "definition": "That's a small candy {\\i1}(konpeitou){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.10.54.mp3",
+        "timestamp": "0:10:54",
+        "characterWithSpace": "それは こんぺいとう",
+        "katakanaWithSpace": "それは  こんぺいとう ！"
+    },
+    "6": {
+        "character": "それは　エッフェル塔！",
+        "definition": "That's the Eiffel Tower {\\i1}(efferu tou){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.10.57.mp3",
+        "timestamp": "0:10:57",
+        "characterWithSpace": "それは エッフェル塔",
+        "katakanaWithSpace": "それは  エッフェルとう ！"
+    },
+    "7": {
+        "character": "それは　合気道！",
+        "definition": "That's Aikido {\\i1}(aikidou){\\i0}!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.01.mp3",
+        "timestamp": "0:11:01",
+        "characterWithSpace": "それは 合気道",
+        "katakanaWithSpace": "それは  あいきどう ！"
+    },
+    "8": {
+        "character": "違う！　全然違うよ",
+        "definition": "That's not it! That's not it at all! Congratulations.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.03.mp3",
+        "timestamp": "0:11:03",
+        "characterWithSpace": "違う 全然 違う よ",
+        "katakanaWithSpace": "ちがう ！ ぜんぜん ちがう よ"
+    },
+    "9": {
+        "character": "うん！　ありがとう",
+        "definition": "Thank you!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.07.mp3",
+        "timestamp": "0:11:07",
+        "characterWithSpace": "うん ありがとう",
+        "katakanaWithSpace": "うん ！ ありがとう"
+    },
+    "10": {
+        "character": "おめでとう",
+        "definition": "Congratulations.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.11.10.mp3",
+        "timestamp": "0:11:10",
+        "characterWithSpace": "おめでとう",
+        "katakanaWithSpace": "おめでとう"
+    },
+    "11": {
+        "character": "うん！",
+        "definition": "Thanks!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.11.mp3",
+        "timestamp": "0:11:11",
+        "characterWithSpace": "うん",
+        "katakanaWithSpace": "うん ！"
+    },
+    "12": {
+        "character": "永遠に取れないかと思ったよ",
+        "definition": "I thought you'd never get it. That's not even funny.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.11.12.mp3",
+        "timestamp": "0:11:12",
+        "characterWithSpace": "永遠 に 取れない か と 思った よ",
+        "katakanaWithSpace": "えいえん に とれない か と おもった よ"
+    },
+    "13": {
+        "character": "さぁ　これで　ペン子さんと…",
+        "definition": "Now I can take Miss Penko...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.17.mp3",
+        "timestamp": "0:11:17",
+        "characterWithSpace": "さぁ これで ペン 子 さん と",
+        "katakanaWithSpace": "さぁ  これで  ペン こ さん と …"
+    },
+    "14": {
+        "character": "海へ　ドライブだよ！",
+        "definition": "for a drive to the ocean!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.21.mp3",
+        "timestamp": "0:11:21",
+        "characterWithSpace": "海 へ ドライブ だ よ",
+        "katakanaWithSpace": "うみ へ  ドライブ だ よ ！"
+    },
+    "15": {
+        "character": "いきなりはどうかな？",
+        "definition": "I don't know if it'll be that easy.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.26.mp3",
+        "timestamp": "0:11:26",
+        "characterWithSpace": "いきなり は どうかな",
+        "katakanaWithSpace": "いきなり は どうかな ？"
+    },
+    "16": {
+        "character": "なんで？",
+        "definition": "Why?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.29.mp3",
+        "timestamp": "0:11:29",
+        "characterWithSpace": "なんで",
+        "katakanaWithSpace": "なんで ？"
+    },
+    "17": {
+        "character": "たとえば…",
+        "definition": "For example...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.30.mp3",
+        "timestamp": "0:11:30",
+        "characterWithSpace": "たとえば",
+        "katakanaWithSpace": "たとえば …"
+    },
+    "18": {
+        "character": "道を間違えて　海へ行くはずが 山へ行っちゃったり…",
+        "definition": "You get lost and end up going to the mountains instead of the ocean.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.32.mp3",
+        "timestamp": "0:11:32",
+        "characterWithSpace": "道 を 間違えて 海 へ 行く はず が 山 へ 行っちゃったり",
+        "katakanaWithSpace": "みち を まちがえて  うみ へ いく はず が  やま へ おこなっちゃったり/いっちゃったり …"
+    },
+    "19": {
+        "character": "ギア　壊しちゃったり…",
+        "definition": "You break the gear shift.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.39.mp3",
+        "timestamp": "0:11:39",
+        "characterWithSpace": "ギア 壊しちゃったり",
+        "katakanaWithSpace": "ギア  こわしちゃったり …"
+    },
+    "20": {
+        "character": "ハンドル　引っこ抜いたり…",
+        "definition": "The steering wheel comes off.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.46.mp3",
+        "timestamp": "0:11:46",
+        "characterWithSpace": "ハンドル 引っこ抜いたり",
+        "katakanaWithSpace": "ハンドル  ひっこぬいたり …"
+    },
+    "21": {
+        "character": "いや　そんな失敗しないから",
+        "definition": "No, I won't make any of those mistakes.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.11.53.mp3",
+        "timestamp": "0:11:53",
+        "characterWithSpace": "いや そんな 失敗しない から",
+        "katakanaWithSpace": "いや  そんな しっぱい しない から"
+    },
+    "22": {
+        "character": "でも　ただのドライブじゃないよね？",
+        "definition": "But you're not just going on a drive, right?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.11.56.mp3",
+        "timestamp": "0:11:56",
+        "characterWithSpace": "でも ただ の ドライブ じゃない よね",
+        "katakanaWithSpace": "でも  ただ の ドライブ じゃない よね ？"
+    },
+    "23": {
+        "character": "デートだよ　デート",
+        "definition": "It'll be a date.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.00.mp3",
+        "timestamp": "0:12:00",
+        "characterWithSpace": "デート だ よ デート",
+        "katakanaWithSpace": "デート だ よ  デート"
+    },
+    "24": {
+        "character": "ペン子さんを助手席に乗せて",
+        "definition": "You'll have to make interesting conversation",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.02.mp3",
+        "timestamp": "0:12:02",
+        "characterWithSpace": "ペン 子 さん を 助手席 に 乗せて",
+        "katakanaWithSpace": "ペン こ さん を じょしゅせき に のせて"
+    },
+    "25": {
+        "character": "洒落た会話をこなしつつ",
+        "definition": "with Miss Penko in the passenger seat while not getting lost. Can you do that? That's quite a mission.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.04.mp3",
+        "timestamp": "0:12:04",
+        "characterWithSpace": "洒落た 会話 を こなしつつ",
+        "katakanaWithSpace": "しゃれた かいわ を こなしつつ"
+    },
+    "26": {
+        "character": "わかった！ 明日　予行演習しよう",
+        "definition": "I know! Let's go for a practice run tomorrow!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.12.16.mp3",
+        "timestamp": "0:12:16",
+        "characterWithSpace": "わかった 明日 予行演習しよう",
+        "katakanaWithSpace": "わかった ！ あした  よこうえんしゅう しよう"
+    },
+    "27": {
+        "character": "デートの練習って何するの？",
+        "definition": "What do you do on a practice date?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.12.23.mp3",
+        "timestamp": "0:12:23",
+        "characterWithSpace": "デート の 練習 って 何 する の",
+        "katakanaWithSpace": "デート の れんしゅう って なに する の ？"
+    },
+    "28": {
+        "character": "それは　いろいろ考えてあるから",
+        "definition": "I've got it all figured out.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.26.mp3",
+        "timestamp": "0:12:26",
+        "characterWithSpace": "それは いろいろ 考えてある から",
+        "katakanaWithSpace": "それは  いろいろ かんがえてある から"
+    },
+    "29": {
+        "character": "ペンギンさん　おはよう",
+        "definition": "Good morning, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.30.mp3",
+        "timestamp": "0:12:30",
+        "characterWithSpace": "ペンギン さん おはよう",
+        "katakanaWithSpace": "ペンギン さん  おはよう"
+    },
+    "30": {
+        "character": "あれ？",
+        "definition": "Huh?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.32.mp3",
+        "timestamp": "0:12:32",
+        "characterWithSpace": "あれ",
+        "katakanaWithSpace": "あれ ？"
+    },
+    "31": {
+        "character": "ペン子さん…",
+        "definition": "Miss Penko...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.12.36.mp3",
+        "timestamp": "0:12:36",
+        "characterWithSpace": "ペン 子 さん",
+        "katakanaWithSpace": "ペン こ さん …"
+    },
+    "32": {
+        "character": "ペンギンさん！",
+        "definition": "Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.12.38.mp3",
+        "timestamp": "0:12:38",
+        "characterWithSpace": "ペンギン さん",
+        "katakanaWithSpace": "ペンギン さん ！"
+    },
+    "33": {
+        "character": "なんで　こんなとこで寝てるの？",
+        "definition": "Why are you sleeping here? Well, I got here three hours ago.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.12.41.mp3",
+        "timestamp": "0:12:41",
+        "characterWithSpace": "なんで こんな とこ で 寝てる の",
+        "katakanaWithSpace": "なんで  こんな とこ で ねてる の ？"
+    },
+    "34": {
+        "character": "早いのはいいけど 寝るのは最悪だね",
+        "definition": "It's good that you're early, but very bad to be sleeping.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.49.mp3",
+        "timestamp": "0:12:49",
+        "characterWithSpace": "早い の は いい けど 寝る の は 最悪 だ ね",
+        "katakanaWithSpace": "はやい の は いい けど  ねる の は さいあく だ ね"
+    },
+    "35": {
+        "character": "その１　待ち合わせ　不合格",
+        "definition": "No. 1, Meeting: Failed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.53.mp3",
+        "timestamp": "0:12:53",
+        "characterWithSpace": "その 待ち合わせ 不合格",
+        "katakanaWithSpace": "その １ まちあわせ  ふごうかく"
+    },
+    "36": {
+        "character": "何それ？",
+        "definition": "What's that?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.12.57.mp3",
+        "timestamp": "0:12:57",
+        "characterWithSpace": "何それ",
+        "katakanaWithSpace": "なにそれ ？"
+    },
+    "37": {
+        "character": "採点表だよ",
+        "definition": "A score card.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.12.59.mp3",
+        "timestamp": "0:12:59",
+        "characterWithSpace": "採点表 だ よ",
+        "katakanaWithSpace": "さいてんひょう だ よ"
+    },
+    "38": {
+        "character": "合格しないと デートする免許がもらえないの",
+        "definition": "If you don't pass, you don't get your dating license.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.01.mp3",
+        "timestamp": "0:13:01",
+        "characterWithSpace": "合格しない と デートする 免許 が もらえない の",
+        "katakanaWithSpace": "ごうかく しない と  デート する めんきょ が もらえない の"
+    },
+    "39": {
+        "character": "デートにも免許がいるんだ？",
+        "definition": "You need a license for dating, too?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.13.05.mp3",
+        "timestamp": "0:13:05",
+        "characterWithSpace": "デート にも 免許 が いる ん だ",
+        "katakanaWithSpace": "デート にも めんきょ が いる ん だ ？"
+    },
+    "40": {
+        "character": "いるの",
+        "definition": "You do.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.08.mp3",
+        "timestamp": "0:13:08",
+        "characterWithSpace": "いる の",
+        "katakanaWithSpace": "いる の"
+    },
+    "41": {
+        "character": "いや　普通いらないから",
+        "definition": "No, you usually don't.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.13.09.mp3",
+        "timestamp": "0:13:09",
+        "characterWithSpace": "いや 普通 いらない から",
+        "katakanaWithSpace": "いや  ふつう いらない から"
+    },
+    "42": {
+        "character": "ペンギンさん 今日は僕がデートの教官",
+        "definition": "I'll be your dating instructor today, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.12.mp3",
+        "timestamp": "0:13:12",
+        "characterWithSpace": "ペンギン さん 今日 は 僕 が デート の 教官",
+        "katakanaWithSpace": "ペンギン さん  きょう は ぼく が デート の きょうかん"
+    },
+    "43": {
+        "character": "わ…　わかってるよ",
+        "definition": "I-I know that.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.13.16.mp3",
+        "timestamp": "0:13:16",
+        "characterWithSpace": "わ わかってる よ",
+        "katakanaWithSpace": "わ … わかってる よ"
+    },
+    "44": {
+        "character": "で…　今日の計画は？",
+        "definition": "So, what's your plan for today?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.18.mp3",
+        "timestamp": "0:13:18",
+        "characterWithSpace": "で 今日 の 計画 は",
+        "katakanaWithSpace": "で … きょう の けいかく は ？"
+    },
+    "45": {
+        "character": "海に行きます！",
+        "definition": "We're going to the ocean!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.13.21.mp3",
+        "timestamp": "0:13:21",
+        "characterWithSpace": "海 に 行きます",
+        "katakanaWithSpace": "うみ に いきます ！"
+    },
+    "46": {
+        "character": "それだけ？",
+        "definition": "That's it?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.23.mp3",
+        "timestamp": "0:13:23",
+        "characterWithSpace": "それだけ",
+        "katakanaWithSpace": "それだけ ？"
+    },
+    "47": {
+        "character": "オシャレなレストランで食事したり",
+        "definition": "No dinner at a fancy restaurant,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.25.mp3",
+        "timestamp": "0:13:25",
+        "characterWithSpace": "オシャレ な レストラン で 食事したり",
+        "katakanaWithSpace": "オシャレ な レストラン で しょくじ したり"
+    },
+    "48": {
+        "character": "ムード盛り上げる演出はないの？",
+        "definition": "or interesting plans to enhance the mood?",
+        "speaker": "",
+        "audio": "/audio/07/0.13.28.mp3",
+        "timestamp": "0:13:28",
+        "characterWithSpace": "ムード 盛り上げる 演出 は ない の",
+        "katakanaWithSpace": "ムード もりあげる えんしゅつ は ない の ？"
+    },
+    "49": {
+        "character": "考えてなかったでしょ？",
+        "definition": "You didn't think about that, did you? No. 2, Arrangements: Failed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.33.mp3",
+        "timestamp": "0:13:33",
+        "characterWithSpace": "考えてなかった でしょ",
+        "katakanaWithSpace": "かんがえてなかった でしょ ？"
+    },
+    "50": {
+        "character": "合格までの道のりは 厳しそうだね",
+        "definition": "It looks like the path to passing is very hard.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.13.41.mp3",
+        "timestamp": "0:13:41",
+        "characterWithSpace": "合格 まで の 道のり は 厳しそう だ ね",
+        "katakanaWithSpace": "ごうかく まで の みちのり は  きびしそう だ ね"
+    },
+    "51": {
+        "character": "あとはどんなチェック項目があるの？",
+        "definition": "What else is on that check list? No. 3, Fun Conversation.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.13.44.mp3",
+        "timestamp": "0:13:44",
+        "characterWithSpace": "あと は どんな チェック 項目 が ある の",
+        "katakanaWithSpace": "あと は どんな チェック こうもく が ある の ？"
+    },
+    "52": {
+        "character": "４　おいしい食事",
+        "definition": "No. 4, Delicious Meal. No. 5, Romantic Mood. If you pass all of those, you'll receive a temporary license.",
+        "speaker": "",
+        "audio": "/audio/07/0.13.50.mp3",
+        "timestamp": "0:13:50",
+        "characterWithSpace": "おいしい 食事",
+        "katakanaWithSpace": "４ おいしい しょくじ"
+    },
+    "53": {
+        "character": "で　ラブラブでドライブした最後に 愛の告白",
+        "definition": "And after your love love drive, you confess your love.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.13.58.mp3",
+        "timestamp": "0:13:58",
+        "characterWithSpace": "で ラブラブ で ドライブした 最後 に 愛 の 告白",
+        "katakanaWithSpace": "で  ラブラブ で ドライブ した さいご に  あい の こくはく"
+    },
+    "54": {
+        "character": "そうすれば ラブラブ免許を獲得できるよ",
+        "definition": "If you can do that, you'll receive a love love license.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.03.mp3",
+        "timestamp": "0:14:03",
+        "characterWithSpace": "そうすれば ラブラブ 免許 を 獲得できる よ",
+        "katakanaWithSpace": "そうすれば  ラブラブ めんきょ を かくとく できる よ"
+    },
+    "55": {
+        "character": "えっ　ラブラブ免許？",
+        "definition": "Love love license?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.07.mp3",
+        "timestamp": "0:14:07",
+        "characterWithSpace": "え っ ラブラブ 免許",
+        "katakanaWithSpace": "え っ  ラブラブ めんきょ ？"
+    },
+    "56": {
+        "character": "すでに２つ不合格だね",
+        "definition": "You've already failed two, though.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.14.16.mp3",
+        "timestamp": "0:14:16",
+        "characterWithSpace": "すでに ２つ 不合格 だ ね",
+        "katakanaWithSpace": "すでに ふたつ ふごうかく だ ね"
+    },
+    "57": {
+        "character": "じゃあ　やり直してみよう",
+        "definition": "Well then, let's start over.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.21.mp3",
+        "timestamp": "0:14:21",
+        "characterWithSpace": "じゃあ やり直して みよう",
+        "katakanaWithSpace": "じゃあ  やりなおして みよう"
+    },
+    "58": {
+        "character": "はい",
+        "definition": "Okay.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.23.mp3",
+        "timestamp": "0:14:23",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "59": {
+        "character": "おはよう　待った？",
+        "definition": "Good morning. Were you waiting long?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.25.mp3",
+        "timestamp": "0:14:25",
+        "characterWithSpace": "おはよう 待った",
+        "katakanaWithSpace": "おはよう  まった ？"
+    },
+    "60": {
+        "character": "おはよう",
+        "definition": "Good morning.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.28.mp3",
+        "timestamp": "0:14:28",
+        "characterWithSpace": "おはよう",
+        "katakanaWithSpace": "おはよう"
+    },
+    "61": {
+        "character": "僕も　今　来たところだよ",
+        "definition": "I just got here, too.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.30.mp3",
+        "timestamp": "0:14:30",
+        "characterWithSpace": "僕 も 今 来た ところ だ よ",
+        "katakanaWithSpace": "ぼく も  いま  きた ところ だ よ"
+    },
+    "62": {
+        "character": "いいね　合格",
+        "definition": "Very nice. You passed. So what are we doing? First we'll go to a delicious restaurant, then to the ocean,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.33.mp3",
+        "timestamp": "0:14:33",
+        "characterWithSpace": "いいね 合格",
+        "katakanaWithSpace": "いいね  ごうかく"
+    },
+    "63": {
+        "character": "ムードを盛り上げて 告白します　教官",
+        "definition": "then I'll enhance the mood, and then I'll confess my love, Instructor! A bit awkward, but I guess you pass.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.42.mp3",
+        "timestamp": "0:14:42",
+        "characterWithSpace": "ムード を 盛り上げて 告白します 教官",
+        "katakanaWithSpace": "ムード を もりあげて  こくはく します  きょうかん"
+    },
+    "64": {
+        "character": "じゃあ　いこうか",
+        "definition": "Let's go, then. I feel tired.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.48.mp3",
+        "timestamp": "0:14:48",
+        "characterWithSpace": "じゃあ いこう か",
+        "katakanaWithSpace": "じゃあ  いこう か"
+    },
+    "65": {
+        "character": "シロクマくん　運転して",
+        "definition": "Can you drive, Polar Bear?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.14.53.mp3",
+        "timestamp": "0:14:53",
+        "characterWithSpace": "シロクマ くん 運転して",
+        "katakanaWithSpace": "シロクマ くん  うんてん して"
+    },
+    "66": {
+        "character": "ダメでしょ　それ",
+        "definition": "That's a no.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.14.55.mp3",
+        "timestamp": "0:14:55",
+        "characterWithSpace": "ダメ でしょ それ",
+        "katakanaWithSpace": "ダメ でしょ  それ"
+    },
+    "67": {
+        "character": "あ　おやつ忘れた",
+        "definition": "Oh, I forgot my snacks.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.15.09.mp3",
+        "timestamp": "0:15:09",
+        "characterWithSpace": "あ おやつ 忘れた",
+        "katakanaWithSpace": "あ  おやつ わすれた"
+    },
+    "68": {
+        "character": "ペンギンさん持ってない？",
+        "definition": "Do you have any, Mr. Penguin?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.15.12.mp3",
+        "timestamp": "0:15:12",
+        "characterWithSpace": "ペンギン さん 持ってない",
+        "katakanaWithSpace": "ペンギン さん もってない ？"
+    },
+    "69": {
+        "character": "気が散るから　話かけないで",
+        "definition": "Don't talk to me. It's distracting.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.15.15.mp3",
+        "timestamp": "0:15:15",
+        "characterWithSpace": "気が散る から 話 かけないで",
+        "katakanaWithSpace": "きがちる から  はなし かけないで"
+    },
+    "70": {
+        "character": "そういえばさぁ　この間ね…",
+        "definition": "Oh yeah, the other day... I just told you not to talk to me.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.15.21.mp3",
+        "timestamp": "0:15:21",
+        "characterWithSpace": "そういえば さぁ この間 ね",
+        "katakanaWithSpace": "そういえば さぁ  このあいだ ね …"
+    },
+    "71": {
+        "character": "３　楽しい会話　不合格",
+        "definition": "No. 3, Fun Conversation: Failed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.26.mp3",
+        "timestamp": "0:15:26",
+        "characterWithSpace": "楽しい 会話 不合格",
+        "katakanaWithSpace": "３ たのしい かいわ  ふごうかく"
+    },
+    "72": {
+        "character": "もっと盛り上げないと",
+        "definition": "You have to enhance the mood more.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.31.mp3",
+        "timestamp": "0:15:31",
+        "characterWithSpace": "もっと 盛り上げない と",
+        "katakanaWithSpace": "もっと もりあげない と"
+    },
+    "73": {
+        "character": "だって　男３人でドライブじゃ 盛り上がらないよ",
+        "definition": "But it's hard to enhance the mood when it's three guys.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.15.33.mp3",
+        "timestamp": "0:15:33",
+        "characterWithSpace": "だって 男 ３人 で ドライブ じゃ 盛り上がらない よ",
+        "katakanaWithSpace": "だって  おとこ さんにん で ドライブ じゃ  もりあがらない よ"
+    },
+    "74": {
+        "character": "予行演習したいって言ったの ペンギンさんでしょ",
+        "definition": "You're the one that said you wanted to do a practice run.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.39.mp3",
+        "timestamp": "0:15:39",
+        "characterWithSpace": "予行演習したい って 言った の ペンギン さん でしょ",
+        "katakanaWithSpace": "よこうえんしゅう したい って いった の  ペンギン さん でしょ"
+    },
+    "75": {
+        "character": "そうだけどさ",
+        "definition": "I know, but...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.15.43.mp3",
+        "timestamp": "0:15:43",
+        "characterWithSpace": "そう だけど さ",
+        "katakanaWithSpace": "そう だけど さ"
+    },
+    "76": {
+        "character": "仕方ないな",
+        "definition": "Looks like you've left me no choice.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.45.mp3",
+        "timestamp": "0:15:45",
+        "characterWithSpace": "仕方ない な",
+        "katakanaWithSpace": "しかたない な"
+    },
+    "77": {
+        "character": "うわ～　ステキな景色ね",
+        "definition": "Wow, what beautiful scenery.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.53.mp3",
+        "timestamp": "0:15:53",
+        "characterWithSpace": "うわ ステキ な 景色 ね",
+        "katakanaWithSpace": "うわ ～ ステキ な けしき ね"
+    },
+    "78": {
+        "character": "何やってるの？",
+        "definition": "What are you doing?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.15.57.mp3",
+        "timestamp": "0:15:57",
+        "characterWithSpace": "何 やってる の",
+        "katakanaWithSpace": "なに やってる の ？"
+    },
+    "79": {
+        "character": "僕がペン子さんのふりしてあげるから",
+        "definition": "I'll pretend to be Miss Penko. So you're a girl from now on, Polar Bear?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.15.58.mp3",
+        "timestamp": "0:15:58",
+        "characterWithSpace": "僕 が ペン 子 さん の ふり して あげる から",
+        "katakanaWithSpace": "ぼく が ペン こ さん の ふり して あげる から"
+    },
+    "80": {
+        "character": "私　日焼け止め持ってくるの忘れちゃった",
+        "definition": "I forgot my sunblock.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.06.mp3",
+        "timestamp": "0:16:06",
+        "characterWithSpace": "私 日焼け止め 持ってくる の 忘れちゃった",
+        "katakanaWithSpace": "わたし  ひやけどめ もってくる の わすれちゃった"
+    },
+    "81": {
+        "character": "ちょっと　それじゃダメ",
+        "definition": "Hey, that's not going to work. What should I say?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.14.mp3",
+        "timestamp": "0:16:14",
+        "characterWithSpace": "ちょっと それじゃ ダメ",
+        "katakanaWithSpace": "ちょっと  それじゃ ダメ"
+    },
+    "82": {
+        "character": "とにかく褒めて　私を褒めて",
+        "definition": "First you need to compliment me. Just compliment me.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.20.mp3",
+        "timestamp": "0:16:20",
+        "characterWithSpace": "とにかく 褒めて 私 を 褒めて",
+        "katakanaWithSpace": "とにかく ほめて  わたし を ほめて"
+    },
+    "83": {
+        "character": "う　うん",
+        "definition": "O-Okay.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.16.23.mp3",
+        "timestamp": "0:16:23",
+        "characterWithSpace": "う うん",
+        "katakanaWithSpace": "う  うん"
+    },
+    "84": {
+        "character": "シ　シロクマちゃんて 色白できれいだね",
+        "definition": "Y-You're so fair-skinned and pretty, Miss Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.16.25.mp3",
+        "timestamp": "0:16:25",
+        "characterWithSpace": "シ シロクマ ちゃん て 色白 で きれい だ ね",
+        "katakanaWithSpace": "シ  シロクマ ちゃん て  いろじろ で きれい だ ね"
+    },
+    "85": {
+        "character": "やだ　ペンギンさんたら",
+        "definition": "Oh, stop, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.29.mp3",
+        "timestamp": "0:16:29",
+        "characterWithSpace": "や だ ペンギン さん たら",
+        "katakanaWithSpace": "や だ  ペンギン さん たら"
+    },
+    "86": {
+        "character": "あら　ごめんなさい",
+        "definition": "Oh, I'm sorry.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.35.mp3",
+        "timestamp": "0:16:35",
+        "characterWithSpace": "あら ごめんなさい",
+        "katakanaWithSpace": "あら  ごめんなさい"
+    },
+    "87": {
+        "character": "私　最近　太っちゃって",
+        "definition": "I seem to have gained a little bit of weight lately.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.41.mp3",
+        "timestamp": "0:16:41",
+        "characterWithSpace": "私 最近 太っちゃって",
+        "katakanaWithSpace": "わたし  さいきん  ふとっちゃって"
+    },
+    "88": {
+        "character": "へぇ～",
+        "definition": "I see.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.16.45.mp3",
+        "timestamp": "0:16:45",
+        "characterWithSpace": "へぇ",
+        "katakanaWithSpace": "へぇ ～"
+    },
+    "89": {
+        "character": "へぇ～？",
+        "definition": "You see?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.16.47.mp3",
+        "timestamp": "0:16:47",
+        "characterWithSpace": "へぇ",
+        "katakanaWithSpace": "へぇ ～？"
+    },
+    "90": {
+        "character": "シ　シロクマちゃんみたいにポッチャリしてる 女の子のほうが　かわいいよ",
+        "definition": "Chubby girls like you are much cuter, Miss Polar Bear. Really?! Miss Polar Bear, your nails! Your nails!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.16.52.mp3",
+        "timestamp": "0:16:52",
+        "characterWithSpace": "シ シロクマ ちゃん みたい に ポッチャリ してる 女の子 の ほう が かわいい よ",
+        "katakanaWithSpace": "シ  シロクマ ちゃん みたい に ポッチャリ してる  おんなのこ の ほう が  かわいい よ"
+    },
+    "91": {
+        "character": "あら　ごめんなさい",
+        "definition": "Oh dear. I'm sorry, did my nails hurt?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.04.mp3",
+        "timestamp": "0:17:04",
+        "characterWithSpace": "あら ごめんなさい",
+        "katakanaWithSpace": "あら  ごめんなさい"
+    },
+    "92": {
+        "character": "痛いよ！",
+        "definition": "Of course it hurt!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.17.10.mp3",
+        "timestamp": "0:17:10",
+        "characterWithSpace": "痛い よ",
+        "katakanaWithSpace": "いたい よ ！"
+    },
+    "93": {
+        "character": "シロクマちゃんの爪　頑丈でステキ",
+        "definition": "Your nails are so sturdy, they're truly fantastic.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.17.14.mp3",
+        "timestamp": "0:17:14",
+        "characterWithSpace": "シロクマ ちゃん の 爪 頑丈 で ステキ",
+        "katakanaWithSpace": "シロクマ ちゃん の つめ  がんじょう で ステキ"
+    },
+    "94": {
+        "character": "ホント？",
+        "definition": "Really?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.19.mp3",
+        "timestamp": "0:17:19",
+        "characterWithSpace": "ホント",
+        "katakanaWithSpace": "ホント ？"
+    },
+    "95": {
+        "character": "ホント　ホント",
+        "definition": "Really. Really.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.17.20.mp3",
+        "timestamp": "0:17:20",
+        "characterWithSpace": "ホント ホント",
+        "katakanaWithSpace": "ホント  ホント"
+    },
+    "96": {
+        "character": "３　楽しい会話　合格",
+        "definition": "No. 3, Fun Conversation: Passed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.22.mp3",
+        "timestamp": "0:17:22",
+        "characterWithSpace": "楽しい 会話 合格",
+        "katakanaWithSpace": "３ たのしい かいわ  ごうかく"
+    },
+    "97": {
+        "character": "よかったね　ペンギンさん",
+        "definition": "Good for you, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.17.26.mp3",
+        "timestamp": "0:17:26",
+        "characterWithSpace": "よかった ね ペンギン さん",
+        "katakanaWithSpace": "よかった ね  ペンギン さん"
+    },
+    "98": {
+        "character": "お昼は　どうする？",
+        "definition": "What should we do for lunch?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.30.mp3",
+        "timestamp": "0:17:30",
+        "characterWithSpace": "お昼 は どう する",
+        "katakanaWithSpace": "おひる は  どう する ？"
+    },
+    "99": {
+        "character": "笹食べたい！",
+        "definition": "I want bamboo grass! Somewhere that Miss Penko would like.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.17.32.mp3",
+        "timestamp": "0:17:32",
+        "characterWithSpace": "笹 食べたい",
+        "katakanaWithSpace": "ささ たべたい ！"
+    },
+    "100": {
+        "character": "笹がない",
+        "definition": "There's no bamboo grass.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.17.44.mp3",
+        "timestamp": "0:17:44",
+        "characterWithSpace": "笹 が ない",
+        "katakanaWithSpace": "ささ が ない"
+    },
+    "101": {
+        "character": "全然　レストランじゃないわね",
+        "definition": "This isn't much of a restaurant.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.46.mp3",
+        "timestamp": "0:17:46",
+        "characterWithSpace": "全然 レストラン じゃない わね",
+        "katakanaWithSpace": "ぜんぜん  レストラン じゃない わね"
+    },
+    "102": {
+        "character": "本番ではステキなシーフードレストランに行くから",
+        "definition": "When it's the real thing, we'll be going to a fancy seafood restaurant!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.17.50.mp3",
+        "timestamp": "0:17:50",
+        "characterWithSpace": "本番 では ステキ な シーフード レストラン に 行く から",
+        "katakanaWithSpace": "ほんばん で は ステキ な シーフード レストラン に いく から"
+    },
+    "103": {
+        "character": "すみません　サーモンください",
+        "definition": "Excuse me. I'd like some salmon.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.17.54.mp3",
+        "timestamp": "0:17:54",
+        "characterWithSpace": "すみません サーモン ください",
+        "katakanaWithSpace": "すみません  サーモン ください"
+    },
+    "104": {
+        "character": "売り切れです",
+        "definition": "Sorry, we're out.",
+        "speaker": "GUY",
+        "audio": "/audio/07/0.17.58.mp3",
+        "timestamp": "0:17:58",
+        "characterWithSpace": "売り切れ です",
+        "katakanaWithSpace": "うりきれ です"
+    },
+    "105": {
+        "character": "シロクマくんが　食べきっちゃったよ　ここのサーモン",
+        "definition": "You ate all of the salmon in the place, Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.02.mp3",
+        "timestamp": "0:18:02",
+        "characterWithSpace": "シロクマ くん が 食べ きっちゃった よ ここ の サーモン",
+        "katakanaWithSpace": "シロクマ くん が  たべ きっちゃった よ  ここ の サーモン"
+    },
+    "106": {
+        "character": "じゃあ　いきましょうか",
+        "definition": "Well then, let's go.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.06.mp3",
+        "timestamp": "0:18:06",
+        "characterWithSpace": "じゃあ いきましょう か",
+        "katakanaWithSpace": "じゃあ  いきましょう か"
+    },
+    "107": {
+        "character": "もちろん　ペンギンさんのおごりね",
+        "definition": "Of course, you're paying, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.09.mp3",
+        "timestamp": "0:18:09",
+        "characterWithSpace": "もちろん ペンギン さん の おごり ね",
+        "katakanaWithSpace": "もちろん  ペンギン さん の おごり ね"
+    },
+    "108": {
+        "character": "えっ？",
+        "definition": "What?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.12.mp3",
+        "timestamp": "0:18:12",
+        "characterWithSpace": "え っ",
+        "katakanaWithSpace": "え っ ？"
+    },
+    "109": {
+        "character": "えっ？",
+        "definition": "You were going to make a girl pay on the date?",
+        "speaker": "",
+        "audio": "/audio/07/0.18.12.mp3",
+        "timestamp": "0:18:12",
+        "characterWithSpace": "え っ",
+        "katakanaWithSpace": "え っ ？"
+    },
+    "110": {
+        "character": "信じらんな～い",
+        "definition": "That's unbelievable.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.18.mp3",
+        "timestamp": "0:18:18",
+        "characterWithSpace": "信じ らん な い",
+        "katakanaWithSpace": "しんじ らん な ～ い"
+    },
+    "111": {
+        "character": "わかったよ…",
+        "definition": "All right, fine.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.20.mp3",
+        "timestamp": "0:18:20",
+        "characterWithSpace": "わかった よ",
+        "katakanaWithSpace": "わかった よ …"
+    },
+    "112": {
+        "character": "４　おいしい食事も合格だね",
+        "definition": "No. 4, Delicious Meal: I passed that, right? Conveyor belt sushi feels strange for a date.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.22.mp3",
+        "timestamp": "0:18:22",
+        "characterWithSpace": "おいしい 食事 も 合格 だ ね",
+        "katakanaWithSpace": "４ おいしい しょくじ も ごうかく だ ね"
+    },
+    "113": {
+        "character": "あれだけ食べといて！？",
+        "definition": "After you ate all that?!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.30.mp3",
+        "timestamp": "0:18:30",
+        "characterWithSpace": "あれだけ 食べといて",
+        "katakanaWithSpace": "あれだけ たべといて ！？"
+    },
+    "114": {
+        "character": "じゃ　合格でいいよ　合格で…",
+        "definition": "All right, we'll say you passed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.33.mp3",
+        "timestamp": "0:18:33",
+        "characterWithSpace": "じゃ 合格 でいい よ 合格 で",
+        "katakanaWithSpace": "じゃ  ごうかく で いい よ  ごうかく で …"
+    },
+    "115": {
+        "character": "会話…　ないんだけど",
+        "definition": "There's no... conversation.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.42.mp3",
+        "timestamp": "0:18:42",
+        "characterWithSpace": "会話 ない ん だけど",
+        "katakanaWithSpace": "かいわ … ない ん だけど"
+    },
+    "116": {
+        "character": "そこは　もう合格したから",
+        "definition": "I already passed that section.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.45.mp3",
+        "timestamp": "0:18:45",
+        "characterWithSpace": "そこ は もう 合格した から",
+        "katakanaWithSpace": "そこ は  もう ごうかく した から"
+    },
+    "117": {
+        "character": "ここからが本番だよ",
+        "definition": "This is where it's important.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.48.mp3",
+        "timestamp": "0:18:48",
+        "characterWithSpace": "ここから が 本番 だ よ",
+        "katakanaWithSpace": "ここから が ほんばん だ よ"
+    },
+    "118": {
+        "character": "ムード　盛り上げないと",
+        "definition": "You have to enhance the mood.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.51.mp3",
+        "timestamp": "0:18:51",
+        "characterWithSpace": "ムード 盛り上げない と",
+        "katakanaWithSpace": "ムード  もりあげない と"
+    },
+    "119": {
+        "character": "どうやって？",
+        "definition": "How?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.53.mp3",
+        "timestamp": "0:18:53",
+        "characterWithSpace": "どうやって",
+        "katakanaWithSpace": "どうやって ？"
+    },
+    "120": {
+        "character": "会話が途切れたら　ＢＧМとか",
+        "definition": "When the conversation is paused, you need something like background music.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.18.54.mp3",
+        "timestamp": "0:18:54",
+        "characterWithSpace": "会話 が 途切れたら とか",
+        "katakanaWithSpace": "かいわ が とぎれたら ＢＧМ とか"
+    },
+    "121": {
+        "character": "ＣＤ　持ってきてないよ",
+        "definition": "I didn't bring any CDs.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.18.58.mp3",
+        "timestamp": "0:18:58",
+        "characterWithSpace": "持ってきてない よ",
+        "katakanaWithSpace": "ＣＤ もってきてない よ"
+    },
+    "122": {
+        "character": "じゃあ　僕　歌うよ",
+        "definition": "Then I'll sing.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.00.mp3",
+        "timestamp": "0:19:00",
+        "characterWithSpace": "じゃあ 僕 歌う よ",
+        "katakanaWithSpace": "じゃあ  ぼく  うたう よ"
+    },
+    "123": {
+        "character": "「ねむれ　ねむれ」",
+        "definition": "Sleep, sleep, in your mother's embrace.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.02.mp3",
+        "timestamp": "0:19:02",
+        "characterWithSpace": "ねむれ ねむれ",
+        "katakanaWithSpace": "「 ねむれ  ねむれ 」"
+    },
+    "124": {
+        "character": "「ねむれ　ねむれ」",
+        "definition": "Sleep, slee—",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.11.mp3",
+        "timestamp": "0:19:11",
+        "characterWithSpace": "ねむれ ねむれ",
+        "katakanaWithSpace": "「 ねむれ  ねむれ 」"
+    },
+    "125": {
+        "character": "ペンギンさん！　眠っちゃ　ダメ！！",
+        "definition": "You're not supposed to fall asleep, Mr. Penguin!",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.16.mp3",
+        "timestamp": "0:19:16",
+        "characterWithSpace": "ペンギン さん 眠っちゃ ダメ",
+        "katakanaWithSpace": "ペンギン さん ！ ねむっちゃ  ダメ ！！"
+    },
+    "126": {
+        "character": "なんで　子守唄　歌うの！？",
+        "definition": "Why would you sing a lullaby?!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.19.21.mp3",
+        "timestamp": "0:19:21",
+        "characterWithSpace": "なんで 子守唄 歌う の",
+        "katakanaWithSpace": "なんで  こもりうた  うたう の ！？"
+    },
+    "127": {
+        "character": "これじゃ　合格点　あげられないね",
+        "definition": "I can't give you a passing grade at this rate.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.19.23.mp3",
+        "timestamp": "0:19:23",
+        "characterWithSpace": "これ じゃ 合格点 あげられない ね",
+        "katakanaWithSpace": "これ じゃ  ごうかくてん  あげられない ね"
+    },
+    "128": {
+        "character": "じゃあ　不合格？",
+        "definition": "So he fails?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.28.mp3",
+        "timestamp": "0:19:28",
+        "characterWithSpace": "じゃあ 不合格",
+        "katakanaWithSpace": "じゃあ  ふごうかく ？"
+    },
+    "129": {
+        "character": "海　見たら　絶対　盛り上がるから！",
+        "definition": "The ocean will enhance the mood! Especially for penguins!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.19.30.mp3",
+        "timestamp": "0:19:30",
+        "characterWithSpace": "海 見たら 絶対 盛り上がる から",
+        "katakanaWithSpace": "うみ  みたら  ぜったい  もりあがる から ！"
+    },
+    "130": {
+        "character": "海だ",
+        "definition": "It's the ocean!",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.37.mp3",
+        "timestamp": "0:19:37",
+        "characterWithSpace": "海 だ",
+        "katakanaWithSpace": "うみ だ"
+    },
+    "131": {
+        "character": "遠いけどね",
+        "definition": "It's a bit far, though.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.41.mp3",
+        "timestamp": "0:19:41",
+        "characterWithSpace": "遠い けど ね",
+        "katakanaWithSpace": "とおい けど ね"
+    },
+    "132": {
+        "character": "道　間違えた…",
+        "definition": "I went the wrong way.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.19.43.mp3",
+        "timestamp": "0:19:43",
+        "characterWithSpace": "道 間違えた",
+        "katakanaWithSpace": "みち  まちがえた …"
+    },
+    "133": {
+        "character": "あっ…　ペンギンさん",
+        "definition": "Hey, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.47.mp3",
+        "timestamp": "0:19:47",
+        "characterWithSpace": "あっ ペンギン さん",
+        "katakanaWithSpace": "あっ … ペンギン さん"
+    },
+    "134": {
+        "character": "１００円　１００円",
+        "definition": "One hundred yen! One hundred yen!",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.50.mp3",
+        "timestamp": "0:19:50",
+        "characterWithSpace": "１００円 １００円",
+        "katakanaWithSpace": "ひゃくえん  ひゃくえん"
+    },
+    "135": {
+        "character": "もう見なくていいから…",
+        "definition": "You don't need to look at it anymore.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.19.52.mp3",
+        "timestamp": "0:19:52",
+        "characterWithSpace": "もう 見なくていい から",
+        "katakanaWithSpace": "もう みなくて いい から …"
+    },
+    "136": {
+        "character": "もう… 道　間違えるなんて　最低",
+        "definition": "Seriously. How could you have gone the wrong way?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.19.55.mp3",
+        "timestamp": "0:19:55",
+        "characterWithSpace": "もう 道 間違える なんて 最低",
+        "katakanaWithSpace": "もう … みち  まちがえる なんて  さいてい"
+    },
+    "137": {
+        "character": "ペン子さん　怒って帰っちゃうよ？",
+        "definition": "Miss Penko will get mad and go home.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.19.59.mp3",
+        "timestamp": "0:19:59",
+        "characterWithSpace": "ペン 子 さん 怒って 帰っちゃう よ",
+        "katakanaWithSpace": "ペン こ さん  おこって かえっちゃう よ ？"
+    },
+    "138": {
+        "character": "大丈夫…　これは　予行演習",
+        "definition": "It'll be okay, this is just a practice run.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.03.mp3",
+        "timestamp": "0:20:03",
+        "characterWithSpace": "大丈夫 これ は 予行演習",
+        "katakanaWithSpace": "だいじょうぶ … これ は  よこうえんしゅう"
+    },
+    "139": {
+        "character": "今から行くと　ちょうど 海に夕日が沈む頃だから…",
+        "definition": "If we go now, the sun will be setting across the ocean.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.06.mp3",
+        "timestamp": "0:20:06",
+        "characterWithSpace": "今から 行く と ちょうど 海 に 夕日 が 沈む 頃 だから",
+        "katakanaWithSpace": "いまから いく と  ちょうど  うみ に ゆうひ が しずむ ころ だ から …"
+    },
+    "140": {
+        "character": "絶対　ロマンチックだよ！！",
+        "definition": "It'll be romantic, no matter what! It's the ocean! But... We missed the sunset.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.10.mp3",
+        "timestamp": "0:20:10",
+        "characterWithSpace": "絶対 ロマンチック だ よ",
+        "katakanaWithSpace": "ぜったい  ロマンチック だ よ ！！"
+    },
+    "141": {
+        "character": "５　ロマンチックなムードは　不合格と…",
+        "definition": "No. 5, Romantic Mood: Failed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.20.26.mp3",
+        "timestamp": "0:20:26",
+        "characterWithSpace": "ロマンチック な ムード は 不合格 と",
+        "katakanaWithSpace": "５ ロマンチック な ムード は  ふごうかく と …"
+    },
+    "142": {
+        "character": "や…　夜景も　きれいじゃない？",
+        "definition": "I-Isn't the night scenery pretty, too?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.30.mp3",
+        "timestamp": "0:20:30",
+        "characterWithSpace": "や 夜景 も きれい じゃない",
+        "katakanaWithSpace": "や … やけい も  きれい じゃない ？"
+    },
+    "143": {
+        "character": "ほらほら　ムードが盛り上がってるよ！",
+        "definition": "See? The mood is getting better!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.34.mp3",
+        "timestamp": "0:20:34",
+        "characterWithSpace": "ほらほら ムード が 盛り上がってる よ",
+        "katakanaWithSpace": "ほらほら  ムード が もりあがってる よ ！"
+    },
+    "144": {
+        "character": "じゃあ　いってみる？　告白",
+        "definition": "Then do you want to move on to the confession?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.20.38.mp3",
+        "timestamp": "0:20:38",
+        "characterWithSpace": "じゃあ いって みる 告白",
+        "katakanaWithSpace": "じゃあ  いって みる ？ こくはく"
+    },
+    "145": {
+        "character": "いってみようよ",
+        "definition": "Go for it.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.20.44.mp3",
+        "timestamp": "0:20:44",
+        "characterWithSpace": "いって みよう よ",
+        "katakanaWithSpace": "いって みよう よ"
+    },
+    "146": {
+        "character": "さあ　ペンギンさん",
+        "definition": "Now, Mr. Penguin.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.20.47.mp3",
+        "timestamp": "0:20:47",
+        "characterWithSpace": "さあ ペンギン さん",
+        "katakanaWithSpace": "さあ  ペンギン さん"
+    },
+    "147": {
+        "character": "私への思いのたけを　熱く語って",
+        "definition": "Tell me how you really feel about me, passionately.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.20.50.mp3",
+        "timestamp": "0:20:50",
+        "characterWithSpace": "私 へ の 思いのたけ を 熱く 語って",
+        "katakanaWithSpace": "わたし へ の おもいのたけ を  あつく かたって"
+    },
+    "148": {
+        "character": "ペ…　ペン子さん…",
+        "definition": "M-Miss Penko...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.54.mp3",
+        "timestamp": "0:20:54",
+        "characterWithSpace": "ペ ペン 子 さん",
+        "katakanaWithSpace": "ペ … ペン こ さん …"
+    },
+    "149": {
+        "character": "ずっと…　好きでした",
+        "definition": "I've always loved you.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.20.58.mp3",
+        "timestamp": "0:20:58",
+        "characterWithSpace": "ずっと 好き でした",
+        "katakanaWithSpace": "ずっと … すき でした"
+    },
+    "150": {
+        "character": "僕と…",
+        "definition": "Would you...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.21.00.mp3",
+        "timestamp": "0:21:00",
+        "characterWithSpace": "僕 と",
+        "katakanaWithSpace": "ぼく と …"
+    },
+    "151": {
+        "character": "僕と…",
+        "definition": "Would you... go out with me?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.21.02.mp3",
+        "timestamp": "0:21:02",
+        "characterWithSpace": "僕 と",
+        "katakanaWithSpace": "ぼく と …"
+    },
+    "152": {
+        "character": "はい",
+        "definition": "Yes.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.21.11.mp3",
+        "timestamp": "0:21:11",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "153": {
+        "character": "痛い！！",
+        "definition": "Ow!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.21.19.mp3",
+        "timestamp": "0:21:19",
+        "characterWithSpace": "痛い",
+        "katakanaWithSpace": "いたい ！！"
+    },
+    "154": {
+        "character": "やったね！",
+        "definition": "You did it!",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.21.21.mp3",
+        "timestamp": "0:21:21",
+        "characterWithSpace": "やった ね",
+        "katakanaWithSpace": "やった ね ！"
+    },
+    "155": {
+        "character": "いや…　練習とわかっていても ドキドキするよね",
+        "definition": "Even though it's practice, that was nerve-wracking.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.21.22.mp3",
+        "timestamp": "0:21:22",
+        "characterWithSpace": "いや 練習 と わかっていても ドキドキする よね",
+        "katakanaWithSpace": "いや … れんしゅう と わかっていても  ドキドキ する よね"
+    },
+    "156": {
+        "character": "じゃあ… まあ　合格ってことで",
+        "definition": "Well, let's say you passed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.21.26.mp3",
+        "timestamp": "0:21:26",
+        "characterWithSpace": "じゃあ まあ 合格 って こと で",
+        "katakanaWithSpace": "じゃあ … まあ  ごうかく って こと で"
+    },
+    "157": {
+        "character": "はい　ラブラブ免許",
+        "definition": "Here, your love love license. Yay!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.21.31.mp3",
+        "timestamp": "0:21:31",
+        "characterWithSpace": "はい ラブラブ 免許",
+        "katakanaWithSpace": "はい  ラブラブ めんきょ"
+    },
+    "158": {
+        "character": "よかったね",
+        "definition": "Congratulations! Oh, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.21.35.mp3",
+        "timestamp": "0:21:35",
+        "characterWithSpace": "よかった ね",
+        "katakanaWithSpace": "よかった ね"
+    },
+    "159": {
+        "character": "デート　どうだった？",
+        "definition": "How was your date?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.22.02.mp3",
+        "timestamp": "0:22:02",
+        "characterWithSpace": "デート どう だった",
+        "katakanaWithSpace": "デート  どう だった ？"
+    },
+    "160": {
+        "character": "はい　食べて",
+        "definition": "Here you go. Enjoy.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.22.04.mp3",
+        "timestamp": "0:22:04",
+        "characterWithSpace": "はい 食べて",
+        "katakanaWithSpace": "はい  たべて"
+    },
+    "161": {
+        "character": "ありがとうございます",
+        "definition": "Thank you very much.",
+        "speaker": "SASAKO",
+        "audio": "/audio/07/0.22.06.mp3",
+        "timestamp": "0:22:06",
+        "characterWithSpace": "ありがとうございます",
+        "katakanaWithSpace": "ありがとうございます"
+    },
+    "162": {
+        "character": "それで　デートは？",
+        "definition": "So, how was your date?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.22.08.mp3",
+        "timestamp": "0:22:08",
+        "characterWithSpace": "それで デート は",
+        "katakanaWithSpace": "それで  デート は ？"
+    },
+    "163": {
+        "character": "行ってないよ",
+        "definition": "We didn't go.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.22.10.mp3",
+        "timestamp": "0:22:10",
+        "characterWithSpace": "行ってない よ",
+        "katakanaWithSpace": "おこなってない/いってない よ"
+    },
+    "164": {
+        "character": "いや　ほら…　まだ夏じゃないし 海へドライブには早いよ",
+        "definition": "Well, it's not summer yet. It's not the right season for a drive to the ocean.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.22.13.mp3",
+        "timestamp": "0:22:13",
+        "characterWithSpace": "いや ほら まだ 夏 じゃない し 海 へ ドライブ には 早い よ",
+        "katakanaWithSpace": "いや  ほら … まだ なつ じゃない し  うみ へ ドライブ には はやい よ"
+    },
+    "165": {
+        "character": "ダメじゃん…",
+        "definition": "That's no good.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.22.22.mp3",
+        "timestamp": "0:22:22",
+        "characterWithSpace": "ダメ じゃん",
+        "katakanaWithSpace": "ダメ じゃん …"
+    },
+    "166": {
+        "character": "ペンギンさん　ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.23.58.mp3",
+        "timestamp": "0:23:58",
+        "characterWithSpace": "ペンギン さん ペンギン さん",
+        "katakanaWithSpace": "ペンギン さん  ペンギン さん"
+    },
+    "167": {
+        "character": "何？　パンダ君",
+        "definition": "What, Panda?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.24.00.mp3",
+        "timestamp": "0:24:00",
+        "characterWithSpace": "何 パンダ 君",
+        "katakanaWithSpace": "なに/なん ？ パンダ きみ/くん"
+    },
+    "168": {
+        "character": "どうしたら　黙っていてもアイドルたちから告白されるかな",
+        "definition": "How can I get idols to confess their love  without me having to work?",
+        "speaker": "PANDA",
+        "audio": "/audio/07/0.24.02.mp3",
+        "timestamp": "0:24:02",
+        "characterWithSpace": "どうしたら 黙っていても アイドル たち から 告白される かな",
+        "katakanaWithSpace": "どうしたら  だまっていても アイドル たち から こくはく される かな"
+    },
+    "169": {
+        "character": "図々しいなぁ",
+        "definition": "Well, that's really impudent. Let's finish it, Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.24.08.mp3",
+        "timestamp": "0:24:08",
+        "characterWithSpace": "図々しい なぁ",
+        "katakanaWithSpace": "ずうずうしい なぁ"
+    },
+    "170": {
+        "character": "次回　しろくまカフェ",
+        "definition": "Next time on Polar Bear's Café...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.24.12.mp3",
+        "timestamp": "0:24:12",
+        "characterWithSpace": "次回 しろくま カフェ",
+        "katakanaWithSpace": "じかい  しろくま カフェ"
+    },
+    "171": {
+        "character": "ＶＳ　カンブリヤ宮殿",
+        "definition": "versus Cambrian Palace....",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/07/0.24.16.mp3",
+        "timestamp": "0:24:16",
+        "characterWithSpace": "カン ブリ ヤ 宮殿",
+        "katakanaWithSpace": "ＶＳ カン ブリ ヤ きゅうでん"
+    },
+    "172": {
+        "character": "しろくまカフェだけでいいでしょう",
+        "definition": "How about just Polar Bear's Café?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/07/0.24.18.mp3",
+        "timestamp": "0:24:18",
+        "characterWithSpace": "しろくま カフェ だけ で いいでしょう",
+        "katakanaWithSpace": "しろくま カフェ だけ で いいでしょう"
+    },
+    "173": {
+        "character": "お楽しみに",
+        "definition": "Enjoy!",
+        "speaker": "SASAKO",
+        "audio": "/audio/07/0.24.20.mp3",
+        "timestamp": "0:24:20",
+        "characterWithSpace": "お 楽しみ に",
+        "katakanaWithSpace": "お たのしみ に"
+    }
+}

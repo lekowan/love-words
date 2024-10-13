@@ -1,0 +1,1010 @@
+{
+    "1": {
+        "character": "なんで　うまく いかないんだろう…",
+        "definition": "I wonder why it's not going well.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.01.39.mp3",
+        "timestamp": "0:01:39",
+        "characterWithSpace": "なんで うまく いかない ん だろう",
+        "katakanaWithSpace": "なんで  うまく  いかない ん だろう …"
+    },
+    "2": {
+        "character": "えっ？　なに？",
+        "definition": "Huh? What? Oh, that. Parallel parking?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.01.42.mp3",
+        "timestamp": "0:01:42",
+        "characterWithSpace": "え っ なに",
+        "katakanaWithSpace": "え っ ？ なに ？"
+    },
+    "3": {
+        "character": "違うよ！",
+        "definition": "No!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.01.49.mp3",
+        "timestamp": "0:01:49",
+        "characterWithSpace": "違う よ",
+        "katakanaWithSpace": "ちがう よ ！"
+    },
+    "4": {
+        "character": "じゃあ　できるようになったの？",
+        "definition": "So you're able to do it now?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.01.51.mp3",
+        "timestamp": "0:01:51",
+        "characterWithSpace": "じゃあ できる ようになった の",
+        "katakanaWithSpace": "じゃあ  できる ようになった の ？"
+    },
+    "5": {
+        "character": "まだ　ちゃんと　できてないけど… 違うってば！",
+        "definition": "No, not quite yet... But that's not it!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.01.54.mp3",
+        "timestamp": "0:01:54",
+        "characterWithSpace": "まだ ちゃんと できてない けど 違う ってば",
+        "katakanaWithSpace": "まだ  ちゃんと  できてない けど … ちがう ってば ！"
+    },
+    "6": {
+        "character": "僕が言いたいのは　デートだよ デートのお誘いだよ",
+        "definition": "I'm talking about my date. I don't know how to ask someone out.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.01.58.mp3",
+        "timestamp": "0:01:58",
+        "characterWithSpace": "僕 が 言いたい の は デート だ よ デート の お 誘い だ よ",
+        "katakanaWithSpace": "ぼく が いいたい の は  デート だ よ  デート の お さそい だ よ"
+    },
+    "7": {
+        "character": "会って言えば いいんじゃないの？",
+        "definition": "Why don't you just meet up with her and ask?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.02.04.mp3",
+        "timestamp": "0:02:04",
+        "characterWithSpace": "会って 言えば いい ん じゃない の",
+        "katakanaWithSpace": "あって いえば  いい ん じゃない の ？"
+    },
+    "8": {
+        "character": "それができないから 困ってるんだよ",
+        "definition": "That's the problem!I can't bring myself to do it.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.02.06.mp3",
+        "timestamp": "0:02:06",
+        "characterWithSpace": "それ が できない から 困ってる ん だ よ",
+        "katakanaWithSpace": "それ が できない から  こまってる ん だ よ"
+    },
+    "9": {
+        "character": "なんで？",
+        "definition": "Why?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.02.09.mp3",
+        "timestamp": "0:02:09",
+        "characterWithSpace": "なんで",
+        "katakanaWithSpace": "なんで ？"
+    },
+    "10": {
+        "character": "もう　いい… パンダくんに 相談するんじゃなかった",
+        "definition": "Never mind. It was a mistake to ask you, Panda.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.02.13.mp3",
+        "timestamp": "0:02:13",
+        "characterWithSpace": "もう いい パンダ くん に 相談する ん じゃなかった",
+        "katakanaWithSpace": "もう  いい … パンダ くん に  そうだん する ん じゃなかった"
+    },
+    "11": {
+        "character": "シロクマさん！",
+        "definition": "Mr. Polar Bear! Sorry! We're a little late!",
+        "speaker": "LADY",
+        "audio": "/audio/08/0.02.18.mp3",
+        "timestamp": "0:02:18",
+        "characterWithSpace": "シロクマ さん",
+        "katakanaWithSpace": "シロクマ さん ！"
+    },
+    "12": {
+        "character": "どなたですか？",
+        "definition": "Who might you be?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.02.25.mp3",
+        "timestamp": "0:02:25",
+        "characterWithSpace": "どなた です か",
+        "katakanaWithSpace": "どなた です か ？"
+    },
+    "13": {
+        "character": "取材の人ですよ",
+        "definition": "They're here for the piece.",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.02.27.mp3",
+        "timestamp": "0:02:27",
+        "characterWithSpace": "取材 の 人 です よ",
+        "katakanaWithSpace": "しゅざい の ひと です よ"
+    },
+    "14": {
+        "character": "取材？",
+        "definition": "Piece?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.02.29.mp3",
+        "timestamp": "0:02:29",
+        "characterWithSpace": "取材",
+        "katakanaWithSpace": "しゅざい ？"
+    },
+    "15": {
+        "character": "昨日　言ったじゃないですか",
+        "definition": "We talked about it yesterday.",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.02.30.mp3",
+        "timestamp": "0:02:30",
+        "characterWithSpace": "昨日 言った じゃないです か",
+        "katakanaWithSpace": "きのう  いった じゃないです か"
+    },
+    "16": {
+        "character": "うん　知ってる",
+        "definition": "Yes, I know.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.02.32.mp3",
+        "timestamp": "0:02:32",
+        "characterWithSpace": "うん 知ってる",
+        "katakanaWithSpace": "うん  しってる"
+    },
+    "17": {
+        "character": "『月刊　フラフラウォーカー』のライター 大崎と申します",
+        "definition": "Hi, I'm a writer for \"Furafura Walker Monthly.\" My name is Ohsaki.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.02.38.mp3",
+        "timestamp": "0:02:38",
+        "characterWithSpace": "月刊 フラフラ ウォーカー の ライター 大崎 と 申します",
+        "katakanaWithSpace": "『 げっかん  フラフラ ウォーカー 』 の ライター  おおさき と もうします"
+    },
+    "18": {
+        "character": "よろしくね",
+        "definition": "Nice to meet you.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.02.42.mp3",
+        "timestamp": "0:02:42",
+        "characterWithSpace": "よろしく ね",
+        "katakanaWithSpace": "よろしく ね"
+    },
+    "19": {
+        "character": "何か？",
+        "definition": "Is something wrong?",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.02.45.mp3",
+        "timestamp": "0:02:45",
+        "characterWithSpace": "何か",
+        "katakanaWithSpace": "なにか ？"
+    },
+    "20": {
+        "character": "あの…　編集長が 先に来ているはずなんですが",
+        "definition": "Um, well, our editor-in-chief should be here already. Editor-in-chief? I don't believe he's here yet.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.02.46.mp3",
+        "timestamp": "0:02:46",
+        "characterWithSpace": "あの 編集長 が 先に 来ている はず なんです が",
+        "katakanaWithSpace": "あの … へんしゅうちょう が  さきに きている はず なんです が"
+    },
+    "21": {
+        "character": "そうですか… どうしたんだろう？",
+        "definition": "I see. I wonder what happened.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.02.56.mp3",
+        "timestamp": "0:02:56",
+        "characterWithSpace": "そう です か どうしたん だろう",
+        "katakanaWithSpace": "そう です か … どうしたん だろう ？"
+    },
+    "22": {
+        "character": "実は こちらの　しろくまカフエを絶対　取り上げよう って言ったのは",
+        "definition": "Actually, the person who wanted to cover this place was our editor-in-chief. He's got a knack for finding",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.03.00.mp3",
+        "timestamp": "0:03:00",
+        "characterWithSpace": "実は こちら の しろくま カフエ を 絶対 取り上げよう って 言った の は",
+        "katakanaWithSpace": "じつは  こちら の  しろくま カフエ を ぜったい  とりあげよう  って いった の は"
+    },
+    "23": {
+        "character": "オープンカフェを見つける勘がとても鋭くて",
+        "definition": "hole-in-the-wall cafés and unique open cafés.",
+        "speaker": "",
+        "audio": "/audio/08/0.03.09.mp3",
+        "timestamp": "0:03:09",
+        "characterWithSpace": "オープンカフェ を 見つける 勘 が とても 鋭くて",
+        "katakanaWithSpace": "オープンカフェ を みつける かん が とても するどくて"
+    },
+    "24": {
+        "character": "うちの雑誌は　編集長のセンスに 支えられているようなものです",
+        "definition": "Our magazine pretty much runs on his intuition.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.03.13.mp3",
+        "timestamp": "0:03:13",
+        "characterWithSpace": "うち の 雑誌 は 編集長 の センス に 支えられている ような も のです",
+        "katakanaWithSpace": "うち の ざっし は  へんしゅうちょう の センス に  ささえられている ような も のです"
+    },
+    "25": {
+        "character": "聞いた？",
+        "definition": "Did you hear? It's a piece for a magazine. Piece?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.03.18.mp3",
+        "timestamp": "0:03:18",
+        "characterWithSpace": "聞いた",
+        "katakanaWithSpace": "きいた ？"
+    },
+    "26": {
+        "character": "いろいろ　インタビューしたり 写真撮ったりするんじゃない？",
+        "definition": "They're probably going to do a few interviews and take a lot of pictures.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.03.23.mp3",
+        "timestamp": "0:03:23",
+        "characterWithSpace": "いろいろ インタビューしたり 写真 撮ったり する ん じゃない",
+        "katakanaWithSpace": "いろいろ  インタビュー したり  しゃしん とったり する ん じゃない ？"
+    },
+    "27": {
+        "character": "インタビュー？ 写真？",
+        "definition": "Interviews? Pictures?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.03.28.mp3",
+        "timestamp": "0:03:28",
+        "characterWithSpace": "インタビュー 写真",
+        "katakanaWithSpace": "インタビュー ？ しゃしん ？"
+    },
+    "28": {
+        "character": "ファンレターとか届いたりして",
+        "definition": "I wonder if I'll get fan mail.",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.03.36.mp3",
+        "timestamp": "0:03:36",
+        "characterWithSpace": "ファンレター とか 届いたり して",
+        "katakanaWithSpace": "ファンレター とか とどいたり して"
+    },
+    "29": {
+        "character": "パンダくんの取材じゃないよ",
+        "definition": "The piece isn't about you, Panda. If they interview customers, our pictures will be in the magazine. That's not okay!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.03.40.mp3",
+        "timestamp": "0:03:40",
+        "characterWithSpace": "パンダ くん の 取材 じゃない よ",
+        "katakanaWithSpace": "パンダ くん の しゅざい じゃない よ"
+    },
+    "30": {
+        "character": "僕写真写り自信ないんだよ　ああ…",
+        "definition": "I'm not photogenic at all!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.03.49.mp3",
+        "timestamp": "0:03:49",
+        "characterWithSpace": "僕 写真写り 自信 ない ん だ よ ああ",
+        "katakanaWithSpace": "ぼく しゃしんうつり じしん ない ん だ よ  ああ …"
+    },
+    "31": {
+        "character": "じゃあ　とりあえず 取材を 始めさせていただきますね",
+        "definition": "Well then, let's begin our interview.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.03.53.mp3",
+        "timestamp": "0:03:53",
+        "characterWithSpace": "じゃあ とりあえず 取材 を 始めさせていただきます ね",
+        "katakanaWithSpace": "じゃあ  とりあえず  しゅざい を  はじめさせて いただきます ね"
+    },
+    "32": {
+        "character": "まずはシロクマさんに",
+        "definition": "First, we'd like to know how it all began. How it all began {\\i1}(ikisatsu){\\i0}...",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.03.58.mp3",
+        "timestamp": "0:03:58",
+        "characterWithSpace": "まず は シロクマ さん に",
+        "katakanaWithSpace": "まず は シロクマ さん に"
+    },
+    "33": {
+        "character": "それは　力作",
+        "definition": "That would be an artistic masterpiece {\\i1}(rikisaku){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.04.11.mp3",
+        "timestamp": "0:04:11",
+        "characterWithSpace": "それは 力作",
+        "katakanaWithSpace": "それは  りきさく"
+    },
+    "34": {
+        "character": "それは　印刷",
+        "definition": "That would be printing{\\i1} (insatsu){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.04.14.mp3",
+        "timestamp": "0:04:14",
+        "characterWithSpace": "それは 印刷",
+        "katakanaWithSpace": "それは  いんさつ"
+    },
+    "35": {
+        "character": "それは　警察",
+        "definition": "That would be a police officer{\\i1} (keisatsu){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.04.17.mp3",
+        "timestamp": "0:04:17",
+        "characterWithSpace": "それは 警察",
+        "katakanaWithSpace": "それは  けいさつ"
+    },
+    "36": {
+        "character": "それは　改札",
+        "definition": "That would be ticket punching{\\i1} (kaisatsu){\\i0}.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.04.19.mp3",
+        "timestamp": "0:04:19",
+        "characterWithSpace": "それは 改札",
+        "katakanaWithSpace": "それは  かいさつ"
+    },
+    "37": {
+        "character": "あ…　えっと…　そのダジャレは…",
+        "definition": "U-Um... those puns... That would be a greeting{\\i1} (aisatsu){\\i0}!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.21.mp3",
+        "timestamp": "0:04:21",
+        "characterWithSpace": "あ えっと その ダジャレ は",
+        "katakanaWithSpace": "あ … えっと … その ダジャレ は …"
+    },
+    "38": {
+        "character": "かぶせてきましたね編集長",
+        "definition": "Way to step right in, Mr. Editor!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.29.mp3",
+        "timestamp": "0:04:29",
+        "characterWithSpace": "かぶせてきました ね 編集長",
+        "katakanaWithSpace": "かぶせてきました ね へんしゅうちょう"
+    },
+    "39": {
+        "character": "マスターはダジャレが得意なナイスガイ…　と",
+        "definition": "The owner is a pun-loving, nice guy.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.33.mp3",
+        "timestamp": "0:04:33",
+        "characterWithSpace": "マスター は ダジャレ が 得意 な ナイスガイ と",
+        "katakanaWithSpace": "マスター は ダジャレ が とくい な ナイスガイ … と"
+    },
+    "40": {
+        "character": "編集長？",
+        "definition": "Mr. Editor?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.04.37.mp3",
+        "timestamp": "0:04:37",
+        "characterWithSpace": "編集長",
+        "katakanaWithSpace": "へんしゅうちょう ？"
+    },
+    "41": {
+        "character": "はい　うちの編集長 ハシビロコウさんです",
+        "definition": "Yes, he's our editor-in-chief, Mr. Shoebill. Right? Your lead was amazing this time!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.39.mp3",
+        "timestamp": "0:04:39",
+        "characterWithSpace": "はい うち の 編集長 ハシビロコウ さん です",
+        "katakanaWithSpace": "はい  うち の へんしゅうちょう  ハシビロコウ さん です"
+    },
+    "42": {
+        "character": "編集長が　本当に ここは　すばらしいカフェだと",
+        "definition": "He says that this café is absolutely amazing.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.50.mp3",
+        "timestamp": "0:04:50",
+        "characterWithSpace": "編集長 が 本当に ここ は すばらしい カフェ だ と",
+        "katakanaWithSpace": "へんしゅうちょう が  ほんとうに  ここ は  すばらしい カフェ だ と"
+    },
+    "43": {
+        "character": "あっ　そう",
+        "definition": "I see.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.04.54.mp3",
+        "timestamp": "0:04:54",
+        "characterWithSpace": "あっ そう",
+        "katakanaWithSpace": "あっ  そう"
+    },
+    "44": {
+        "character": "それでは　改めまして",
+        "definition": "So, once again, why did you decide to open this café? I guess she's going to ask him after all.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.04.56.mp3",
+        "timestamp": "0:04:56",
+        "characterWithSpace": "それでは 改めまして",
+        "katakanaWithSpace": "それでは  あらためまして"
+    },
+    "45": {
+        "character": "なんで？",
+        "definition": "Why?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.05.05.mp3",
+        "timestamp": "0:05:05",
+        "characterWithSpace": "なんで",
+        "katakanaWithSpace": "なんで ？"
+    },
+    "46": {
+        "character": "話せば長くなるんだけど",
+        "definition": "It's a rather long story,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.05.07.mp3",
+        "timestamp": "0:05:07",
+        "characterWithSpace": "話せば 長くなる ん だけど",
+        "katakanaWithSpace": "はなせば ながくなる ん だけど"
+    },
+    "47": {
+        "character": "僕はカナダのハドソン湾で生まれたの",
+        "definition": "but I was born near the Hudson Bay in Canada. I was the youngest of triplets, and the smallest.",
+        "speaker": "",
+        "audio": "/audio/08/0.05.09.mp3",
+        "timestamp": "0:05:09",
+        "characterWithSpace": "僕 は カナダ の ハドソン 湾 で 生まれた の",
+        "katakanaWithSpace": "ぼく は カナダ の ハドソン わん で うまれた の"
+    },
+    "48": {
+        "character": "お母さんが食べ物を探して歩くと",
+        "definition": "Whenever my mom would go look for food,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.05.25.mp3",
+        "timestamp": "0:05:25",
+        "characterWithSpace": "お母さん が 食べ物 を 探して 歩く と",
+        "katakanaWithSpace": "おかあさん が たべもの を さがして あるく と"
+    },
+    "49": {
+        "character": "いつも僕だけ遅れてしまった",
+        "definition": "I would always fall behind.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.05.28.mp3",
+        "timestamp": "0:05:28",
+        "characterWithSpace": "いつも 僕 だけ 遅れてしまった",
+        "katakanaWithSpace": "いつも ぼく だけ おくれてしまった"
+    },
+    "50": {
+        "character": "そして　ある吹雪の日",
+        "definition": "Then, one day, during a snowstorm, I was completely separated from my family.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.05.35.mp3",
+        "timestamp": "0:05:35",
+        "characterWithSpace": "そして ある 吹雪 の 日",
+        "katakanaWithSpace": "そして  ある ふぶき の ひ/にち"
+    },
+    "51": {
+        "character": "吹雪がやむと…",
+        "definition": "After the storm passed,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.05.58.mp3",
+        "timestamp": "0:05:58",
+        "characterWithSpace": "吹雪 が やむ と",
+        "katakanaWithSpace": "ふぶき が やむ と …"
+    },
+    "52": {
+        "character": "お母さんたちの姿はどこにもなかった",
+        "definition": "I couldn't see my mom or siblings anywhere.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.05.mp3",
+        "timestamp": "0:06:05",
+        "characterWithSpace": "お母さん たち の 姿 は どこにもなかった",
+        "katakanaWithSpace": "おかあさん たち の すがた は どこにもなかった"
+    },
+    "53": {
+        "character": "一生懸命呼んだけど 応えはない",
+        "definition": "I called out for them, but there was no answer.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.11.mp3",
+        "timestamp": "0:06:11",
+        "characterWithSpace": "一生懸命 呼んだ けど 応え は ない",
+        "katakanaWithSpace": "いっしょうけんめい よんだ けど  こたえ は ない"
+    },
+    "54": {
+        "character": "そのうち気づいた",
+        "definition": "And then, I noticed... the piece of ice I was on was floating away.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.16.mp3",
+        "timestamp": "0:06:16",
+        "characterWithSpace": "そのうち 気づいた",
+        "katakanaWithSpace": "そのうち きづいた"
+    },
+    "55": {
+        "character": "僕はひとりぼっちで海の上を漂流していった",
+        "definition": "I was all alone and drifting out to sea.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.25.mp3",
+        "timestamp": "0:06:25",
+        "characterWithSpace": "僕 は ひとりぼっち で 海 の 上 を 漂流していった",
+        "katakanaWithSpace": "ぼく は ひとりぼっち で うみ の うえ/じょう/かみ を ひょうりゅう していった"
+    },
+    "56": {
+        "character": "何日も　何日も…",
+        "definition": "For days... and days...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.32.mp3",
+        "timestamp": "0:06:32",
+        "characterWithSpace": "何日も 何日も",
+        "katakanaWithSpace": "なんにちも  なんにちも …"
+    },
+    "57": {
+        "character": "そ…　それで どうなったの？",
+        "definition": "W-What happened after that? When I'd gotten so hungry that I couldn't even move,",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.06.38.mp3",
+        "timestamp": "0:06:38",
+        "characterWithSpace": "そ それで どう なった の",
+        "katakanaWithSpace": "そ … それで  どう なった の ？"
+    },
+    "58": {
+        "character": "僕は通りがかった猟師の人に助けられたんだ",
+        "definition": "I was rescued by a passing fisherman.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.06.50.mp3",
+        "timestamp": "0:06:50",
+        "characterWithSpace": "僕 は 通り が かった 猟師 の 人 に 助けられた ん だ",
+        "katakanaWithSpace": "ぼく は どおり/とおり が かった りょうし の ひと に たすけられた ん だ"
+    },
+    "59": {
+        "character": "それから　僕は助けてくれた人の両親に預けられた",
+        "definition": "After that, he left me in his parents' care.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.01.mp3",
+        "timestamp": "0:07:01",
+        "characterWithSpace": "それから 僕 は 助けてくれた 人 の 両親 に 預けられた",
+        "katakanaWithSpace": "それから  ぼく は たすけて くれた ひと の りょうしん に あずけられた"
+    },
+    "60": {
+        "character": "そこは小さな食堂をやっていて",
+        "definition": "They ran a little restaurant",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.07.mp3",
+        "timestamp": "0:07:07",
+        "characterWithSpace": "そこ は 小さな 食堂 を やっていて",
+        "katakanaWithSpace": "そこ は ちいさな しょくどう を やっていて"
+    },
+    "61": {
+        "character": "店を手伝ううちに",
+        "definition": "and as I helped them out,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.11.mp3",
+        "timestamp": "0:07:11",
+        "characterWithSpace": "店 を 手伝う うち に",
+        "katakanaWithSpace": "てん/みせ を てつだう うち に"
+    },
+    "62": {
+        "character": "僕は料理が好きになった",
+        "definition": "I began to enjoy cooking.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.13.mp3",
+        "timestamp": "0:07:13",
+        "characterWithSpace": "僕 は 料理 が 好きになった",
+        "katakanaWithSpace": "ぼく は りょうり が すきになった"
+    },
+    "63": {
+        "character": "でも　そんな生活も長くは続かなかったよ",
+        "definition": "But that life didn't last long, either.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.17.mp3",
+        "timestamp": "0:07:17",
+        "characterWithSpace": "でも そんな 生活 も 長く は 続かなかった よ",
+        "katakanaWithSpace": "でも  そんな せいかつ も ながく は つづかなかった よ"
+    },
+    "64": {
+        "character": "僕は　大きくなりすぎて",
+        "definition": "I became so big that I couldn't stay at their house anymore.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.25.mp3",
+        "timestamp": "0:07:25",
+        "characterWithSpace": "僕 は 大きくなり すぎて",
+        "katakanaWithSpace": "ぼく は  おおきくなり すぎて"
+    },
+    "65": {
+        "character": "それで家を出て",
+        "definition": "So I left the house,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.34.mp3",
+        "timestamp": "0:07:34",
+        "characterWithSpace": "それで 家 を 出て",
+        "katakanaWithSpace": "それで いえ/うち を でて"
+    },
+    "66": {
+        "character": "カフェを始めた",
+        "definition": "and opened this café.",
+        "speaker": "",
+        "audio": "/audio/08/0.07.36.mp3",
+        "timestamp": "0:07:36",
+        "characterWithSpace": "カフェ を 始めた",
+        "katakanaWithSpace": "カフェ を はじめた"
+    },
+    "67": {
+        "character": "お店をやっていたら いつか話が伝わって",
+        "definition": "I thought if I started a café, word would eventually get around,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.39.mp3",
+        "timestamp": "0:07:39",
+        "characterWithSpace": "お店 を やっていたら いつか 話 が 伝わって",
+        "katakanaWithSpace": "おみせ を やっていたら  いつか はなし が つたわって"
+    },
+    "68": {
+        "character": "お母さんたちに会えるかもしれないから",
+        "definition": "and I might be able to see my family again. Huh? What?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.07.44.mp3",
+        "timestamp": "0:07:44",
+        "characterWithSpace": "お母さん たち に 会える かもしれない から",
+        "katakanaWithSpace": "おかあさん たち に あえる かもしれない から"
+    },
+    "69": {
+        "character": "わかります 編集長",
+        "definition": "I know, Mr. Editor!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.07.55.mp3",
+        "timestamp": "0:07:55",
+        "characterWithSpace": "わかります 編集長",
+        "katakanaWithSpace": "わかります  へんしゅうちょう"
+    },
+    "70": {
+        "character": "シロクマさんの大変さを思うと…",
+        "definition": "Just thinking about Mr. Polar Bear's suffering...",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.07.57.mp3",
+        "timestamp": "0:07:57",
+        "characterWithSpace": "シロクマ さん の 大変さ を 思う と",
+        "katakanaWithSpace": "シロクマ さん の たいへんさ を おもう と …"
+    },
+    "71": {
+        "character": "シロクマくん",
+        "definition": "Polar Bear...",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.08.03.mp3",
+        "timestamp": "0:08:03",
+        "characterWithSpace": "シロクマ くん",
+        "katakanaWithSpace": "シロクマ くん"
+    },
+    "72": {
+        "character": "大変だったんだね",
+        "definition": "You've had it so hard!",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.08.07.mp3",
+        "timestamp": "0:08:07",
+        "characterWithSpace": "大変 だった ん だ ね",
+        "katakanaWithSpace": "たいへん だった ん だ ね"
+    },
+    "73": {
+        "character": "お母さんたちには まだ会えないの？",
+        "definition": "Have you seen your family yet?",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.08.12.mp3",
+        "timestamp": "0:08:12",
+        "characterWithSpace": "お母さん たち には まだ 会えない の",
+        "katakanaWithSpace": "おかあさん たち には  まだ あえない の ？"
+    },
+    "74": {
+        "character": "うん　今のところ",
+        "definition": "No, not yet.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.08.15.mp3",
+        "timestamp": "0:08:15",
+        "characterWithSpace": "うん 今のところ",
+        "katakanaWithSpace": "うん  いまのところ"
+    },
+    "75": {
+        "character": "あれ？　私この前は建設会社を脱サラして",
+        "definition": "Huh? I thought you told me the other day that you quit your job at the construction company to open up the café. There's that version, too.",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.08.19.mp3",
+        "timestamp": "0:08:19",
+        "characterWithSpace": "あれ 私 この前 は 建設会社 を 脱サラして",
+        "katakanaWithSpace": "あれ ？ わたし このまえ は けんせつがいしゃ を だつサラ して"
+    },
+    "76": {
+        "character": "作り話ですか",
+        "definition": "You made that up?",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.08.38.mp3",
+        "timestamp": "0:08:38",
+        "characterWithSpace": "作り話 です か",
+        "katakanaWithSpace": "つくりばなし です か"
+    },
+    "77": {
+        "character": "だから言ったのに",
+        "definition": "I warned you.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.08.40.mp3",
+        "timestamp": "0:08:40",
+        "characterWithSpace": "だから 言った のに",
+        "katakanaWithSpace": "だ·から いった のに"
+    },
+    "78": {
+        "character": "ははぁ　真相は お好みってことですね",
+        "definition": "Oh, so we can use whichever version we like.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.08.42.mp3",
+        "timestamp": "0:08:42",
+        "characterWithSpace": "は はぁ 真相 は お好み って こと です ね",
+        "katakanaWithSpace": "は はぁ  しんそう は  おこのみ って こと です ね"
+    },
+    "79": {
+        "character": "さすがナイスガイ",
+        "definition": "Nothing less from the nice guy.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.08.46.mp3",
+        "timestamp": "0:08:46",
+        "characterWithSpace": "さすが ナイスガイ",
+        "katakanaWithSpace": "さすが ナイスガイ"
+    },
+    "80": {
+        "character": "じゃあ　次の質問ですが…",
+        "definition": "The next question...",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.08.48.mp3",
+        "timestamp": "0:08:48",
+        "characterWithSpace": "じゃあ 次 の 質問 ですが",
+        "katakanaWithSpace": "じゃあ  つぎ の しつもん ですが …"
+    },
+    "81": {
+        "character": "どうしました！？　編集長！",
+        "definition": "What's wrong, Mr. Editor? Oh, those flowers. Who did these fabulous arrangements?",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.08.56.mp3",
+        "timestamp": "0:08:56",
+        "characterWithSpace": "どう しました 編集長",
+        "katakanaWithSpace": "どう しました ！？ へんしゅうちょう ！"
+    },
+    "82": {
+        "character": "近くの花屋さんに お願いしてるんです",
+        "definition": "A local flower shop does it for us.",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.09.13.mp3",
+        "timestamp": "0:09:13",
+        "characterWithSpace": "近く の 花屋 さん に お願いしてる ん です",
+        "katakanaWithSpace": "ちかく の はなや さん に  おねがい してる ん です"
+    },
+    "83": {
+        "character": "編集長？",
+        "definition": "Mr. Editor?",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.19.mp3",
+        "timestamp": "0:09:19",
+        "characterWithSpace": "編集長",
+        "katakanaWithSpace": "へんしゅうちょう ？"
+    },
+    "84": {
+        "character": "編集長！",
+        "definition": "Mr. Editor!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.22.mp3",
+        "timestamp": "0:09:22",
+        "characterWithSpace": "編集長",
+        "katakanaWithSpace": "へんしゅうちょう ！"
+    },
+    "85": {
+        "character": "編集長！",
+        "definition": "Mr. Editor!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.25.mp3",
+        "timestamp": "0:09:25",
+        "characterWithSpace": "編集長",
+        "katakanaWithSpace": "へんしゅうちょう ！"
+    },
+    "86": {
+        "character": "編集…",
+        "definition": "Mr. Edit―",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.29.mp3",
+        "timestamp": "0:09:29",
+        "characterWithSpace": "編集",
+        "katakanaWithSpace": "へんしゅう …"
+    },
+    "87": {
+        "character": "これは！",
+        "definition": "This is...",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.35.mp3",
+        "timestamp": "0:09:35",
+        "characterWithSpace": "これ は",
+        "katakanaWithSpace": "これ は ！"
+    },
+    "88": {
+        "character": "自家菜園です",
+        "definition": "It's our very own vegetable garden. We grow the vegetables and herbs that we use in the café.",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.09.38.mp3",
+        "timestamp": "0:09:38",
+        "characterWithSpace": "自家 菜園 です",
+        "katakanaWithSpace": "じか さいえん です"
+    },
+    "89": {
+        "character": "さすが編集長！ どんなことも見逃しませんね",
+        "definition": "You're amazing, Mr. Editor! You don't miss a thing.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.43.mp3",
+        "timestamp": "0:09:43",
+        "characterWithSpace": "さすが 編集長 どんな こと も 見逃しません ね",
+        "katakanaWithSpace": "さすが へんしゅうちょう ！ どんな こと も みのがしません ね"
+    },
+    "90": {
+        "character": "こだわりの食材",
+        "definition": "Hand-picked ingredients,",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.49.mp3",
+        "timestamp": "0:09:49",
+        "characterWithSpace": "こだわり の 食材",
+        "katakanaWithSpace": "こだわり の しょくざい"
+    },
+    "91": {
+        "character": "景色も良好",
+        "definition": "beautiful scenery, ample seating,",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.51.mp3",
+        "timestamp": "0:09:51",
+        "characterWithSpace": "景色 も 良好",
+        "katakanaWithSpace": "けしき も りょうこう"
+    },
+    "92": {
+        "character": "洗練された外観",
+        "definition": "a polished exterior...",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.57.mp3",
+        "timestamp": "0:09:57",
+        "characterWithSpace": "洗練された 外観",
+        "katakanaWithSpace": "せんれん·された がいかん"
+    },
+    "93": {
+        "character": "そんなステキなしろくまカフェさんなんですが",
+        "definition": "You have such an amazing place.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.09.59.mp3",
+        "timestamp": "0:09:59",
+        "characterWithSpace": "そんな ステキ な しろくま カフェ さん なんです が",
+        "katakanaWithSpace": "そんな ステキ な しろくま カフェ さん なんです が"
+    },
+    "94": {
+        "character": "オススメがあれば ぜひ紹介していただけますか？",
+        "definition": "Would you be willing to share any recommendations you have?",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.10.02.mp3",
+        "timestamp": "0:10:02",
+        "characterWithSpace": "オススメ が あれば ぜひ 紹介していただけます か",
+        "katakanaWithSpace": "オススメ が あれば  ぜひ しょうかい して いただけます か ？"
+    },
+    "95": {
+        "character": "笹大盛りがオススメだよ！",
+        "definition": "I recommend the large serving of bamboo grass!",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.10.06.mp3",
+        "timestamp": "0:10:06",
+        "characterWithSpace": "笹 大盛り が オススメ だ よ",
+        "katakanaWithSpace": "ささ おおもり が オススメ だ よ ！"
+    },
+    "96": {
+        "character": "それ　料理じゃなくて素材だよね",
+        "definition": "That's more like raw ingredients than food.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.10.09.mp3",
+        "timestamp": "0:10:09",
+        "characterWithSpace": "それ 料理 じゃなくて 素材 だよね",
+        "katakanaWithSpace": "それ  りょうり じゃなくて そざい だよね"
+    },
+    "97": {
+        "character": "あぁ　家の隣にあってすぐ来られるのもオススメ",
+        "definition": "Oh! I also recommend how it's right next to my house and easy to get to.",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.10.11.mp3",
+        "timestamp": "0:10:11",
+        "characterWithSpace": "あぁ 家 の 隣 に あって すぐ 来られる の も オススメ",
+        "katakanaWithSpace": "あぁ  いえ/うち の となり に あって すぐ こられる の も オススメ"
+    },
+    "98": {
+        "character": "パンダくんだけでしょ",
+        "definition": "That's just you, Panda.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.10.16.mp3",
+        "timestamp": "0:10:16",
+        "characterWithSpace": "パンダ くん だけ でしょ",
+        "katakanaWithSpace": "パンダ くん だけ でしょ"
+    },
+    "99": {
+        "character": "素材と立地が抜群　と…",
+        "definition": "The ingredients and location are extraordinary.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.10.18.mp3",
+        "timestamp": "0:10:18",
+        "characterWithSpace": "素材 と 立地 が 抜群 と",
+        "katakanaWithSpace": "そざい と りっち が ばつぐん  と …"
+    },
+    "100": {
+        "character": "その他は？",
+        "definition": "What else? The lunch pasta is popular. The one with anchovies.",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.10.21.mp3",
+        "timestamp": "0:10:21",
+        "characterWithSpace": "その他 は",
+        "katakanaWithSpace": "そのほか は ？"
+    },
+    "101": {
+        "character": "春野菜も　いいよね",
+        "definition": "The one with spring vegetables, too.",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.10.29.mp3",
+        "timestamp": "0:10:29",
+        "characterWithSpace": "春野菜 も いい よね",
+        "katakanaWithSpace": "はるやさい も  いい よね"
+    },
+    "102": {
+        "character": "せっかくだから 食べてもらったら　どうでしょう？",
+        "definition": "Why don't we make it for them since they're here?",
+        "speaker": "SASAKO",
+        "audio": "/audio/08/0.10.32.mp3",
+        "timestamp": "0:10:32",
+        "characterWithSpace": "せっかく だから 食べてもらったら どう でしょう",
+        "katakanaWithSpace": "せっかく だ から  たべて もらったら  どう でしょう ？"
+    },
+    "103": {
+        "character": "どうですか？　編集長",
+        "definition": "What do you think, Mr. Editor?",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.10.51.mp3",
+        "timestamp": "0:10:51",
+        "characterWithSpace": "どう です か 編集長",
+        "katakanaWithSpace": "どう です か ？ へんしゅうちょう"
+    },
+    "104": {
+        "character": "パスタ　嫌いなのかな？",
+        "definition": "Maybe he doesn't like pasta.",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.10.55.mp3",
+        "timestamp": "0:10:55",
+        "characterWithSpace": "パスタ 嫌い な の かな",
+        "katakanaWithSpace": "パスタ  きらい な の かな ？"
+    },
+    "105": {
+        "character": "意外とダイナミックだよね",
+        "definition": "That was quite dynamic.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.11.06.mp3",
+        "timestamp": "0:11:06",
+        "characterWithSpace": "意外 と ダイナミック だよね",
+        "katakanaWithSpace": "いがい と ダイナミック だよね"
+    },
+    "106": {
+        "character": "そうですか！ とっても　おいしいそうです",
+        "definition": "I see! He says it's very delicious!",
+        "speaker": "MAYUMI",
+        "audio": "/audio/08/0.11.12.mp3",
+        "timestamp": "0:11:12",
+        "characterWithSpace": "そう です か とっても おいしい そう です",
+        "katakanaWithSpace": "そう です か ！ とっても  おいしい そう です"
+    },
+    "107": {
+        "character": "あぁ　そう",
+        "definition": "I see.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.11.16.mp3",
+        "timestamp": "0:11:16",
+        "characterWithSpace": "あぁ そう",
+        "katakanaWithSpace": "あぁ  そう"
+    },
+    "108": {
+        "character": "えっ！？ この間の雑誌もう出たの？",
+        "definition": "What? That magazine's already out?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.11.25.mp3",
+        "timestamp": "0:11:25",
+        "characterWithSpace": "え っ この間 の 雑誌 もう 出た の",
+        "katakanaWithSpace": "え っ ！？ このあいだ の ざっし もう でた の ？"
+    },
+    "109": {
+        "character": "うん　サンプルが来てる",
+        "definition": "Yup. I received a sample copy. Let me see, let me see!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.11.29.mp3",
+        "timestamp": "0:11:29",
+        "characterWithSpace": "うん サンプル が 来てる",
+        "katakanaWithSpace": "うん  サンプル が きてる"
+    },
+    "110": {
+        "character": "あっ！　これだね",
+        "definition": "Oh, right here.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/08/0.11.34.mp3",
+        "timestamp": "0:11:34",
+        "characterWithSpace": "あっ これ だ ね",
+        "katakanaWithSpace": "あっ ！ これ だ ね"
+    },
+    "111": {
+        "character": "写ってない…",
+        "definition": "I'm not in it.",
+        "speaker": "PANDA",
+        "audio": "/audio/08/0.11.55.mp3",
+        "timestamp": "0:11:55",
+        "characterWithSpace": "写ってない",
+        "katakanaWithSpace": "うつってない …"
+    },
+    "112": {
+        "character": "写ってる…",
+        "definition": "I'm in it. It appears so. Polar Bear's Café Polar Bear's Café",
+        "speaker": "PENGUIN",
+        "audio": "/audio/08/0.11.57.mp3",
+        "timestamp": "0:11:57",
+        "characterWithSpace": "写ってる",
+        "katakanaWithSpace": "うつってる …"
+    }
+}
