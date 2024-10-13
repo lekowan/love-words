@@ -1,0 +1,1667 @@
+{
+    "1": {
+        "character": "ご注文　お決まりですか？",
+        "definition": "Are you ready to order? A polar bear?!",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.11.27.mp3",
+        "timestamp": "0:11:27",
+        "characterWithSpace": "ご注文 お 決まり です か",
+        "katakanaWithSpace": "ごちゅうもん  お きまり です か ？"
+    },
+    "2": {
+        "character": "そ…　それじゃ 自己紹介から始めましょうか",
+        "definition": "H-How about we start with introductions?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.11.40.mp3",
+        "timestamp": "0:11:40",
+        "characterWithSpace": "そ それじゃ 自己紹介 から 始めましょう か",
+        "katakanaWithSpace": "そ … それじゃ  じこしょうかい から はじめましょう か"
+    },
+    "3": {
+        "character": "僕からいきますね",
+        "definition": "I'll start.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.11.44.mp3",
+        "timestamp": "0:11:44",
+        "characterWithSpace": "僕 から いきます ね",
+        "katakanaWithSpace": "ぼく から いきます ね"
+    },
+    "4": {
+        "character": "桐野です",
+        "definition": "My name is Kirino.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.11.46.mp3",
+        "timestamp": "0:11:46",
+        "characterWithSpace": "桐 野 です",
+        "katakanaWithSpace": "きり の です"
+    },
+    "5": {
+        "character": "動物園の飼育員をやっています",
+        "definition": "I'm a zoo keeper. Nice to meet you.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.11.48.mp3",
+        "timestamp": "0:11:48",
+        "characterWithSpace": "動物園 の 飼育員 を やっています",
+        "katakanaWithSpace": "どうぶつえん の しいくいん を やっています"
+    },
+    "6": {
+        "character": "じゃ　次は先輩",
+        "definition": "Now, your turn.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.11.52.mp3",
+        "timestamp": "0:11:52",
+        "characterWithSpace": "じゃ 次 は 先輩",
+        "katakanaWithSpace": "じゃ  つぎ は せんぱい"
+    },
+    "7": {
+        "character": "は…　は…　半田です！",
+        "definition": "I-I-I'm Handa.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.11.56.mp3",
+        "timestamp": "0:11:56",
+        "characterWithSpace": "は は 半田 です",
+        "katakanaWithSpace": "は … は … はんだ です ！"
+    },
+    "8": {
+        "character": "本日は　このように 晴れがましい合コンに　お…　お招きいただき",
+        "definition": "I-I humbly t-thank you f-for i-inviting me to this f-formal group blind date today.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.11.58.mp3",
+        "timestamp": "0:11:58",
+        "characterWithSpace": "本日 は このように 晴れがましい 合コン に お お 招き いただき",
+        "katakanaWithSpace": "ほんじつ は  このように  はれがましい ごうコン に  お … お まねき いただき"
+    },
+    "9": {
+        "character": "ふつつか者ではありますが",
+        "definition": "I am quite inexperienced in this venture,",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.12.06.mp3",
+        "timestamp": "0:12:06",
+        "characterWithSpace": "ふつつか者 ではあります が",
+        "katakanaWithSpace": "ふつつかもの ではあります が"
+    },
+    "10": {
+        "character": "以後　よろしく お見知りおきください",
+        "definition": "but I'm pleased to make your acquaintance.",
+        "speaker": "",
+        "audio": "/audio/10/0.12.08.mp3",
+        "timestamp": "0:12:08",
+        "characterWithSpace": "以後 よろしく お見知りおき ください",
+        "katakanaWithSpace": "いご  よろしく  おみしりおき ください"
+    },
+    "11": {
+        "character": "先輩　かたい…",
+        "definition": "You're being too stiff.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.12.mp3",
+        "timestamp": "0:12:12",
+        "characterWithSpace": "先輩 かたい",
+        "katakanaWithSpace": "せんぱい  かたい …"
+    },
+    "12": {
+        "character": "そこまで丁寧な 自己紹介じゃなくて大丈夫です",
+        "definition": "Your introduction doesn't have to be that formal.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.15.mp3",
+        "timestamp": "0:12:15",
+        "characterWithSpace": "そこまで 丁寧 な 自己紹介 じゃなくて 大丈夫 です",
+        "katakanaWithSpace": "そこまで ていねい な  じこしょうかい じゃなくて だいじょうぶ です"
+    },
+    "13": {
+        "character": "けど　初対面だから",
+        "definition": "But this is the first time I'm meeting them.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.12.18.mp3",
+        "timestamp": "0:12:18",
+        "characterWithSpace": "けど 初対面 だから",
+        "katakanaWithSpace": "けど  しょたいめん だ から"
+    },
+    "14": {
+        "character": "大丈夫です",
+        "definition": "It's fine.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.20.mp3",
+        "timestamp": "0:12:20",
+        "characterWithSpace": "大丈夫 です",
+        "katakanaWithSpace": "だいじょうぶ です"
+    },
+    "15": {
+        "character": "合コンって　そういう感じのものじゃないんで",
+        "definition": "Group blind dates aren't that formal.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.22.mp3",
+        "timestamp": "0:12:22",
+        "characterWithSpace": "合コン って そういう 感じ の もの じゃない ん で",
+        "katakanaWithSpace": "ごうコン って  そういう かんじ の もの じゃない ん で"
+    },
+    "16": {
+        "character": "続きまして 私と同じ職場に勤める",
+        "definition": "In addition, please allow me to introduce you to Panda,",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.12.28.mp3",
+        "timestamp": "0:12:28",
+        "characterWithSpace": "続きまして 私 と 同じ 職場 に 勤める",
+        "katakanaWithSpace": "つづきまして  わたし と おなじ/どうじ しょくば に つとめる"
+    },
+    "17": {
+        "character": "パンダくんを紹介します！",
+        "definition": "who works with me.",
+        "speaker": "",
+        "audio": "/audio/10/0.12.32.mp3",
+        "timestamp": "0:12:32",
+        "characterWithSpace": "パンダ くん を 紹介します",
+        "katakanaWithSpace": "パンダ くん を しょうかい します ！"
+    },
+    "18": {
+        "character": "だから　かたいって…",
+        "definition": "You're still being too stiff.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.34.mp3",
+        "timestamp": "0:12:34",
+        "characterWithSpace": "だから かたい って",
+        "katakanaWithSpace": "だ·から  かたい って …"
+    },
+    "19": {
+        "character": "すみません パンダ　連れてきちゃって",
+        "definition": "I'm sorry, we brought a panda.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.12.36.mp3",
+        "timestamp": "0:12:36",
+        "characterWithSpace": "すみません パンダ 連れてきちゃって",
+        "katakanaWithSpace": "すみません  パンダ  つれてきちゃって"
+    },
+    "20": {
+        "character": "パンダで～す",
+        "definition": "I'm Panda!",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.12.39.mp3",
+        "timestamp": "0:12:39",
+        "characterWithSpace": "パンダ で す",
+        "katakanaWithSpace": "パンダ で ～ す"
+    },
+    "21": {
+        "character": "かわいい！！",
+        "definition": "So cute! They don't seem to mind Panda being here. And then we have...",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.12.41.mp3",
+        "timestamp": "0:12:41",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！！"
+    },
+    "22": {
+        "character": "シロクマです ふだんは　カフェやってます",
+        "definition": "I'm Polar Bear. I run a café.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.12.49.mp3",
+        "timestamp": "0:12:49",
+        "characterWithSpace": "シロクマ です ふだん は カフェ やってます",
+        "katakanaWithSpace": "シロクマ です  ふだん は  カフェ やってます"
+    },
+    "23": {
+        "character": "すご～い！",
+        "definition": "Wow!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.12.53.mp3",
+        "timestamp": "0:12:53",
+        "characterWithSpace": "す ご い",
+        "katakanaWithSpace": "す ご ～ い ！"
+    },
+    "24": {
+        "character": "カフェですか？",
+        "definition": "You run a café?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.12.54.mp3",
+        "timestamp": "0:12:54",
+        "characterWithSpace": "カフェ です か",
+        "katakanaWithSpace": "カフェ です か ？"
+    },
+    "25": {
+        "character": "行ってみたい！",
+        "definition": "I want to go! What's it called?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.12.55.mp3",
+        "timestamp": "0:12:55",
+        "characterWithSpace": "行って みたい",
+        "katakanaWithSpace": "おこなって/いって みたい ！"
+    },
+    "26": {
+        "character": "しろくまカフェ",
+        "definition": "Polar Bear's Café. So straight to the point.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.12.58.mp3",
+        "timestamp": "0:12:58",
+        "characterWithSpace": "しろくま カフェ",
+        "katakanaWithSpace": "しろくま カフェ"
+    },
+    "27": {
+        "character": "あの　もしかして 雑誌とかに載ってないですか？",
+        "definition": "By any chance, was it featured in any magazines?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.03.mp3",
+        "timestamp": "0:13:03",
+        "characterWithSpace": "あの もしかして 雑誌 とか に 載ってないです か",
+        "katakanaWithSpace": "あの  もしかして  ざっし とか に のってない です か ？"
+    },
+    "28": {
+        "character": "時々",
+        "definition": "Every now and then.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.13.06.mp3",
+        "timestamp": "0:13:06",
+        "characterWithSpace": "時々",
+        "katakanaWithSpace": "ときどき"
+    },
+    "29": {
+        "character": "すごい！　見たことある",
+        "definition": "Wow! I've totally seen it before!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.07.mp3",
+        "timestamp": "0:13:07",
+        "characterWithSpace": "すごい 見た こと ある",
+        "katakanaWithSpace": "すごい ！ みた こと ある"
+    },
+    "30": {
+        "character": "今度　行ってもいいですか？",
+        "definition": "Is it okay if we stop by sometime?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.09.mp3",
+        "timestamp": "0:13:09",
+        "characterWithSpace": "今度 行っても いいです か",
+        "katakanaWithSpace": "こんど  おこなっても/いっても いいです か ？"
+    },
+    "31": {
+        "character": "もちろん",
+        "definition": "Of course.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.13.11.mp3",
+        "timestamp": "0:13:11",
+        "characterWithSpace": "もちろん",
+        "katakanaWithSpace": "もちろん"
+    },
+    "32": {
+        "character": "こっちも大好評だな…",
+        "definition": "He's really popular, too.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.13.12.mp3",
+        "timestamp": "0:13:12",
+        "characterWithSpace": "こっち も 大好評 だ な",
+        "katakanaWithSpace": "こっち も だいこうひょう だ な …"
+    },
+    "33": {
+        "character": "趣味は　アザラシの捕獲",
+        "definition": "My hobbies include capturing seals.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.13.15.mp3",
+        "timestamp": "0:13:15",
+        "characterWithSpace": "趣味 は アザラシ の 捕獲",
+        "katakanaWithSpace": "しゅみ は  アザラシ の ほかく"
+    },
+    "34": {
+        "character": "何ですか？それ",
+        "definition": "What's that?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.18.mp3",
+        "timestamp": "0:13:18",
+        "characterWithSpace": "何 です か それ",
+        "katakanaWithSpace": "なん です か ？ それ"
+    },
+    "35": {
+        "character": "今度連れてってください",
+        "definition": "Can you take us with you next time?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.19.mp3",
+        "timestamp": "0:13:19",
+        "characterWithSpace": "今度 連れてってください",
+        "katakanaWithSpace": "こんど つれてって ください"
+    },
+    "36": {
+        "character": "やめたほうがいいよ…",
+        "definition": "I don't think that's a good idea.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.13.22.mp3",
+        "timestamp": "0:13:22",
+        "characterWithSpace": "やめた ほうがいい よ",
+        "katakanaWithSpace": "やめた ほうがいい よ …"
+    },
+    "37": {
+        "character": "じゃあ　女子 いきますね",
+        "definition": "Now it's our turn.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.13.26.mp3",
+        "timestamp": "0:13:26",
+        "characterWithSpace": "じゃあ 女子 いきます ね",
+        "katakanaWithSpace": "じゃあ  じょし  いきます ね"
+    },
+    "38": {
+        "character": "ヒロミで～す",
+        "definition": "I'm Hiromi!",
+        "speaker": "HIROMI",
+        "audio": "/audio/10/0.13.28.mp3",
+        "timestamp": "0:13:28",
+        "characterWithSpace": "ヒロミ で す",
+        "katakanaWithSpace": "ヒロミ で ～ す"
+    },
+    "39": {
+        "character": "先輩　ヒロミちゃん",
+        "definition": "That's Hiromi.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.13.30.mp3",
+        "timestamp": "0:13:30",
+        "characterWithSpace": "先輩 ヒロミ ちゃん",
+        "katakanaWithSpace": "せんぱい  ヒロミ ちゃん"
+    },
+    "40": {
+        "character": "リカです",
+        "definition": "I'm Rika!",
+        "speaker": "MIKA",
+        "audio": "/audio/10/0.13.31.mp3",
+        "timestamp": "0:13:31",
+        "characterWithSpace": "リカ です",
+        "katakanaWithSpace": "リカ です"
+    },
+    "41": {
+        "character": "リカちゃん",
+        "definition": "That's Rika.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.13.33.mp3",
+        "timestamp": "0:13:33",
+        "characterWithSpace": "リカ ちゃん",
+        "katakanaWithSpace": "リカ ちゃん"
+    },
+    "42": {
+        "character": "ミズキです",
+        "definition": "I'm Mizuki.",
+        "speaker": "MIZUKI",
+        "audio": "/audio/10/0.13.34.mp3",
+        "timestamp": "0:13:34",
+        "characterWithSpace": "ミズキ です",
+        "katakanaWithSpace": "ミズキ です"
+    },
+    "43": {
+        "character": "ミズキちゃん",
+        "definition": "That's Mizuki.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.13.35.mp3",
+        "timestamp": "0:13:35",
+        "characterWithSpace": "ミズキ ちゃん",
+        "katakanaWithSpace": "ミズキ ちゃん"
+    },
+    "44": {
+        "character": "わかってるよ　大丈夫 聞こえるから",
+        "definition": "I know, I can hear them just fine. Go ahead with your order. Let's start off with draft beers.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.13.37.mp3",
+        "timestamp": "0:13:37",
+        "characterWithSpace": "わかってる よ 大丈夫 聞こえる から",
+        "katakanaWithSpace": "わかってる よ  だいじょうぶ  きこえる から"
+    },
+    "45": {
+        "character": "はい",
+        "definition": "Got it.",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.13.45.mp3",
+        "timestamp": "0:13:45",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "46": {
+        "character": "とりあえず　竹",
+        "definition": "Let's start off with bamboo. Bamboo?",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.13.47.mp3",
+        "timestamp": "0:13:47",
+        "characterWithSpace": "とりあえず 竹",
+        "katakanaWithSpace": "とりあえず  たけ"
+    },
+    "47": {
+        "character": "ちょっと 置いてないんですが…",
+        "definition": "I'm sorry, we don't carry that...",
+        "speaker": "",
+        "audio": "/audio/10/0.13.50.mp3",
+        "timestamp": "0:13:50",
+        "characterWithSpace": "ちょっと 置いてない ん ですが",
+        "katakanaWithSpace": "ちょっと  おいてない ん ですが …"
+    },
+    "48": {
+        "character": "え～っ　じゃあ　笹",
+        "definition": "Really? Then how about bamboo grass?",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.13.52.mp3",
+        "timestamp": "0:13:52",
+        "characterWithSpace": "え っ じゃあ 笹",
+        "katakanaWithSpace": "え ～ っ  じゃあ  ささ"
+    },
+    "49": {
+        "character": "笹も　ないんですが…",
+        "definition": "We don't have that either.",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.13.55.mp3",
+        "timestamp": "0:13:55",
+        "characterWithSpace": "笹 も ない ん ですが",
+        "katakanaWithSpace": "ささ も  ない ん ですが …"
+    },
+    "50": {
+        "character": "じゃあ　みんな　どうしてるの？",
+        "definition": "Then what do you usually order?",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.13.58.mp3",
+        "timestamp": "0:13:58",
+        "characterWithSpace": "じゃあ みんな どうしてる の",
+        "katakanaWithSpace": "じゃあ  みんな  どうしてる の ？"
+    },
+    "51": {
+        "character": "ビール　飲んだり…",
+        "definition": "We drink beer...",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.00.mp3",
+        "timestamp": "0:14:00",
+        "characterWithSpace": "ビール 飲んだり",
+        "katakanaWithSpace": "ビール  のんだり …"
+    },
+    "52": {
+        "character": "枝豆　食べたり…",
+        "definition": "And eat edamame...",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.02.mp3",
+        "timestamp": "0:14:02",
+        "characterWithSpace": "枝豆 食べたり",
+        "katakanaWithSpace": "えだまめ  たべたり …"
+    },
+    "53": {
+        "character": "唐揚げ　食べたり…",
+        "definition": "And fried chicken, too.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.04.mp3",
+        "timestamp": "0:14:04",
+        "characterWithSpace": "唐揚げ 食べたり",
+        "katakanaWithSpace": "からあげ  たべたり …"
+    },
+    "54": {
+        "character": "とりあえず　アザラシ",
+        "definition": "Let's start off with seals.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.14.06.mp3",
+        "timestamp": "0:14:06",
+        "characterWithSpace": "とりあえず アザラシ",
+        "katakanaWithSpace": "とりあえず  アザラシ"
+    },
+    "55": {
+        "character": "ないです",
+        "definition": "They don't have any.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.14.08.mp3",
+        "timestamp": "0:14:08",
+        "characterWithSpace": "ないです",
+        "katakanaWithSpace": "ないです"
+    },
+    "56": {
+        "character": "持ち込みは？",
+        "definition": "Can I bring some from home?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.14.09.mp3",
+        "timestamp": "0:14:09",
+        "characterWithSpace": "持ち込み は",
+        "katakanaWithSpace": "もちこみ は ？"
+    },
+    "57": {
+        "character": "ダメです",
+        "definition": "No. Let's just start with six draft beers and one juice.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.14.10.mp3",
+        "timestamp": "0:14:10",
+        "characterWithSpace": "ダメ です",
+        "katakanaWithSpace": "ダメ です"
+    },
+    "58": {
+        "character": "僕　竹がいいよ",
+        "definition": "I want bamboo.",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.14.15.mp3",
+        "timestamp": "0:14:15",
+        "characterWithSpace": "僕 竹 が いい よ",
+        "katakanaWithSpace": "ぼく  たけ が いい よ"
+    },
+    "59": {
+        "character": "そうよね　パンダっていったら やっぱり竹よね",
+        "definition": "I guess that makes sense, he is a panda after all.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.17.mp3",
+        "timestamp": "0:14:17",
+        "characterWithSpace": "そう よね パンダ って いったら やっぱり 竹 よね",
+        "katakanaWithSpace": "そう よね  パンダ って いったら  やっぱり たけ よね"
+    },
+    "60": {
+        "character": "食べてるとこ　見てみたい",
+        "definition": "I totally want to see him eat it.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.21.mp3",
+        "timestamp": "0:14:21",
+        "characterWithSpace": "食べてる とこ 見て みたい",
+        "katakanaWithSpace": "たべてる とこ  みて みたい"
+    },
+    "61": {
+        "character": "かわいいかも！",
+        "definition": "That'd be so cute! You should totally eat bamboo!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.14.23.mp3",
+        "timestamp": "0:14:23",
+        "characterWithSpace": "かわいい かも",
+        "katakanaWithSpace": "かわいい かも ！"
+    },
+    "62": {
+        "character": "何なんだ？　この合コン…",
+        "definition": "What kind of group blind date is this?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.14.31.mp3",
+        "timestamp": "0:14:31",
+        "characterWithSpace": "何 な ん だ この 合コン",
+        "katakanaWithSpace": "なん な ん だ ？ この ごうコン …"
+    },
+    "63": {
+        "character": "いや　僕はね　合コンに行きたいって言ってるわけじゃないんだよ",
+        "definition": "I'm not saying that I want to go to the group blind date.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.36.mp3",
+        "timestamp": "0:14:36",
+        "characterWithSpace": "いや 僕 は ね 合コン に 行きたい って 言ってる わけじゃない ん だ よ",
+        "katakanaWithSpace": "いや  ぼく は ね  ごうコン に いきたい って いってる わけじゃない ん だ よ"
+    },
+    "64": {
+        "character": "はい",
+        "definition": "I see.",
+        "speaker": "SASAKO",
+        "audio": "/audio/10/0.14.40.mp3",
+        "timestamp": "0:14:40",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "65": {
+        "character": "ただね　僕がずっとパンダくんの話を聞いていたわけだからさ",
+        "definition": "It's just I was the one listening to Panda's story that whole time,",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.41.mp3",
+        "timestamp": "0:14:41",
+        "characterWithSpace": "ただ ね 僕 が ずっと パンダ くん の 話 を 聞いていた わけ だから さ",
+        "katakanaWithSpace": "ただ ね  ぼく が ずっと パンダ くん の はなし を きいていた わけ だ から さ"
+    },
+    "66": {
+        "character": "誘うなら　僕を誘うでしょ？",
+        "definition": "so wouldn't it be natural for him to ask me?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.46.mp3",
+        "timestamp": "0:14:46",
+        "characterWithSpace": "誘う なら 僕 を 誘う でしょ",
+        "katakanaWithSpace": "さそう なら  ぼく を さそう でしょ ？"
+    },
+    "67": {
+        "character": "僕にはペン子さんとい ペンギンがいるわけだから",
+        "definition": "I have a penguin named Penko so I don't really want to go, but perhaps to study social activities...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.48.mp3",
+        "timestamp": "0:14:48",
+        "characterWithSpace": "僕 には ペン 子 さん とい ペンギン が いる わけ だから",
+        "katakanaWithSpace": "ぼく には ペン こ さん とい  ペンギン が いる わけ だ から"
+    },
+    "68": {
+        "character": "行きたいんですか？",
+        "definition": "Did you want to go?",
+        "speaker": "SASAKO",
+        "audio": "/audio/10/0.14.55.mp3",
+        "timestamp": "0:14:55",
+        "characterWithSpace": "行きたい ん です か",
+        "katakanaWithSpace": "いきたい ん です か ？"
+    },
+    "69": {
+        "character": "だから行きたくないよ",
+        "definition": "I just told you that I didn't want to go.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.57.mp3",
+        "timestamp": "0:14:57",
+        "characterWithSpace": "だから 行きたくない よ",
+        "katakanaWithSpace": "だ·から いきたくない よ"
+    },
+    "70": {
+        "character": "笹子さんも　笹子さんでしょ",
+        "definition": "Come on, Miss Sasako. If he was going to invite someone,he should've invited me instead of Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.14.59.mp3",
+        "timestamp": "0:14:59",
+        "characterWithSpace": "笹 子 さん も 笹 子 さん でしょ",
+        "katakanaWithSpace": "ささ こ さん も  ささ こ さん でしょ"
+    },
+    "71": {
+        "character": "欲しかったな",
+        "definition": "That would be nice.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.15.05.mp3",
+        "timestamp": "0:15:05",
+        "characterWithSpace": "欲しかった な",
+        "katakanaWithSpace": "ほしかった な"
+    },
+    "72": {
+        "character": "行きたいんですか？",
+        "definition": "Did you want to go?",
+        "speaker": "SASAKO",
+        "audio": "/audio/10/0.15.08.mp3",
+        "timestamp": "0:15:08",
+        "characterWithSpace": "行きたい ん です か",
+        "katakanaWithSpace": "いきたい ん です か ？"
+    },
+    "73": {
+        "character": "行きたいよ",
+        "definition": "Of course I did. Argh! I bet everyone is having tons of fun right about now!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.15.11.mp3",
+        "timestamp": "0:15:11",
+        "characterWithSpace": "行きたい よ",
+        "katakanaWithSpace": "いきたい よ"
+    },
+    "74": {
+        "character": "笹子さん カフェモカおかわり",
+        "definition": "Could I get another café mocha, Miss Sasako? Yes. So you're all friends from college?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.15.17.mp3",
+        "timestamp": "0:15:17",
+        "characterWithSpace": "笹 子 さん カフェ モカ おかわり",
+        "katakanaWithSpace": "ささ こ さん  カフェ モカ おかわり"
+    },
+    "75": {
+        "character": "そうなんです",
+        "definition": "Yup.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.15.25.mp3",
+        "timestamp": "0:15:25",
+        "characterWithSpace": "そうなんです",
+        "katakanaWithSpace": "そうなんです"
+    },
+    "76": {
+        "character": "そうそう　動物園にカピバラいますか？",
+        "definition": "Oh, do you have any capybaras at your zoo?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.15.27.mp3",
+        "timestamp": "0:15:27",
+        "characterWithSpace": "そうそう 動物園 に カピバラ います か",
+        "katakanaWithSpace": "そうそう  どうぶつえん に カピバラ います か ？"
+    },
+    "77": {
+        "character": "今　流行ってますよね",
+        "definition": "They're really popular right now.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.15.30.mp3",
+        "timestamp": "0:15:30",
+        "characterWithSpace": "今 流行ってます よね",
+        "katakanaWithSpace": "いま  はやってます よね"
+    },
+    "78": {
+        "character": "カピバラはネズミだってホントですか？",
+        "definition": "Is a capybara really a rodent?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.15.34.mp3",
+        "timestamp": "0:15:34",
+        "characterWithSpace": "カピバラ は ネズミ だって ホント です か",
+        "katakanaWithSpace": "カピバラ は ネズミ だって ホント です か ？"
+    },
+    "79": {
+        "character": "じゃあ　動物園にはカピバラの温泉とか あるんですか？",
+        "definition": "Then is there a capybara hot spring at the zoo? You should use your voice to answer, you know.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.15.39.mp3",
+        "timestamp": "0:15:39",
+        "characterWithSpace": "じゃあ 動物園 には カピバラ の 温泉 とか ある ん です か",
+        "katakanaWithSpace": "じゃあ  どうぶつえん には カピバラ の おんせん とか  ある ん です か ？"
+    },
+    "80": {
+        "character": "っていうか　さっきから何も　しゃべって ないじゃないですか",
+        "definition": "Not to mention you haven't said a word for a while now.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.15.48.mp3",
+        "timestamp": "0:15:48",
+        "characterWithSpace": "っていうか さっきから 何も しゃべって ない じゃないです か",
+        "katakanaWithSpace": "っていうか  さっきから なにも  しゃべって  ない じゃないです か"
+    },
+    "81": {
+        "character": "俺そろそろ…",
+        "definition": "I should probably get going.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.15.52.mp3",
+        "timestamp": "0:15:52",
+        "characterWithSpace": "俺 そろそろ",
+        "katakanaWithSpace": "おれ そろそろ …"
+    },
+    "82": {
+        "character": "何か用事あるんですか？",
+        "definition": "Do you have other plans?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.15.54.mp3",
+        "timestamp": "0:15:54",
+        "characterWithSpace": "何か 用事 ある ん です か",
+        "katakanaWithSpace": "なにか ようじ ある ん です か ？"
+    },
+    "83": {
+        "character": "いや　風呂の掃除があるから",
+        "definition": "I have to clean the bathroom.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.15.56.mp3",
+        "timestamp": "0:15:56",
+        "characterWithSpace": "いや 風呂 の 掃除 が ある から",
+        "katakanaWithSpace": "いや  ふろ の そうじ が ある から"
+    },
+    "84": {
+        "character": "わぁ～　ちょっと半田さん！",
+        "definition": "Whoa, Mr. Handa!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.15.59.mp3",
+        "timestamp": "0:15:59",
+        "characterWithSpace": "わぁ ちょっと 半田 さん",
+        "katakanaWithSpace": "わぁ ～ ちょっと はんだ さん ！"
+    },
+    "85": {
+        "character": "風呂の掃除で帰るとか",
+        "definition": "You totally can't say something like that in front of girls!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.01.mp3",
+        "timestamp": "0:16:01",
+        "characterWithSpace": "風呂 の 掃除 で 帰る とか",
+        "katakanaWithSpace": "ふろ の そうじ で かえる とか"
+    },
+    "86": {
+        "character": "どうかしたの？",
+        "definition": "Is something wrong? E-Everything is fine. Sorry, he's a little drunk.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.16.06.mp3",
+        "timestamp": "0:16:06",
+        "characterWithSpace": "どうかした の",
+        "katakanaWithSpace": "どうか した の ？"
+    },
+    "87": {
+        "character": "掃除がどうかしたんですか？",
+        "definition": "Did he say something about cleaning {\\i1}(souji){\\i0}?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.16.12.mp3",
+        "timestamp": "0:16:12",
+        "characterWithSpace": "掃除 が どうかした ん です か",
+        "katakanaWithSpace": "そうじ が どうか した ん です か ？"
+    },
+    "88": {
+        "character": "ソ…　ソーセージ注文しようかって 先輩が",
+        "definition": "H-He said we should order some sausage {\\i1}(so-se-ji){\\i0}!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.15.mp3",
+        "timestamp": "0:16:15",
+        "characterWithSpace": "ソ ソーセージ 注文しよう か って 先輩 が",
+        "katakanaWithSpace": "ソ … ソーセージ ちゅうもん しよう か って  せんぱい が"
+    },
+    "89": {
+        "character": "ねっ　先輩　僕注文しますね",
+        "definition": "Right? I'll order some right now.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.19.mp3",
+        "timestamp": "0:16:19",
+        "characterWithSpace": "ね っ 先輩 僕 注文します ね",
+        "katakanaWithSpace": "ね っ  せんぱい  ぼく ちゅうもん します ね"
+    },
+    "90": {
+        "character": "ソーセージ盛り合わせ２つ",
+        "definition": "Two sausage platters,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.16.22.mp3",
+        "timestamp": "0:16:22",
+        "characterWithSpace": "ソーセージ 盛り合わせ ２つ",
+        "katakanaWithSpace": "ソーセージ もりあわせ ふたつ"
+    },
+    "91": {
+        "character": "お刺身　盛り合わせも",
+        "definition": "and a sashimi platter, too.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.16.25.mp3",
+        "timestamp": "0:16:25",
+        "characterWithSpace": "お 刺身 盛り合わせ も",
+        "katakanaWithSpace": "お さしみ  もりあわせ も"
+    },
+    "92": {
+        "character": "シロクマさん　すみません",
+        "definition": "Thanks, Polar Bear.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.27.mp3",
+        "timestamp": "0:16:27",
+        "characterWithSpace": "シロクマ さん すみません",
+        "katakanaWithSpace": "シロクマ さん  すみません"
+    },
+    "93": {
+        "character": "あれ？　パンダくんは？",
+        "definition": "Huh? Where's Panda?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.30.mp3",
+        "timestamp": "0:16:30",
+        "characterWithSpace": "あれ パンダ くん は",
+        "katakanaWithSpace": "あれ ？ パンダ くん は ？"
+    },
+    "94": {
+        "character": "お待ちどおさま！",
+        "definition": "Sorry about the wait!",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.16.35.mp3",
+        "timestamp": "0:16:35",
+        "characterWithSpace": "お待ちどおさま",
+        "katakanaWithSpace": "おまちどおさま ！"
+    },
+    "95": {
+        "character": "待ってないよ！",
+        "definition": "We weren't waiting!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.37.mp3",
+        "timestamp": "0:16:37",
+        "characterWithSpace": "待ってない よ",
+        "katakanaWithSpace": "まってない よ ！"
+    },
+    "96": {
+        "character": "わざわざ取りに行ったの？",
+        "definition": "You actually went to get some?",
+        "speaker": "",
+        "audio": "/audio/10/0.16.39.mp3",
+        "timestamp": "0:16:39",
+        "characterWithSpace": "わざわざ 取り に 行った の",
+        "katakanaWithSpace": "わざわざ とり に おこなった/いった の ？"
+    },
+    "97": {
+        "character": "だって　ここ　何もないんだもん",
+        "definition": "Yeah, because they don't have anything here.",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.16.40.mp3",
+        "timestamp": "0:16:40",
+        "characterWithSpace": "だって ここ 何もない ん だ もん",
+        "katakanaWithSpace": "だって  ここ  なにもない ん だ もん"
+    },
+    "98": {
+        "character": "あるでしょ　いろいろ！",
+        "definition": "What are you talking about?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.43.mp3",
+        "timestamp": "0:16:43",
+        "characterWithSpace": "ある でしょ いろいろ",
+        "katakanaWithSpace": "ある でしょ  いろいろ ！"
+    },
+    "99": {
+        "character": "ナッツとか小エビの唐揚げとか",
+        "definition": "See, like nuts and fried shrimp!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.16.45.mp3",
+        "timestamp": "0:16:45",
+        "characterWithSpace": "ナッツ とか 小エビ の 唐揚げ とか",
+        "katakanaWithSpace": "ナッツ とか こエビ の からあげ とか"
+    },
+    "100": {
+        "character": "いただきま～す",
+        "definition": "Thank you for the meal!",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.16.48.mp3",
+        "timestamp": "0:16:48",
+        "characterWithSpace": "いただき ま す",
+        "katakanaWithSpace": "いただき ま ～ す"
+    },
+    "101": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.16.55.mp3",
+        "timestamp": "0:16:55",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "102": {
+        "character": "パンダが竹食べてるとこ初めて見た！",
+        "definition": "I've never seen a panda eat bamboo before!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.16.57.mp3",
+        "timestamp": "0:16:57",
+        "characterWithSpace": "パンダ が 竹 食べてる とこ 初めて 見た",
+        "katakanaWithSpace": "パンダ が たけ たべてる とこ はじめて みた ！"
+    },
+    "103": {
+        "character": "私も　私も！",
+        "definition": "Me, either! Me, either!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.17.00.mp3",
+        "timestamp": "0:17:00",
+        "characterWithSpace": "私 も 私 も",
+        "katakanaWithSpace": "わたし も  わたし も ！"
+    },
+    "104": {
+        "character": "写メ　撮っていいですか？",
+        "definition": "Can we take a picture?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.17.02.mp3",
+        "timestamp": "0:17:02",
+        "characterWithSpace": "写メ 撮って いいです か",
+        "katakanaWithSpace": "しゃメ  とって いいです か ？"
+    },
+    "105": {
+        "character": "うん！",
+        "definition": "Sure.",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.17.05.mp3",
+        "timestamp": "0:17:05",
+        "characterWithSpace": "うん",
+        "katakanaWithSpace": "うん ！"
+    },
+    "106": {
+        "character": "持ち込みはダメだって書いてあるよ",
+        "definition": "It says right here you can't bring outside food or drink.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.17.07.mp3",
+        "timestamp": "0:17:07",
+        "characterWithSpace": "持ち込み は ダメ だって 書いてある よ",
+        "katakanaWithSpace": "もちこみ は ダメ だって かいてある よ"
+    },
+    "107": {
+        "character": "お店の人にバレたら…",
+        "definition": "If the server finds out...",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.17.10.mp3",
+        "timestamp": "0:17:10",
+        "characterWithSpace": "お店 の 人 に バレたら",
+        "katakanaWithSpace": "おみせ の ひと に バレたら …"
+    },
+    "108": {
+        "character": "お待ちどおさまで…",
+        "definition": "Look over here!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.17.13.mp3",
+        "timestamp": "0:17:13",
+        "characterWithSpace": "お待ちどおさま で",
+        "katakanaWithSpace": "おまちどおさま で …"
+    },
+    "109": {
+        "character": "お待ちどおさまで…",
+        "definition": "Here you go... Over here, over here!",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.17.13.mp3",
+        "timestamp": "0:17:13",
+        "characterWithSpace": "お待ちどおさま で",
+        "katakanaWithSpace": "おまちどおさま で …"
+    },
+    "110": {
+        "character": "すみません　持ち込みはダメだって 言ったんですけど",
+        "definition": "I'm sorry, I told him he can't bring that in here.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.17.17.mp3",
+        "timestamp": "0:17:17",
+        "characterWithSpace": "すみません 持ち込み は ダメ だって 言った ん です けど",
+        "katakanaWithSpace": "すみません  もちこみ は ダメ だって  いった ん です けど"
+    },
+    "111": {
+        "character": "か…かわいい！",
+        "definition": "So... So cute! Can I take a picture, too?",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.17.31.mp3",
+        "timestamp": "0:17:31",
+        "characterWithSpace": "か かわいい",
+        "katakanaWithSpace": "か … かわいい ！"
+    },
+    "112": {
+        "character": "あの　持ち込みは？",
+        "definition": "Um... what about not bringing in outside...",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.17.37.mp3",
+        "timestamp": "0:17:37",
+        "characterWithSpace": "あの 持ち込み は",
+        "katakanaWithSpace": "あの  もちこみ は ？"
+    },
+    "113": {
+        "character": "いいです　いいです！",
+        "definition": "Oh, it's totally fine!",
+        "speaker": "LADY",
+        "audio": "/audio/10/0.17.39.mp3",
+        "timestamp": "0:17:39",
+        "characterWithSpace": "いいです いいです",
+        "katakanaWithSpace": "いいです  いいです ！"
+    },
+    "114": {
+        "character": "半田さんは何の動物の飼育を しているんですか？",
+        "definition": "What animal do you take care of, Mr. Handa? P-Pandas.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.17.42.mp3",
+        "timestamp": "0:17:42",
+        "characterWithSpace": "半田 さん は 何の 動物 の 飼育 を している ん です か",
+        "katakanaWithSpace": "はんだ さん は なんの どうぶつ の しいく を  している ん です か ？"
+    },
+    "115": {
+        "character": "パンダ！？ パンダの飼育をしてるんですか？",
+        "definition": "Pandas?! You take care of pandas?!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.17.51.mp3",
+        "timestamp": "0:17:51",
+        "characterWithSpace": "パンダ パンダ の 飼育 を してる ん です か",
+        "katakanaWithSpace": "パンダ ！？ パンダ の しいく を してる ん です か ？"
+    },
+    "116": {
+        "character": "え…　えぇ",
+        "definition": "Y-Yes...",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.17.54.mp3",
+        "timestamp": "0:17:54",
+        "characterWithSpace": "え えぇ",
+        "katakanaWithSpace": "え … えぇ"
+    },
+    "117": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.17.56.mp3",
+        "timestamp": "0:17:56",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "118": {
+        "character": "か…　かわいい？",
+        "definition": "C-Cute?",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.17.59.mp3",
+        "timestamp": "0:17:59",
+        "characterWithSpace": "か かわいい",
+        "katakanaWithSpace": "か … かわいい ？"
+    },
+    "119": {
+        "character": "パンダの話 いろいろ　聞かせてください！",
+        "definition": "Tell us more about the pandas!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.18.01.mp3",
+        "timestamp": "0:18:01",
+        "characterWithSpace": "パンダ の 話 いろいろ 聞かせてください",
+        "katakanaWithSpace": "パンダ の はなし  いろいろ  きかせて ください ！"
+    },
+    "120": {
+        "character": "昼寝しているところ",
+        "definition": "Here he is sleeping.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.08.mp3",
+        "timestamp": "0:18:08",
+        "characterWithSpace": "昼寝している ところ",
+        "katakanaWithSpace": "ひるね している ところ"
+    },
+    "121": {
+        "character": "キャーッ！　かわいい！！",
+        "definition": "Wow, so cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.18.10.mp3",
+        "timestamp": "0:18:10",
+        "characterWithSpace": "キャーッ かわいい",
+        "katakanaWithSpace": "キャーッ ！ かわいい ！！"
+    },
+    "122": {
+        "character": "遊んでいるところ",
+        "definition": "This is him playing.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.13.mp3",
+        "timestamp": "0:18:13",
+        "characterWithSpace": "遊んでいる ところ",
+        "katakanaWithSpace": "あそんでいる ところ"
+    },
+    "123": {
+        "character": "キャーッ！　かわいい！！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.18.14.mp3",
+        "timestamp": "0:18:14",
+        "characterWithSpace": "キャーッ かわいい",
+        "katakanaWithSpace": "キャーッ ！ かわいい ！！"
+    },
+    "124": {
+        "character": "ダラダラしているところ",
+        "definition": "Here he is lazing around.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.17.mp3",
+        "timestamp": "0:18:17",
+        "characterWithSpace": "ダラダラしている ところ",
+        "katakanaWithSpace": "ダラダラ している ところ"
+    },
+    "125": {
+        "character": "キャーッ！　かわいい！！",
+        "definition": "Aww, so cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.18.19.mp3",
+        "timestamp": "0:18:19",
+        "characterWithSpace": "キャーッ かわいい",
+        "katakanaWithSpace": "キャーッ ！ かわいい ！！"
+    },
+    "126": {
+        "character": "よく　見分けがつきますね",
+        "definition": "I'm surprised you can tell them all apart.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.18.22.mp3",
+        "timestamp": "0:18:22",
+        "characterWithSpace": "よく 見分けがつきます ね",
+        "katakanaWithSpace": "よく  みわけがつきます ね"
+    },
+    "127": {
+        "character": "一応　プロだから",
+        "definition": "Well, I am a professional.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.25.mp3",
+        "timestamp": "0:18:25",
+        "characterWithSpace": "一応 プロ だから",
+        "katakanaWithSpace": "いちおう  プロ だ から"
+    },
+    "128": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.18.27.mp3",
+        "timestamp": "0:18:27",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "129": {
+        "character": "もっと聞かせてください！",
+        "definition": "Tell us more!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.18.30.mp3",
+        "timestamp": "0:18:30",
+        "characterWithSpace": "もっと 聞かせてください",
+        "katakanaWithSpace": "もっと きかせて ください ！"
+    },
+    "130": {
+        "character": "パンダは腸が短くて　竹からだと あまり栄養がとれないんです",
+        "definition": "Pandas have short intestines and can't get much nutrition from bamboo.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.32.mp3",
+        "timestamp": "0:18:32",
+        "characterWithSpace": "パンダ は 腸 が 短くて 竹 から だ と あまり 栄養 が とれない ん です",
+        "katakanaWithSpace": "パンダ は ちょう が みじかくて  たけ から だ と  あまり えいよう が とれない ん です"
+    },
+    "131": {
+        "character": "だから量で補うために１日中竹を食べているんです",
+        "definition": "That's why they're eating bamboo all day. Wow, their intestines are short!",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.38.mp3",
+        "timestamp": "0:18:38",
+        "characterWithSpace": "だから 量 で 補う ために １ 日中 竹 を 食べている ん です",
+        "katakanaWithSpace": "だ·から りょう で おぎなう ために ワン/いち にっちゅう たけ を たべている ん です"
+    },
+    "132": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.18.48.mp3",
+        "timestamp": "0:18:48",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "133": {
+        "character": "そこもかわいいんだ",
+        "definition": "Apparently that's cute, too.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.18.52.mp3",
+        "timestamp": "0:18:52",
+        "characterWithSpace": "そこ も かわいい ん だ",
+        "katakanaWithSpace": "そこ も かわいい ん だ"
+    },
+    "134": {
+        "character": "半田さん　もっと教えてあげて 僕のかわいいとこ",
+        "definition": "Tell them even more cute things about me, Mr. Handa.",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.18.54.mp3",
+        "timestamp": "0:18:54",
+        "characterWithSpace": "半田 さん もっと 教えて あげて 僕 の かわいい とこ",
+        "katakanaWithSpace": "はんだ さん  もっと おしえて あげて  ぼく の かわいい とこ"
+    },
+    "135": {
+        "character": "竹しか食べてないから",
+        "definition": "Since they only eat bamboo, pandas' poop smells good.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.18.59.mp3",
+        "timestamp": "0:18:59",
+        "characterWithSpace": "竹 しか 食べてない から",
+        "katakanaWithSpace": "たけ しか たべてない から"
+    },
+    "136": {
+        "character": "ちょっと レモンのにおいに似ているんです",
+        "definition": "It's similar to lemon.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.04.mp3",
+        "timestamp": "0:19:04",
+        "characterWithSpace": "ちょっと レモン のに おい に 似ている ん です",
+        "katakanaWithSpace": "ちょっと  レモン のに おい に にている ん です"
+    },
+    "137": {
+        "character": "あぁ…　これ　これ",
+        "definition": "Oh, here we go.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.07.mp3",
+        "timestamp": "0:19:07",
+        "characterWithSpace": "あぁ これ これ",
+        "katakanaWithSpace": "あぁ … これ  これ"
+    },
+    "138": {
+        "character": "うん　パンダのウンチのにおいです",
+        "definition": "Yes, it smells like panda poop. Here, try it.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.09.mp3",
+        "timestamp": "0:19:09",
+        "characterWithSpace": "うん パンダ の ウンチ のに おい です",
+        "katakanaWithSpace": "うん  パンダ の ウンチ のに おい です"
+    },
+    "139": {
+        "character": "先輩！　その情報は いらないんじゃないですか？",
+        "definition": "Mr. Handa! I don't think they need that information.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.19.15.mp3",
+        "timestamp": "0:19:15",
+        "characterWithSpace": "先輩 その 情報 は いらない ん じゃないです か",
+        "katakanaWithSpace": "せんぱい ！ その じょうほう は  いらない ん じゃないです か ？"
+    },
+    "140": {
+        "character": "もう！　もっと かわいいエピソードにしてよ",
+        "definition": "Come on, tell them something cuter than that.",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.19.20.mp3",
+        "timestamp": "0:19:20",
+        "characterWithSpace": "もう もっと かわいい エピソード に して よ",
+        "katakanaWithSpace": "もう ！ もっと  かわいい エピソード に して よ"
+    },
+    "141": {
+        "character": "えっ！？　そう？",
+        "definition": "Oh, really? Pandas look cute with their droopy eyes, right?",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.24.mp3",
+        "timestamp": "0:19:24",
+        "characterWithSpace": "え っ そう",
+        "katakanaWithSpace": "え っ ！？ そう ？"
+    },
+    "142": {
+        "character": "あれって　実際の目は 小さくて　鋭いんですよ",
+        "definition": "In actuality, their actual eye is small and very sharp. They don't need to know that either.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.30.mp3",
+        "timestamp": "0:19:30",
+        "characterWithSpace": "あれ って 実際 の 目 は 小さくて 鋭い ん です よ",
+        "katakanaWithSpace": "あれ って  じっさい の め は  ちいさくて  するどい ん です よ"
+    },
+    "143": {
+        "character": "そうなの？",
+        "definition": "Really? I think that's really cute.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.19.39.mp3",
+        "timestamp": "0:19:39",
+        "characterWithSpace": "そう なの",
+        "katakanaWithSpace": "そう なの ？"
+    },
+    "144": {
+        "character": "もう！　半田さん！！",
+        "definition": "Oh, Mr. Handa. So cute!",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.19.43.mp3",
+        "timestamp": "0:19:43",
+        "characterWithSpace": "もう 半田 さん",
+        "katakanaWithSpace": "もう ！ はんだ さん ！！"
+    },
+    "145": {
+        "character": "ペンギンさん　カフェモカ　おかわり お待たせしました",
+        "definition": "Mr. Penguin, here you go, your refill on the café mocha.",
+        "speaker": "SASAKO",
+        "audio": "/audio/10/0.19.52.mp3",
+        "timestamp": "0:19:52",
+        "characterWithSpace": "ペンギン さん カフェ モカ おかわり お待たせしました",
+        "katakanaWithSpace": "ペンギン さん  カフェ モカ  おかわり  おまたせしました"
+    },
+    "146": {
+        "character": "あれ？　いない…",
+        "definition": "Oh? He's not here.",
+        "speaker": "SASAKO",
+        "audio": "/audio/10/0.19.57.mp3",
+        "timestamp": "0:19:57",
+        "characterWithSpace": "あれ いない",
+        "katakanaWithSpace": "あれ ？ いない …"
+    },
+    "147": {
+        "character": "今度　パンダコーナー 遊びにいってもいいですか？",
+        "definition": "Is it okay if we come by the panda corner sometime?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.20.03.mp3",
+        "timestamp": "0:20:03",
+        "characterWithSpace": "今度 パンダ コーナー 遊びにいっても いいです か",
+        "katakanaWithSpace": "こんど  パンダ コーナー  あそびにいっても いいです か ？"
+    },
+    "148": {
+        "character": "もちろんです　見にきてください",
+        "definition": "Of course. Please come. I'll introduce you to Mr. Full-time Panda, too.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.20.07.mp3",
+        "timestamp": "0:20:07",
+        "characterWithSpace": "もちろん です 見にきてください",
+        "katakanaWithSpace": "もちろん です  みにきて ください"
+    },
+    "149": {
+        "character": "常勤パンダさん？ このパンダさんは何なんですか？",
+        "definition": "Mr. Full-time Panda? So what's this panda, then?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.20.12.mp3",
+        "timestamp": "0:20:12",
+        "characterWithSpace": "常勤 パンダ さん この パンダ さん は 何 なんです か",
+        "katakanaWithSpace": "じょうきん パンダ さん ？ この パンダ さん は なん なんです か ？"
+    },
+    "150": {
+        "character": "週２のバイトなんです",
+        "definition": "He's a part-time panda that works two days a week.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.20.16.mp3",
+        "timestamp": "0:20:16",
+        "characterWithSpace": "週 ２ の バイト なんです",
+        "katakanaWithSpace": "しゅう に の バイト なんです"
+    },
+    "151": {
+        "character": "へぇ～　アルバイトなんだ？",
+        "definition": "Oh, he's a part-timer.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.20.18.mp3",
+        "timestamp": "0:20:18",
+        "characterWithSpace": "へぇ アルバイト な ん だ",
+        "katakanaWithSpace": "へぇ ～ アルバイト な ん だ ？"
+    },
+    "152": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.20.20.mp3",
+        "timestamp": "0:20:20",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "153": {
+        "character": "かわいいかな？",
+        "definition": "Is that cute?",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.20.23.mp3",
+        "timestamp": "0:20:23",
+        "characterWithSpace": "かわいい かな",
+        "katakanaWithSpace": "かわいい かな ？"
+    },
+    "154": {
+        "character": "かわいいですよ！",
+        "definition": "It's totally cute.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.20.24.mp3",
+        "timestamp": "0:20:24",
+        "characterWithSpace": "かわいいです よ",
+        "katakanaWithSpace": "かわいいです よ ！"
+    },
+    "155": {
+        "character": "ねっ？",
+        "definition": "Right? Oh!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.20.27.mp3",
+        "timestamp": "0:20:27",
+        "characterWithSpace": "ね っ",
+        "katakanaWithSpace": "ね っ ？"
+    },
+    "156": {
+        "character": "どうしたの？",
+        "definition": "What's wrong? Wh-What the?!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.20.29.mp3",
+        "timestamp": "0:20:29",
+        "characterWithSpace": "どうしたの",
+        "katakanaWithSpace": "どうしたの ？"
+    },
+    "157": {
+        "character": "ペンギン！？",
+        "definition": "A penguin?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.20.39.mp3",
+        "timestamp": "0:20:39",
+        "characterWithSpace": "ペンギン",
+        "katakanaWithSpace": "ペンギン ！？"
+    },
+    "158": {
+        "character": "どうも　こんばんは",
+        "definition": "Good evening.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.20.40.mp3",
+        "timestamp": "0:20:40",
+        "characterWithSpace": "どうも こんばんは",
+        "katakanaWithSpace": "どうも  こんばんは"
+    },
+    "159": {
+        "character": "何しにきたの？",
+        "definition": "What brings you here?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.20.42.mp3",
+        "timestamp": "0:20:42",
+        "characterWithSpace": "何 しに きた の",
+        "katakanaWithSpace": "なに しに きた の ？"
+    },
+    "160": {
+        "character": "忙しいんじゃなかったの？ ペンギンさん",
+        "definition": "Weren't you busy, Mr Penguin?",
+        "speaker": "PANDA",
+        "audio": "/audio/10/0.20.44.mp3",
+        "timestamp": "0:20:44",
+        "characterWithSpace": "忙しい ん じゃなかった の ペンギン さん",
+        "katakanaWithSpace": "いそがしい ん じゃなかった の ？ ペンギン さん"
+    },
+    "161": {
+        "character": "いや　それは…",
+        "definition": "Well, um...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.20.49.mp3",
+        "timestamp": "0:20:49",
+        "characterWithSpace": "いや それは",
+        "katakanaWithSpace": "いや  それは …"
+    },
+    "162": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.20.52.mp3",
+        "timestamp": "0:20:52",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "163": {
+        "character": "えっ！？　そこも？",
+        "definition": "Really?! That, too?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.20.54.mp3",
+        "timestamp": "0:20:54",
+        "characterWithSpace": "え っ そこ も",
+        "katakanaWithSpace": "え っ ！？ そこ も ？"
+    },
+    "164": {
+        "character": "マ·マ·マハロ",
+        "definition": "Ma-Ma-halo! Yay! Yay! Yay! Yay! Mr. Penguin, could I have the mic now?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.20.57.mp3",
+        "timestamp": "0:20:57",
+        "characterWithSpace": "マ マ マハロ",
+        "katakanaWithSpace": "マ · マ · マハロ"
+    },
+    "165": {
+        "character": "もう１曲　もう１曲！",
+        "definition": "I'm singing one more song! One more song!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.21.05.mp3",
+        "timestamp": "0:21:05",
+        "characterWithSpace": "もう １曲 もう １曲",
+        "katakanaWithSpace": "もう いっきょく  もう いっきょく ！"
+    },
+    "166": {
+        "character": "しようがないな",
+        "definition": "Oh, jeez...",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.21.08.mp3",
+        "timestamp": "0:21:08",
+        "characterWithSpace": "しようがない な",
+        "katakanaWithSpace": "しようがない な"
+    },
+    "167": {
+        "character": "「ぐぅ」？",
+        "definition": "Snoring?",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.21.12.mp3",
+        "timestamp": "0:21:12",
+        "characterWithSpace": "ぐぅ",
+        "katakanaWithSpace": "「 ぐぅ 」？"
+    },
+    "168": {
+        "character": "寝てる！",
+        "definition": "He's asleep! Wake up, Panda. Wake up!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.21.15.mp3",
+        "timestamp": "0:21:15",
+        "characterWithSpace": "寝てる",
+        "katakanaWithSpace": "ねてる ！"
+    },
+    "169": {
+        "character": "って…　先輩まで！",
+        "definition": "Mr. Handa, too?!",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.21.21.mp3",
+        "timestamp": "0:21:21",
+        "characterWithSpace": "って 先輩 まで",
+        "katakanaWithSpace": "って … せんぱい まで ！"
+    },
+    "170": {
+        "character": "見て　寝てる！",
+        "definition": "Look, they're asleep.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.21.22.mp3",
+        "timestamp": "0:21:22",
+        "characterWithSpace": "見て 寝てる",
+        "katakanaWithSpace": "みて  ねてる ！"
+    },
+    "171": {
+        "character": "ねぇ　なんか似てない？",
+        "definition": "Hey, don't they look alike?",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.21.24.mp3",
+        "timestamp": "0:21:24",
+        "characterWithSpace": "ねぇ なんか 似てない",
+        "katakanaWithSpace": "ねぇ  なんか にてない ？"
+    },
+    "172": {
+        "character": "このカフェにたどり着いた ラッキーボーイズ　アンド　ガールズ",
+        "definition": "You lucky boys and girls who found this café",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.21.29.mp3",
+        "timestamp": "0:21:29",
+        "characterWithSpace": "この カフェ に たどり着いた ラッキーボーイ ズ アンド ガールズ",
+        "katakanaWithSpace": "この カフェ に たどりついた  ラッキーボーイ ズ  アンド  ガールズ"
+    },
+    "173": {
+        "character": "今日は　ありがとうございました",
+        "definition": "Thank you very much for today.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.21.37.mp3",
+        "timestamp": "0:21:37",
+        "characterWithSpace": "今日 は ありがとうございました",
+        "katakanaWithSpace": "きょう は  ありがとうございました"
+    },
+    "174": {
+        "character": "楽しかったです",
+        "definition": "It was a lot of fun!",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.21.39.mp3",
+        "timestamp": "0:21:39",
+        "characterWithSpace": "楽しかったです",
+        "katakanaWithSpace": "たのしかったです"
+    },
+    "175": {
+        "character": "また　パンダの話聞かせてください",
+        "definition": "Tell us more about pandas next time! Sure. Please visit the zoo.",
+        "speaker": "GIRL",
+        "audio": "/audio/10/0.21.41.mp3",
+        "timestamp": "0:21:41",
+        "characterWithSpace": "また パンダ の 話 聞かせてください",
+        "katakanaWithSpace": "また  パンダ の はなし きかせて ください"
+    },
+    "176": {
+        "character": "はい じゃあ　おやすみなさい",
+        "definition": "Sure! Well, good night.",
+        "speaker": "GIRLS",
+        "audio": "/audio/10/0.21.48.mp3",
+        "timestamp": "0:21:48",
+        "characterWithSpace": "はい じゃあ おやすみなさい",
+        "katakanaWithSpace": "はい  じゃあ  おやすみなさい"
+    },
+    "177": {
+        "character": "それじゃ　俺も 風呂の掃除あるから　帰るわ",
+        "definition": "Okay, I have to go clean my bathroom, so I'm heading off.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.21.54.mp3",
+        "timestamp": "0:21:54",
+        "characterWithSpace": "それじゃ 俺 も 風呂 の 掃除 ある から 帰る わ",
+        "katakanaWithSpace": "それじゃ  おれ も  ふろ の そうじ ある から  かえる わ"
+    },
+    "178": {
+        "character": "また　明日な",
+        "definition": "See you tomorrow.",
+        "speaker": "HANDA",
+        "audio": "/audio/10/0.21.58.mp3",
+        "timestamp": "0:21:58",
+        "characterWithSpace": "また 明日 な",
+        "katakanaWithSpace": "また  あした な"
+    },
+    "179": {
+        "character": "はい",
+        "definition": "Okay.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.21.59.mp3",
+        "timestamp": "0:21:59",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "180": {
+        "character": "半田さんらしいや",
+        "definition": "That's totally like Mr. Handa.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.22.05.mp3",
+        "timestamp": "0:22:05",
+        "characterWithSpace": "半田 さん らしい や",
+        "katakanaWithSpace": "はんだ さん らしい や"
+    },
+    "181": {
+        "character": "うちで　コーヒーでも飲んでく？",
+        "definition": "Did you want to have some coffee at my place?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/10/0.22.07.mp3",
+        "timestamp": "0:22:07",
+        "characterWithSpace": "うち で コーヒー でも 飲んでく",
+        "katakanaWithSpace": "うち で  コーヒー でも のんでく ？"
+    },
+    "182": {
+        "character": "はい　シロクマさん",
+        "definition": "Sure, Mr. Polar Bear.",
+        "speaker": "KIRINO",
+        "audio": "/audio/10/0.22.10.mp3",
+        "timestamp": "0:22:10",
+        "characterWithSpace": "はい シロクマ さん",
+        "katakanaWithSpace": "はい  シロクマ さん"
+    },
+    "183": {
+        "character": "マ·マ·マハロ",
+        "definition": "Ma-Ma-Ma-Ma-halo.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.22.12.mp3",
+        "timestamp": "0:22:12",
+        "characterWithSpace": "マ マ マハロ",
+        "katakanaWithSpace": "マ · マ · マハロ"
+    },
+    "184": {
+        "character": "イエーイ！",
+        "definition": "Yay!",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.22.15.mp3",
+        "timestamp": "0:22:15",
+        "characterWithSpace": "イエーイ",
+        "katakanaWithSpace": "イエーイ ！"
+    },
+    "185": {
+        "character": "あっ！　あれ？　みんなは？",
+        "definition": "Huh? Where'd everyone go?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/10/0.22.17.mp3",
+        "timestamp": "0:22:17",
+        "characterWithSpace": "あっ あれ みんな は",
+        "katakanaWithSpace": "あっ ！ あれ ？ みんな は ？"
+    }
+}

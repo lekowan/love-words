@@ -1,0 +1,1343 @@
+{
+    "1": {
+        "character": "お花 こちらでよろしいでしょうか",
+        "definition": "Would these flowers be okay?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.01.35.mp3",
+        "timestamp": "0:01:35",
+        "characterWithSpace": "お 花 こちら で よろしいでしょう か",
+        "katakanaWithSpace": "お はな  こちら で よろしいでしょう か"
+    },
+    "2": {
+        "character": "は　はい　それでお願いします",
+        "definition": "Y-Yes, please! That would be perfect.",
+        "speaker": "GIRL",
+        "audio": "/audio/09/0.01.38.mp3",
+        "timestamp": "0:01:38",
+        "characterWithSpace": "は はい それで お願いします",
+        "katakanaWithSpace": "は  はい  それで おねがい·します"
+    },
+    "3": {
+        "character": "またいらしてくださいね",
+        "definition": "Please come again!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.01.41.mp3",
+        "timestamp": "0:01:41",
+        "characterWithSpace": "また いらしてください ね",
+        "katakanaWithSpace": "また いらして ください ね"
+    },
+    "4": {
+        "character": "はい！",
+        "definition": "Okay!",
+        "speaker": "GIRLS",
+        "audio": "/audio/09/0.01.43.mp3",
+        "timestamp": "0:01:43",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい ！"
+    },
+    "5": {
+        "character": "かっこいいよね",
+        "definition": "He's so cool! Yeah!",
+        "speaker": "GIRL",
+        "audio": "/audio/09/0.01.44.mp3",
+        "timestamp": "0:01:44",
+        "characterWithSpace": "かっこいい よね",
+        "katakanaWithSpace": "かっこいい よね"
+    },
+    "6": {
+        "character": "パンダくん",
+        "definition": "Panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.01.52.mp3",
+        "timestamp": "0:01:52",
+        "characterWithSpace": "パンダ くん",
+        "katakanaWithSpace": "パンダ くん"
+    },
+    "7": {
+        "character": "バイトお疲れ　はい　これ",
+        "definition": "You must be tired from working! Here, have these.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.01.54.mp3",
+        "timestamp": "0:01:54",
+        "characterWithSpace": "バイト お疲れ はい これ",
+        "katakanaWithSpace": "バイト おつかれ  はい  これ"
+    },
+    "8": {
+        "character": "まぁ もらっておくけど",
+        "definition": "I guess I'll take them.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.01.57.mp3",
+        "timestamp": "0:01:57",
+        "characterWithSpace": "まぁ もらっておく けど",
+        "katakanaWithSpace": "まぁ  もらっておく けど"
+    },
+    "9": {
+        "character": "そんじゃ　お疲れ",
+        "definition": "See ya.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.02.00.mp3",
+        "timestamp": "0:02:00",
+        "characterWithSpace": "そん じゃ お疲れ",
+        "katakanaWithSpace": "そん じゃ  おつかれ"
+    },
+    "10": {
+        "character": "パンダくん　つれないな",
+        "definition": "Panda... You can be so heartless.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.03.mp3",
+        "timestamp": "0:02:03",
+        "characterWithSpace": "パンダ くん つれない な",
+        "katakanaWithSpace": "パンダ くん  つれない な"
+    },
+    "11": {
+        "character": "あ～　パンダくん 仲よくなりたいのに",
+        "definition": "Oh, Panda. I just want to be friends with you.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.10.mp3",
+        "timestamp": "0:02:10",
+        "characterWithSpace": "あ パンダ くん 仲 よくなりたい のに",
+        "katakanaWithSpace": "あ ～ パンダ くん  なか よくなりたい のに"
+    },
+    "12": {
+        "character": "大丈夫　きっと仲よくなれるよ",
+        "definition": "\"It's okay.You'll be friends someday.\"",
+        "speaker": "PUPPET",
+        "audio": "/audio/09/0.02.15.mp3",
+        "timestamp": "0:02:15",
+        "characterWithSpace": "大丈夫 きっと 仲 よくなれる よ",
+        "katakanaWithSpace": "だいじょうぶ  きっと なか よくなれる よ"
+    },
+    "13": {
+        "character": "そうだよね",
+        "definition": "You're right!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.18.mp3",
+        "timestamp": "0:02:18",
+        "characterWithSpace": "そう だよね",
+        "katakanaWithSpace": "そう だよね"
+    },
+    "14": {
+        "character": "もちろんさ",
+        "definition": "Of course!",
+        "speaker": "PUPPET",
+        "audio": "/audio/09/0.02.19.mp3",
+        "timestamp": "0:02:19",
+        "characterWithSpace": "もちろん さ",
+        "katakanaWithSpace": "もちろん さ"
+    },
+    "15": {
+        "character": "パンダ最高！",
+        "definition": "Pandas are amazing! Yay!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.21.mp3",
+        "timestamp": "0:02:21",
+        "characterWithSpace": "パンダ 最高",
+        "katakanaWithSpace": "パンダ さいこう ！"
+    },
+    "16": {
+        "character": "はい　フローリスト リンリンです",
+        "definition": "Yes, this is Florist Rin Rin.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.27.mp3",
+        "timestamp": "0:02:27",
+        "characterWithSpace": "はい フローリスト リンリン です",
+        "katakanaWithSpace": "はい  フローリスト  リンリン です"
+    },
+    "17": {
+        "character": "竹をメインにしたアレンジですか",
+        "definition": "An arrangement with bamboo as the main piece?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.30.mp3",
+        "timestamp": "0:02:30",
+        "characterWithSpace": "竹 を メイン に した アレンジ です か",
+        "katakanaWithSpace": "たけ を メイン に した アレンジ です か"
+    },
+    "18": {
+        "character": "はい　できますよ",
+        "definition": "Yes, I can do that.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.33.mp3",
+        "timestamp": "0:02:33",
+        "characterWithSpace": "はい できます よ",
+        "katakanaWithSpace": "はい  できます よ"
+    },
+    "19": {
+        "character": "で　お届けはどちらまで",
+        "definition": "Where should I deliver it to?",
+        "speaker": "",
+        "audio": "/audio/09/0.02.34.mp3",
+        "timestamp": "0:02:34",
+        "characterWithSpace": "で お届け は どちら まで",
+        "katakanaWithSpace": "で  おとどけ は どちら まで"
+    },
+    "20": {
+        "character": "リンリンてさ　困った人だよね",
+        "definition": "Rin Rin is so annoying.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.02.40.mp3",
+        "timestamp": "0:02:40",
+        "characterWithSpace": "リンリン て さ 困った人 だよね",
+        "katakanaWithSpace": "リンリン て さ  こまったひと だよね"
+    },
+    "21": {
+        "character": "リンリンて",
+        "definition": "Rin Rin?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.02.44.mp3",
+        "timestamp": "0:02:44",
+        "characterWithSpace": "リンリン て",
+        "katakanaWithSpace": "リンリン て"
+    },
+    "22": {
+        "character": "花屋さんの",
+        "definition": "The florist?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.02.46.mp3",
+        "timestamp": "0:02:46",
+        "characterWithSpace": "花屋 さん の",
+        "katakanaWithSpace": "はなや さん の"
+    },
+    "23": {
+        "character": "そう　僕が通りかかるたびにさ",
+        "definition": "Yep. Every time I pass by...",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.02.47.mp3",
+        "timestamp": "0:02:47",
+        "characterWithSpace": "そう 僕 が 通りかかる たびに さ",
+        "katakanaWithSpace": "そう  ぼく が とおりかかる たびに さ"
+    },
+    "24": {
+        "character": "あげる",
+        "definition": "Here, have this.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.52.mp3",
+        "timestamp": "0:02:52",
+        "characterWithSpace": "あげる",
+        "katakanaWithSpace": "あげる"
+    },
+    "25": {
+        "character": "好きでしょ",
+        "definition": "You like this, right?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.53.mp3",
+        "timestamp": "0:02:53",
+        "characterWithSpace": "好き でしょ",
+        "katakanaWithSpace": "すき でしょ"
+    },
+    "26": {
+        "character": "パンダって　かわいいよね",
+        "definition": "Pandas are so cute!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.02.55.mp3",
+        "timestamp": "0:02:55",
+        "characterWithSpace": "パンダ って かわいい よね",
+        "katakanaWithSpace": "パンダ って  かわいい よね"
+    },
+    "27": {
+        "character": "いい人じゃない",
+        "definition": "Seems like a nice guy. Really? But the panda items he gives me are so tacky.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.02.59.mp3",
+        "timestamp": "0:02:59",
+        "characterWithSpace": "いい人 じゃない",
+        "katakanaWithSpace": "いいひと じゃない"
+    },
+    "28": {
+        "character": "こんなのとか",
+        "definition": "Like this.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.03.07.mp3",
+        "timestamp": "0:03:07",
+        "characterWithSpace": "こんな の とか",
+        "katakanaWithSpace": "こんな の とか"
+    },
+    "29": {
+        "character": "わ～　かわいい！",
+        "definition": "Oh, that's cute!",
+        "speaker": "SASAKO",
+        "audio": "/audio/09/0.03.09.mp3",
+        "timestamp": "0:03:09",
+        "characterWithSpace": "わ かわいい",
+        "katakanaWithSpace": "わ ～ かわいい ！"
+    },
+    "30": {
+        "character": "え～　そうかな",
+        "definition": "Really? You think so?",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.03.11.mp3",
+        "timestamp": "0:03:11",
+        "characterWithSpace": "え そうか な",
+        "katakanaWithSpace": "え ～ そうか な"
+    },
+    "31": {
+        "character": "じゃあ　笹子さんにあげれば",
+        "definition": "Then why don't you give it to Miss Sasako?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.03.14.mp3",
+        "timestamp": "0:03:14",
+        "characterWithSpace": "じゃあ 笹 子 さん に あげれば",
+        "katakanaWithSpace": "じゃあ  ささ こ さん に あげれば"
+    },
+    "32": {
+        "character": "あげないよ",
+        "definition": "I'm not giving it away.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.03.20.mp3",
+        "timestamp": "0:03:20",
+        "characterWithSpace": "あげない よ",
+        "katakanaWithSpace": "あげない よ"
+    },
+    "33": {
+        "character": "気に入ってるじゃない",
+        "definition": "See, you do like it.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.03.22.mp3",
+        "timestamp": "0:03:22",
+        "characterWithSpace": "気に入ってる じゃない",
+        "katakanaWithSpace": "きにいってる じゃない"
+    },
+    "34": {
+        "character": "リンリンて　ホント困った人だから",
+        "definition": "Rin Rin's so annoying.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.03.24.mp3",
+        "timestamp": "0:03:24",
+        "characterWithSpace": "リンリン て ホント 困った人 だから",
+        "katakanaWithSpace": "リンリン て  ホント こまったひと だ から"
+    },
+    "35": {
+        "character": "今頃パンダくんの家に行ってたりして",
+        "definition": "What if he was at your house right now?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.03.27.mp3",
+        "timestamp": "0:03:27",
+        "characterWithSpace": "今頃 パンダ くん の 家 に 行ってたり して",
+        "katakanaWithSpace": "いまごろ パンダ くん の いえ/うち に おこなってたり/いってたり して"
+    },
+    "36": {
+        "character": "やめてよ",
+        "definition": "Don't say things like that. This is Panda's house.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.03.31.mp3",
+        "timestamp": "0:03:31",
+        "characterWithSpace": "やめて よ",
+        "katakanaWithSpace": "やめて よ"
+    },
+    "37": {
+        "character": "お花をお届けにあがりました",
+        "definition": "I'm here to deliver flowers.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.03.43.mp3",
+        "timestamp": "0:03:43",
+        "characterWithSpace": "お 花 を お届け に あがりました",
+        "katakanaWithSpace": "お はな を おとどけ に あがりました"
+    },
+    "38": {
+        "character": "パンダくんは…",
+        "definition": "I wonder where Panda is...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.03.48.mp3",
+        "timestamp": "0:03:48",
+        "characterWithSpace": "パンダ くん は",
+        "katakanaWithSpace": "パンダ くん は …"
+    },
+    "39": {
+        "character": "この時間は　しろくまカフェかな",
+        "definition": "He's probably at Polar Bear's Café at this hour.",
+        "speaker": "",
+        "audio": "/audio/09/0.03.51.mp3",
+        "timestamp": "0:03:51",
+        "characterWithSpace": "この 時間 は しろくま カフェ かな",
+        "katakanaWithSpace": "この じかん は  しろくま カフェ かな"
+    },
+    "40": {
+        "character": "どうも　ご苦労様です",
+        "definition": "Hello, thank you for your hard work.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.03.55.mp3",
+        "timestamp": "0:03:55",
+        "characterWithSpace": "どうも ご苦労様 です",
+        "katakanaWithSpace": "どうも  ごくろうさま です"
+    },
+    "41": {
+        "character": "どうしました？",
+        "definition": "Is something the matter?",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.04.00.mp3",
+        "timestamp": "0:04:00",
+        "characterWithSpace": "どう しました",
+        "katakanaWithSpace": "どう しました ？"
+    },
+    "42": {
+        "character": "パンダだ　パンダママだ",
+        "definition": "It's a panda! Panda Mama!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.04.02.mp3",
+        "timestamp": "0:04:02",
+        "characterWithSpace": "パンダ だ パンダ ママ だ",
+        "katakanaWithSpace": "パンダ だ  パンダ ママ だ"
+    },
+    "43": {
+        "character": "あ　ねぇ",
+        "definition": "Oh, excuse me.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.04.05.mp3",
+        "timestamp": "0:04:05",
+        "characterWithSpace": "あ ねぇ",
+        "katakanaWithSpace": "あ  ねぇ"
+    },
+    "44": {
+        "character": "はい",
+        "definition": "Y-Yes. I'll pay this separately, but would you mind rearranging the bamboo in the rooms, too?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.04.07.mp3",
+        "timestamp": "0:04:07",
+        "characterWithSpace": "はい",
+        "katakanaWithSpace": "はい"
+    },
+    "45": {
+        "character": "お家に 上がっていいんですか！",
+        "definition": "You mean I can come into your house?!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.04.15.mp3",
+        "timestamp": "0:04:15",
+        "characterWithSpace": "お家 に 上がっていい ん です か",
+        "katakanaWithSpace": "おうち に  あがって いい ん です か ！"
+    },
+    "46": {
+        "character": "リンリンのパンダ好きは相当なものらしいよ",
+        "definition": "It seems that Rin Rin has an intense love of pandas.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.04.19.mp3",
+        "timestamp": "0:04:19",
+        "characterWithSpace": "リンリン の パンダ 好き は 相当 な もの らしい よ",
+        "katakanaWithSpace": "リンリン の パンダ すき は そうとう な もの らしい よ"
+    },
+    "47": {
+        "character": "パンダグッズも かなり集めてるそうですよ",
+        "definition": "Apparently his collection of panda merchandise is quite extensive.",
+        "speaker": "SASAKO",
+        "audio": "/audio/09/0.04.23.mp3",
+        "timestamp": "0:04:23",
+        "characterWithSpace": "パンダ グッズ も かなり 集めてる そう です よ",
+        "katakanaWithSpace": "パンダ グッズ も  かなり あつめてる そう です よ"
+    },
+    "48": {
+        "character": "花屋じゃなくて パンダグッズ屋やればよかったのに",
+        "definition": "He should have opened up a panda merchandise shop instead of a flower shop.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.04.27.mp3",
+        "timestamp": "0:04:27",
+        "characterWithSpace": "花屋 じゃなくて パンダ グッズ 屋 やれば よかった のに",
+        "katakanaWithSpace": "はなや じゃなくて  パンダ グッズ や/おく やれば よかった のに"
+    },
+    "49": {
+        "character": "事情があるんだよ",
+        "definition": "He has his reasons.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.04.30.mp3",
+        "timestamp": "0:04:30",
+        "characterWithSpace": "事情 が ある ん だ よ",
+        "katakanaWithSpace": "じじょう が ある ん だ よ"
+    },
+    "50": {
+        "character": "どんな？",
+        "definition": "Like what?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.04.33.mp3",
+        "timestamp": "0:04:33",
+        "characterWithSpace": "どんな",
+        "katakanaWithSpace": "どんな ？"
+    },
+    "51": {
+        "character": "若き日のリンリンが パンダグッズを集めるため　世界を旅していた頃",
+        "definition": "When the young Rin Rin was traveling the world to collect panda merchandise,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.04.35.mp3",
+        "timestamp": "0:04:35",
+        "characterWithSpace": "若き日 の リンリン が パンダ グッズ を 集める ため 世界 を 旅 していた 頃",
+        "katakanaWithSpace": "わかきひ の リンリン が  パンダ グッズ を あつめる ため  せかい を たび していた ころ"
+    },
+    "52": {
+        "character": "とある事件に巻き込まれ…",
+        "definition": "he was involved in an incident...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.04.42.mp3",
+        "timestamp": "0:04:42",
+        "characterWithSpace": "と ある 事件 に 巻き込まれ",
+        "katakanaWithSpace": "と ある じけん に まきこまれ …"
+    },
+    "53": {
+        "character": "嘘ですね",
+        "definition": "You're lying, aren't you?",
+        "speaker": "SASAKO",
+        "audio": "/audio/09/0.04.47.mp3",
+        "timestamp": "0:04:47",
+        "characterWithSpace": "嘘 です ね",
+        "katakanaWithSpace": "うそ です ね"
+    },
+    "54": {
+        "character": "うん",
+        "definition": "Yes.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.04.49.mp3",
+        "timestamp": "0:04:49",
+        "characterWithSpace": "うん",
+        "katakanaWithSpace": "うん"
+    },
+    "55": {
+        "character": "うん",
+        "definition": "Why do you lie?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.04.49.mp3",
+        "timestamp": "0:04:49",
+        "characterWithSpace": "うん",
+        "katakanaWithSpace": "うん"
+    },
+    "56": {
+        "character": "ささやかな嘘で あなたの味気ない日常に彩りを",
+        "definition": "I want to bring some color into your desolate lives with a modest lie.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.04.51.mp3",
+        "timestamp": "0:04:51",
+        "characterWithSpace": "ささやか な 嘘 で あなた の 味気ない 日常 に 彩り を",
+        "katakanaWithSpace": "ささやか な うそ で  あなた の あじけない にちじょう に いろどり を"
+    },
+    "57": {
+        "character": "味気ない日常で悪かったね",
+        "definition": "Well, excuse me for having a desolate life! Let's stop talking about Rin Rin.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.04.56.mp3",
+        "timestamp": "0:04:56",
+        "characterWithSpace": "味気ない 日常 で 悪かった ね",
+        "katakanaWithSpace": "あじけない にちじょう で わるかった ね"
+    },
+    "58": {
+        "character": "よし　いかがです？",
+        "definition": "There. How's that?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.03.mp3",
+        "timestamp": "0:05:03",
+        "characterWithSpace": "よし いかが です",
+        "katakanaWithSpace": "よし  いかが です ？"
+    },
+    "59": {
+        "character": "まぁ　ステキ！",
+        "definition": "Oh, that's wonderful.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.05.06.mp3",
+        "timestamp": "0:05:06",
+        "characterWithSpace": "まぁ ステキ",
+        "katakanaWithSpace": "まぁ  ステキ ！"
+    },
+    "60": {
+        "character": "今　お代を払うわ",
+        "definition": "Here, I'll pay you right now.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.05.08.mp3",
+        "timestamp": "0:05:08",
+        "characterWithSpace": "今 お代 を 払う わ",
+        "katakanaWithSpace": "いま  おだい を はらう わ"
+    },
+    "61": {
+        "character": "ちょっと待っててね",
+        "definition": "Just one moment.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.05.10.mp3",
+        "timestamp": "0:05:10",
+        "characterWithSpace": "ちょっと 待ってて ね",
+        "katakanaWithSpace": "ちょっと まってて ね"
+    },
+    "62": {
+        "character": "ここでパンダくんが 暮らしているんだな",
+        "definition": "This is where Panda lives.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.14.mp3",
+        "timestamp": "0:05:14",
+        "characterWithSpace": "ここ で パンダ くん が 暮らしている ん だ な",
+        "katakanaWithSpace": "ここ で パンダ くん が  くらしている ん だ な"
+    },
+    "63": {
+        "character": "かわいい",
+        "definition": "He's so cute.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.24.mp3",
+        "timestamp": "0:05:24",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい"
+    },
+    "64": {
+        "character": "こんにちは",
+        "definition": "Hello.",
+        "speaker": "PANDASISTER",
+        "audio": "/audio/09/0.05.26.mp3",
+        "timestamp": "0:05:26",
+        "characterWithSpace": "こんにちは",
+        "katakanaWithSpace": "こんにちは"
+    },
+    "65": {
+        "character": "ママがお茶どうぞって",
+        "definition": "Mama asked me to bring you some tea.",
+        "speaker": "PANDASISTER",
+        "audio": "/audio/09/0.05.30.mp3",
+        "timestamp": "0:05:30",
+        "characterWithSpace": "ママ が お茶 どうぞ って",
+        "katakanaWithSpace": "ママ が おちゃ どうぞ って"
+    },
+    "66": {
+        "character": "パンダだ　パンダ妹だ",
+        "definition": "It's a panda! Little Sister Panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.33.mp3",
+        "timestamp": "0:05:33",
+        "characterWithSpace": "パンダ だ パンダ 妹 だ",
+        "katakanaWithSpace": "パンダ だ  パンダ いもうと だ"
+    },
+    "67": {
+        "character": "ここに置いとくね",
+        "definition": "I'll set it right here.",
+        "speaker": "PANDASISTER",
+        "audio": "/audio/09/0.05.36.mp3",
+        "timestamp": "0:05:36",
+        "characterWithSpace": "ここ に 置いとく ね",
+        "katakanaWithSpace": "ここ に おいとく ね"
+    },
+    "68": {
+        "character": "ありがとう…　えっと…",
+        "definition": "Thank you, um...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.39.mp3",
+        "timestamp": "0:05:39",
+        "characterWithSpace": "ありがとう えっと",
+        "katakanaWithSpace": "ありがとう … えっと …"
+    },
+    "69": {
+        "character": "メイメイって呼んで",
+        "definition": "Please call me Mei Mei.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.05.42.mp3",
+        "timestamp": "0:05:42",
+        "characterWithSpace": "メイメイ って 呼んで",
+        "katakanaWithSpace": "メイメイ って よんで"
+    },
+    "70": {
+        "character": "あなた　リンリンでしょ？",
+        "definition": "You're Rin Rin, right?",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.05.44.mp3",
+        "timestamp": "0:05:44",
+        "characterWithSpace": "あなた リンリン でしょ",
+        "katakanaWithSpace": "あなた  リンリン でしょ ？"
+    },
+    "71": {
+        "character": "僕のこと　知ってるんだ？",
+        "definition": "You know about me?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.46.mp3",
+        "timestamp": "0:05:46",
+        "characterWithSpace": "僕 の こと 知ってる ん だ",
+        "katakanaWithSpace": "ぼく の こと  しってる ん だ ？"
+    },
+    "72": {
+        "character": "イケメン花屋って街じゃ有名よ",
+        "definition": "You're famous around town as the good-looking florist.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.05.48.mp3",
+        "timestamp": "0:05:48",
+        "characterWithSpace": "イケメン 花屋 って 街 じゃ 有名 よ",
+        "katakanaWithSpace": "イケメン はなや って がい/まち じゃ ゆうめい よ"
+    },
+    "73": {
+        "character": "そうらしいね",
+        "definition": "So it seems.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.05.52.mp3",
+        "timestamp": "0:05:52",
+        "characterWithSpace": "そう らしい ね",
+        "katakanaWithSpace": "そう らしい ね"
+    },
+    "74": {
+        "character": "否定しないのね…",
+        "definition": "You're not very humble, are you?",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.05.54.mp3",
+        "timestamp": "0:05:54",
+        "characterWithSpace": "否定しない の ね",
+        "katakanaWithSpace": "ひてい しない の ね …"
+    },
+    "75": {
+        "character": "でも…　私の好みじゃないわね",
+        "definition": "But you know, you're not my type.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.05.56.mp3",
+        "timestamp": "0:05:56",
+        "characterWithSpace": "でも 私 の 好み じゃない わね",
+        "katakanaWithSpace": "でも … わたし の このみ じゃない わね"
+    },
+    "76": {
+        "character": "ちょっと痩せすぎ",
+        "definition": "You're too skinny.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.06.00.mp3",
+        "timestamp": "0:06:00",
+        "characterWithSpace": "ちょっと 痩せすぎ",
+        "katakanaWithSpace": "ちょっと やせすぎ"
+    },
+    "77": {
+        "character": "まあ　いいわ ちょっと遊んであげる",
+        "definition": "Oh well, I'll play with you for a little while.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.06.05.mp3",
+        "timestamp": "0:06:05",
+        "characterWithSpace": "まあ いい わ ちょっと 遊んで あげる",
+        "katakanaWithSpace": "まあ  いい わ  ちょっと あそんで あげる"
+    },
+    "78": {
+        "character": "鬼ごっこね",
+        "definition": "Let's play tag.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.06.08.mp3",
+        "timestamp": "0:06:08",
+        "characterWithSpace": "鬼ごっこ ね",
+        "katakanaWithSpace": "おにごっこ ね"
+    },
+    "79": {
+        "character": "ああ　ごめん お店があるから　帰らないと",
+        "definition": "Oh, sorry, I actually need to get back to my shop...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.10.mp3",
+        "timestamp": "0:06:10",
+        "characterWithSpace": "ああ ごめん お店 が ある から 帰らない と",
+        "katakanaWithSpace": "ああ  ごめん  おみせ が ある から  かえらない と"
+    },
+    "80": {
+        "character": "リンリンさん　お待たせ",
+        "definition": "Sorry to keep you waiting, Mr. Rin Rin.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.06.19.mp3",
+        "timestamp": "0:06:19",
+        "characterWithSpace": "リンリン さん お 待たせ",
+        "katakanaWithSpace": "リンリン さん  お またせ"
+    },
+    "81": {
+        "character": "あら？",
+        "definition": "Oh?",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.06.22.mp3",
+        "timestamp": "0:06:22",
+        "characterWithSpace": "あら",
+        "katakanaWithSpace": "あら ？"
+    },
+    "82": {
+        "character": "待て！",
+        "definition": "Wait! I'm chasing a panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.25.mp3",
+        "timestamp": "0:06:25",
+        "characterWithSpace": "待て",
+        "katakanaWithSpace": "まて ！"
+    },
+    "83": {
+        "character": "パンダと回る…",
+        "definition": "I'm spinning with a panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.32.mp3",
+        "timestamp": "0:06:32",
+        "characterWithSpace": "パンダ と 回る",
+        "katakanaWithSpace": "パンダ と まわる …"
+    },
+    "84": {
+        "character": "パンダと転がる…",
+        "definition": "I'm rolling around with a panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.37.mp3",
+        "timestamp": "0:06:37",
+        "characterWithSpace": "パンダ と 転がる",
+        "katakanaWithSpace": "パンダ と ころがる …"
+    },
+    "85": {
+        "character": "なんて幸せな時間なんだ…",
+        "definition": "What an amazingly happy time! Next we're going to play hide and seek. Playing hide and seek with a panda!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.39.mp3",
+        "timestamp": "0:06:39",
+        "characterWithSpace": "なんて 幸せ な 時間 な ん だ",
+        "katakanaWithSpace": "なんて しあわせ な じかん な ん だ …"
+    },
+    "86": {
+        "character": "１　２…",
+        "definition": "{\\a6}One... two...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.53.mp3",
+        "timestamp": "0:06:53",
+        "characterWithSpace": "",
+        "katakanaWithSpace": "１ ２…"
+    },
+    "87": {
+        "character": "リンリンさん案外タフね",
+        "definition": "Mr. Rin Rin is quite tough.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.06.56.mp3",
+        "timestamp": "0:06:56",
+        "characterWithSpace": "リンリン さん 案外 タフ ね",
+        "katakanaWithSpace": "リンリン さん あんがい タフ ね"
+    },
+    "88": {
+        "character": "リンリンさん案外タフね",
+        "definition": "{\\a6}three... four... five... Hey, where are you? Hey! I wonder if it's okay to keep playing and not go back to work.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.06.56.mp3",
+        "timestamp": "0:06:56",
+        "characterWithSpace": "リンリン さん 案外 タフ ね",
+        "katakanaWithSpace": "リンリン さん あんがい タフ ね"
+    },
+    "89": {
+        "character": "いい！",
+        "definition": "It is! Because I'm with pandas!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.07.14.mp3",
+        "timestamp": "0:07:14",
+        "characterWithSpace": "いい",
+        "katakanaWithSpace": "いい ！"
+    },
+    "90": {
+        "character": "見つけた！",
+        "definition": "I found you!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.07.20.mp3",
+        "timestamp": "0:07:20",
+        "characterWithSpace": "見つけた",
+        "katakanaWithSpace": "みつけた ！"
+    },
+    "91": {
+        "character": "何奴？",
+        "definition": "Who are you?",
+        "speaker": "PANDA GRANDPA",
+        "audio": "/audio/09/0.07.22.mp3",
+        "timestamp": "0:07:22",
+        "characterWithSpace": "何奴",
+        "katakanaWithSpace": "どいつ/なにやつ ？"
+    },
+    "92": {
+        "character": "どうしたの？",
+        "definition": "What's wrong?",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.07.27.mp3",
+        "timestamp": "0:07:27",
+        "characterWithSpace": "どうしたの",
+        "katakanaWithSpace": "どうしたの ？"
+    },
+    "93": {
+        "character": "あっ　お爺ちゃん 何やってるの？",
+        "definition": "Oh, Grandpa, what are you doing?",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.07.29.mp3",
+        "timestamp": "0:07:29",
+        "characterWithSpace": "あっ お爺ちゃん 何 やってる の",
+        "katakanaWithSpace": "あっ  おじいちゃん  なに やってる の ？"
+    },
+    "94": {
+        "character": "お爺ちゃん？",
+        "definition": "Grandpa? You intruder!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.07.31.mp3",
+        "timestamp": "0:07:31",
+        "characterWithSpace": "お爺ちゃん",
+        "katakanaWithSpace": "おじいちゃん ？"
+    },
+    "95": {
+        "character": "違うわよ　リンリンは　お花屋さんよ",
+        "definition": "No, Rin Rin is a florist.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.07.36.mp3",
+        "timestamp": "0:07:36",
+        "characterWithSpace": "違う わよ リンリン は お 花屋 さん よ",
+        "katakanaWithSpace": "ちがう わよ  リンリン は  お はなや さん よ"
+    },
+    "96": {
+        "character": "ニチニチ　コレコー　ニチ…",
+        "definition": "Every day is a good day.",
+        "speaker": "GRANDPA",
+        "audio": "/audio/09/0.07.41.mp3",
+        "timestamp": "0:07:41",
+        "characterWithSpace": "ニチニチ コレコー ニチ",
+        "katakanaWithSpace": "ニチニチ  コレコー  ニチ …"
+    },
+    "97": {
+        "character": "ジョージョー　シャクリョー　セーコー　トーテー…",
+        "definition": "Consider the whole. {\\a6}High pressure west, low pressure east.",
+        "speaker": "GRANDPA",
+        "audio": "/audio/09/0.07.45.mp3",
+        "timestamp": "0:07:45",
+        "characterWithSpace": "ジョージョー シャク リョー セーコー トー テー",
+        "katakanaWithSpace": "ジョージョー  シャク リョー  セーコー  トー テー …"
+    },
+    "98": {
+        "character": "都合が悪くなると すぐとぼけるんだから",
+        "definition": "You always play dumb when things go wrong. {\\a6}A good and wise mother.",
+        "speaker": "MEIMEI",
+        "audio": "/audio/09/0.07.48.mp3",
+        "timestamp": "0:07:48",
+        "characterWithSpace": "都合が悪くなる と すぐ とぼける ん だから",
+        "katakanaWithSpace": "つごうがわるくなる と  すぐ とぼける ん だ から"
+    },
+    "99": {
+        "character": "アオゾラチューシャ…",
+        "definition": "{\\a6}Curbside parking.",
+        "speaker": "GRANDPA",
+        "audio": "/audio/09/0.07.51.mp3",
+        "timestamp": "0:07:51",
+        "characterWithSpace": "アオゾラチューシャ",
+        "katakanaWithSpace": "アオゾラチューシャ …"
+    },
+    "100": {
+        "character": "パンダ…　だ…",
+        "definition": "It's a panda.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.07.53.mp3",
+        "timestamp": "0:07:53",
+        "characterWithSpace": "パンダ だ",
+        "katakanaWithSpace": "パンダ … だ …"
+    },
+    "101": {
+        "character": "パンダお爺ちゃんの太極拳…　だ…",
+        "definition": "Panda Grandpa's... tai-chi!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.07.56.mp3",
+        "timestamp": "0:07:56",
+        "characterWithSpace": "パンダ お爺ちゃん の 太極拳 だ",
+        "katakanaWithSpace": "パンダ おじいちゃん の たいきょくけん … だ …"
+    },
+    "102": {
+        "character": "というわけで",
+        "definition": "So, it wasn't a panda merchandise store...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.08.04.mp3",
+        "timestamp": "0:08:04",
+        "characterWithSpace": "という わけ で",
+        "katakanaWithSpace": "という わけ で"
+    },
+    "103": {
+        "character": "花屋を営むこととなりました",
+        "definition": "but a flower shop that he started.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.08.08.mp3",
+        "timestamp": "0:08:08",
+        "characterWithSpace": "花屋 を 営む こと と なりました",
+        "katakanaWithSpace": "はなや を いとなむ こと と なりました"
+    },
+    "104": {
+        "character": "悲しすぎる…",
+        "definition": "It's so sad. I know it's made up, but I still can't stop crying.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.08.11.mp3",
+        "timestamp": "0:08:11",
+        "characterWithSpace": "悲しすぎる",
+        "katakanaWithSpace": "かなしすぎる …"
+    },
+    "105": {
+        "character": "思わず　リンリンに 優しくしちゃいそうだよ",
+        "definition": "I may feel like being nice to Rin Rin.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.08.17.mp3",
+        "timestamp": "0:08:17",
+        "characterWithSpace": "思わず リンリン に 優しくしちゃいそう だ よ",
+        "katakanaWithSpace": "おもわず  リンリン に  やさしくしちゃいそう だ よ"
+    },
+    "106": {
+        "character": "事情があるんだよ",
+        "definition": "He has his reasons.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.08.21.mp3",
+        "timestamp": "0:08:21",
+        "characterWithSpace": "事情 が ある ん だ よ",
+        "katakanaWithSpace": "じじょう が ある ん だ よ"
+    },
+    "107": {
+        "character": "それはあの眩しくも世知辛い国でのことだった",
+        "definition": "It was there in that glaring, cruel land...",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/09/0.08.22.mp3",
+        "timestamp": "0:08:22",
+        "characterWithSpace": "それは あの 眩しく も 世知辛い 国 で の こと だった",
+        "katakanaWithSpace": "それは あの まぶしく も せちがらい くに で の こと だった"
+    },
+    "108": {
+        "character": "いや　さすがに　もういい",
+        "definition": "No, that's enough already. Huh? Where am I?",
+        "speaker": "PENGUIN",
+        "audio": "/audio/09/0.08.27.mp3",
+        "timestamp": "0:08:27",
+        "characterWithSpace": "いや さすがに もういい",
+        "katakanaWithSpace": "いや  さすがに  もういい"
+    },
+    "109": {
+        "character": "イテテ…　あっ　そうか",
+        "definition": "Ow. Oh, that's right.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.08.46.mp3",
+        "timestamp": "0:08:46",
+        "characterWithSpace": "イテテ あっ そうか",
+        "katakanaWithSpace": "イテテ … あっ  そうか"
+    },
+    "110": {
+        "character": "パンダくんちに配達に来て　それで…",
+        "definition": "I came to deliver flowers to Panda's house and...",
+        "speaker": "",
+        "audio": "/audio/09/0.08.49.mp3",
+        "timestamp": "0:08:49",
+        "characterWithSpace": "パンダ くんち に 配達 に 来て それで",
+        "katakanaWithSpace": "パンダ くんち に はいたつ に きて  それで …"
+    },
+    "111": {
+        "character": "まいったな… 早く店に帰らなきゃ",
+        "definition": "This isn't good. I have to hurry and get back to the shop.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.08.52.mp3",
+        "timestamp": "0:08:52",
+        "characterWithSpace": "まいった な 早く 店 に 帰らなきゃ",
+        "katakanaWithSpace": "まいった な … はやく てん/みせ に かえらなきゃ"
+    },
+    "112": {
+        "character": "こ…　これは　パンダくんの…",
+        "definition": "T-This is, Panda's...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.08.58.mp3",
+        "timestamp": "0:08:58",
+        "characterWithSpace": "こ これ は パンダ くん の",
+        "katakanaWithSpace": "こ … これ は  パンダ くん の …"
+    },
+    "113": {
+        "character": "もしかして　この部屋は…",
+        "definition": "Could this room be...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.01.mp3",
+        "timestamp": "0:09:01",
+        "characterWithSpace": "もしかして この 部屋 は",
+        "katakanaWithSpace": "もしかして  この へや は …"
+    },
+    "114": {
+        "character": "パンダくんの部屋？",
+        "definition": "Panda's room?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.04.mp3",
+        "timestamp": "0:09:04",
+        "characterWithSpace": "パンダ くん の 部屋",
+        "katakanaWithSpace": "パンダ くん の へや ？"
+    },
+    "115": {
+        "character": "パンダくんのベッド… パンダくんのパンダクッション",
+        "definition": "Panda's bed! Panda's panda cushion!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.09.mp3",
+        "timestamp": "0:09:09",
+        "characterWithSpace": "パンダ くん の ベッド パンダ くん の パンダ クッション",
+        "katakanaWithSpace": "パンダ くん の ベッド … パンダ くん の パンダ クッション"
+    },
+    "116": {
+        "character": "パンダくんのパンダスリッパ！ パンダくんのシール…",
+        "definition": "Panda's panda slippers! Panda's sticker! This is the present I gave him.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.13.mp3",
+        "timestamp": "0:09:13",
+        "characterWithSpace": "パンダ くん の パンダ スリッパ パンダ くん の シール",
+        "katakanaWithSpace": "パンダ くん の パンダ スリッパ ！ パンダ くん の シール …"
+    },
+    "117": {
+        "character": "なんだよ… 大事にしてくれてるじゃん",
+        "definition": "He {\\i1}is{\\i0} taking good care of it. Baby pandas! They're so cute!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.21.mp3",
+        "timestamp": "0:09:21",
+        "characterWithSpace": "なんだ よ 大事にしてくれてる じゃん",
+        "katakanaWithSpace": "なんだ よ … だいじにして くれてる じゃん"
+    },
+    "118": {
+        "character": "さ…　触りたい",
+        "definition": "I want to touch them.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.45.mp3",
+        "timestamp": "0:09:45",
+        "characterWithSpace": "さ 触りたい",
+        "katakanaWithSpace": "さ … さわりたい"
+    },
+    "119": {
+        "character": "ダメだよ　それは観賞用だよ",
+        "definition": "No, no, that's for decoration. You're giving it to me?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.50.mp3",
+        "timestamp": "0:09:50",
+        "characterWithSpace": "ダメ だ よ それは 観賞 用 だ よ",
+        "katakanaWithSpace": "ダメ だ よ  それは かんしょう よう だ よ"
+    },
+    "120": {
+        "character": "かわいい！",
+        "definition": "So cute!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.09.59.mp3",
+        "timestamp": "0:09:59",
+        "characterWithSpace": "かわいい",
+        "katakanaWithSpace": "かわいい ！"
+    },
+    "121": {
+        "character": "お目覚め？　ごめんなさいね",
+        "definition": "Are you awake? Sorry about that. Grandpa's a little... Oh?",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.01.mp3",
+        "timestamp": "0:10:01",
+        "characterWithSpace": "お 目覚め ごめんなさい ね",
+        "katakanaWithSpace": "お めざめ ？ ごめんなさい ね"
+    },
+    "122": {
+        "character": "ありがとう！　おいしいな",
+        "definition": "Thank you. It tastes really good.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.10.07.mp3",
+        "timestamp": "0:10:07",
+        "characterWithSpace": "ありがとう おいしい な",
+        "katakanaWithSpace": "ありがとう ！ おいしい な"
+    },
+    "123": {
+        "character": "リンリン！？　それ　観賞用よ",
+        "definition": "Rin Rin, that's for decoration...",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.10.mp3",
+        "timestamp": "0:10:10",
+        "characterWithSpace": "リンリン それ 観賞 用 よ",
+        "katakanaWithSpace": "リンリン ！？ それ  かんしょう よう よ"
+    },
+    "124": {
+        "character": "っていうか　笹　食べるの？",
+        "definition": "Or rather, do you eat bamboo grass?",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.13.mp3",
+        "timestamp": "0:10:13",
+        "characterWithSpace": "っていうか 笹 食べる の",
+        "katakanaWithSpace": "っていうか  ささ  たべる の ？"
+    },
+    "125": {
+        "character": "えぇ　状況しだいでは",
+        "definition": "Yes, in certain situations.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.10.16.mp3",
+        "timestamp": "0:10:16",
+        "characterWithSpace": "えぇ 状況 し だい では",
+        "katakanaWithSpace": "えぇ  じょうきょう し だい で·は"
+    },
+    "126": {
+        "character": "まぁ　止めないけど…",
+        "definition": "Well, I won't stop you...",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.18.mp3",
+        "timestamp": "0:10:18",
+        "characterWithSpace": "まぁ 止めない けど",
+        "katakanaWithSpace": "まぁ  とめない/やめない けど …"
+    },
+    "127": {
+        "character": "あの…　お花代　まだ お支払いしてなかったでしょ？",
+        "definition": "Um, I haven't paid you for the flowers yet.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.21.mp3",
+        "timestamp": "0:10:21",
+        "characterWithSpace": "あの お 花代 まだ お 支払い してなかった でしょ",
+        "katakanaWithSpace": "あの … お はなだい  まだ  お しはらい してなかった でしょ ？"
+    },
+    "128": {
+        "character": "お代はいらないので 仔パンダ　抱っこさせてください！",
+        "definition": "I don't need payment. May I just hold the baby pandas?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.10.25.mp3",
+        "timestamp": "0:10:25",
+        "characterWithSpace": "お代 は いらない ので 仔 パンダ 抱っこさせてください",
+        "katakanaWithSpace": "おだい は いらない ので  こ パンダ  だっこ させて ください ！"
+    },
+    "129": {
+        "character": "いいけど…",
+        "definition": "Sure, but I'll still pay you.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.30.mp3",
+        "timestamp": "0:10:30",
+        "characterWithSpace": "いい けど",
+        "katakanaWithSpace": "いい けど …"
+    },
+    "130": {
+        "character": "あら…　ごめんなさい",
+        "definition": "Oh, I'm sorry.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.40.mp3",
+        "timestamp": "0:10:40",
+        "characterWithSpace": "あら ごめんなさい",
+        "katakanaWithSpace": "あら … ごめんなさい"
+    },
+    "131": {
+        "character": "うちの子人見知りで…",
+        "definition": "My children are rather shy.",
+        "speaker": "PANDAMAMA",
+        "audio": "/audio/09/0.10.44.mp3",
+        "timestamp": "0:10:44",
+        "characterWithSpace": "うち の 子 人見知り で",
+        "katakanaWithSpace": "うち の こ ひとみしり で …"
+    },
+    "132": {
+        "character": "幸せです！",
+        "definition": "I'm in heaven!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.10.46.mp3",
+        "timestamp": "0:10:46",
+        "characterWithSpace": "幸せ です",
+        "katakanaWithSpace": "しあわせ です ！"
+    },
+    "133": {
+        "character": "お花 こちらで　よろしいでしょうか？",
+        "definition": "Would these flowers be okay?",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.10.57.mp3",
+        "timestamp": "0:10:57",
+        "characterWithSpace": "お 花 こちら で よろしいでしょう か",
+        "katakanaWithSpace": "お はな  こちら で  よろしいでしょう か ？"
+    },
+    "134": {
+        "character": "厘太郎さん　どうしたのかしら？",
+        "definition": "I wonder what happened to Mr. Rintaro?",
+        "speaker": "GIRL",
+        "audio": "/audio/09/0.11.01.mp3",
+        "timestamp": "0:11:01",
+        "characterWithSpace": "厘 太 郎 さん どうしたの かしら",
+        "katakanaWithSpace": "りん ふと ろう さん  どうしたの かしら ？"
+    },
+    "135": {
+        "character": "傷だらけね",
+        "definition": "He was all scratched up.",
+        "speaker": "GIRL",
+        "audio": "/audio/09/0.11.03.mp3",
+        "timestamp": "0:11:03",
+        "characterWithSpace": "傷 だらけ ね",
+        "katakanaWithSpace": "きず だらけ ね"
+    },
+    "136": {
+        "character": "パンダママさんや　妹ちゃんとは 仲よくなれたんだ",
+        "definition": "{\\a6}I was able to become friends with Panda's mom {\\a6}and little sister.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.11.06.mp3",
+        "timestamp": "0:11:06",
+        "characterWithSpace": "パンダ ママさん や 妹 ちゃんと は 仲 よくなれた ん だ",
+        "katakanaWithSpace": "パンダ ママさん や  いもうと ちゃんと は  なか よくなれた ん だ"
+    },
+    "137": {
+        "character": "今度は　パンダお爺ちゃんと 仔パンダちゃんたち…",
+        "definition": "{\\a6}Next is Panda's grandpa and the babies.",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.11.11.mp3",
+        "timestamp": "0:11:11",
+        "characterWithSpace": "今度 は パンダ お爺ちゃん と 仔 パンダ ちゃん たち",
+        "katakanaWithSpace": "こんど は  パンダ おじいちゃん と  こ パンダ ちゃん たち …"
+    },
+    "138": {
+        "character": "そして　いずれは…",
+        "definition": "{\\a6}And someday...",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.11.15.mp3",
+        "timestamp": "0:11:15",
+        "characterWithSpace": "そして いずれ は",
+        "katakanaWithSpace": "そして  いずれ は …"
+    },
+    "139": {
+        "character": "ねぇ　ねぇ　半田さん",
+        "definition": "Hey, Mr. Handa.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.16.mp3",
+        "timestamp": "0:11:16",
+        "characterWithSpace": "ねぇ ねぇ 半田 さん",
+        "katakanaWithSpace": "ねぇ  ねぇ  はんだ さん"
+    },
+    "140": {
+        "character": "今日　帰りにさ…",
+        "definition": "On our way home today...",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.20.mp3",
+        "timestamp": "0:11:20",
+        "characterWithSpace": "今日 帰り に さ",
+        "katakanaWithSpace": "きょう  かえり に さ …"
+    },
+    "141": {
+        "character": "今日は　ダメ！　用事あるの",
+        "definition": "Not today. I have plans today.",
+        "speaker": "HANDA",
+        "audio": "/audio/09/0.11.21.mp3",
+        "timestamp": "0:11:21",
+        "characterWithSpace": "今日 は ダメ 用事 ある の",
+        "katakanaWithSpace": "きょう は  ダメ ！ ようじ ある の"
+    },
+    "142": {
+        "character": "ちょっとくらい　いいじゃん",
+        "definition": "Just for a little while?",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.26.mp3",
+        "timestamp": "0:11:26",
+        "characterWithSpace": "ちょっと くらい いい じゃん",
+        "katakanaWithSpace": "ちょっと くらい  いい じゃん"
+    },
+    "143": {
+        "character": "彼女もいないし　暇でしょ？",
+        "definition": "You don't have a girlfriend, so you should be free.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.28.mp3",
+        "timestamp": "0:11:28",
+        "characterWithSpace": "彼女 も いない し 暇 でしょ",
+        "katakanaWithSpace": "かのじょ も いない し  ひま でしょ ？"
+    },
+    "144": {
+        "character": "もう…　パンダくんより 女の子に追いかけられたいよ",
+        "definition": "Jeez, I wish girls would follow me instead of you, Panda.",
+        "speaker": "HANDA",
+        "audio": "/audio/09/0.11.31.mp3",
+        "timestamp": "0:11:31",
+        "characterWithSpace": "もう パンダ くん より 女の子 に 追いかけられたい よ",
+        "katakanaWithSpace": "もう … パンダ くん より  おんなのこ に おいかけられたい よ"
+    },
+    "145": {
+        "character": "あ～っ！　ひどい",
+        "definition": "Hey, that's mean.",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.35.mp3",
+        "timestamp": "0:11:35",
+        "characterWithSpace": "あ っ ひどい",
+        "katakanaWithSpace": "あ ～ っ ！ ひどい"
+    },
+    "146": {
+        "character": "パンダくんより　だと！？",
+        "definition": "\"Instead of pandas?\"",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.11.39.mp3",
+        "timestamp": "0:11:39",
+        "characterWithSpace": "パンダ くん より だ と",
+        "katakanaWithSpace": "パンダ くん より  だ と ！？"
+    },
+    "147": {
+        "character": "うらやましい！",
+        "definition": "I'm jealous!",
+        "speaker": "RINRIN",
+        "audio": "/audio/09/0.11.44.mp3",
+        "timestamp": "0:11:44",
+        "characterWithSpace": "うらやましい",
+        "katakanaWithSpace": "うらやましい ！"
+    },
+    "148": {
+        "character": "何か　視線を感じるんだけど…",
+        "definition": "I feel like someone's staring at me.",
+        "speaker": "HANDA",
+        "audio": "/audio/09/0.11.46.mp3",
+        "timestamp": "0:11:46",
+        "characterWithSpace": "何か 視線 を 感じる ん だけど",
+        "katakanaWithSpace": "なにか  しせん を かんじる ん だけど …"
+    },
+    "149": {
+        "character": "そう？",
+        "definition": "Really?",
+        "speaker": "PANDA",
+        "audio": "/audio/09/0.11.49.mp3",
+        "timestamp": "0:11:49",
+        "characterWithSpace": "そう",
+        "katakanaWithSpace": "そう ？"
+    }
+}

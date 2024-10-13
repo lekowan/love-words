@@ -1,0 +1,4480 @@
+{
+    "どうしたの": [
+        {
+            "kana": "どうしたの",
+            "definition": [
+                "what's the matter?; what's wrong?",
+                "what happened (to) ...?; what have you done (with) ...?; where is ...?"
+            ]
+        }
+    ],
+    "パンダ": [
+        {
+            "kana": "パンダ",
+            "definition": [
+                "panda"
+            ]
+        }
+    ],
+    "くん": [
+        {
+            "kana": "くん",
+            "definition": [
+                "native Japanese reading of a Chinese character",
+                "precept; lesson; one's teachings"
+            ]
+        },
+        {
+            "kana": "くん",
+            "definition": [
+                "Mr; master; boy",
+                "Ms; miss",
+                "sir; madam"
+            ]
+        }
+    ],
+    "ヒマ": [
+        {
+            "kana": "ヒマ",
+            "definition": [
+                "spare time; free time; leisure",
+                "time (it takes to do something); time required",
+                "time off; leave; vacation; holiday",
+                "dismissal; firing; severance; divorce",
+                "free; not busy; unoccupied; idle",
+                "slow (business); slack; dull",
+                "to be free; to be not busy; to be available; to be doing nothing"
+            ]
+        }
+    ],
+    "で": [
+        {
+            "kana": "で",
+            "definition": [
+                "at; in",
+                "at; when",
+                "by; with",
+                "and then; so",
+                "and; then",
+                "let me tell you; don't you know"
+            ]
+        },
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "超": [
+        {
+            "kana": "ちょう",
+            "definition": [
+                "super-; ultra-; hyper-; extreme",
+                "extremely; really; totally; absolutely",
+                "over; more than"
+            ]
+        }
+    ],
+    "退屈": [
+        {
+            "kana": "たいくつ",
+            "definition": [
+                "tedious; boring; dull; uninteresting; tiresome; monotonous",
+                "to feel bored; to get bored (with); to get tired (of)"
+            ]
+        }
+    ],
+    "な": [
+        {
+            "kana": "な",
+            "definition": [
+                "don't",
+                "do",
+                "hey; listen; look; say",
+                "now, ...; well, ...; I tell you!; you know",
+                "wow; ooh",
+                "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+                "indicates な-adjective"
+            ]
+        }
+    ],
+    "ん": [
+        {
+            "kana": "ん",
+            "definition": [
+                "yes; yeah; uh huh",
+                "huh?; what?",
+                "not",
+                "'s; of; belonging to",
+                "at (place, time); in; on; during"
+            ]
+        }
+    ],
+    "だ": [
+        {
+            "kana": "だ",
+            "definition": [
+                "be; is",
+                "did; (have) done",
+                "please; do"
+            ]
+        }
+    ],
+    "どうせ": [
+        {
+            "kana": "どうせ",
+            "definition": [
+                "anyhow; in any case; at any rate; after all; at all; no matter what",
+                "at best; at most"
+            ]
+        }
+    ],
+    "ゴロゴロしてる": [
+        {
+            "kanji": "ゴロゴロ",
+            "kana": "ゴロゴロ",
+            "definition": [
+                "rumbling (of thunder, one's stomach, etc.); grumbling; growling; purring",
+                "rolling (of something large and heavy); tumbling",
+                "all over the place; everywhere; commonly; in great numbers",
+                "idly; lazily; slothfully",
+                "(uncomfortable feeling of) having a foreign substance in one's eye, stomach, etc.",
+                "thunder"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "だけ": [
+        {
+            "kana": "だけ",
+            "definition": [
+                "only; just; merely; simply; no more than; nothing but; alone",
+                "as much as; to the extent of; enough to"
+            ]
+        }
+    ],
+    "でしょ": [
+        {
+            "kana": "でしょ",
+            "definition": [
+                "it seems; I think; I guess; I wonder",
+                "right?; don't you agree?"
+            ]
+        }
+    ],
+    "すぎる": [
+        {
+            "kana": "すぎる",
+            "definition": [
+                "to pass through; to pass by; to go beyond",
+                "to pass (of time); to elapse",
+                "to have expired; to have ended; to be over",
+                "to exceed; to surpass; to be above",
+                "to be no more than ...",
+                "to be excessive; to be too much; to be too ..."
+            ]
+        }
+    ],
+    "って": [
+        {
+            "kana": "って",
+            "definition": [
+                "you said; he said; she said; they said",
+                "even if",
+                "do you seriously think that",
+                "I already told you; you should know by now that; of course",
+                "the said ...; said ...",
+                "says that ...",
+                "I hear that ...",
+                "as for the term ...",
+                "as for ..."
+            ]
+        }
+    ],
+    "つらい": [
+        {
+            "kana": "つらい",
+            "definition": [
+                "painful; bitter; heart-breaking; difficult (emotionally)",
+                "tough; difficult; hard (usu. of situations)",
+                "cruel; harsh; cold"
+            ]
+        }
+    ],
+    "よ": [
+        {
+            "kana": "よ",
+            "definition": [
+                "hey; you",
+                "hey",
+                "hey; hold on",
+                "yo; hey"
+            ]
+        },
+        {
+            "kanji": "いい",
+            "kana": "いい",
+            "definition": [
+                "good; excellent; fine; nice; pleasant; agreeable",
+                "sufficient; enough; ready; prepared",
+                "profitable (deal, business offer, etc.); beneficial",
+                "OK; all right; fine; no problem"
+            ],
+            "type": "Adjective Stem  "
+        }
+    ],
+    "それに": [
+        {
+            "kana": "それに",
+            "definition": [
+                "besides; in addition; also; moreover"
+            ]
+        }
+    ],
+    "僕": [
+        {
+            "kana": "ぼく",
+            "definition": [
+                "I; me",
+                "you",
+                "manservant"
+            ]
+        }
+    ],
+    "は": [
+        {
+            "kana": "は",
+            "definition": [
+                "indicates sentence topic",
+                "indicates contrast with another option (stated or unstated)",
+                "adds emphasis"
+            ]
+        }
+    ],
+    "仕事": [
+        {
+            "kana": "しごと",
+            "definition": [
+                "work; job; labor; labour; business; task; assignment; occupation; employment",
+                "work"
+            ]
+        }
+    ],
+    "の": [
+        {
+            "kana": "の",
+            "definition": [
+                "indicates possessive",
+                "nominalizes verbs and adjectives",
+                "substitutes for \"ga\" in subordinate phrases",
+                "(at sentence-end, falling tone) indicates a confident conclusion",
+                "(at sentence-end) indicates emotional emphasis",
+                "(at sentence-end, rising tone) indicates question"
+            ]
+        }
+    ],
+    "ただ": [
+        {
+            "kana": "ただ",
+            "definition": [
+                "ordinary; common; usual",
+                "free of charge",
+                "unaffected; as is; safe",
+                "only; merely; just; simply",
+                "but; however; nevertheless"
+            ]
+        }
+    ],
+    "ゴロゴロ": [
+        {
+            "kana": "ゴロゴロ",
+            "definition": [
+                "rumbling (of thunder, one's stomach, etc.); grumbling; growling; purring",
+                "rolling (of something large and heavy); tumbling",
+                "all over the place; everywhere; commonly; in great numbers",
+                "idly; lazily; slothfully",
+                "(uncomfortable feeling of) having a foreign substance in one's eye, stomach, etc.",
+                "thunder"
+            ]
+        }
+    ],
+    "とは": [
+        {
+            "kanji": "と",
+            "kana": "と",
+            "definition": [
+                "if; when",
+                "and",
+                "with",
+                "used for quoting (thoughts, speech, etc.)",
+                "indicates a question"
+            ],
+            "type": "compound"
+        }
+    ],
+    "違う": [
+        {
+            "kana": "ちがう",
+            "definition": [
+                "to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with)",
+                "to be wrong; to be incorrect; to be mistaken",
+                "to become abnormal; to go wrong",
+                "isn't it?; wasn't it?"
+            ]
+        }
+    ],
+    "だから": [
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is",
+                "did; (have) done",
+                "please; do"
+            ],
+            "type": "compound"
+        }
+    ],
+    "意味": [
+        {
+            "kana": "いみ",
+            "definition": [
+                "meaning; significance; sense"
+            ]
+        }
+    ],
+    "が": [
+        {
+            "kana": "が",
+            "definition": [
+                "indicates sentence subject (occasionally object)",
+                "indicates possessive (esp. in literary expressions)",
+                "but; however; still; and",
+                "regardless of; whether (or not)"
+            ]
+        }
+    ],
+    "わからない": [
+        {
+            "kanji": "分かる",
+            "kana": "わかる",
+            "definition": [
+                "to understand; to comprehend; to grasp; to see; to get; to follow",
+                "to become clear; to be known; to be discovered; to be realized; to be realised; to be found out"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "も": [
+        {
+            "kana": "も",
+            "definition": [
+                "too; also; in addition; as well; (not) either (in a negative sentence)",
+                "both A and B; A as well as B; neither A nor B (in a negative sentence)",
+                "even; as much as; as many as; as far as; as long as; no less than; no fewer than",
+                "even if; even though; although; in spite of",
+                "further; more; again; another; the other"
+            ]
+        }
+    ],
+    "に": [
+        {
+            "kana": "に",
+            "definition": [
+                "at (place, time); in; on; during",
+                "to (direction, state); toward; into",
+                "for (purpose)",
+                "because of (reason); for; with",
+                "by; from",
+                "as (i.e. in the role of)",
+                "per; in; for; a (e.g. \"once a month\")",
+                "and; in addition to",
+                "if; although"
+            ]
+        }
+    ],
+    "なって": [
+        {
+            "kanji": "成る",
+            "kana": "なる",
+            "definition": [
+                "to become; to get; to grow; to turn; to reach; to attain",
+                "to result in; to turn out; to end up; to prove (to be)",
+                "to consist of; to be composed of; to be made up of",
+                "to be completed; to be realized; to succeed; to be attained; to be accomplished",
+                "to change (into); to turn (into); to transform",
+                "to come (to do); to begin (to do); to grow (to do)",
+                "to come to; to amount to; to add up to; to make",
+                "to play (the part of); to act as",
+                "to be used for; to be useful for; to serve as",
+                "to be promoted",
+                "to do ..."
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "ゴロゴロして": [
+        {
+            "kanji": "ゴロゴロ",
+            "kana": "ゴロゴロ",
+            "definition": [
+                "rumbling (of thunder, one's stomach, etc.); grumbling; growling; purring",
+                "rolling (of something large and heavy); tumbling",
+                "all over the place; everywhere; commonly; in great numbers",
+                "idly; lazily; slothfully",
+                "(uncomfortable feeling of) having a foreign substance in one's eye, stomach, etc.",
+                "thunder"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "みたい": [
+        {
+            "kanji": "み",
+            "kana": "み",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "見る",
+            "kana": "みる",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "Continuative (~i)  "
+        },
+        {
+            "kana": "みたい",
+            "definition": [
+                "-like; sort of; similar to; resembling"
+            ]
+        }
+    ],
+    "ね": [
+        {
+            "kana": "ね",
+            "definition": [
+                "right?; isn't it?; doesn't it?; don't you?; don't you think?",
+                "hey; say; listen; look; come on",
+                "you know; you see; I must say; I should think",
+                "will you?; please",
+                "so, ...; well, ...; you see, ...; you understand?",
+                "I'm not sure if ...; I have my doubts about whether ..."
+            ]
+        }
+    ],
+    "オヤツ": [
+        {
+            "kana": "オヤツ",
+            "definition": [
+                "between-meal snack",
+                "mid-afternoon (around 3 o'clock) snack; afternoon refreshment; afternoon tea"
+            ]
+        }
+    ],
+    "１": [
+        {
+            "kana": "ワン",
+            "definition": [
+                "one"
+            ]
+        },
+        {
+            "kana": "いち",
+            "definition": [
+                "one; 1",
+                "best",
+                "first; foremost",
+                "beginning; start",
+                "a (single); one (of many)",
+                "ace",
+                "bottom string (on a shamisen, etc.)"
+            ]
+        }
+    ],
+    "時間": [
+        {
+            "kana": "じかん",
+            "definition": [
+                "time",
+                "hour",
+                "period; class; lesson",
+                "hours (period of)"
+            ]
+        }
+    ],
+    "まるで": [
+        {
+            "kana": "まるで",
+            "definition": [
+                "quite; entirely; completely; at all",
+                "as if; as though; just like"
+            ]
+        }
+    ],
+    "セレブ": [
+        {
+            "kana": "セレブ",
+            "definition": [
+                "celeb; celebrity",
+                "wealthy person; rich person; socialite",
+                "affluent; wealthy; rich",
+                "glamorous; glam; elegant; exclusive"
+            ]
+        }
+    ],
+    "マダム": [
+        {
+            "kana": "マダム",
+            "definition": [
+                "madam; (married) woman; lady; housewife",
+                "proprietress (of a bar, coffee shop, etc.); manageress"
+            ]
+        }
+    ],
+    "コラ": [
+        {
+            "kana": "コラ",
+            "definition": [
+                "composite image; photomontage; photoshopped image"
+            ]
+        },
+        {
+            "kana": "コラ",
+            "definition": [
+                "kora (West-African instrument)"
+            ]
+        },
+        {
+            "kana": "コラ",
+            "definition": [
+                "kora layer; layer formed from volcanic ash on the southern part of the Satsuma Peninsula"
+            ]
+        }
+    ],
+    "何": [
+        {
+            "kana": "なに",
+            "definition": [
+                "what",
+                "you-know-what; that thing",
+                "whatsit; whachamacallit; what's-his-name; what's-her-name",
+                "penis; (one's) thing; dick",
+                "(not) at all; (not) in the slightest",
+                "what?; huh?",
+                "hey!; come on!",
+                "oh, no (it's fine); why (it's nothing); oh (certainly not)"
+            ]
+        },
+        {
+            "kana": "なん",
+            "definition": [
+                "what",
+                "how many",
+                "many; a lot of",
+                "several; a few; some"
+            ]
+        }
+    ],
+    "してる": [
+        {
+            "kanji": "して",
+            "kana": "して",
+            "definition": [
+                "to do; to carry out; to perform",
+                "to cause to become; to make (into); to turn (into)",
+                "to serve as; to act as; to work as",
+                "to wear (clothes, a facial expression, etc.)",
+                "to judge as being; to view as being; to think of as; to treat as; to use as",
+                "to decide on; to choose",
+                "to be sensed (of a smell, noise, etc.)",
+                "to be (in a state, condition, etc.)",
+                "to be worth; to cost",
+                "to pass (of time); to elapse",
+                "to place, or raise, person A to a post or status B",
+                "to transform A to B; to make A into B; to exchange A for B",
+                "to make use of A for B; to view A as B; to handle A as if it were B",
+                "to feel A about B",
+                "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                "to be just about to; to be just starting to; to try to; to attempt to"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [
+                "to do; to carry out; to perform",
+                "to cause to become; to make (into); to turn (into)",
+                "to serve as; to act as; to work as",
+                "to wear (clothes, a facial expression, etc.)",
+                "to judge as being; to view as being; to think of as; to treat as; to use as",
+                "to decide on; to choose",
+                "to be sensed (of a smell, noise, etc.)",
+                "to be (in a state, condition, etc.)",
+                "to be worth; to cost",
+                "to pass (of time); to elapse",
+                "to place, or raise, person A to a post or status B",
+                "to transform A to B; to make A into B; to exchange A for B",
+                "to make use of A for B; to view A as B; to handle A as if it were B",
+                "to feel A about B",
+                "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                "to be just about to; to be just starting to; to try to; to attempt to"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "です": [
+        {
+            "kana": "です",
+            "definition": [
+                "be; is"
+            ]
+        },
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is"
+            ],
+            "type": "Non-past  Formal"
+        }
+    ],
+    "か": [
+        {
+            "kana": "か",
+            "definition": [
+                "indicates a question",
+                "or; whether or not",
+                "some- (e.g. something, someone)",
+                "hmm; huh",
+                "very",
+                "-al; -ial; -ic; -ical; -ish; -y",
+                "in that way"
+            ]
+        }
+    ],
+    "だって": [
+        {
+            "kana": "だって",
+            "definition": [
+                "after all; because",
+                "but",
+                "even",
+                "too; as well; also",
+                "they say; I hear; you mean"
+            ]
+        }
+    ],
+    "お客さん": [
+        {
+            "kana": "おきゃくさん",
+            "definition": [
+                "guest; visitor",
+                "customer; client; shopper; spectator; audience; tourist; sightseer; passenger"
+            ]
+        }
+    ],
+    "いなく": [
+        {
+            "kanji": "い",
+            "kana": "い",
+            "definition": [
+                "to be (of animate objects); to exist",
+                "to stay",
+                "to be ...-ing; to have been ...-ing"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "居る",
+            "kana": "いる",
+            "definition": [
+                "to be (of animate objects); to exist",
+                "to stay",
+                "to be ...-ing; to have been ...-ing"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "て": [
+        {
+            "kana": "て",
+            "definition": [
+                "you said; he said; she said; they said",
+                "even if",
+                "do you seriously think that",
+                "I already told you; you should know by now that; of course",
+                "the said ...; said ...",
+                "says that ...",
+                "I hear that ...",
+                "as for the term ...",
+                "as for ..."
+            ]
+        }
+    ],
+    "もん": [
+        {
+            "kana": "もん",
+            "definition": [
+                "indicates reason or excuse",
+                "indicates dissatisfaction; indicates desire to be pampered or indulged"
+            ]
+        }
+    ],
+    "もう": [
+        {
+            "kana": "もう",
+            "definition": [
+                "already; yet; by now; now; (not) any more; (not) any longer",
+                "soon; shortly; before long; presently",
+                "further; more; again; another; the other",
+                "jeez; geez; gee; boy; come on; damn; seriously"
+            ]
+        }
+    ],
+    "ちゃぶ台": [
+        {
+            "kana": "ちゃぶだい",
+            "definition": [
+                "low dining table; tea table"
+            ]
+        }
+    ],
+    "なんか": [
+        {
+            "kana": "なんか",
+            "definition": [
+                "something like ...; things like ...; someone like ...; the likes of ..."
+            ]
+        }
+    ],
+    "持ち込んで": [
+        {
+            "kanji": "持ち込む",
+            "kana": "もちこむ",
+            "definition": [
+                "to bring in; to take in; to carry in",
+                "to approach (someone) with (a proposal, offer, problem, etc.); to bring; to lodge (a complaint); to propose (e.g. a project)",
+                "to bring (to another stage); to take (e.g. to court, to extra time, to a play-off)"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "いやぁ": [],
+    "気づかれない": [
+        {
+            "kanji": "気づく",
+            "kana": "きづく",
+            "definition": [
+                "to notice; to realize; to realise; to become aware (of); to perceive; to sense; to suspect",
+                "to regain consciousness; to come to (one's senses); to come round"
+            ],
+            "type": "Passive Negative "
+        }
+    ],
+    "ように": [
+        {
+            "kana": "ように",
+            "definition": [
+                "in order to (e.g. meet goal); so that; take care (so as)",
+                "hoping or wishing for something"
+            ]
+        }
+    ],
+    "持ち込む": [
+        {
+            "kana": "もちこむ",
+            "definition": [
+                "to bring in; to take in; to carry in",
+                "to approach (someone) with (a proposal, offer, problem, etc.); to bring; to lodge (a complaint); to propose (e.g. a project)",
+                "to bring (to another stage); to take (e.g. to court, to extra time, to a play-off)"
+            ]
+        }
+    ],
+    "大変": [
+        {
+            "kana": "たいへん",
+            "definition": [
+                "very; greatly; terribly; awfully",
+                "immense; enormous; great",
+                "serious; grave; dreadful; terrible",
+                "difficult; hard; challenging",
+                "major incident; disaster"
+            ]
+        }
+    ],
+    "まぁまぁ": [],
+    "落ち着いて": [
+        {
+            "kanji": "落ち着く",
+            "kana": "おちつく",
+            "definition": [
+                "to calm down; to compose oneself; to regain presence of mind; to relax",
+                "to calm down; to settle down; to die down; to become stable; to abate",
+                "to settle down (in a location, job, etc.); to settle in",
+                "to be settled (of an arrangement, conclusion, etc.); to be fixed; to have been reached",
+                "to harmonize with; to harmonise with; to match; to suit; to fit",
+                "to be unobtrusive; to be quiet; to be subdued"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "健康にいい": [
+        {
+            "kana": "けんこうにいい",
+            "definition": [
+                "good for the health; healthy; wholesome"
+            ]
+        }
+    ],
+    "熊笹": [
+        {
+            "kana": "くまざさ",
+            "definition": [
+                "kuma bamboo grass (Sasa veitchii); Veitch's bamboo"
+            ]
+        }
+    ],
+    "茶": [
+        {
+            "kana": "ちゃ",
+            "definition": [
+                "tea",
+                "tea plant (Camellia sinensis)",
+                "tea preparation; making tea",
+                "brown",
+                "mockery"
+            ]
+        }
+    ],
+    "でも": [
+        {
+            "kana": "でも",
+            "definition": [
+                "but; however; though; nevertheless; still; yet; even so; also; as well",
+                "even",
+                "however; no matter how; even if; even though",
+                "... or something",
+                "either ... or ...; neither ... nor ...",
+                "pseudo-; quack; in-name-only",
+                "for lack of anything better to do"
+            ]
+        }
+    ],
+    "一杯": [
+        {
+            "kana": "いっぱい",
+            "definition": [
+                "one cup (of); one glass (of); one bowl (of); cupful; glassful; bowlful; spoonful",
+                "one drink (of alcohol)",
+                "full; filled (with); brimming (with); crowded; packed",
+                "fully; to capacity; to the maximum; as much as possible",
+                "a lot; much; many",
+                "all of ...; the entire ...",
+                "one (squid, octopus, crab, etc.)",
+                "one (boat)"
+            ]
+        }
+    ],
+    "どう": [
+        {
+            "kana": "どう",
+            "definition": [
+                "how; in what way; how about"
+            ]
+        }
+    ],
+    "え": [
+        {
+            "kana": "え",
+            "definition": [
+                "eh?; what?; oh?",
+                "yes; that's correct",
+                "strengthens a question, assertion, etc.",
+                "hey"
+            ]
+        }
+    ],
+    "っ": [],
+    "含まれる": [
+        {
+            "kanji": "含む",
+            "kana": "ふくむ",
+            "definition": [
+                "to contain; to comprise; to have; to hold; to include; to embrace",
+                "to hold in the mouth",
+                "to bear in mind; to understand; to harbor (grudge, etc.); to harbour",
+                "to express (emotion, etc.); to imply"
+            ],
+            "type": "Passive  "
+        }
+    ],
+    "笹": [
+        {
+            "kana": "ささ",
+            "definition": [
+                "bamboo grass; generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)"
+            ]
+        }
+    ],
+    "多糖": [
+        {
+            "kana": "たとう",
+            "definition": [
+                "polysaccharide"
+            ]
+        }
+    ],
+    "体": [
+        {
+            "kana": "からだ",
+            "definition": [
+                "body",
+                "torso; trunk",
+                "build; physique; frame; figure",
+                "health; constitution",
+                "corpse; dead body"
+            ]
+        }
+    ],
+    "には": [
+        {
+            "kana": "には",
+            "definition": [
+                "to; for; on; in; at",
+                "in order to; for",
+                "as for; regarding",
+                "while it is (was) the case that ...; indeed ... (but); certainly ... (but)"
+            ]
+        }
+    ],
+    "ホント": [
+        {
+            "kana": "ホント",
+            "definition": [
+                "truth; reality; actuality; fact",
+                "proper; right; correct; official",
+                "genuine; authentic; real; natural; veritable"
+            ]
+        }
+    ],
+    "いや": [
+        {
+            "kana": "いや",
+            "definition": [
+                "no"
+            ]
+        },
+        {
+            "kana": "いや",
+            "definition": [
+                "disliking; not wanting; unwilling (to do); reluctant",
+                "unpleasant; disagreeable; nasty; horrible; disgusting; undesirable; unwelcome",
+                "no!; quit it!; stop!"
+            ]
+        },
+        {
+            "kana": "いや",
+            "definition": [
+                "oh; oh my; oh dear; wow",
+                "well, ...; er ...; why, ..."
+            ]
+        }
+    ],
+    "最近": [
+        {
+            "kana": "さいきん",
+            "definition": [
+                "recently; lately; these days; nowadays; right now",
+                "nearest; closest"
+            ]
+        }
+    ],
+    "メタボ": [
+        {
+            "kana": "メタボ",
+            "definition": [
+                "metabolic syndrome",
+                "overweight"
+            ]
+        }
+    ],
+    "気味": [
+        {
+            "kana": "きみ",
+            "definition": [
+                "sensation; feeling",
+                "tendency; propensity"
+            ]
+        },
+        {
+            "kana": "ぎみ",
+            "definition": [
+                "-like; -looking; -looked; tending to ..."
+            ]
+        }
+    ],
+    "さ": [
+        {
+            "kana": "さ",
+            "definition": [
+                "-ness",
+                "indicates assertion",
+                "come; come now"
+            ]
+        }
+    ],
+    "さっさと": [
+        {
+            "kana": "さっさと",
+            "definition": [
+                "quickly; promptly; immediately; without delay; briskly; hurriedly; hastily",
+                "indifferently; coldly"
+            ]
+        }
+    ],
+    "片付け": [
+        {
+            "kana": "かたづけ",
+            "definition": [
+                "tidying up; finishing"
+            ]
+        },
+        {
+            "kanji": "片付ける",
+            "kana": "かたづける",
+            "definition": [
+                "to tidy up; to put in order; to straighten up; to put away",
+                "to settle (problem); to clear (dispute)",
+                "to finish; to bring something to an end",
+                "to marry off (e.g. a daughter)",
+                "to do away with someone; to bump someone off"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "なさ": [
+        {
+            "kanji": "な",
+            "kana": "な",
+            "definition": [
+                "nonexistent; not being (there)",
+                "unowned; not had; unpossessed",
+                "unique",
+                "not; impossible; won't happen",
+                "not",
+                "to not be; to have not"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "無い",
+            "kana": "ない",
+            "definition": [
+                "nonexistent; not being (there)",
+                "unowned; not had; unpossessed",
+                "unique",
+                "not; impossible; won't happen",
+                "not",
+                "to not be; to have not"
+            ],
+            "type": "Adjective Stem  "
+        }
+    ],
+    "い": [],
+    "今": [
+        {
+            "kana": "いま",
+            "definition": [
+                "now; the present time; just now; soon; immediately",
+                "another; more"
+            ]
+        }
+    ],
+    "何時": [
+        {
+            "kana": "いつ",
+            "definition": [
+                "when; at what time; how soon",
+                "normal times; ordinary days"
+            ]
+        },
+        {
+            "kana": "なんじ",
+            "definition": [
+                "what time; which hour"
+            ]
+        }
+    ],
+    "寝てた": [
+        {
+            "kanji": "寝て",
+            "kana": "ねて",
+            "definition": [
+                "to sleep (lying down)",
+                "to go to bed; to lie in bed",
+                "to lie down",
+                "to sleep (with someone, i.e. have intercourse)",
+                "to lie flat (e.g. of hair)",
+                "to lie idle (of funds, stock, etc.)",
+                "to ferment (of soy sauce, miso, etc.)"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "寝る",
+            "kana": "ねる",
+            "definition": [
+                "to sleep (lying down)",
+                "to go to bed; to lie in bed",
+                "to lie down",
+                "to sleep (with someone, i.e. have intercourse)",
+                "to lie flat (e.g. of hair)",
+                "to lie idle (of funds, stock, etc.)",
+                "to ferment (of soy sauce, miso, etc.)"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "う": [],
+    "と": [
+        {
+            "kana": "と",
+            "definition": [
+                "if; when",
+                "and",
+                "with",
+                "used for quoting (thoughts, speech, etc.)",
+                "indicates a question"
+            ]
+        }
+    ],
+    "まだ": [
+        {
+            "kana": "まだ",
+            "definition": [
+                "still; as yet; only",
+                "(not) yet",
+                "more; (more) still",
+                "at least; comparatively; relatively",
+                "unfinished; incomplete; not yet done"
+            ]
+        }
+    ],
+    "１０時": [
+        {
+            "kana": "じゅうじ",
+            "definition": [
+                "ten o'clock"
+            ]
+        }
+    ],
+    "夢": [
+        {
+            "kana": "ゆめ",
+            "definition": [
+                "dream"
+            ]
+        }
+    ],
+    "中": [
+        {
+            "kana": "なか",
+            "definition": [
+                "inside; interior",
+                "among; within",
+                "middle; center; centre",
+                "during; while; middle; midst; amid",
+                "interval; gap",
+                "mean; average",
+                "second (of three, e.g. sons, volumes); middle",
+                "medium grade; medium quality",
+                "red-light district"
+            ]
+        },
+        {
+            "kana": "ちゅう",
+            "definition": [
+                "medium (size); average (grade, level, etc.); middle",
+                "in; within; out of (e.g. ten people); among",
+                "during; while; in (the course of); within (a period); throughout",
+                "currently (doing); in the process of; in the middle of; under (e.g. construction, investigation)",
+                "middle way; moderation",
+                "second volume (of three)",
+                "junior high school; middle school",
+                "China"
+            ]
+        }
+    ],
+    "では": [
+        {
+            "kanji": "で",
+            "kana": "で",
+            "definition": [
+                "at; in",
+                "at; when",
+                "by; with",
+                "and then; so",
+                "and; then",
+                "let me tell you; don't you know",
+                "be; is"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "アイドル": [
+        {
+            "kana": "アイドル",
+            "definition": [
+                "performer (usu. in a boy band or girl group) with an image cultivated to foster a dedicated fan following; Japanese idol",
+                "(cultural) icon; idol; star; celebrity; person who is greatly admired",
+                "idol (object of worship); image"
+            ]
+        }
+    ],
+    "歌手": [
+        {
+            "kana": "かしゅ",
+            "definition": [
+                "singer"
+            ]
+        }
+    ],
+    "として": [
+        {
+            "kana": "として",
+            "definition": [
+                "as (i.e. in the role of); for (i.e. from the viewpoint of)",
+                "apart from... (used to change the topic)",
+                "even (e.g. \"not even a single person\")",
+                "thinking that...; trying to..."
+            ]
+        },
+        {
+            "kanji": "とする",
+            "kana": "とする",
+            "definition": [
+                "to try to ...; to be about to do ...",
+                "to decide to ...",
+                "to take as; to treat as; to regard as",
+                "to use for",
+                "to suppose that (such) is the case; to assume",
+                "to decide that; to think that",
+                "to make into; to change into",
+                "to feel (e.g. after sound symbolism or psychological experience word); to look; to feel like",
+                "to intend; to have the intention"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "デビューして": [
+        {
+            "kanji": "デビュー",
+            "kana": "デビュー",
+            "definition": [
+                "debut; doing something for the first time",
+                "starting anew; starting afresh"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "年末": [
+        {
+            "kana": "ねんまつ",
+            "definition": [
+                "end-of-year"
+            ]
+        }
+    ],
+    "ヤマアラシ": [
+        {
+            "kana": "ヤマアラシ",
+            "definition": [
+                "porcupine; hedgehog"
+            ]
+        }
+    ],
+    "さん": [
+        {
+            "kana": "さん",
+            "definition": [
+                "Mr.; Mrs.; Miss; Ms.; -san",
+                "politeness marker"
+            ]
+        }
+    ],
+    "年越し": [
+        {
+            "kana": "としこし",
+            "definition": [
+                "greeting the New Year (on New Year's Eve); welcoming the New Year"
+            ]
+        }
+    ],
+    "カウント": [
+        {
+            "kana": "カウント",
+            "definition": [
+                "count; counting",
+                "count of balls and strikes",
+                "count (after a knock-down in boxing)",
+                "count (of radioactivity)"
+            ]
+        }
+    ],
+    "ダウン": [
+        {
+            "kana": "ダウン",
+            "definition": [
+                "fall; decrease; drop; going down",
+                "knocking down (in boxing); flooring; being knocked down; being floored",
+                "being out of action (due to illness, exhaustion, etc.); being down (e.g. with a cold); being knocked out (from alcohol); being out of it; collapsing",
+                "going down (of a computer system, server, etc.); crashing",
+                "(number of) outs",
+                "being down (in points, games, etc.); behind behind; trailing",
+                "down (American football)",
+                "down (feathers)"
+            ]
+        }
+    ],
+    "ライブ": [
+        {
+            "kana": "ライブ",
+            "definition": [
+                "live (broadcasting, music, etc.)",
+                "live performance; live concert",
+                "resonant (room, etc.); reverberating; echoey"
+            ]
+        }
+    ],
+    "まで": [
+        {
+            "kana": "まで",
+            "definition": [
+                "until (a time); till; to; up to",
+                "to (a place or person); as far as",
+                "to (an extent); up to; so far as; even",
+                "only; merely"
+            ]
+        }
+    ],
+    "した": [
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [
+                "to do; to carry out; to perform",
+                "to cause to become; to make (into); to turn (into)",
+                "to serve as; to act as; to work as",
+                "to wear (clothes, a facial expression, etc.)",
+                "to judge as being; to view as being; to think of as; to treat as; to use as",
+                "to decide on; to choose",
+                "to be sensed (of a smell, noise, etc.)",
+                "to be (in a state, condition, etc.)",
+                "to be worth; to cost",
+                "to pass (of time); to elapse",
+                "to place, or raise, person A to a post or status B",
+                "to transform A to B; to make A into B; to exchange A for B",
+                "to make use of A for B; to view A as B; to handle A as if it were B",
+                "to feel A about B",
+                "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                "to be just about to; to be just starting to; to try to; to attempt to"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "のに": [
+        {
+            "kana": "のに",
+            "definition": [
+                "although; despite; even though; and yet",
+                "whereas; while",
+                "if only; I wish",
+                "in order to"
+            ]
+        }
+    ],
+    "よく": [
+        {
+            "kana": "よく",
+            "definition": [
+                "nicely; properly; well; skillfully; skilfully",
+                "frequently; often",
+                "I'm glad that you ...; thank you for ...",
+                "(you have) quite the nerve to; I don't know how you can ..."
+            ]
+        },
+        {
+            "kanji": "いい",
+            "kana": "いい",
+            "definition": [
+                "good; excellent; fine; nice; pleasant; agreeable",
+                "sufficient; enough; ready; prepared",
+                "profitable (deal, business offer, etc.); beneficial",
+                "OK; all right; fine; no problem"
+            ],
+            "type": "Adverbial  "
+        }
+    ],
+    "そんな": [
+        {
+            "kana": "そんな",
+            "definition": [
+                "such; that sort of; that kind of; like that",
+                "no way!; never!"
+            ]
+        }
+    ],
+    "都合のいい": [
+        {
+            "kana": "つごうのいい",
+            "definition": [
+                "convenient"
+            ]
+        }
+    ],
+    "見られる": [
+        {
+            "kanji": "見る",
+            "kana": "みる",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "Passive  "
+        }
+    ],
+    "もんだ": [
+        {
+            "kanji": "もん",
+            "kana": "もん",
+            "definition": [
+                "thing; object; article; stuff; substance",
+                "one's things; possessions; property; belongings",
+                "things; something; anything; everything; nothing",
+                "quality",
+                "reason; the way of things",
+                "used to emphasize emotion, judgment, etc.; used to indicate a common occurrence in the past (after a verb in past tense); used to indicate a general tendency; used to indicate something that should happen",
+                "item classified as ...; item related to ...; work in the genre of ...",
+                "cause of ...; cause for ...",
+                "be; is",
+                "did; (have) done",
+                "please; do"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "揉む",
+            "kana": "もむ",
+            "definition": [
+                "to rub; to crumple",
+                "to massage",
+                "to argue; to have a heated discussion",
+                "to train; to coach",
+                "to jostle; to crowd; to shake; to rock",
+                "to have various experiences (out in the world)"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "誰": [
+        {
+            "kana": "だれ",
+            "definition": [
+                "who"
+            ]
+        }
+    ],
+    "一般常識": [
+        {
+            "kana": "いっぱんじょうしき",
+            "definition": [
+                "common sense; general knowledge; common knowledge"
+            ]
+        }
+    ],
+    "グサっと": [],
+    "きた": [
+        {
+            "kana": "きた",
+            "definition": [
+                "north",
+                "the North; northern territories",
+                "North Korea",
+                "north wind",
+                "Kita Ward, Tokyo Metropolis"
+            ]
+        },
+        {
+            "kanji": "着る",
+            "kana": "きる",
+            "definition": [
+                "to wear (from the shoulders down); to put on",
+                "to take (the blame, responsibility); to bear"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "娘さん": [
+        {
+            "kana": "むすめさん",
+            "definition": [
+                "daughter"
+            ]
+        }
+    ],
+    "２人": [
+        {
+            "kana": "ふたり",
+            "definition": [
+                "two persons; two people; pair; couple"
+            ]
+        }
+    ],
+    "いる": [
+        {
+            "kana": "いる",
+            "definition": [
+                "to be (of animate objects); to exist",
+                "to stay",
+                "to be ...-ing; to have been ...-ing"
+            ]
+        }
+    ],
+    "ファン": [
+        {
+            "kana": "ファン",
+            "definition": [
+                "fan; enthusiast; lover (of)",
+                "(electric) fan"
+            ]
+        }
+    ],
+    "じゃない": [
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "あんまり": [
+        {
+            "kana": "あんまり",
+            "definition": [
+                "(not) very; (not) much",
+                "too much; excessively; overly",
+                "extreme; great; severe; tremendous; terrible"
+            ]
+        }
+    ],
+    "会話": [
+        {
+            "kana": "かいわ",
+            "definition": [
+                "conversation; talk; chat"
+            ]
+        }
+    ],
+    "ない": [
+        {
+            "kanji": "有る",
+            "kana": "ある",
+            "definition": [
+                "to be; to exist; to live",
+                "to have",
+                "to be located",
+                "to be equipped with",
+                "to happen; to come about"
+            ],
+            "type": "Non-past Negative "
+        },
+        {
+            "kana": "ない",
+            "definition": [
+                "nonexistent; not being (there)",
+                "unowned; not had; unpossessed",
+                "unique",
+                "not; impossible; won't happen",
+                "not",
+                "to not be; to have not"
+            ]
+        }
+    ],
+    "し": [
+        {
+            "kana": "し",
+            "definition": [
+                "and; besides; moreover; what's more; not only ... but also",
+                "because; since",
+                "the thing is; for one thing"
+            ]
+        }
+    ],
+    "注": [
+        {
+            "kana": "ちゅう",
+            "definition": [
+                "annotation; explanatory note; comment"
+            ]
+        }
+    ],
+    "嘿": [],
+    "看": [
+        {
+            "kanji": "看る",
+            "kana": "みる",
+            "definition": [
+                "to look after (often medically); to take care of"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "那边": [],
+    "日本": [
+        {
+            "kana": "にほん",
+            "definition": [
+                "Japan"
+            ]
+        }
+    ],
+    "儿": [],
+    "童": [
+        {
+            "kana": "わらべ",
+            "definition": [
+                "child"
+            ]
+        }
+    ],
+    "游戏": [],
+    "猜": [],
+    "拳": [
+        {
+            "kana": "こぶし",
+            "definition": [
+                "fist"
+            ]
+        }
+    ],
+    "的": [
+        {
+            "kana": "てき",
+            "definition": [
+                "-ical; -ive; -al; -ic; -y",
+                "-like; -ish; -sort of; -kind of",
+                "(something) like; along the lines of",
+                "-wise; in terms of; for; from the viewpoint of; from a ... standpoint; as far as ... is concerned",
+                "Mr.; Ms.; Mrs."
+            ]
+        },
+        {
+            "kana": "まと",
+            "definition": [
+                "mark; target",
+                "object; subject; focus",
+                "point (e.g. of argument)"
+            ]
+        }
+    ],
+    "赢": [],
+    "家": [
+        {
+            "kana": "いえ",
+            "definition": [
+                "house; residence; dwelling",
+                "family; household",
+                "lineage; family name"
+            ]
+        },
+        {
+            "kana": "け",
+            "definition": [
+                "house; family"
+            ]
+        },
+        {
+            "kana": "うち",
+            "definition": [
+                "one's house; one's home; one's family; one's household",
+                "house"
+            ]
+        }
+    ],
+    "手指": [
+        {
+            "kana": "てゆび",
+            "definition": [
+                "finger",
+                "hands and fingers; hands"
+            ]
+        }
+    ],
+    "一个": [
+        {
+            "kana": "いっか",
+            "definition": [
+                "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted); a noun read using its on-yomi"
+            ]
+        }
+    ],
+    "方向": [
+        {
+            "kana": "ほうこう",
+            "definition": [
+                "direction; orientation; bearing; way",
+                "course (e.g. of action)"
+            ]
+        }
+    ],
+    "输": [],
+    "不能": [
+        {
+            "kana": "ふのう",
+            "definition": [
+                "impossible; incapable (of doing); unable (to do)",
+                "incompetence; inability",
+                "impotence",
+                "having no solution (of an equation)"
+            ]
+        }
+    ],
+    "把": [
+        {
+            "kana": "わ",
+            "definition": [
+                "counter for bundles"
+            ]
+        }
+    ],
+    "头转向那": [],
+    "个": [
+        {
+            "kana": "か",
+            "definition": [
+                "counter for the ichi-ni-san counting system (usu. directly preceding the item being counted); a noun read using its on-yomi"
+            ]
+        }
+    ],
+    "若": [
+        {
+            "kana": "わか",
+            "definition": [
+                "youth",
+                "child (esp. of the young son of someone of high social standing)",
+                "young; new"
+            ]
+        },
+        {
+            "kanji": "若い",
+            "kana": "わかい",
+            "definition": [
+                "young; youthful",
+                "immature; green",
+                "low (number); small"
+            ],
+            "type": "Adjective Stem  "
+        }
+    ],
+    "一致": [
+        {
+            "kana": "いっち",
+            "definition": [
+                "agreement; accord; correspondence; consistency; coincidence",
+                "union; unity; cooperation"
+            ]
+        }
+    ],
+    "则赢": [],
+    "胜": [],
+    "不一致": [
+        {
+            "kana": "ふいっち",
+            "definition": [
+                "discrepancy; discord; disagreement; mismatch; dissonance"
+            ]
+        }
+    ],
+    "则": [],
+    "重": [
+        {
+            "kana": "おも",
+            "definition": [
+                "chief; main; principal; important",
+                "main secondary or supporting role (in kyogen)"
+            ]
+        },
+        {
+            "kanji": "重い",
+            "kana": "おもい",
+            "definition": [
+                "heavy; weighty",
+                "heavy (feeling); depressed; gloomy; blue; uneasy",
+                "slow; sluggish; lumbering; ponderous; clumsy",
+                "important (position, responsibility, etc.); serious; grave",
+                "serious (punishment, illness, etc.); severe; critical",
+                "solid; established; dignified; sensible"
+            ],
+            "type": "Adjective Stem  "
+        }
+    ],
+    "新": [
+        {
+            "kana": "しん",
+            "definition": [
+                "new; neo-",
+                "newness; novelty",
+                "Gregorian calendar",
+                "Xin dynasty (of China; 9-23 CE); Hsin dynasty"
+            ]
+        }
+    ],
+    "いい": [
+        {
+            "kana": "いい",
+            "definition": [
+                "good; excellent; fine; nice; pleasant; agreeable",
+                "sufficient; enough; ready; prepared",
+                "profitable (deal, business offer, etc.); beneficial",
+                "OK; all right; fine; no problem"
+            ]
+        }
+    ],
+    "ジャンケン": [
+        {
+            "kana": "ジャンケン",
+            "definition": [
+                "rock-paper-scissors (game); janken"
+            ]
+        }
+    ],
+    "ポン": [
+        {
+            "kana": "ポン",
+            "definition": [
+                "pat; tap; clap; slap; smack",
+                "pop; crack",
+                "cutesy suffix applied to names"
+            ]
+        },
+        {
+            "kana": "ポン",
+            "definition": [
+                "forming a pung by picking up a tile discarded by another player"
+            ]
+        },
+        {
+            "kana": "ポン",
+            "definition": [
+                "methamphetamine"
+            ]
+        }
+    ],
+    "あっち": [
+        {
+            "kana": "あっち",
+            "definition": [
+                "that way; that direction; over there; yonder",
+                "that (one)",
+                "that person",
+                "there; over there; foreign country (esp. a Western nation)"
+            ]
+        }
+    ],
+    "向いて": [
+        {
+            "kanji": "向く",
+            "kana": "むく",
+            "definition": [
+                "to turn toward; to look (up, down, etc.)",
+                "to face (e.g. east) (of a building, window, etc.); to look out on; to front (on)",
+                "to point (of an arrow, compass needle, etc.)",
+                "to be suited to; to be fit for",
+                "to go towards; to turn to (of one's interests, feelings, etc.); to be inclined (to do)"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "ホイ": [
+        {
+            "kana": "ホイ",
+            "definition": [
+                "heave-ho",
+                "oops",
+                "yes; yeah"
+            ]
+        }
+    ],
+    "もしかして": [
+        {
+            "kana": "もしかして",
+            "definition": [
+                "perhaps; possibly; maybe; by any chance; if I'm not mistaken",
+                "if; in case; in the event that"
+            ]
+        }
+    ],
+    "私": [
+        {
+            "kana": "わたし",
+            "definition": [
+                "I; me"
+            ]
+        }
+    ],
+    "を": [
+        {
+            "kana": "を",
+            "definition": [
+                "indicates direct object of action",
+                "indicates subject of causative expression",
+                "indicates an area traversed",
+                "indicates time (period) over which action takes place",
+                "indicates point of departure or separation of action",
+                "indicates object of desire, like, hate, etc."
+            ]
+        }
+    ],
+    "バカにしてる": [
+        {
+            "kanji": "バカにして",
+            "kana": "バカにして",
+            "definition": [
+                "to make fun of; to look down on; to make light of"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "バカにする",
+            "kana": "バカにする",
+            "definition": [
+                "to make fun of; to look down on; to make light of"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "さっき": [
+        {
+            "kana": "さっき",
+            "definition": [
+                "a short while ago; a moment ago; just now; some time ago"
+            ]
+        }
+    ],
+    "寝違えて": [
+        {
+            "kanji": "寝違える",
+            "kana": "ねちがえる",
+            "definition": [
+                "to get a crick in one's neck (while sleeping)"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "右": [
+        {
+            "kana": "みぎ",
+            "definition": [
+                "right; right-hand side",
+                "afore-mentioned (esp. in vertical Japanese writing); foregoing; forgoing; above"
+            ]
+        }
+    ],
+    "しか": [
+        {
+            "kana": "しか",
+            "definition": [
+                "nothing but; except; no more than"
+            ]
+        }
+    ],
+    "首": [
+        {
+            "kana": "くび",
+            "definition": [
+                "neck",
+                "head",
+                "dismissal (from a job); firing; sacking"
+            ]
+        }
+    ],
+    "回らなくなっちゃった": [
+        {
+            "kanji": "回ら",
+            "kana": "まわら",
+            "definition": [
+                "to turn; to rotate; to revolve; to spin",
+                "to go around; to circle; to revolve around; to orbit",
+                "to make the rounds (of); to go around (several places); to travel around; to make a tour of; to patrol",
+                "to go by way of; to go via; to stop by (on the way); to take a roundabout route; to make a detour",
+                "to move around (to another place or position); to come around; to go over (e.g. to the opposing side)",
+                "to come around (of one's turn); to be passed around (of a cup, circular, etc.)",
+                "to function; to work well",
+                "to spread; to extend (to; e.g. of one's attention); to reach; to take effect (of alcohol, poison, etc.)",
+                "to pass (a time); to turn (e.g. 5 o'clock)",
+                "to earn interest",
+                "to ... around; to ... about"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "回る",
+            "kana": "まわる",
+            "definition": [
+                "to turn; to rotate; to revolve; to spin",
+                "to go around; to circle; to revolve around; to orbit",
+                "to make the rounds (of); to go around (several places); to travel around; to make a tour of; to patrol",
+                "to go by way of; to go via; to stop by (on the way); to take a roundabout route; to make a detour",
+                "to move around (to another place or position); to come around; to go over (e.g. to the opposing side)",
+                "to come around (of one's turn); to be passed around (of a cup, circular, etc.)",
+                "to function; to work well",
+                "to spread; to extend (to; e.g. of one's attention); to reach; to take effect (of alcohol, poison, etc.)",
+                "to pass (a time); to turn (e.g. 5 o'clock)",
+                "to earn interest",
+                "to ... around; to ... about"
+            ],
+            "type": "Negative Stem Negative "
+        }
+    ],
+    "ねぇ": [],
+    "作ってる": [
+        {
+            "kanji": "作って",
+            "kana": "つくって",
+            "definition": [
+                "to make; to produce; to manufacture; to build; to construct",
+                "to prepare (food); to brew (alcohol)",
+                "to raise; to grow; to cultivate; to train",
+                "to till",
+                "to draw up (a document); to make out; to prepare; to write",
+                "to create (an artistic work, etc.); to compose",
+                "to coin (a phrase); to organize; to organise; to establish; to found",
+                "to have (a child)",
+                "to make up (one's face, etc.)",
+                "to fabricate (an excuse, etc.)",
+                "to give a (false) appearance; to feign (a smile, etc.); to put on a show of emotion",
+                "to form (a line, etc.)",
+                "to set (a record)",
+                "to commit (a sin, etc.)"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "作る",
+            "kana": "つくる",
+            "definition": [
+                "to make; to produce; to manufacture; to build; to construct",
+                "to prepare (food); to brew (alcohol)",
+                "to raise; to grow; to cultivate; to train",
+                "to till",
+                "to draw up (a document); to make out; to prepare; to write",
+                "to create (an artistic work, etc.); to compose",
+                "to coin (a phrase); to organize; to organise; to establish; to found",
+                "to have (a child)",
+                "to make up (one's face, etc.)",
+                "to fabricate (an excuse, etc.)",
+                "to give a (false) appearance; to feign (a smile, etc.); to put on a show of emotion",
+                "to form (a line, etc.)",
+                "to set (a record)",
+                "to commit (a sin, etc.)"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "宇宙": [
+        {
+            "kana": "うちゅう",
+            "definition": [
+                "universe; cosmos; space"
+            ]
+        }
+    ],
+    "机": [
+        {
+            "kana": "つくえ",
+            "definition": [
+                "desk"
+            ]
+        }
+    ],
+    "兵": [
+        {
+            "kana": "へい",
+            "definition": [
+                "(common) soldier; rank and file",
+                "army; troops",
+                "warfare; strategy"
+            ]
+        }
+    ],
+    "年": [
+        {
+            "kana": "はちじゅうねん",
+            "definition": [
+                "counter for years (e.g. of an era), grades (e.g. school)"
+            ]
+        }
+    ],
+    "代": [
+        {
+            "kana": "だい",
+            "definition": [
+                "charge; cost; price",
+                "generation; age; (school) year; cohort; reign",
+                "era",
+                "a representative of; on behalf of; for (someone)",
+                "switchboard number",
+                "counter for decades of ages, eras, etc.",
+                "counter for generations (of inheritors to a throne, etc.)",
+                "proxy application company",
+                "pronoun"
+            ]
+        }
+    ],
+    "制作": [
+        {
+            "kana": "せいさく",
+            "definition": [
+                "work (film, book)",
+                "production; creation; turning (something) out; development"
+            ]
+        }
+    ],
+    "械": [
+        {
+            "kana": "かせ",
+            "definition": [
+                "shackles; fetters; irons; handcuffs; restraint; constraint",
+                "bonds (e.g. family); ties; binding relationship; binding relationships; encumbrance"
+            ]
+        }
+    ],
+    "动": [],
+    "画": [
+        {
+            "kana": "かく",
+            "definition": [
+                "stroke (of a kanji, etc.)"
+            ]
+        }
+    ],
+    "奇兵": [
+        {
+            "kana": "きへい",
+            "definition": [
+                "irregular soldiers; commandos"
+            ]
+        }
+    ],
+    "ふ": [],
+    "これ": [
+        {
+            "kana": "これ",
+            "definition": [
+                "this; this one",
+                "this person",
+                "now; this point (in time)",
+                "here",
+                "used to stress the subject of a sentence",
+                "I; me"
+            ]
+        }
+    ],
+    "プレミア": [
+        {
+            "kana": "プレミア",
+            "definition": [
+                "premium",
+                "premiere"
+            ]
+        }
+    ],
+    "もので": [
+        {
+            "kana": "もので",
+            "definition": [
+                "conjunctive particle indicating a cause or reason"
+            ]
+        }
+    ],
+    "ネット": [
+        {
+            "kana": "ネット",
+            "definition": [
+                "network",
+                "Internet",
+                "net (e.g. hairnet, tennis net)",
+                "net (price, weight, etc.); nett"
+            ]
+        }
+    ],
+    "オークション": [
+        {
+            "kana": "オークション",
+            "definition": [
+                "auction"
+            ]
+        }
+    ],
+    "落札する": [
+        {
+            "kanji": "落札",
+            "kana": "らくさつ",
+            "definition": [
+                "successful bid; winning a tender"
+            ],
+            "type": "compound"
+        }
+    ],
+    "だった": [
+        {
+            "kana": "だった",
+            "definition": [
+                "was; were"
+            ]
+        },
+        {
+            "kanji": "だ",
+            "kana": "だ",
+            "definition": [
+                "be; is"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "らふ": [
+        {
+            "kana": "らふ",
+            "definition": [
+                "nude woman; naked woman"
+            ]
+        }
+    ],
+    "はやめて": [
+        {
+            "kanji": "早める",
+            "kana": "はやめる",
+            "definition": [
+                "to bring forward (e.g. by 3 hours); to advance; to hasten (e.g. one's death); to expedite; to precipitate",
+                "to quicken (e.g. one's step); to speed up; to accelerate"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "常勤": [
+        {
+            "kana": "じょうきん",
+            "definition": [
+                "full-time employment"
+            ]
+        }
+    ],
+    "モデラー": [
+        {
+            "kana": "モデラー",
+            "definition": [
+                "modeller; modeler"
+            ]
+        }
+    ],
+    "なんて": [
+        {
+            "kana": "なんて",
+            "definition": [
+                "how ...!; what ...!",
+                "what?; what's that?"
+            ]
+        },
+        {
+            "kana": "なんて",
+            "definition": [
+                "things like; something like; someone like; such a thing as; (the fact) that; to think that"
+            ]
+        }
+    ],
+    "知らなかった": [
+        {
+            "kanji": "知らない",
+            "kana": "しらない",
+            "definition": [
+                "unknown; strange"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "プラモ": [
+        {
+            "kana": "プラモ",
+            "definition": [
+                "plastic model"
+            ]
+        }
+    ],
+    "男": [
+        {
+            "kana": "おとこ",
+            "definition": [
+                "man; male",
+                "fellow; guy; chap; bloke",
+                "male lover; boyfriend; man",
+                "manliness; manly honor; manly honour; manly reputation"
+            ]
+        }
+    ],
+    "ロマン": [
+        {
+            "kana": "ロマン",
+            "definition": [
+                "romance (e.g. Arthurian romances); heroic tale",
+                "(nigh) impossible dream; adventurous spirit; great undertaking; epic adventure",
+                "(full-length) novel",
+                "romance; love affair",
+                "romanticism"
+            ]
+        }
+    ],
+    "コレクション": [
+        {
+            "kana": "コレクション",
+            "definition": [
+                "collection (of art, stamps, etc.); collecting",
+                "collection (i.e. a range of new clothes); fashion show"
+            ]
+        }
+    ],
+    "見たい": [
+        {
+            "kanji": "見",
+            "kana": "み",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "見る",
+            "kana": "みる",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "どこ": [
+        {
+            "kana": "どこ",
+            "definition": [
+                "where; what place",
+                "how much (long, far); what extent"
+            ]
+        }
+    ],
+    "ある": [
+        {
+            "kana": "ある",
+            "definition": [
+                "to be; to exist; to live",
+                "to have",
+                "to be located",
+                "to be equipped with",
+                "to happen; to come about"
+            ]
+        },
+        {
+            "kana": "ある",
+            "definition": [
+                "a certain ...; some ..."
+            ]
+        }
+    ],
+    "にも": [
+        {
+            "kana": "にも",
+            "definition": [
+                "also; too; not ... either; as well; even",
+                "(it's not possible) no matter what; although one might wish otherwise"
+            ]
+        }
+    ],
+    "たくさん": [
+        {
+            "kana": "たくさん",
+            "definition": [
+                "a lot; lots; plenty; many; a large number; much; a great deal; a good deal",
+                "enough; sufficient",
+                "enough; too many; too much"
+            ]
+        }
+    ],
+    "だけど": [
+        {
+            "kana": "だけど",
+            "definition": [
+                "however"
+            ]
+        }
+    ],
+    "狭くなる": [
+        {
+            "kanji": "狭く",
+            "kana": "せまく",
+            "definition": [
+                "narrow; confined; small; cramped",
+                "limited; narrow-minded; confining"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "狭い",
+            "kana": "せまい",
+            "definition": [
+                "narrow; confined; small; cramped",
+                "limited; narrow-minded; confining"
+            ],
+            "type": "Adverbial  "
+        }
+    ],
+    "から": [
+        {
+            "kana": "から",
+            "definition": [
+                "from (e.g. time, place, numerical quantity); since",
+                "from (originator); by",
+                "because; since",
+                "out of (constituent, part)",
+                "through (e.g. window, vestibule)",
+                "after; since",
+                "expresses sympathy or warning"
+            ]
+        }
+    ],
+    "家族": [
+        {
+            "kana": "かぞく",
+            "definition": [
+                "family"
+            ]
+        }
+    ],
+    "迷惑": [
+        {
+            "kana": "めいわく",
+            "definition": [
+                "trouble; bother; annoyance; nuisance; inconvenience",
+                "to be troubled (by); to be bothered (by); to be inconvenienced (by)"
+            ]
+        }
+    ],
+    "がられてて": [
+        {
+            "kanji": "がられて",
+            "kana": "がられて",
+            "definition": [
+                "to show signs of being; to feel; to think",
+                "to behave as if one were; to pretend; to act as if"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "がる",
+            "kana": "がる",
+            "definition": [
+                "to show signs of being; to feel; to think",
+                "to behave as if one were; to pretend; to act as if"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "奥さん": [
+        {
+            "kana": "おくさん",
+            "definition": [
+                "wife; your wife; his wife; married lady; madam"
+            ]
+        }
+    ],
+    "お腹": [
+        {
+            "kana": "おなか",
+            "definition": [
+                "belly; abdomen; stomach"
+            ]
+        }
+    ],
+    "３人目": [
+        {
+            "kana": "さんにんめ",
+            "definition": [
+                "counter for people"
+            ]
+        }
+    ],
+    "４人目": [
+        {
+            "kana": "よにんめ",
+            "definition": [
+                "counter for people"
+            ]
+        }
+    ],
+    "入ってる": [
+        {
+            "kanji": "入って",
+            "kana": "はいって",
+            "definition": [
+                "to enter; to come in; to go in; to get in; to arrive",
+                "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into",
+                "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)",
+                "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated",
+                "to be introduced; to be brought in; to be installed",
+                "to be received; to be obtained",
+                "to be scored (of points); to be won (of votes)",
+                "to turn on; to start functioning; to start working",
+                "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin",
+                "to form (of a crack, fissure, etc.); to develop",
+                "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)",
+                "to be ready (of tea, coffee, etc.); to be made",
+                "to enter the body (of alcohol); to become drunk"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "入る",
+            "kana": "はいる",
+            "definition": [
+                "to enter; to come in; to go in; to get in; to arrive",
+                "to join (a club, company, etc.); to enter (a university, the army, etc.); to enroll (in); to go into (e.g. politics); to get into",
+                "to be contained (in); to be included (in); to be inside (e.g. a box); to come under (a heading); to belong (in a category)",
+                "to (be able to) fit (in a container, building, etc.); to be (able to be) held; to be (able to be) accommodated",
+                "to be introduced; to be brought in; to be installed",
+                "to be received; to be obtained",
+                "to be scored (of points); to be won (of votes)",
+                "to turn on; to start functioning; to start working",
+                "to enter (a month, season, etc.); to reach (e.g. a climax); to get to (e.g. the main topic); to enter into (e.g. negotiations); to start (doing); to begin",
+                "to form (of a crack, fissure, etc.); to develop",
+                "to be put in (of effort, spirit, feeling, etc.); to be applied (e.g. of strength)",
+                "to be ready (of tea, coffee, etc.); to be made",
+                "to enter the body (of alcohol); to become drunk"
+            ],
+            "type": "Conjunctive (~te)  "
+        },
+        {
+            "kanji": "入って",
+            "kana": "いって",
+            "definition": [
+                "to enter; to go in; to get in; to come in",
+                "to set (of the sun or moon); to sink; to go down",
+                "to attain (nirvana, enlightenment, etc.); to achieve; to reach (e.g. a climax)",
+                "to do fully; to do intently; to do sincerely; to do deeply; to feel keenly",
+                "to (reach a state) completely"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "入る",
+            "kana": "いる",
+            "definition": [
+                "to enter; to go in; to get in; to come in",
+                "to set (of the sun or moon); to sink; to go down",
+                "to attain (nirvana, enlightenment, etc.); to achieve; to reach (e.g. a climax)",
+                "to do fully; to do intently; to do sincerely; to do deeply; to feel keenly",
+                "to (reach a state) completely"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "かも": [
+        {
+            "kana": "かも",
+            "definition": [
+                "may; might; perhaps; may be; possibly"
+            ]
+        }
+    ],
+    "やめて": [
+        {
+            "kanji": "止める",
+            "kana": "やめる",
+            "definition": [
+                "to stop (an activity); to cease; to discontinue; to end; to quit",
+                "to cancel; to abandon; to give up; to abolish; to abstain; to refrain"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "はい": [
+        {
+            "kana": "はい",
+            "definition": [
+                "yes; that is correct",
+                "understood; I see; OK; okay",
+                "present; here",
+                "pardon?; what's that?; come again?",
+                "now; here; here you go",
+                "giddy-up; giddap"
+            ]
+        },
+        {
+            "kana": "はい",
+            "definition": [
+                "lung"
+            ]
+        }
+    ],
+    "しろくま": [
+        {
+            "kana": "しろくま",
+            "definition": [
+                "polar bear (Ursus maritimus)"
+            ]
+        }
+    ],
+    "カフェ": [
+        {
+            "kana": "カフェ",
+            "definition": [
+                "café; cafe; coffeehouse",
+                "hostess bar (serving western alcoholic beverages; Taisho and Showa period)"
+            ]
+        }
+    ],
+    "シロクマ": [
+        {
+            "kana": "シロクマ",
+            "definition": [
+                "polar bear (Ursus maritimus)"
+            ]
+        }
+    ],
+    "じゃあ": [
+        {
+            "kana": "じゃあ",
+            "definition": [
+                "then; well; so; well then"
+            ]
+        }
+    ],
+    "りんご": [
+        {
+            "kana": "りんご",
+            "definition": [
+                "apple (fruit)",
+                "apple tree (Malus pumila)"
+            ]
+        }
+    ],
+    "合コン": [
+        {
+            "kana": "ごうコン",
+            "definition": [
+                "joint party (e.g. by students from several colleges); combined party; mixer; two or more groups, esp. female and male students, combining for a party"
+            ]
+        }
+    ],
+    "ふれあい動物園": [
+        {
+            "kana": "ふれあいどうぶつえん",
+            "definition": [
+                "petting zoo"
+            ]
+        }
+    ],
+    "いない": [
+        {
+            "kanji": "居る",
+            "kana": "いる",
+            "definition": [
+                "to be (of animate objects); to exist",
+                "to stay",
+                "to be ...-ing; to have been ...-ing"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "そう": [
+        {
+            "kana": "そう",
+            "definition": [
+                "in that way; thus; such",
+                "so",
+                "so?"
+            ]
+        },
+        {
+            "kana": "そう",
+            "definition": [
+                "appearing that; seeming that; looking like; having the appearance of"
+            ]
+        }
+    ],
+    "言われましても": [
+        {
+            "kanji": "言われまして",
+            "kana": "いわれまして",
+            "definition": [
+                "to say; to utter; to declare",
+                "to name; to call",
+                "to go (e.g. \"the alarm went ping\"); to make a noise"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "言う",
+            "kana": "いう",
+            "definition": [
+                "to say; to utter; to declare",
+                "to name; to call",
+                "to go (e.g. \"the alarm went ping\"); to make a noise"
+            ],
+            "type": "Conjunctive (~te)  Formal"
+        }
+    ],
+    "休みたい": [
+        {
+            "kanji": "休み",
+            "kana": "やすみ",
+            "definition": [
+                "to be absent; to take a day off",
+                "to rest; to have a break",
+                "to go to bed; to (lie down to) sleep; to turn in; to retire",
+                "to stop doing some ongoing activity for a time; to suspend business"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "休む",
+            "kana": "やすむ",
+            "definition": [
+                "to be absent; to take a day off",
+                "to rest; to have a break",
+                "to go to bed; to (lie down to) sleep; to turn in; to retire",
+                "to stop doing some ongoing activity for a time; to suspend business"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "きがあります": [
+        {
+            "kanji": "気がある",
+            "kana": "きがある",
+            "definition": [
+                "to have an interest (in something); to feel inclined (toward doing something)"
+            ],
+            "type": "Non-past  Formal"
+        }
+    ],
+    "すみません": [
+        {
+            "kana": "すみません",
+            "definition": [
+                "excuse me; pardon me; I'm sorry; I beg your pardon",
+                "thank you; you shouldn't have; it's too much"
+            ]
+        }
+    ],
+    "すぐ": [
+        {
+            "kana": "すぐ",
+            "definition": [
+                "immediately; at once; right away; directly",
+                "soon; before long; shortly",
+                "easily; readily; without difficulty",
+                "right (near); nearby; just (handy)",
+                "honest; upright; frank; straightforward"
+            ]
+        }
+    ],
+    "行かせます": [
+        {
+            "kanji": "行く",
+            "kana": "いく",
+            "definition": [
+                "to go; to move (towards); to head (towards); to leave (for)",
+                "to move through; to travel across; to walk along (e.g. a road)",
+                "to go (well, badly, etc.); to proceed; to turn out; to get along",
+                "to do (in a particular way); to go (with; a choice); to try",
+                "to pass (of time, seasons, etc.); to go by",
+                "to stream; to flow",
+                "to die; to pass away",
+                "to reach (a stage, extent, age, etc.); to get to; to go (so far as ...)",
+                "to reach (of information, instructions, wind, etc.); to arrive",
+                "to continue ...; to go on ...; to (progress) steadily; to gradually ...; to progressively ...",
+                "to have an orgasm; to come; to cum",
+                "to trip; to get high; to have a drug-induced hallucination"
+            ],
+            "type": "Causative  Formal"
+        }
+    ],
+    "ので": [
+        {
+            "kana": "ので",
+            "definition": [
+                "that being the case; because of ...; the reason is ...; given that ..."
+            ]
+        }
+    ],
+    "ちゃんと": [
+        {
+            "kana": "ちゃんと",
+            "definition": [
+                "diligently; seriously; earnestly; reliably; steadily; legitimately",
+                "perfectly; properly; exactly; orderly; punctually; regularly; safely; in good condition",
+                "sufficiently; satisfactorily",
+                "quickly"
+            ]
+        }
+    ],
+    "仕事しなさい": [
+        {
+            "kanji": "仕事",
+            "kana": "しごと",
+            "definition": [
+                "work; job; labor; labour; business; task; assignment; occupation; employment",
+                "work"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Imperative  Formal"
+        }
+    ],
+    "かわいい": [
+        {
+            "kana": "かわいい",
+            "definition": [
+                "cute; adorable; charming; lovely; pretty",
+                "dear; precious; darling; pet",
+                "innocent; childlike; childish; lovable",
+                "dainty; little; tiny"
+            ]
+        }
+    ],
+    "こっち": [
+        {
+            "kana": "こっち",
+            "definition": [
+                "this way; this direction",
+                "here",
+                "this (one)",
+                "I; me; we; us"
+            ]
+        }
+    ],
+    "今日": [
+        {
+            "kana": "きょう",
+            "definition": [
+                "today; this day",
+                "these days; recently; nowadays"
+            ]
+        }
+    ],
+    "第": [
+        {
+            "kana": "だい",
+            "definition": [
+                "prefix for forming ordinal numbers"
+            ]
+        }
+    ],
+    "１号": [
+        {
+            "kana": "いちごう",
+            "definition": [
+                "number; edition; make; model; issue; part of that group"
+            ]
+        }
+    ],
+    "サービスしちゃおう": [
+        {
+            "kanji": "サービス",
+            "kana": "サービス",
+            "definition": [
+                "service; help; assistance; care; concern",
+                "discount; discounted item",
+                "free service; freebie; gift",
+                "service; utility; amenity; resource",
+                "(after-sales) service; servicing; (product) maintenance",
+                "service (e.g. in tennis); serve"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "サービス": [
+        {
+            "kana": "サービス",
+            "definition": [
+                "service; help; assistance; care; concern",
+                "discount; discounted item",
+                "free service; freebie; gift",
+                "service; utility; amenity; resource",
+                "(after-sales) service; servicing; (product) maintenance",
+                "service (e.g. in tennis); serve"
+            ]
+        }
+    ],
+    "けいれんしてる": [
+        {
+            "kanji": "けいれん",
+            "kana": "けいれん",
+            "definition": [
+                "convulsion; cramp; spasm; tic; twitch; fit"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "早く": [
+        {
+            "kana": "はやく",
+            "definition": [
+                "early; soon",
+                "quickly; swiftly; rapidly; fast"
+            ]
+        },
+        {
+            "kanji": "早い",
+            "kana": "はやい",
+            "definition": [
+                "fast; quick; rapid; swift; speedy; brisk; prompt",
+                "early; soon; earlier than usual",
+                "premature; too soon; too early",
+                "easy; simple; quick; fast",
+                "as soon as ...; the moment ...; the instant ..."
+            ],
+            "type": "Adverbial  "
+        }
+    ],
+    "飼育員": [
+        {
+            "kana": "しいくいん",
+            "definition": [
+                "caretaker (at a zoo or aquarium); keeper; attendant; breeding staff"
+            ]
+        }
+    ],
+    "知らせなきゃ": [
+        {
+            "kanji": "知らせる",
+            "kana": "しらせる",
+            "definition": [
+                "to notify; to advise; to inform"
+            ],
+            "type": "Provisional (~eba) Negative "
+        },
+        {
+            "kanji": "知る",
+            "kana": "しる",
+            "definition": [
+                "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover",
+                "to sense; to feel; to notice; to realize",
+                "to understand; to comprehend; to grasp; to appreciate",
+                "to remember; to be familiar with; to be acquainted with",
+                "to experience; to go through; to know (e.g. hardship)",
+                "to get acquainted with (a person); to get to know",
+                "to have to do with; to be concerned with; to be one's concern; to be one's responsibility"
+            ],
+            "type": "Provisional (~eba) Negative "
+        }
+    ],
+    "せつない": [
+        {
+            "kana": "せつない",
+            "definition": [
+                "painful; heartrending; trying",
+                "oppressive; suffocating; miserable"
+            ]
+        }
+    ],
+    "あれ": [
+        {
+            "kana": "あれ",
+            "definition": [
+                "that; that thing",
+                "that person",
+                "then; that time",
+                "that place (over there)",
+                "down there (i.e. one's genitals)",
+                "period; menses"
+            ]
+        }
+    ],
+    "半田": [
+        {
+            "kana": "はんだ",
+            "definition": [
+                "solder; pewter",
+                "Handa (city), Aichi Prefecture"
+            ]
+        }
+    ],
+    "急いで": [
+        {
+            "kana": "いそいで",
+            "definition": [
+                "hurriedly; in haste; in a rush; quickly",
+                "hurry up!; quickly!; get going!"
+            ]
+        },
+        {
+            "kanji": "急ぐ",
+            "kana": "いそぐ",
+            "definition": [
+                "to hurry; to rush; to hasten; to make something happen sooner"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "コーナー": [
+        {
+            "kana": "コーナー",
+            "definition": [
+                "corner; bend; turn",
+                "segment (within a radio or TV program); session; column (newspaper, etc.)",
+                "area; department; section"
+            ]
+        }
+    ],
+    "来てください": [
+        {
+            "kanji": "来て",
+            "kana": "きて",
+            "definition": [
+                "to come (spatially or temporally); to approach; to arrive",
+                "to come back; to do ... and come back",
+                "to come to be; to become; to get; to grow; to continue",
+                "to come from; to be caused by; to derive from",
+                "to come to (e.g. \"when it comes to spinach ...\")"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "来る",
+            "kana": "くる",
+            "definition": [
+                "to come (spatially or temporally); to approach; to arrive",
+                "to come back; to do ... and come back",
+                "to come to be; to become; to get; to grow; to continue",
+                "to come from; to be caused by; to derive from",
+                "to come to (e.g. \"when it comes to spinach ...\")"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "今度": [
+        {
+            "kana": "こんど",
+            "definition": [
+                "this time; now",
+                "next time; another time; shortly; soon",
+                "recently; lately; the other day"
+            ]
+        }
+    ],
+    "やってる": [
+        {
+            "kanji": "やって",
+            "kana": "やって",
+            "definition": [
+                "to do; to undertake; to perform; to play (a game); to study",
+                "to send; to dispatch; to despatch",
+                "to put; to move; to turn (one's head, glance, etc.)",
+                "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer",
+                "to make (a vehicle) go faster",
+                "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise",
+                "to have (food, drink, etc.); to eat; to drink; to smoke",
+                "to hold (a performance); to perform; to show",
+                "to ease (one's mind)",
+                "to harm; to injure; to kill",
+                "to have sex; to fuck; to bang",
+                "to live; to get by; to get along",
+                "to do ... completely",
+                "to do ... broadly; to do ... to a great distance",
+                "to do ... for (someone of equal or lower status); to do ... to",
+                "to make active efforts to ..."
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "遣る",
+            "kana": "やる",
+            "definition": [
+                "to do; to undertake; to perform; to play (a game); to study",
+                "to send; to dispatch; to despatch",
+                "to put; to move; to turn (one's head, glance, etc.)",
+                "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer",
+                "to make (a vehicle) go faster",
+                "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise",
+                "to have (food, drink, etc.); to eat; to drink; to smoke",
+                "to hold (a performance); to perform; to show",
+                "to ease (one's mind)",
+                "to harm; to injure; to kill",
+                "to have sex; to fuck; to bang",
+                "to live; to get by; to get along",
+                "to do ... completely",
+                "to do ... broadly; to do ... to a great distance",
+                "to do ... for (someone of equal or lower status); to do ... to",
+                "to make active efforts to ..."
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "マージャン": [
+        {
+            "kana": "マージャン",
+            "definition": [
+                "mahjong; mah-jongg"
+            ]
+        }
+    ],
+    "できる": [
+        {
+            "kana": "できる",
+            "definition": [
+                "to be able (in a position) to do; to be up to the task",
+                "to be ready; to be completed",
+                "to be made; to be built",
+                "to be good at; to be permitted (to do)",
+                "to become intimate; to take up (with someone)",
+                "to grow; to be raised",
+                "to become pregnant"
+            ]
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [
+                "to do; to carry out; to perform",
+                "to cause to become; to make (into); to turn (into)",
+                "to serve as; to act as; to work as",
+                "to wear (clothes, a facial expression, etc.)",
+                "to judge as being; to view as being; to think of as; to treat as; to use as",
+                "to decide on; to choose",
+                "to be sensed (of a smell, noise, etc.)",
+                "to be (in a state, condition, etc.)",
+                "to be worth; to cost",
+                "to pass (of time); to elapse",
+                "to place, or raise, person A to a post or status B",
+                "to transform A to B; to make A into B; to exchange A for B",
+                "to make use of A for B; to view A as B; to handle A as if it were B",
+                "to feel A about B",
+                "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                "to be just about to; to be just starting to; to try to; to attempt to"
+            ],
+            "type": "Potential  "
+        }
+    ],
+    "できません": [
+        {
+            "kanji": "出来る",
+            "kana": "できる",
+            "definition": [
+                "to be able (in a position) to do; to be up to the task",
+                "to be ready; to be completed",
+                "to be made; to be built",
+                "to be good at; to be permitted (to do)",
+                "to become intimate; to take up (with someone)",
+                "to grow; to be raised",
+                "to become pregnant"
+            ],
+            "type": "Non-past Negative Formal"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [
+                "to do; to carry out; to perform",
+                "to cause to become; to make (into); to turn (into)",
+                "to serve as; to act as; to work as",
+                "to wear (clothes, a facial expression, etc.)",
+                "to judge as being; to view as being; to think of as; to treat as; to use as",
+                "to decide on; to choose",
+                "to be sensed (of a smell, noise, etc.)",
+                "to be (in a state, condition, etc.)",
+                "to be worth; to cost",
+                "to pass (of time); to elapse",
+                "to place, or raise, person A to a post or status B",
+                "to transform A to B; to make A into B; to exchange A for B",
+                "to make use of A for B; to view A as B; to handle A as if it were B",
+                "to feel A about B",
+                "verbalizing suffix (applies to nouns noted in this dictionary with the part of speech \"vs\")",
+                "creates a humble verb (after a noun prefixed with \"o\" or \"go\")",
+                "to be just about to; to be just starting to; to try to; to attempt to"
+            ],
+            "type": "Potential Negative Formal"
+        }
+    ],
+    "大丈夫": [
+        {
+            "kana": "だいじょうぶ",
+            "definition": [
+                "safe; secure; sound; problem-free; without fear; all right; alright; OK; okay",
+                "certainly; surely; undoubtedly",
+                "no thanks; I'm good; that's alright",
+                "great man; fine figure of a man"
+            ]
+        }
+    ],
+    "ルール": [
+        {
+            "kana": "ルール",
+            "definition": [
+                "rule"
+            ]
+        }
+    ],
+    "知らない": [
+        {
+            "kanji": "知る",
+            "kana": "しる",
+            "definition": [
+                "to know; to be aware (of); to be conscious (of); to learn (of); to find out; to discover",
+                "to sense; to feel; to notice; to realize",
+                "to understand; to comprehend; to grasp; to appreciate",
+                "to remember; to be familiar with; to be acquainted with",
+                "to experience; to go through; to know (e.g. hardship)",
+                "to get acquainted with (a person); to get to know",
+                "to have to do with; to be concerned with; to be one's concern; to be one's responsibility"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "雨": [
+        {
+            "kana": "あめ",
+            "definition": [
+                "rain",
+                "rainy day; rainy weather",
+                "the November suit (in hanafuda)"
+            ]
+        }
+    ],
+    "降ってて": [
+        {
+            "kanji": "降って",
+            "kana": "ふって",
+            "definition": [
+                "to fall (of rain, snow, ash, etc.); to come down",
+                "to form (of frost)",
+                "to beam down (of sunlight or moonlight); to pour in",
+                "to visit (of luck, misfortune, etc.); to come; to arrive"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "降る",
+            "kana": "ふる",
+            "definition": [
+                "to fall (of rain, snow, ash, etc.); to come down",
+                "to form (of frost)",
+                "to beam down (of sunlight or moonlight); to pour in",
+                "to visit (of luck, misfortune, etc.); to come; to arrive"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "少ない": [
+        {
+            "kana": "すくない",
+            "definition": [
+                "few; a little; scarce; insufficient; seldom"
+            ]
+        }
+    ],
+    "片づけなさい": [
+        {
+            "kanji": "片づける",
+            "kana": "かたづける",
+            "definition": [
+                "to tidy up; to put in order; to straighten up; to put away",
+                "to settle (problem); to clear (dispute)",
+                "to finish; to bring something to an end",
+                "to marry off (e.g. a daughter)",
+                "to do away with someone; to bump someone off"
+            ],
+            "type": "Imperative  Formal"
+        }
+    ],
+    "ありがとうございました": [
+        {
+            "kana": "ありがとうございました",
+            "definition": [
+                "thank you"
+            ]
+        }
+    ],
+    "それで": [
+        {
+            "kana": "それで",
+            "definition": [
+                "so; therefore; and; (and) then"
+            ]
+        }
+    ],
+    "すごく": [
+        {
+            "kanji": "凄い",
+            "kana": "すごい",
+            "definition": [
+                "terrible; dreadful",
+                "amazing (e.g. of strength); great (e.g. of skills); wonderful; terrific",
+                "to a great extent; vast (in numbers)"
+            ],
+            "type": "Adverbial  "
+        }
+    ],
+    "つらかった": [
+        {
+            "kanji": "辛い",
+            "kana": "つらい",
+            "definition": [
+                "painful; bitter; heart-breaking; difficult (emotionally)",
+                "tough; difficult; hard (usu. of situations)",
+                "cruel; harsh; cold"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "同じ": [
+        {
+            "kana": "おなじ",
+            "definition": [
+                "same; identical; equal; uniform; equivalent; similar; common (origin); changeless; alike",
+                "anyway; anyhow; in either case"
+            ]
+        },
+        {
+            "kanji": "同じる",
+            "kana": "どうじる",
+            "definition": [
+                "to agree"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "漫画": [
+        {
+            "kana": "まんが",
+            "definition": [
+                "cartoon; comic; comic strip; manga"
+            ]
+        }
+    ],
+    "３０回": [
+        {
+            "kana": "さんじゅっかい",
+            "definition": [
+                "counter for occurrences"
+            ]
+        }
+    ],
+    "読み返した": [
+        {
+            "kanji": "読み返す",
+            "kana": "よみかえす",
+            "definition": [
+                "to reread; to read again"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "モカ": [
+        {
+            "kana": "モカ",
+            "definition": [
+                "mocha"
+            ]
+        }
+    ],
+    "おかわり": [
+        {
+            "kana": "おかわり",
+            "definition": [
+                "another helping; second helping; seconds; refill",
+                "other paw! (dog command)"
+            ]
+        }
+    ],
+    "つぶし": [
+        {
+            "kanji": "潰す",
+            "kana": "つぶす",
+            "definition": [
+                "to smash; to crush; to flatten",
+                "to shut down; to put out of business; to force (a company) to close up shop",
+                "to wreck; to break; to block; to thwart",
+                "to butcher; to slaughter; to kill (livestock, for food)",
+                "to kill (time); to while away (the time); to use up (one's time)",
+                "to waste (e.g. talents)"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "方法": [
+        {
+            "kana": "ほうほう",
+            "definition": [
+                "method; process; manner; way; means; technique"
+            ]
+        }
+    ],
+    "かな": [
+        {
+            "kana": "かな",
+            "definition": [
+                "I wonder",
+                "should I?; is it?",
+                "I wish that; I hope that"
+            ]
+        }
+    ],
+    "それは": [
+        {
+            "kana": "それは",
+            "definition": [
+                "very; extremely",
+                "that is"
+            ]
+        }
+    ],
+    "ひつまぶし": [
+        {
+            "kana": "ひつまぶし",
+            "definition": [
+                "chopped kabayaki eel on rice; eel fillets cooked over charcoal with soy flavoured sauce, cut in small pieces and served on rice"
+            ]
+        }
+    ],
+    "かつおぶし": [
+        {
+            "kana": "かつおぶし",
+            "definition": [
+                "katsuobushi; pieces of sliced dried bonito"
+            ]
+        }
+    ],
+    "炭坑": [
+        {
+            "kana": "たんこう",
+            "definition": [
+                "coal mine; (coal) pit; colliery",
+                "coal-mine shaft"
+            ]
+        }
+    ],
+    "節": [
+        {
+            "kana": "せつ",
+            "definition": [
+                "occasion; time",
+                "section (of a literary work or piece of music); passage; paragraph; verse; stanza",
+                "clause",
+                "season; term",
+                "one's principles; integrity",
+                "node (of a plant stem)",
+                "(taxonomical) section",
+                "knot (nautical mile per hour)"
+            ]
+        },
+        {
+            "kana": "ふし",
+            "definition": [
+                "joint; knuckle",
+                "tune; melody",
+                "node (of a plant stem); joint; knot (in wood); knob",
+                "(notable) point; part",
+                "node"
+            ]
+        }
+    ],
+    "困ら": [
+        {
+            "kanji": "困る",
+            "kana": "こまる",
+            "definition": [
+                "to be troubled; to have difficulty; to be in a fix; to be at a loss; to be stumped; to be embarrassed",
+                "to be bothered; to be inconvenienced; to be annoyed",
+                "to be badly off; to be hard up; to be in straitened circumstances"
+            ],
+            "type": "Negative Stem Negative "
+        }
+    ],
+    "なそう": [
+        {
+            "kanji": "為す",
+            "kana": "なす",
+            "definition": [
+                "to build up; to establish",
+                "to form; to become (a state)",
+                "to accomplish; to achieve; to succeed in",
+                "to change into",
+                "to do; to perform"
+            ],
+            "type": "Volitional  "
+        }
+    ],
+    "だよね": [
+        {
+            "kana": "だよね",
+            "definition": [
+                "it is, isn't it?; I know, right?; innit?"
+            ]
+        }
+    ],
+    "子": [
+        {
+            "kana": "こ",
+            "definition": [
+                "child; kid; teenager; youngster; young (non-adult) person",
+                "(one's) child; offspring",
+                "young woman",
+                "young (animal)",
+                "offshoot",
+                "interest",
+                "new share",
+                "player who is not a dealer",
+                "young geisha; young prostitute",
+                "bird egg",
+                "-er (often of young women)"
+            ]
+        }
+    ],
+    "目的": [
+        {
+            "kana": "もくてき",
+            "definition": [
+                "purpose; goal; aim; objective; intention"
+            ]
+        }
+    ],
+    "決めず": [
+        {
+            "kanji": "決める",
+            "kana": "きめる",
+            "definition": [
+                "to decide; to choose; to determine; to make up one's mind; to resolve; to set one's heart on; to settle; to arrange; to set; to appoint; to fix",
+                "to clinch (a victory); to decide (the outcome of a match)",
+                "to persist in doing; to go through with",
+                "to always do; to have made a habit of",
+                "to take for granted; to assume",
+                "to dress up; to dress to kill; to dress to the nines",
+                "to carry out successfully (a move in sports, a pose in dance, etc.); to succeed in doing",
+                "to immobilize with a double-arm lock (in sumo, judo, etc.)",
+                "to eat or drink something; to take illegal drugs"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "自転車": [
+        {
+            "kana": "じてんしゃ",
+            "definition": [
+                "bicycle; bike"
+            ]
+        }
+    ],
+    "遠出する": [
+        {
+            "kanji": "遠出",
+            "kana": "とおで",
+            "definition": [
+                "trip; excursion; outing"
+            ],
+            "type": "compound"
+        }
+    ],
+    "とか": [
+        {
+            "kana": "とか",
+            "definition": [
+                "and the like; such as; among other things; and so on",
+                "or something; something like; a (certain)",
+                "I hear that ...; people say that...; rumour has it that ...",
+                "or something; something like; or whatever"
+            ]
+        }
+    ],
+    "あと": [
+        {
+            "kana": "あと",
+            "definition": [
+                "behind; rear",
+                "after; later",
+                "remainder; the rest",
+                "more (e.g. five more minutes); left",
+                "also; in addition",
+                "descendant; successor; heir",
+                "after one's death",
+                "past; previous"
+            ]
+        },
+        {
+            "kana": "あと",
+            "definition": [
+                "trace; tracks; mark; sign",
+                "site; remains; ruins",
+                "scar"
+            ]
+        }
+    ],
+    "地図": [
+        {
+            "kana": "ちず",
+            "definition": [
+                "map; atlas; chart; plan"
+            ]
+        }
+    ],
+    "眺めて": [
+        {
+            "kanji": "眺める",
+            "kana": "ながめる",
+            "definition": [
+                "to look at; to gaze at; to watch; to stare at",
+                "to look out over; to get a view of; to admire (e.g. the scenery)",
+                "to look on (from the sidelines); to stand by and watch; to observe"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "風景": [
+        {
+            "kana": "ふうけい",
+            "definition": [
+                "scenery; scene; landscape; view; sight",
+                "scene (e.g. of a crime)"
+            ]
+        }
+    ],
+    "想像し": [
+        {
+            "kanji": "想像",
+            "kana": "そうぞう",
+            "definition": [
+                "imagination; supposition; guess"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "為る",
+            "kana": "する",
+            "definition": [],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "ながら": [
+        {
+            "kana": "ながら",
+            "definition": [
+                "while; during; as",
+                "while; although; though; despite; in spite of; notwithstanding",
+                "all; both",
+                "as (e.g. \"as always\", \"as long ago\"); in (e.g. \"in tears\")",
+                "while doing something else (at the same time)"
+            ]
+        }
+    ],
+    "街歩き": [
+        {
+            "kana": "まちあるき",
+            "definition": [
+                "walking about town; stroll around town; walking the streets (e.g. for exercise)"
+            ]
+        }
+    ],
+    "みんな": [
+        {
+            "kana": "みんな",
+            "definition": [
+                "everyone; everybody; all",
+                "everything; all"
+            ]
+        }
+    ],
+    "プチプチ": [
+        {
+            "kana": "プチプチ",
+            "definition": [
+                "bubble wrap (trademark of Kawakami Sangyo Co.)"
+            ]
+        }
+    ],
+    "ひたすら": [
+        {
+            "kana": "ひたすら",
+            "definition": [
+                "intently; single-mindedly; devotedly; solely; earnestly; with all one's heart"
+            ]
+        }
+    ],
+    "潰します": [
+        {
+            "kanji": "潰す",
+            "kana": "つぶす",
+            "definition": [
+                "to smash; to crush; to flatten",
+                "to shut down; to put out of business; to force (a company) to close up shop",
+                "to wreck; to break; to block; to thwart",
+                "to butcher; to slaughter; to kill (livestock, for food)",
+                "to kill (time); to while away (the time); to use up (one's time)",
+                "to waste (e.g. talents)"
+            ],
+            "type": "Non-past  Formal"
+        }
+    ],
+    "長い": [
+        {
+            "kana": "ながい",
+            "definition": [
+                "long (distance, length)",
+                "long (time); protracted; prolonged"
+            ]
+        }
+    ],
+    "歴史": [
+        {
+            "kana": "れきし",
+            "definition": [
+                "history"
+            ]
+        }
+    ],
+    "小説": [
+        {
+            "kana": "しょうせつ",
+            "definition": [
+                "novel; story; (work of) fiction"
+            ]
+        }
+    ],
+    "黒": [
+        {
+            "kana": "くろ",
+            "definition": [
+                "black",
+                "black stone",
+                "guilt; guilty person"
+            ]
+        },
+        {
+            "kanji": "黒い",
+            "kana": "くろい",
+            "definition": [
+                "black",
+                "dark; blackish; sun-tanned (skin)",
+                "suspicious; criminal; illicit",
+                "darkened and dirty; sooty; covered in dirt",
+                "evil; wicked; black-hearted",
+                "inauspicious; ill-boding; unlucky"
+            ],
+            "type": "Adjective Stem  "
+        }
+    ],
+    "ベタ": [
+        {
+            "kana": "ベタ",
+            "definition": [
+                "betta (esp. the Siamese fighting fish, Betta splendens)"
+            ]
+        },
+        {
+            "kana": "ベタ",
+            "definition": [
+                "covering; filled in; gapless; all over",
+                "complete; total",
+                "cliched; clichéd; hackneyed; corny; predictable",
+                "plaintext",
+                "solid printing; solid typesetting",
+                "contact print"
+            ]
+        }
+    ],
+    "ジグソーパズル": [
+        {
+            "kana": "ジグソーパズル",
+            "definition": [
+                "jigsaw puzzle"
+            ]
+        }
+    ],
+    "難しすぎて": [
+        {
+            "kanji": "難しい",
+            "kana": "むずかしい",
+            "definition": [
+                "difficult; hard; troublesome; complicated; serious (disease, problem, etc.)",
+                "impossible; unfeasible",
+                "fussy; particular; fastidious; hard to please; displeased",
+                "gloomy; glum; sullen; serious (look)",
+                "dirty; unclean; filthy; detestable",
+                "unpleasant; uncomfortable; creepy; spooky"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "過ぎる",
+            "kana": "すぎる",
+            "definition": [],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "忘れられます": [
+        {
+            "kanji": "忘れられる",
+            "kana": "わすれられる",
+            "definition": [
+                "to slip into obscurity; to be forgotten"
+            ],
+            "type": "Non-past  Formal"
+        },
+        {
+            "kanji": "忘れる",
+            "kana": "わすれる",
+            "definition": [
+                "to forget; to leave carelessly; to be forgetful of; to forget about; to forget (an article)"
+            ],
+            "type": "Potential  Formal"
+        }
+    ],
+    "うらやましい": [
+        {
+            "kana": "うらやましい",
+            "definition": [
+                "envious; jealous",
+                "enviable (position, etc.)"
+            ]
+        }
+    ],
+    "１日": [
+        {
+            "kana": "ついたち",
+            "definition": [
+                "1st day of the month",
+                "first 10 days of the lunar month"
+            ]
+        },
+        {
+            "kana": "いちにち",
+            "definition": [
+                "one day",
+                "all day (long); the whole day; from morning till night",
+                "1st day of the month"
+            ]
+        }
+    ],
+    "２０時間": [
+        {
+            "kana": "にじゅうじかん",
+            "definition": [
+                "hours (period of)"
+            ]
+        }
+    ],
+    "休まない": [
+        {
+            "kanji": "休む",
+            "kana": "やすむ",
+            "definition": [
+                "to be absent; to take a day off",
+                "to rest; to have a break",
+                "to go to bed; to (lie down to) sleep; to turn in; to retire",
+                "to stop doing some ongoing activity for a time; to suspend business"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "ダメ": [
+        {
+            "kana": "ダメ",
+            "definition": [
+                "no good; not serving its purpose; useless; broken",
+                "hopeless; wasted; in vain; purposeless",
+                "cannot; must not; not allowed",
+                "neutral point; intersection owned by neither player at the end of a game",
+                "no!; stop!"
+            ]
+        }
+    ],
+    "起きてる": [
+        {
+            "kanji": "起きて",
+            "kana": "おきて",
+            "definition": [
+                "to get up; to rise; to blaze up (fire)",
+                "to wake up; to be awake; to stay awake",
+                "to occur (usu. of unfavourable incidents); to happen; to take place"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "起きる",
+            "kana": "おきる",
+            "definition": [
+                "to get up; to rise; to blaze up (fire)",
+                "to wake up; to be awake; to stay awake",
+                "to occur (usu. of unfavourable incidents); to happen; to take place"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "足りなくて": [
+        {
+            "kanji": "足りる",
+            "kana": "たりる",
+            "definition": [
+                "to be sufficient; to be enough",
+                "to be worth doing; to be worthy of; to deserve",
+                "to do (the job); to serve; to answer"
+            ],
+            "type": "Conjunctive (~te) Negative "
+        }
+    ],
+    "困って": [
+        {
+            "kanji": "困る",
+            "kana": "こまる",
+            "definition": [
+                "to be troubled; to have difficulty; to be in a fix; to be at a loss; to be stumped; to be embarrassed",
+                "to be bothered; to be inconvenienced; to be annoyed",
+                "to be badly off; to be hard up; to be in straitened circumstances"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "予定表": [
+        {
+            "kana": "よていひょう",
+            "definition": [
+                "schedule; program; programme; itinerary"
+            ]
+        }
+    ],
+    "いっぱい": [
+        {
+            "kana": "いっぱい",
+            "definition": [
+                "one cup (of); one glass (of); one bowl (of); cupful; glassful; bowlful; spoonful",
+                "one drink (of alcohol)",
+                "full; filled (with); brimming (with); crowded; packed",
+                "fully; to capacity; to the maximum; as much as possible",
+                "a lot; much; many",
+                "all of ...; the entire ...",
+                "one (squid, octopus, crab, etc.)",
+                "one (boat)"
+            ]
+        }
+    ],
+    "足りない": [
+        {
+            "kana": "たりない",
+            "definition": [
+                "insufficient; not enough; lacking",
+                "dim-witted; slow; one brick short of a full load"
+            ]
+        },
+        {
+            "kanji": "足りる",
+            "kana": "たりる",
+            "definition": [
+                "to be sufficient; to be enough",
+                "to be worth doing; to be worthy of; to deserve",
+                "to do (the job); to serve; to answer"
+            ],
+            "type": "Non-past Negative "
+        }
+    ],
+    "ほら": [
+        {
+            "kana": "ほら",
+            "definition": [
+                "look!; see!; here!; there!; hey!"
+            ]
+        }
+    ],
+    "ペン": [
+        {
+            "kana": "ペン",
+            "definition": [
+                "pen"
+            ]
+        }
+    ],
+    "すごい": [
+        {
+            "kana": "すごい",
+            "definition": [
+                "terrible; dreadful",
+                "amazing (e.g. of strength); great (e.g. of skills); wonderful; terrific",
+                "to a great extent; vast (in numbers)",
+                "awfully; very; immensely"
+            ]
+        }
+    ],
+    "働き者": [
+        {
+            "kana": "はたらきもの",
+            "definition": [
+                "hard worker; hardworking person"
+            ]
+        }
+    ],
+    "ちょうだい": [
+        {
+            "kana": "ちょうだい",
+            "definition": [
+                "receiving; getting; accepting; being given",
+                "eating; drinking; having",
+                "please (give me; do for me)"
+            ]
+        }
+    ],
+    "聞いて": [
+        {
+            "kanji": "聞く",
+            "kana": "きく",
+            "definition": [
+                "to hear",
+                "to listen (e.g. to music)",
+                "to ask; to enquire; to query",
+                "to hear about; to hear of; to learn of",
+                "to follow (advice, order, etc.); to obey; to listen to; to comply with",
+                "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to",
+                "to smell (esp. incense); to sample (a fragrance)",
+                "to taste (alcohol); to try"
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "券": [
+        {
+            "kana": "けん",
+            "definition": [
+                "ticket; coupon; bond; certificate"
+            ]
+        }
+    ],
+    "その": [
+        {
+            "kana": "その",
+            "definition": [
+                "that; the",
+                "part (as in \"part two\")",
+                "um ...; er ...; uh ..."
+            ]
+        }
+    ],
+    "話": [
+        {
+            "kana": "はなし",
+            "definition": [
+                "talk; speech; chat; conversation",
+                "topic; subject",
+                "discussions; negotiation; argument",
+                "rumor; talk; hearsay",
+                "tale; story; fable",
+                "circumstances; particulars"
+            ]
+        }
+    ],
+    "何度も": [
+        {
+            "kana": "なんども",
+            "definition": [
+                "many times over; often; repeatedly; time after time"
+            ]
+        }
+    ],
+    "聞いた": [
+        {
+            "kanji": "聞く",
+            "kana": "きく",
+            "definition": [
+                "to hear",
+                "to listen (e.g. to music)",
+                "to ask; to enquire; to query",
+                "to hear about; to hear of; to learn of",
+                "to follow (advice, order, etc.); to obey; to listen to; to comply with",
+                "to hear (e.g. a plea); to grant (a request); to accept (e.g. an argument); to give consideration to",
+                "to smell (esp. incense); to sample (a fragrance)",
+                "to taste (alcohol); to try"
+            ],
+            "type": "Past (~ta)  "
+        }
+    ],
+    "まもなく": [
+        {
+            "kana": "まもなく",
+            "definition": [
+                "soon; shortly; before long; in a short time; in a little while",
+                "having no time to ...; with no time to ..."
+            ]
+        },
+        {
+            "kanji": "間もない",
+            "kana": "まもない",
+            "definition": [
+                "after (practically) no time; immediately after; just",
+                "having no time to"
+            ],
+            "type": "Adverbial  "
+        }
+    ],
+    "当店": [
+        {
+            "kana": "とうてん",
+            "definition": [
+                "this store"
+            ]
+        }
+    ],
+    "閉店いたします": [
+        {
+            "kanji": "閉店",
+            "kana": "へいてん",
+            "definition": [
+                "closing up shop (for the day)",
+                "stopping business; going out of business"
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "致す",
+            "kana": "いたす",
+            "definition": [],
+            "type": "Non-past  Formal"
+        }
+    ],
+    "一度": [
+        {
+            "kana": "いちど",
+            "definition": [
+                "once; one time; on one occasion",
+                "temporarily; for a moment",
+                "one degree; one tone; one musical interval"
+            ]
+        }
+    ],
+    "やって": [
+        {
+            "kanji": "遣る",
+            "kana": "やる",
+            "definition": [
+                "to do; to undertake; to perform; to play (a game); to study",
+                "to send; to dispatch; to despatch",
+                "to put; to move; to turn (one's head, glance, etc.)",
+                "to give (esp. to someone of equal or lower status); to let have; to present; to bestow; to confer",
+                "to make (a vehicle) go faster",
+                "to run (a business); to keep; to be engaged in; to practice (law, medicine, etc.); to practise",
+                "to have (food, drink, etc.); to eat; to drink; to smoke",
+                "to hold (a performance); to perform; to show",
+                "to ease (one's mind)",
+                "to harm; to injure; to kill",
+                "to have sex; to fuck; to bang",
+                "to live; to get by; to get along",
+                "to do ... completely",
+                "to do ... broadly; to do ... to a great distance",
+                "to do ... for (someone of equal or lower status); to do ... to",
+                "to make active efforts to ..."
+            ],
+            "type": "Conjunctive (~te)  "
+        }
+    ],
+    "みたくて": [
+        {
+            "kanji": "み",
+            "kana": "み",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "compound"
+        },
+        {
+            "kanji": "見る",
+            "kana": "みる",
+            "definition": [
+                "to see; to look; to watch; to view; to observe",
+                "to examine; to look over; to assess; to check; to judge",
+                "to look after; to attend to; to take care of; to keep an eye on",
+                "to experience; to meet with (misfortune, success, etc.)",
+                "to try ...; to have a go at ...; to give ... a try",
+                "to see (that) ...; to find (that) ..."
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "閉店": [
+        {
+            "kana": "へいてん",
+            "definition": [
+                "closing up shop (for the day)",
+                "stopping business; going out of business"
+            ]
+        }
+    ],
+    "あっそ": [
+        {
+            "kana": "あっそ",
+            "definition": [
+                "oh, OK; oh, I see; oh, yeah?; hmm"
+            ]
+        }
+    ],
+    "至急": [
+        {
+            "kana": "しきゅう",
+            "definition": [
+                "urgent; pressing; immediate; prompt; express",
+                "urgently; promptly; at once; right away; without delay; as soon as possible"
+            ]
+        }
+    ],
+    "なんです": [
+        {
+            "kana": "なんです",
+            "definition": [
+                "it is assuredly that ...; can say with confidence that ..."
+            ]
+        }
+    ],
+    "さんいつ": [
+        {
+            "kana": "さんいつ",
+            "definition": [
+                "being scattered and ultimately lost",
+                "dissipation"
+            ]
+        }
+    ],
+    "もの": [
+        {
+            "kana": "もの",
+            "definition": [
+                "indicates reason or excuse",
+                "indicates dissatisfaction; indicates desire to be pampered or indulged"
+            ]
+        }
+    ],
+    "モーニング": [
+        {
+            "kana": "モーニング",
+            "definition": [
+                "morning",
+                "breakfast set (often a drink and toast); breakfast special; special breakfast offer",
+                "morning dress; morning coat"
+            ]
+        }
+    ],
+    "セット": [
+        {
+            "kana": "セット",
+            "definition": [
+                "set (of things); combo",
+                "setting up; preparing; arranging; placing; positioning; configuring; setting (e.g. an alarm)",
+                "setting (hair)",
+                "set (in tennis, volleyball, etc.)",
+                "set (in a play, film, etc.); movie set",
+                "(television or radio) receiver"
+            ]
+        }
+    ],
+    "チョコ": [
+        {
+            "kana": "チョコ",
+            "definition": [
+                "chocolate"
+            ]
+        }
+    ],
+    "パフェ": [
+        {
+            "kana": "パフェ",
+            "definition": [
+                "parfait"
+            ]
+        }
+    ],
+    "ください": [
+        {
+            "kana": "ください",
+            "definition": [
+                "please (give me)",
+                "please (do for me)"
+            ]
+        },
+        {
+            "kanji": "下さる",
+            "kana": "くださる",
+            "definition": [
+                "to give; to confer; to bestow",
+                "to kindly do for one; to oblige; to favour; to favor"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "ミルフィーユ": [
+        {
+            "kana": "ミルフィーユ",
+            "definition": [
+                "mille-feuille (type of pastry)"
+            ]
+        }
+    ],
+    "ココア": [
+        {
+            "kana": "ココア",
+            "definition": [
+                "cocoa (beverage, cocoa solids); hot chocolate"
+            ]
+        }
+    ],
+    "ここ": [
+        {
+            "kana": "ここ",
+            "definition": [
+                "here; this place",
+                "this point; here; now",
+                "these past ... (e.g. three years); these last ...",
+                "the next ... (e.g. few days); these next ..."
+            ]
+        }
+    ],
+    "じゃ": [
+        {
+            "kana": "じゃ",
+            "definition": [
+                "be; is",
+                "did; (have) done",
+                "please; do"
+            ]
+        }
+    ],
+    "あり": [
+        {
+            "kana": "あり",
+            "definition": [
+                "existing (at the present moment)",
+                "alright; acceptable; passable",
+                "to be (usu. of inanimate objects); to have"
+            ]
+        },
+        {
+            "kanji": "有る",
+            "kana": "ある",
+            "definition": [
+                "to be; to exist; to live",
+                "to have",
+                "to be located",
+                "to be equipped with",
+                "to happen; to come about"
+            ],
+            "type": "Continuative (~i)  "
+        }
+    ],
+    "ませ": [
+        {
+            "kana": "ませ",
+            "definition": [
+                "please",
+                "used to increase the politeness of a greeting"
+            ]
+        },
+        {
+            "kanji": "老成る",
+            "kana": "ませる",
+            "definition": [
+                "to be precocious; to be mature for one's age; to seem grown-up; to seem mature"
+            ],
+            "type": "Continuative (~i)  "
+        },
+        {
+            "kanji": "増す",
+            "kana": "ます",
+            "definition": [
+                "to increase; to grow"
+            ],
+            "type": "Imperative  "
+        }
+    ]
+}

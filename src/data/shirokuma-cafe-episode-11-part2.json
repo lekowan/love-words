@@ -1,0 +1,1505 @@
+{
+    "1": {
+        "character": "お疲れさまでした",
+        "definition": "Thanks for all of your hard work.",
+        "speaker": "SASAKO",
+        "audio": "/audio/11/0.11.59.mp3",
+        "timestamp": "0:11:59",
+        "characterWithSpace": "お疲れさま でした",
+        "katakanaWithSpace": "おつかれさま でした"
+    },
+    "2": {
+        "character": "お疲れさま",
+        "definition": "Thank you.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.02.mp3",
+        "timestamp": "0:12:02",
+        "characterWithSpace": "お疲れさま",
+        "katakanaWithSpace": "おつかれさま"
+    },
+    "3": {
+        "character": "パンダくん　閉店なんだけど",
+        "definition": "We're closed now, Panda. Panda? Oh, good morning.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.06.mp3",
+        "timestamp": "0:12:06",
+        "characterWithSpace": "パンダ くん 閉店 な ん だけど",
+        "katakanaWithSpace": "パンダ くん  へいてん な ん だけど"
+    },
+    "4": {
+        "character": "もう　夜だよ",
+        "definition": "It's already night time.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.17.mp3",
+        "timestamp": "0:12:17",
+        "characterWithSpace": "もう 夜 だ よ",
+        "katakanaWithSpace": "もう  よる だ よ"
+    },
+    "5": {
+        "character": "グリズリーくん",
+        "definition": "Grizzly.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.21.mp3",
+        "timestamp": "0:12:21",
+        "characterWithSpace": "グリズリー くん",
+        "katakanaWithSpace": "グリズリー くん"
+    },
+    "6": {
+        "character": "よう　ちょっと遊びに行こうぜ",
+        "definition": "Hey, let's go play for a bit.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.23.mp3",
+        "timestamp": "0:12:23",
+        "characterWithSpace": "よう ちょっと 遊びに行こう ぜ",
+        "katakanaWithSpace": "よう  ちょっと あそびにいこう ぜ"
+    },
+    "7": {
+        "character": "いいよ",
+        "definition": "Sure.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.26.mp3",
+        "timestamp": "0:12:26",
+        "characterWithSpace": "いい よ",
+        "katakanaWithSpace": "いい よ"
+    },
+    "8": {
+        "character": "遊びに行くの？",
+        "definition": "You're gonna go play?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.12.28.mp3",
+        "timestamp": "0:12:28",
+        "characterWithSpace": "遊びに行く の",
+        "katakanaWithSpace": "あそびにいく の ？"
+    },
+    "9": {
+        "character": "僕も行きたい！",
+        "definition": "I wanna go, too!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.12.30.mp3",
+        "timestamp": "0:12:30",
+        "characterWithSpace": "僕 も 行きたい",
+        "katakanaWithSpace": "ぼく も いきたい ！"
+    },
+    "10": {
+        "character": "ガキの行くところじゃねぇんだよ",
+        "definition": "We ain't goin' anywhere for kids.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.32.mp3",
+        "timestamp": "0:12:32",
+        "characterWithSpace": "ガキ の 行く ところ じゃねぇ ん だ よ",
+        "katakanaWithSpace": "ガキ の いく ところ じゃねぇ ん だ よ"
+    },
+    "11": {
+        "character": "大人の夜遊びだ",
+        "definition": "This is an adult's night out.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.34.mp3",
+        "timestamp": "0:12:34",
+        "characterWithSpace": "大人 の 夜遊び だ",
+        "katakanaWithSpace": "おとな の よあそび だ"
+    },
+    "12": {
+        "character": "夜遊び？",
+        "definition": "Night out?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.12.37.mp3",
+        "timestamp": "0:12:37",
+        "characterWithSpace": "夜遊び",
+        "katakanaWithSpace": "よあそび ？"
+    },
+    "13": {
+        "character": "なんか　すごくおもしろそう",
+        "definition": "That sounds really fun.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.12.38.mp3",
+        "timestamp": "0:12:38",
+        "characterWithSpace": "なんか すごく おもしろそう",
+        "katakanaWithSpace": "なんか  すごく おもしろそう"
+    },
+    "14": {
+        "character": "何でついてくるんだよ",
+        "definition": "Why the hell are you tagging along?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.46.mp3",
+        "timestamp": "0:12:46",
+        "characterWithSpace": "何で ついてくる ん だ よ",
+        "katakanaWithSpace": "なんで ついてくる ん だ よ"
+    },
+    "15": {
+        "character": "グリズリーくんが　誘ったんじゃない",
+        "definition": "Because you invited me, Grizzly.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.48.mp3",
+        "timestamp": "0:12:48",
+        "characterWithSpace": "グリズリー くん が 誘った ん じゃない",
+        "katakanaWithSpace": "グリズリー くん が  さそった ん じゃない"
+    },
+    "16": {
+        "character": "お前じゃねぇよ",
+        "definition": "Not you.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.51.mp3",
+        "timestamp": "0:12:51",
+        "characterWithSpace": "お前 じゃねぇ よ",
+        "katakanaWithSpace": "おまえ じゃねぇ よ"
+    },
+    "17": {
+        "character": "コイツだよ",
+        "definition": "Him!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.12.54.mp3",
+        "timestamp": "0:12:54",
+        "characterWithSpace": "コイツ だ よ",
+        "katakanaWithSpace": "コイツ だ よ"
+    },
+    "18": {
+        "character": "どこ行くの？",
+        "definition": "Where are you going?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.12.55.mp3",
+        "timestamp": "0:12:55",
+        "characterWithSpace": "どこ 行く の",
+        "katakanaWithSpace": "どこ いく の ？"
+    },
+    "19": {
+        "character": "というわけで　パンダくん",
+        "definition": "So, Panda,",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.12.58.mp3",
+        "timestamp": "0:12:58",
+        "characterWithSpace": "という わけ で パンダ くん",
+        "katakanaWithSpace": "という わけ で  パンダ くん"
+    },
+    "20": {
+        "character": "今日は残念だけど中止だから帰ろう",
+        "definition": "I regret to inform you, tonight's plans have been canceled and we're going home.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.13.00.mp3",
+        "timestamp": "0:13:00",
+        "characterWithSpace": "今日 は 残念 だけど 中止 だから 帰ろう",
+        "katakanaWithSpace": "きょう は ざんねん だけど ちゅうし だ から かえろう"
+    },
+    "21": {
+        "character": "残念",
+        "definition": "How sad.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.13.04.mp3",
+        "timestamp": "0:13:04",
+        "characterWithSpace": "残念",
+        "katakanaWithSpace": "ざんねん"
+    },
+    "22": {
+        "character": "何でそうなるんだ！",
+        "definition": "How the hell did it come to that?! Wait a minute!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.06.mp3",
+        "timestamp": "0:13:06",
+        "characterWithSpace": "何 でそう なる ん だ",
+        "katakanaWithSpace": "なん でそう なる ん だ ！"
+    },
+    "23": {
+        "character": "やっぱり行くの？",
+        "definition": "So you are going?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.13.09.mp3",
+        "timestamp": "0:13:09",
+        "characterWithSpace": "やっぱり 行く の",
+        "katakanaWithSpace": "やっぱり いく の ？"
+    },
+    "24": {
+        "character": "行くに決まってんだろ！",
+        "definition": "Of course I am!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.10.mp3",
+        "timestamp": "0:13:10",
+        "characterWithSpace": "行く に 決まって ん だろ",
+        "katakanaWithSpace": "いく に きまって ん だろ ！"
+    },
+    "25": {
+        "character": "すごい　ここ何？",
+        "definition": "Wow! What is this place?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.13.20.mp3",
+        "timestamp": "0:13:20",
+        "characterWithSpace": "すごい ここ 何",
+        "katakanaWithSpace": "すごい  ここ なに/なん ？"
+    },
+    "26": {
+        "character": "バッティングセンター",
+        "definition": "It's a batting center.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.13.23.mp3",
+        "timestamp": "0:13:23",
+        "characterWithSpace": "バッティング センター",
+        "katakanaWithSpace": "バッティング センター"
+    },
+    "27": {
+        "character": "来たことねぇのか",
+        "definition": "You've never been to one?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.25.mp3",
+        "timestamp": "0:13:25",
+        "characterWithSpace": "来 たこ とねぇ のか",
+        "katakanaWithSpace": "らい/き たこ とねぇ のか"
+    },
+    "28": {
+        "character": "何やってんだよ！",
+        "definition": "What the hell are you doing?! This isn't a place you're supposed to be climbing around! Really?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.28.mp3",
+        "timestamp": "0:13:28",
+        "characterWithSpace": "何 やって ん だ よ",
+        "katakanaWithSpace": "なに やって ん だ よ ！"
+    },
+    "29": {
+        "character": "ったく…",
+        "definition": "Jeez...",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.35.mp3",
+        "timestamp": "0:13:35",
+        "characterWithSpace": "ったく",
+        "katakanaWithSpace": "ったく …"
+    },
+    "30": {
+        "character": "これ気持いいね",
+        "definition": "This feels really good.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.13.40.mp3",
+        "timestamp": "0:13:40",
+        "characterWithSpace": "これ 気持 いいね",
+        "katakanaWithSpace": "これ きもち いいね"
+    },
+    "31": {
+        "character": "だから　そうじゃねぇんだよ",
+        "definition": "That's not what those are used for.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.42.mp3",
+        "timestamp": "0:13:42",
+        "characterWithSpace": "だから そう じゃねぇ ん だ よ",
+        "katakanaWithSpace": "だ·から  そう じゃねぇ ん だ よ"
+    },
+    "32": {
+        "character": "結構　凝りがほぐれるね",
+        "definition": "This does work quite well to relieve tension.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.13.47.mp3",
+        "timestamp": "0:13:47",
+        "characterWithSpace": "結構 凝り が ほぐれる ね",
+        "katakanaWithSpace": "けっこう  しこり が ほぐれる ね"
+    },
+    "33": {
+        "character": "お前までやってんじゃねぇ！",
+        "definition": "What the hell are you doing it for, too?!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.49.mp3",
+        "timestamp": "0:13:49",
+        "characterWithSpace": "お前 まで やって ん じゃねぇ",
+        "katakanaWithSpace": "おまえ まで やって ん じゃねぇ ！"
+    },
+    "34": {
+        "character": "じゃあ　ここで何して遊ぶの？",
+        "definition": "So what are we supposed to do here?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.13.52.mp3",
+        "timestamp": "0:13:52",
+        "characterWithSpace": "じゃあ ここ で 何 して 遊ぶ の",
+        "katakanaWithSpace": "じゃあ  ここ で なに して あそぶ の ？"
+    },
+    "35": {
+        "character": "向こうから来た球を 打ち返すんだよ",
+        "definition": "You hit the ball that comes at you.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.55.mp3",
+        "timestamp": "0:13:55",
+        "characterWithSpace": "向こう から 来た 球 を 打ち返す ん だ よ",
+        "katakanaWithSpace": "むこう から きた きゅう を  うちかえす ん だ よ"
+    },
+    "36": {
+        "character": "こうやるんだ",
+        "definition": "Like this.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.13.58.mp3",
+        "timestamp": "0:13:58",
+        "characterWithSpace": "こう やる ん だ",
+        "katakanaWithSpace": "こう やる ん だ"
+    },
+    "37": {
+        "character": "ナイスキャッチ",
+        "definition": "Nice catch! You're amazing, Polar Bear!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.06.mp3",
+        "timestamp": "0:14:06",
+        "characterWithSpace": "ナイスキャッチ",
+        "katakanaWithSpace": "ナイスキャッチ"
+    },
+    "38": {
+        "character": "ピッチャーライナーだね",
+        "definition": "It was a line drive at the pitcher.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.10.mp3",
+        "timestamp": "0:14:10",
+        "characterWithSpace": "ピッチャー ライナー だ ね",
+        "katakanaWithSpace": "ピッチャー ライナー だ ね"
+    },
+    "39": {
+        "character": "何やってんだよ！！",
+        "definition": "What the hell are you doing?!",
+        "speaker": "",
+        "audio": "/audio/11/0.14.12.mp3",
+        "timestamp": "0:14:12",
+        "characterWithSpace": "何 やって ん だ よ",
+        "katakanaWithSpace": "なに やって ん だ よ ！！"
+    },
+    "40": {
+        "character": "僕もやる",
+        "definition": "I wanna do it, too!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.14.13.mp3",
+        "timestamp": "0:14:13",
+        "characterWithSpace": "僕 も やる",
+        "katakanaWithSpace": "ぼく も やる"
+    },
+    "41": {
+        "character": "やらなくていいんだよ！",
+        "definition": "You don't have to!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.14.15.mp3",
+        "timestamp": "0:14:15",
+        "characterWithSpace": "やらなくていい ん だ よ",
+        "katakanaWithSpace": "やらなくて いい ん だ よ ！"
+    },
+    "42": {
+        "character": "大当たり！",
+        "definition": "Nice shot!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.21.mp3",
+        "timestamp": "0:14:21",
+        "characterWithSpace": "大当たり",
+        "katakanaWithSpace": "おおあたり ！"
+    },
+    "43": {
+        "character": "グリズリーさんやったね！",
+        "definition": "You did it, Mr. Grizzly! I don't feel like doing this anymore.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.14.23.mp3",
+        "timestamp": "0:14:23",
+        "characterWithSpace": "グリズリー さん やった ね",
+        "katakanaWithSpace": "グリズリー さん やった ね ！"
+    },
+    "44": {
+        "character": "じゃあ僕がお手本を",
+        "definition": "Then I'll show you how it's done.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.29.mp3",
+        "timestamp": "0:14:29",
+        "characterWithSpace": "じゃあ 僕 が お手本 を",
+        "katakanaWithSpace": "じゃあ ぼく が おてほん を"
+    },
+    "45": {
+        "character": "さあ　来い！",
+        "definition": "Bring it on!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.31.mp3",
+        "timestamp": "0:14:31",
+        "characterWithSpace": "さあ 来い",
+        "katakanaWithSpace": "さあ  こい ！"
+    },
+    "46": {
+        "character": "バット　持ちすぎだろう！",
+        "definition": "You're holding too many bats!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.14.33.mp3",
+        "timestamp": "0:14:33",
+        "characterWithSpace": "バット 持ち すぎ だろう",
+        "katakanaWithSpace": "バット  もち すぎ だろう ！"
+    },
+    "47": {
+        "character": "じゃあ　改めてお手本を",
+        "definition": "Let's try this again.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.35.mp3",
+        "timestamp": "0:14:35",
+        "characterWithSpace": "じゃあ 改めて お手本 を",
+        "katakanaWithSpace": "じゃあ  あらためて おてほん を"
+    },
+    "48": {
+        "character": "バット　使えよ！",
+        "definition": "Use the damn bat!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.14.39.mp3",
+        "timestamp": "0:14:39",
+        "characterWithSpace": "バット 使え よ",
+        "katakanaWithSpace": "バット  つかえ よ ！"
+    },
+    "49": {
+        "character": "もう　いい… パンダ　とにかく　やってみろ",
+        "definition": "Enough. Just try it, Panda. Raise your bat and watch the ball carefully, Panda. Okay!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.14.41.mp3",
+        "timestamp": "0:14:41",
+        "characterWithSpace": "もう いい パンダ とにかく やってみろ",
+        "katakanaWithSpace": "もう  いい … パンダ  とにかく  やってみろ"
+    },
+    "50": {
+        "character": "いや　そうじゃなくてな…",
+        "definition": "That's not what we meant.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.14.57.mp3",
+        "timestamp": "0:14:57",
+        "characterWithSpace": "いや そうじゃなくて な",
+        "katakanaWithSpace": "いや  そうじゃなくて な …"
+    },
+    "51": {
+        "character": "ボールを　しっかり見て",
+        "definition": "Watch the ball closely.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.14.59.mp3",
+        "timestamp": "0:14:59",
+        "characterWithSpace": "ボール を しっかり 見て",
+        "katakanaWithSpace": "ボール を  しっかり みて"
+    },
+    "52": {
+        "character": "じ～～～",
+        "definition": "Stare...",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.02.mp3",
+        "timestamp": "0:15:02",
+        "characterWithSpace": "じ",
+        "katakanaWithSpace": "じ ～～～"
+    },
+    "53": {
+        "character": "こう？",
+        "definition": "Like this?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.04.mp3",
+        "timestamp": "0:15:04",
+        "characterWithSpace": "こう",
+        "katakanaWithSpace": "こう ？"
+    },
+    "54": {
+        "character": "打てよ",
+        "definition": "Hit the ball.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.05.mp3",
+        "timestamp": "0:15:05",
+        "characterWithSpace": "打て よ",
+        "katakanaWithSpace": "うて よ"
+    },
+    "55": {
+        "character": "やっぱり？",
+        "definition": "I thought so.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.07.mp3",
+        "timestamp": "0:15:07",
+        "characterWithSpace": "やっぱり",
+        "katakanaWithSpace": "やっぱり ？"
+    },
+    "56": {
+        "character": "やっぱりじゃねぇ！ バットで当てろ！！",
+        "definition": "Not \"I thought so.\" Hit the damn ball with the bat!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.08.mp3",
+        "timestamp": "0:15:08",
+        "characterWithSpace": "やっぱり じゃねぇ バット で 当てろ",
+        "katakanaWithSpace": "やっぱり じゃねぇ ！ バット で あてろ ！！"
+    },
+    "57": {
+        "character": "ナイスショット",
+        "definition": "Nice shot!",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.15.13.mp3",
+        "timestamp": "0:15:13",
+        "characterWithSpace": "ナイスショット",
+        "katakanaWithSpace": "ナイスショット"
+    },
+    "58": {
+        "character": "やったぁ！",
+        "definition": "Yay! This isn't golf!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.14.mp3",
+        "timestamp": "0:15:14",
+        "characterWithSpace": "や ったぁ",
+        "katakanaWithSpace": "や ったぁ ！"
+    },
+    "59": {
+        "character": "積み木じゃねぇ！",
+        "definition": "They aren't building blocks!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.18.mp3",
+        "timestamp": "0:15:18",
+        "characterWithSpace": "積み木 じゃねぇ",
+        "katakanaWithSpace": "つみき じゃねぇ ！"
+    },
+    "60": {
+        "character": "ビリヤードじゃねぇ！",
+        "definition": "This isn't billiards!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.21.mp3",
+        "timestamp": "0:15:21",
+        "characterWithSpace": "ビリヤード じゃねぇ",
+        "katakanaWithSpace": "ビリヤード じゃねぇ ！"
+    },
+    "61": {
+        "character": "ああ　おもしろかった",
+        "definition": "That was fun.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.33.mp3",
+        "timestamp": "0:15:33",
+        "characterWithSpace": "ああ おもしろかった",
+        "katakanaWithSpace": "ああ  おもしろかった"
+    },
+    "62": {
+        "character": "全然　バッティングしてねぇけどな",
+        "definition": "You didn't bat at all, though.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.35.mp3",
+        "timestamp": "0:15:35",
+        "characterWithSpace": "全然 バッティング して ねぇ けど な",
+        "katakanaWithSpace": "ぜんぜん  バッティング して ねぇ けど な"
+    },
+    "63": {
+        "character": "次　いくぞ",
+        "definition": "We're going to the next place. We're going somewhere else?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.38.mp3",
+        "timestamp": "0:15:38",
+        "characterWithSpace": "次 いく ぞ",
+        "katakanaWithSpace": "つぎ  いく ぞ"
+    },
+    "64": {
+        "character": "夜はこれからだからな",
+        "definition": "The night's just beginning.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.42.mp3",
+        "timestamp": "0:15:42",
+        "characterWithSpace": "夜 は これから だから な",
+        "katakanaWithSpace": "よる は これから だ·から な"
+    },
+    "65": {
+        "character": "これからなんだ…",
+        "definition": "It's just beginning...",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.44.mp3",
+        "timestamp": "0:15:44",
+        "characterWithSpace": "これから な ん だ",
+        "katakanaWithSpace": "これから な ん だ …"
+    },
+    "66": {
+        "character": "次は　どこかな？",
+        "definition": "I wonder where we're going next!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.47.mp3",
+        "timestamp": "0:15:47",
+        "characterWithSpace": "次 は どこか な",
+        "katakanaWithSpace": "つぎ は  どこか な ？"
+    },
+    "67": {
+        "character": "風呂だ！",
+        "definition": "We're going to take a bath!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.50.mp3",
+        "timestamp": "0:15:50",
+        "characterWithSpace": "風呂 だ",
+        "katakanaWithSpace": "ふろ だ ！"
+    },
+    "68": {
+        "character": "広い！",
+        "definition": "It's so big!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.52.mp3",
+        "timestamp": "0:15:52",
+        "characterWithSpace": "広い",
+        "katakanaWithSpace": "ひろい ！"
+    },
+    "69": {
+        "character": "すごいね！",
+        "definition": "It's so amazing!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.15.55.mp3",
+        "timestamp": "0:15:55",
+        "characterWithSpace": "すごい ね",
+        "katakanaWithSpace": "すごい ね ！"
+    },
+    "70": {
+        "character": "すげぇだろう？",
+        "definition": "Isn't it awesome?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.15.57.mp3",
+        "timestamp": "0:15:57",
+        "characterWithSpace": "すげぇ だろう",
+        "katakanaWithSpace": "すげぇ だろう ？"
+    },
+    "71": {
+        "character": "本当だ！",
+        "definition": "It's true!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.07.mp3",
+        "timestamp": "0:16:07",
+        "characterWithSpace": "本当 だ",
+        "katakanaWithSpace": "ほんとう だ ！"
+    },
+    "72": {
+        "character": "すごいよ！！",
+        "definition": "It's awesome!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.10.mp3",
+        "timestamp": "0:16:10",
+        "characterWithSpace": "すごい よ",
+        "katakanaWithSpace": "すごい よ ！！"
+    },
+    "73": {
+        "character": "そういう　すげぇじゃ ねぇんだけどな…",
+        "definition": "That's not what I meant.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.16.12.mp3",
+        "timestamp": "0:16:12",
+        "characterWithSpace": "そういう すげぇ じゃ ねぇ ん だけど な",
+        "katakanaWithSpace": "そういう  すげぇ じゃ  ねぇ ん だけど な …"
+    },
+    "74": {
+        "character": "ほら　ほら",
+        "definition": "Look, look!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.14.mp3",
+        "timestamp": "0:16:14",
+        "characterWithSpace": "ほら ほら",
+        "katakanaWithSpace": "ほら  ほら"
+    },
+    "75": {
+        "character": "まずはちゃんと体洗えよ",
+        "definition": "First you have to wash your body thoroughly. Okay.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.16.17.mp3",
+        "timestamp": "0:16:17",
+        "characterWithSpace": "まず は ちゃんと 体 洗え よ",
+        "katakanaWithSpace": "まず は ちゃんと からだ あらえ よ"
+    },
+    "76": {
+        "character": "背中　流してあげようか？",
+        "definition": "Do you want me to wash your back?",
+        "speaker": "BOY",
+        "audio": "/audio/11/0.16.21.mp3",
+        "timestamp": "0:16:21",
+        "characterWithSpace": "背中 流して あげよう か",
+        "katakanaWithSpace": "せなか  ながして あげよう か ？"
+    },
+    "77": {
+        "character": "うん　頼むよ",
+        "definition": "Sure, thanks.",
+        "speaker": "DAD",
+        "audio": "/audio/11/0.16.23.mp3",
+        "timestamp": "0:16:23",
+        "characterWithSpace": "うん 頼む よ",
+        "katakanaWithSpace": "うん  たのむ よ"
+    },
+    "78": {
+        "character": "背中　流してあげようか？",
+        "definition": "Do you want me to wash your back? That's thoughtful of you! Hey! Stop that! It tickles for some reason. Really?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.25.mp3",
+        "timestamp": "0:16:25",
+        "characterWithSpace": "背中 流して あげよう か",
+        "katakanaWithSpace": "せなか  ながして あげよう か ？"
+    },
+    "79": {
+        "character": "パンダくん もっと強くこするんだよ",
+        "definition": "You have to scrub harder, Panda.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.16.39.mp3",
+        "timestamp": "0:16:39",
+        "characterWithSpace": "パンダ くん もっと 強く こする ん だ よ",
+        "katakanaWithSpace": "パンダ くん  もっと つよく こする ん だ よ"
+    },
+    "80": {
+        "character": "イテーッ！！　ツメ　立てんな　ツメ！",
+        "definition": "Ow! Don't use your damn nails!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.16.43.mp3",
+        "timestamp": "0:16:43",
+        "characterWithSpace": "イテーッ ツメ 立てん な ツメ",
+        "katakanaWithSpace": "イテーッ ！！ ツメ  たてん な  ツメ ！"
+    },
+    "81": {
+        "character": "あっ　ごめん",
+        "definition": "Sorry.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.16.46.mp3",
+        "timestamp": "0:16:46",
+        "characterWithSpace": "あっ ごめん",
+        "katakanaWithSpace": "あっ  ごめん"
+    },
+    "82": {
+        "character": "目に染みるよ",
+        "definition": "My eyes burn.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.51.mp3",
+        "timestamp": "0:16:51",
+        "characterWithSpace": "目に染みる よ",
+        "katakanaWithSpace": "めにしみる よ"
+    },
+    "83": {
+        "character": "早く流せ",
+        "definition": "Hurry up and rinse it off.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.16.53.mp3",
+        "timestamp": "0:16:53",
+        "characterWithSpace": "早く 流せ",
+        "katakanaWithSpace": "はやく ながせ"
+    },
+    "84": {
+        "character": "グリズリーさん…",
+        "definition": "Mr. Grizzly... Who's that?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.16.56.mp3",
+        "timestamp": "0:16:56",
+        "characterWithSpace": "グリズリー さん",
+        "katakanaWithSpace": "グリズリー さん …"
+    },
+    "85": {
+        "character": "ハア…　すっきり",
+        "definition": "I feel all better.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.17.09.mp3",
+        "timestamp": "0:17:09",
+        "characterWithSpace": "ハア すっきり",
+        "katakanaWithSpace": "ハア … すっきり"
+    },
+    "86": {
+        "character": "グリズリーさんも流してあげるよ",
+        "definition": "I'll rinse you off, too, Mr. Grizzly.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.17.11.mp3",
+        "timestamp": "0:17:11",
+        "characterWithSpace": "グリズリー さん も 流して あげる よ",
+        "katakanaWithSpace": "グリズリー さん も ながして あげる よ"
+    },
+    "87": {
+        "character": "おう　頼むぜ",
+        "definition": "Sure, thanks.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.14.mp3",
+        "timestamp": "0:17:14",
+        "characterWithSpace": "おう 頼む ぜ",
+        "katakanaWithSpace": "おう  たのむ ぜ"
+    },
+    "88": {
+        "character": "アチーッ！！　熱いじゃねえか！",
+        "definition": "Ow, that's hot! What the hell?! That's really hot! I'm sorry.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.17.mp3",
+        "timestamp": "0:17:17",
+        "characterWithSpace": "アチーッ 熱い じゃねえ か",
+        "katakanaWithSpace": "アチーッ ！！ あつい じゃねえ か ！"
+    },
+    "89": {
+        "character": "赤いほうを回すとお湯で",
+        "definition": "Turn the red knob for hot water.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.22.mp3",
+        "timestamp": "0:17:22",
+        "characterWithSpace": "赤い ほう を 回す と お湯 で",
+        "katakanaWithSpace": "あかい ほう を まわす と おゆ で"
+    },
+    "90": {
+        "character": "青いほうが水だからな",
+        "definition": "The blue knob is for cold water.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.24.mp3",
+        "timestamp": "0:17:24",
+        "characterWithSpace": "青い ほう が 水 だから な",
+        "katakanaWithSpace": "あおい ほう が みず だ から な"
+    },
+    "91": {
+        "character": "わかった",
+        "definition": "Got it.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.17.27.mp3",
+        "timestamp": "0:17:27",
+        "characterWithSpace": "わかった",
+        "katakanaWithSpace": "わかった"
+    },
+    "92": {
+        "character": "冷てぇ！！　ちゃんと調節しろよ！",
+        "definition": "That's cold! Control the damn temperature better!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.29.mp3",
+        "timestamp": "0:17:29",
+        "characterWithSpace": "冷 てぇ ちゃんと 調節しろ よ",
+        "katakanaWithSpace": "れい/ひや てぇ ！！ ちゃんと ちょうせつ しろ よ ！"
+    },
+    "93": {
+        "character": "ごめんなさい…",
+        "definition": "I'm sorry.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.17.33.mp3",
+        "timestamp": "0:17:33",
+        "characterWithSpace": "ごめんなさい",
+        "katakanaWithSpace": "ごめんなさい …"
+    },
+    "94": {
+        "character": "アチーッ！！",
+        "definition": "Ow, that's hot!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.36.mp3",
+        "timestamp": "0:17:36",
+        "characterWithSpace": "アチーッ",
+        "katakanaWithSpace": "アチーッ ！！"
+    },
+    "95": {
+        "character": "冷てぇ！！",
+        "definition": "That's cold!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.38.mp3",
+        "timestamp": "0:17:38",
+        "characterWithSpace": "冷 てぇ",
+        "katakanaWithSpace": "れい/ひや てぇ ！！"
+    },
+    "96": {
+        "character": "アチーッ！！",
+        "definition": "That's hot!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.40.mp3",
+        "timestamp": "0:17:40",
+        "characterWithSpace": "アチーッ",
+        "katakanaWithSpace": "アチーッ ！！"
+    },
+    "97": {
+        "character": "冷てぇ！！",
+        "definition": "That's cold! Um, uh...",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.42.mp3",
+        "timestamp": "0:17:42",
+        "characterWithSpace": "冷 てぇ",
+        "katakanaWithSpace": "れい/ひや てぇ ！！"
+    },
+    "98": {
+        "character": "パンダ…　もういい　気持だけ　もらっとく",
+        "definition": "That's enough, Panda.  I appreciate your effort.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.46.mp3",
+        "timestamp": "0:17:46",
+        "characterWithSpace": "パンダ もういい 気持 だけ もらっとく",
+        "katakanaWithSpace": "パンダ … もういい  きもち だけ  もらっとく"
+    },
+    "99": {
+        "character": "いいニオイになったね",
+        "definition": "We smell really good, now.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.17.55.mp3",
+        "timestamp": "0:17:55",
+        "characterWithSpace": "いい ニオイ に なった ね",
+        "katakanaWithSpace": "いい ニオイ に なった ね"
+    },
+    "100": {
+        "character": "何の香りだ？　ここのシャンプー",
+        "definition": "What scent is this shampoo? It smells really delicious. It's this.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.17.57.mp3",
+        "timestamp": "0:17:57",
+        "characterWithSpace": "何の 香り だ ここ の シャンプー",
+        "katakanaWithSpace": "なんの かおり だ ？ ここ の シャンプー"
+    },
+    "101": {
+        "character": "クマザサシャンプーだね",
+        "definition": "Bear Bamboo Grass Shampoo.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.18.05.mp3",
+        "timestamp": "0:18:05",
+        "characterWithSpace": "クマザサ シャンプー だ ね",
+        "katakanaWithSpace": "クマザサ シャンプー だ ね"
+    },
+    "102": {
+        "character": "飲めないかな？",
+        "definition": "I wonder if you can drink it.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.18.08.mp3",
+        "timestamp": "0:18:08",
+        "characterWithSpace": "飲めない かな",
+        "katakanaWithSpace": "のめない かな ？"
+    },
+    "103": {
+        "character": "飲むんじゃねぇぞ",
+        "definition": "Don't even think about it.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.18.09.mp3",
+        "timestamp": "0:18:09",
+        "characterWithSpace": "飲む ん じゃねぇ ぞ",
+        "katakanaWithSpace": "のむ ん じゃねぇ ぞ"
+    },
+    "104": {
+        "character": "というわけで　パンダくん お風呂に入れてみよう",
+        "definition": "Well then, let's try putting it in the bath, Panda.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.18.11.mp3",
+        "timestamp": "0:18:11",
+        "characterWithSpace": "という わけ で パンダ くん お風呂に入れて みよう",
+        "katakanaWithSpace": "という わけ で  パンダ くん  おふろにはいれて みよう"
+    },
+    "105": {
+        "character": "いいね",
+        "definition": "Great idea!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.18.16.mp3",
+        "timestamp": "0:18:16",
+        "characterWithSpace": "いいね",
+        "katakanaWithSpace": "いいね"
+    },
+    "106": {
+        "character": "よくねぇ　やめろ",
+        "definition": "No, it's not. Don't do it. Look at it fly!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.18.17.mp3",
+        "timestamp": "0:18:17",
+        "characterWithSpace": "よくねぇ やめろ",
+        "katakanaWithSpace": "よくねぇ  やめろ"
+    },
+    "107": {
+        "character": "そうそう　うまい　うまい",
+        "definition": "Exactly. Good job.",
+        "speaker": "GRANDPA",
+        "audio": "/audio/11/0.18.34.mp3",
+        "timestamp": "0:18:34",
+        "characterWithSpace": "そうそう うまい うまい",
+        "katakanaWithSpace": "そうそう  うまい  うまい"
+    },
+    "108": {
+        "character": "あれ　どうやるの？",
+        "definition": "How do you do that? Like this.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.18.37.mp3",
+        "timestamp": "0:18:37",
+        "characterWithSpace": "あれ どう やる の",
+        "katakanaWithSpace": "あれ  どう やる の ？"
+    },
+    "109": {
+        "character": "やめろ！",
+        "definition": "Knock it off!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.18.49.mp3",
+        "timestamp": "0:18:49",
+        "characterWithSpace": "やめろ",
+        "katakanaWithSpace": "やめろ ！"
+    },
+    "110": {
+        "character": "ったく！",
+        "definition": "Jeez...",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.18.51.mp3",
+        "timestamp": "0:18:51",
+        "characterWithSpace": "ったく",
+        "katakanaWithSpace": "ったく ！"
+    },
+    "111": {
+        "character": "どこ行くの？",
+        "definition": "Where are you going? I like the sauna.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.18.52.mp3",
+        "timestamp": "0:18:52",
+        "characterWithSpace": "どこ 行く の",
+        "katakanaWithSpace": "どこ いく の ？"
+    },
+    "112": {
+        "character": "それは　魚！",
+        "definition": "That's a fish {\\i1}(sakana){\\i0}!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.18.57.mp3",
+        "timestamp": "0:18:57",
+        "characterWithSpace": "それは 魚",
+        "katakanaWithSpace": "それは  さかな ！"
+    },
+    "113": {
+        "character": "それは　アンテナ！",
+        "definition": "That's an antenna {\\i1}(antena){\\i0}!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.00.mp3",
+        "timestamp": "0:19:00",
+        "characterWithSpace": "それは アンテナ",
+        "katakanaWithSpace": "それは  アンテナ ！"
+    },
+    "114": {
+        "character": "それは　手品！",
+        "definition": "That's sleight of hand {\\i1}(tejina){\\i0}!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.04.mp3",
+        "timestamp": "0:19:04",
+        "characterWithSpace": "それは 手品",
+        "katakanaWithSpace": "それは  てじな ！"
+    },
+    "115": {
+        "character": "サウナって何？",
+        "definition": "What's a sauna? I'm sweating a lot for some reason.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.19.06.mp3",
+        "timestamp": "0:19:06",
+        "characterWithSpace": "サウナ って 何",
+        "katakanaWithSpace": "サウナ って なに/なん ？"
+    },
+    "116": {
+        "character": "それがサウナのいいところだ",
+        "definition": "That's the good thing about saunas.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.14.mp3",
+        "timestamp": "0:19:14",
+        "characterWithSpace": "それ が サウナ の いい ところ だ",
+        "katakanaWithSpace": "それ が サウナ の いい ところ だ"
+    },
+    "117": {
+        "character": "蒸されてる感じ",
+        "definition": "I feel like I'm being steamed.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.19.16.mp3",
+        "timestamp": "0:19:16",
+        "characterWithSpace": "蒸されてる 感じ",
+        "katakanaWithSpace": "むされてる かんじ"
+    },
+    "118": {
+        "character": "これが体にいいんだよ！",
+        "definition": "That's what's great for your body.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.18.mp3",
+        "timestamp": "0:19:18",
+        "characterWithSpace": "これ が 体 に いい ん だ よ",
+        "katakanaWithSpace": "これ が からだ に いい ん だ よ ！"
+    },
+    "119": {
+        "character": "もう限界…",
+        "definition": "I'm at my limit.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.19.21.mp3",
+        "timestamp": "0:19:21",
+        "characterWithSpace": "もう 限界",
+        "katakanaWithSpace": "もう げんかい …"
+    },
+    "120": {
+        "character": "情けねぇな",
+        "definition": "Lame.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.24.mp3",
+        "timestamp": "0:19:24",
+        "characterWithSpace": "情けねぇ な",
+        "katakanaWithSpace": "なさけねぇ な"
+    },
+    "121": {
+        "character": "僕も　もうダメ…",
+        "definition": "Me, too. I can't do it...",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.19.26.mp3",
+        "timestamp": "0:19:26",
+        "characterWithSpace": "僕 も もう ダメ",
+        "katakanaWithSpace": "ぼく も  もう ダメ …"
+    },
+    "122": {
+        "character": "辛抱が足りねぇな",
+        "definition": "You guys lack endurance.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.31.mp3",
+        "timestamp": "0:19:31",
+        "characterWithSpace": "辛抱 が 足りねぇ な",
+        "katakanaWithSpace": "しんぼう が たりねぇ な"
+    },
+    "123": {
+        "character": "今日は　やけに 時間が長く感じるぜ",
+        "definition": "Time feels like it's passing really slow today.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.19.52.mp3",
+        "timestamp": "0:19:52",
+        "characterWithSpace": "今日 は やけに 時間 が 長く 感じる ぜ",
+        "katakanaWithSpace": "きょう は  やけに  じかん が ながく かんじる ぜ"
+    },
+    "124": {
+        "character": "俺も　もう限界…",
+        "definition": "I'm at my limit, too.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.00.mp3",
+        "timestamp": "0:20:00",
+        "characterWithSpace": "俺 も もう 限界",
+        "katakanaWithSpace": "おれ も  もう げんかい …"
+    },
+    "125": {
+        "character": "出よう",
+        "definition": "I'm getting out. Ah!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.03.mp3",
+        "timestamp": "0:20:03",
+        "characterWithSpace": "出よう",
+        "katakanaWithSpace": "でよう"
+    },
+    "126": {
+        "character": "テメエらの仕業か！",
+        "definition": "So it was you guys!",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.13.mp3",
+        "timestamp": "0:20:13",
+        "characterWithSpace": "テメエら の 仕業 か",
+        "katakanaWithSpace": "テメエら の しわざ か ！"
+    },
+    "127": {
+        "character": "おもしろかった！",
+        "definition": "That was fun.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.20.26.mp3",
+        "timestamp": "0:20:26",
+        "characterWithSpace": "おもしろかった",
+        "katakanaWithSpace": "おもしろかった ！"
+    },
+    "128": {
+        "character": "夜遊びって　おもしろいね",
+        "definition": "Having a night out is fun!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.20.29.mp3",
+        "timestamp": "0:20:29",
+        "characterWithSpace": "夜遊び って おもしろい ね",
+        "katakanaWithSpace": "よあそび って  おもしろい ね"
+    },
+    "129": {
+        "character": "小腹も空いたし ちょっと一杯やってくか",
+        "definition": "I'm a bit hungry, so let's go have a drink.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.31.mp3",
+        "timestamp": "0:20:31",
+        "characterWithSpace": "小腹 も 空いた し ちょっと 一杯やってく か",
+        "katakanaWithSpace": "こばら も すいた し  ちょっと いっぱいやってく か"
+    },
+    "130": {
+        "character": "いいね",
+        "definition": "Sounds good.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.20.35.mp3",
+        "timestamp": "0:20:35",
+        "characterWithSpace": "いいね",
+        "katakanaWithSpace": "いいね"
+    },
+    "131": {
+        "character": "えっ？　なになに？",
+        "definition": "Ooh, what's going on?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.20.37.mp3",
+        "timestamp": "0:20:37",
+        "characterWithSpace": "え っ なになに",
+        "katakanaWithSpace": "え っ ？ なになに ？"
+    },
+    "132": {
+        "character": "へい　らっしゃい！",
+        "definition": "Hey, there! You got a new guy with ya today.",
+        "speaker": "GUY",
+        "audio": "/audio/11/0.20.40.mp3",
+        "timestamp": "0:20:40",
+        "characterWithSpace": "へい らっしゃい",
+        "katakanaWithSpace": "へい  らっしゃい ！"
+    },
+    "133": {
+        "character": "親父　とりあえず　生２つ",
+        "definition": "Let's start with two draft beers, pops.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.45.mp3",
+        "timestamp": "0:20:45",
+        "characterWithSpace": "親父 とりあえず 生 ２つ",
+        "katakanaWithSpace": "おやじ  とりあえず  なま ふたつ"
+    },
+    "134": {
+        "character": "あとアイスコーヒーください",
+        "definition": "And an iced coffee.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.20.48.mp3",
+        "timestamp": "0:20:48",
+        "characterWithSpace": "あと アイスコーヒー ください",
+        "katakanaWithSpace": "あと アイスコーヒー ください"
+    },
+    "135": {
+        "character": "カフェじゃねぇんだぞ",
+        "definition": "This ain't a café.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.20.50.mp3",
+        "timestamp": "0:20:50",
+        "characterWithSpace": "カフェ じゃねぇ ん だ ぞ",
+        "katakanaWithSpace": "カフェ じゃねぇ ん だ ぞ"
+    },
+    "136": {
+        "character": "ああ　おいしそう！",
+        "definition": "This looks yummy!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.20.56.mp3",
+        "timestamp": "0:20:56",
+        "characterWithSpace": "ああ おいしそう",
+        "katakanaWithSpace": "ああ  おいしそう ！"
+    },
+    "137": {
+        "character": "串ごと食うなよ",
+        "definition": "Don't eat the stick, too...",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.02.mp3",
+        "timestamp": "0:21:02",
+        "characterWithSpace": "串 ごと 食う な よ",
+        "katakanaWithSpace": "くし ごと くう な よ"
+    },
+    "138": {
+        "character": "おいしい！",
+        "definition": "It's so good!",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.21.04.mp3",
+        "timestamp": "0:21:04",
+        "characterWithSpace": "おいしい",
+        "katakanaWithSpace": "おいしい ！"
+    },
+    "139": {
+        "character": "まぁ　ぐいっと！",
+        "definition": "There you go. Thanks.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.21.06.mp3",
+        "timestamp": "0:21:06",
+        "characterWithSpace": "まぁ ぐいっと",
+        "katakanaWithSpace": "まぁ  ぐいっと ！"
+    },
+    "140": {
+        "character": "夜遊びって最高だね！",
+        "definition": "Having a night out is great.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.21.09.mp3",
+        "timestamp": "0:21:09",
+        "characterWithSpace": "夜遊び って 最高 だ ね",
+        "katakanaWithSpace": "よあそび って さいこう だ ね ！"
+    },
+    "141": {
+        "character": "だろ！",
+        "definition": "It is, isn't it?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.12.mp3",
+        "timestamp": "0:21:12",
+        "characterWithSpace": "だろ",
+        "katakanaWithSpace": "だろ ！"
+    },
+    "142": {
+        "character": "人生はな 昼もあれば夜もある",
+        "definition": "If life has days, it also has nights.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.13.mp3",
+        "timestamp": "0:21:13",
+        "characterWithSpace": "人生 は な 昼 も あれば 夜 も ある",
+        "katakanaWithSpace": "じんせい は な  ひる も あれば よる も ある"
+    },
+    "143": {
+        "character": "明るいときもあれば 暗いときもある",
+        "definition": "If there's light, there's dark, too.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.17.mp3",
+        "timestamp": "0:21:17",
+        "characterWithSpace": "明るい とき も あれば 暗い とき も ある",
+        "katakanaWithSpace": "あかるい とき も あれば  くらい とき も ある"
+    },
+    "144": {
+        "character": "暗いときにも楽しいことはたくさんあるんだよ",
+        "definition": "There're plenty of fun things to do in the dark.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.19.mp3",
+        "timestamp": "0:21:19",
+        "characterWithSpace": "暗い とき にも 楽しい こと は たくさん ある ん だ よ",
+        "katakanaWithSpace": "くらい とき にも たのしい こと は たくさん ある ん だ よ"
+    },
+    "145": {
+        "character": "どっちもあるから いいんだよね",
+        "definition": "It's nice because you have either option.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.21.23.mp3",
+        "timestamp": "0:21:23",
+        "characterWithSpace": "どっちも ある から いい ん だよね",
+        "katakanaWithSpace": "どっちも ある から  いい ん だよね"
+    },
+    "146": {
+        "character": "お客さん　深いね",
+        "definition": "That's deep, man.",
+        "speaker": "GUY",
+        "audio": "/audio/11/0.21.25.mp3",
+        "timestamp": "0:21:25",
+        "characterWithSpace": "お客さん 深い ね",
+        "katakanaWithSpace": "おきゃくさん  ふかい ね"
+    },
+    "147": {
+        "character": "そうだよね",
+        "definition": "That's true.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.21.28.mp3",
+        "timestamp": "0:21:28",
+        "characterWithSpace": "そう だよね",
+        "katakanaWithSpace": "そう だよね"
+    },
+    "148": {
+        "character": "パンダも白いとこと黒いとこ　両方あるからいいんだもんね",
+        "definition": "Pandas are great because they're both black and white.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.21.30.mp3",
+        "timestamp": "0:21:30",
+        "characterWithSpace": "パンダ も 白い とこ と 黒い とこ 両方 ある から いい ん だ もん ね",
+        "katakanaWithSpace": "パンダ も しろい とこ と くろい とこ  りょうほう ある から いい ん だ もん ね"
+    },
+    "149": {
+        "character": "おお　そうだな！ そのとおりだ！",
+        "definition": "That's right. Exactly. You've got a point.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.34.mp3",
+        "timestamp": "0:21:34",
+        "characterWithSpace": "おお そうだ な そのとおり だ",
+        "katakanaWithSpace": "おお  そうだ な ！ そのとおり だ ！"
+    },
+    "150": {
+        "character": "だね",
+        "definition": "Indeed.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.21.40.mp3",
+        "timestamp": "0:21:40",
+        "characterWithSpace": "だ ね",
+        "katakanaWithSpace": "だ ね"
+    },
+    "151": {
+        "character": "グリズリーくん",
+        "definition": "Grizzly. Yeah?",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.21.45.mp3",
+        "timestamp": "0:21:45",
+        "characterWithSpace": "グリズリー くん",
+        "katakanaWithSpace": "グリズリー くん"
+    },
+    "152": {
+        "character": "すっかり寝ちゃったね　パンダくん",
+        "definition": "Panda's conked out.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.21.50.mp3",
+        "timestamp": "0:21:50",
+        "characterWithSpace": "すっかり 寝ちゃった ね パンダ くん",
+        "katakanaWithSpace": "すっかり ねちゃった ね  パンダ くん"
+    },
+    "153": {
+        "character": "なんで俺がコイツをおぶって 帰んなきゃなんねぇんだよ",
+        "definition": "Why the hell am I the one that has to carry him back?",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.21.53.mp3",
+        "timestamp": "0:21:53",
+        "characterWithSpace": "なんで 俺 が コイツ を お ぶって 帰 ん なきゃ なん ねぇ んだ よ",
+        "katakanaWithSpace": "なんで おれ が コイツ を お ぶって  帰 ん なきゃ なん ねぇ んだ よ"
+    },
+    "154": {
+        "character": "楽しかった…",
+        "definition": "That was so fun...",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.22.00.mp3",
+        "timestamp": "0:22:00",
+        "characterWithSpace": "楽しかった",
+        "katakanaWithSpace": "たのしかった …"
+    },
+    "155": {
+        "character": "楽しかったって",
+        "definition": "He said he had fun. Jeez.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.22.06.mp3",
+        "timestamp": "0:22:06",
+        "characterWithSpace": "楽しかった って",
+        "katakanaWithSpace": "たのしかった って"
+    },
+    "156": {
+        "character": "まっ　また連れてきてやっても いいかな",
+        "definition": "Well, I guess I don't mind if we bring him along again.",
+        "speaker": "GRIZZLY",
+        "audio": "/audio/11/0.22.14.mp3",
+        "timestamp": "0:22:14",
+        "characterWithSpace": "まっ また 連れてきて やっても いい かな",
+        "katakanaWithSpace": "まっ  また つれてきて やっても  いい かな"
+    },
+    "157": {
+        "character": "ペンギンさん　ペンギンさん",
+        "definition": "Mr. Penguin, Mr. Penguin.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.23.58.mp3",
+        "timestamp": "0:23:58",
+        "characterWithSpace": "ペンギン さん ペンギン さん",
+        "katakanaWithSpace": "ペンギン さん  ペンギン さん"
+    },
+    "158": {
+        "character": "何？　パンダ君",
+        "definition": "What is it, Panda? Tell us about a time you thought you were cool. Well, let's see...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/11/0.23.59.mp3",
+        "timestamp": "0:23:59",
+        "characterWithSpace": "何 パンダ 君",
+        "katakanaWithSpace": "なに/なん ？ パンダ きみ/くん"
+    },
+    "159": {
+        "character": "ないならいいよ",
+        "definition": "Don't worry if you don't have one. You're not even giving me two seconds to think about this, are you?",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.24.06.mp3",
+        "timestamp": "0:24:06",
+        "characterWithSpace": "ない なら いい よ",
+        "katakanaWithSpace": "ない なら いい よ"
+    },
+    "160": {
+        "character": "ないならいいよ",
+        "definition": "Don't worry if you don't have one.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.24.10.mp3",
+        "timestamp": "0:24:10",
+        "characterWithSpace": "ない なら いい よ",
+        "katakanaWithSpace": "ない なら いい よ"
+    },
+    "161": {
+        "character": "探したかったな",
+        "definition": "I wanted to think of one...",
+        "speaker": "PENGUIN",
+        "audio": "/audio/11/0.24.12.mp3",
+        "timestamp": "0:24:12",
+        "characterWithSpace": "探したかった な",
+        "katakanaWithSpace": "さがしたかった な"
+    },
+    "162": {
+        "character": "ないならいいよ",
+        "definition": "Don't worry if you don't have one.",
+        "speaker": "PANDA",
+        "audio": "/audio/11/0.24.13.mp3",
+        "timestamp": "0:24:13",
+        "characterWithSpace": "ない なら いい よ",
+        "katakanaWithSpace": "ない なら いい よ"
+    },
+    "163": {
+        "character": "白熊君　頼んだ",
+        "definition": "It's up to you, Polar Bear.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/11/0.24.14.mp3",
+        "timestamp": "0:24:14",
+        "characterWithSpace": "白熊 君 頼んだ",
+        "katakanaWithSpace": "しろくま/はぐま きみ/くん  たのんだ"
+    },
+    "164": {
+        "character": "次回　しろくまカフェ",
+        "definition": "Next time Polar Bear's Café",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.24.17.mp3",
+        "timestamp": "0:24:17",
+        "characterWithSpace": "次回 しろくま カフェ",
+        "katakanaWithSpace": "じかい  しろくま カフェ"
+    },
+    "165": {
+        "character": "生放送でお送りします",
+        "definition": "will be brought to you live.",
+        "speaker": "POLAR BEAR",
+        "audio": "/audio/11/0.24.19.mp3",
+        "timestamp": "0:24:19",
+        "characterWithSpace": "生放送 で お 送り します",
+        "katakanaWithSpace": "なまほうそう で お おくり します"
+    },
+    "166": {
+        "character": "いつもどおりやるよ",
+        "definition": "We're going to do it normally.",
+        "speaker": "PENGUIN",
+        "audio": "/audio/11/0.24.20.mp3",
+        "timestamp": "0:24:20",
+        "characterWithSpace": "いつもどおり やる よ",
+        "katakanaWithSpace": "いつもどおり やる よ"
+    },
+    "167": {
+        "character": "お楽しみに",
+        "definition": "Enjoy!",
+        "speaker": "SASAKO",
+        "audio": "/audio/11/0.24.22.mp3",
+        "timestamp": "0:24:22",
+        "characterWithSpace": "お 楽しみ に",
+        "katakanaWithSpace": "お たのしみ に"
+    }
+}
