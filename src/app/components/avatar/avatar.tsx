@@ -18,9 +18,11 @@ export interface AvatarProps {
 }
 
 export const Avatar = ({ speaker }: AvatarProps) => {
-  if (speaker == "Other") return null
   return (
     <div className="tw-w-8 tw-h-8 md:tw-w-12 md:tw-h-12 tw-rounded-full">
+      {speaker.toLowerCase() === "other" && (
+        <div className="tw-w-12 tw-h-12 tw-bg-black tw-rounded-full" />
+      )}
       {speaker.toLowerCase() === "panda" && (
         <Image src={Panda} width={48} height={48} alt="Panda" />
       )}
