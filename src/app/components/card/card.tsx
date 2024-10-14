@@ -23,9 +23,8 @@ export const Card = ({
   return (
     <div className="tw-my-4 tw-flex tw-gap-2 md:tw-gap-4">
       {speaker && <Avatar speaker={speaker} />}
-
       <div className="tw-w-full">
-        <div className="hand-drawn-rectangle tw-inline-flex tw-flex-wrap tw-items-center tw-p-4">
+        <div className="tw-inline-flex tw-border-2 tw-rounded-3xl tw-rounded-tl-none tw-border-[#ebebeb] tw-flex-wrap tw-items-center tw-p-4">
           <span className="tw-pr-2">
             <AudioPlayer sentence={sentence} audio={audio} />
           </span>

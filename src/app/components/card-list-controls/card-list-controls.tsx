@@ -28,9 +28,10 @@ export const CardListControls = ({
   const params = useParams() // Use useParams to access route segments
   const slug = params.slug // Access the slug from the route
 
-  const [_, setNumberOfLinesInLocalStorage] = useLocalStorage(
-    `${slug}-numberOfLine`,
-    1
+  const [_, setProgress] = useLocalStorage(
+    "shirokuma",
+    slug as string,
+    "numberOfLines"
   )
   const { playAudio } = useAudioPlayback()
 
@@ -39,7 +40,7 @@ export const CardListControls = ({
     setShowTranslate(true)
     const nextSlide = data[currentNumberOfLines + 1]
     playAudio(nextSlide.audio as string, nextSlide.character)
-    setNumberOfLinesInLocalStorage(currentNumberOfLines + 1)
+    setProgress(currentNumberOfLines + 1)
   }
 
   const handleTranslate = () => {

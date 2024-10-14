@@ -1,12 +1,55 @@
+"use client"
+
 import { useDictionaryStore } from "@/app/hooks/useDictionaryStore"
+import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 import * as Dialog from "@radix-ui/react-dialog"
+import { useParams } from "next/navigation"
+import { useEffect, useState } from "react"
 
 export const Modal = ({ word }: { word: string }) => {
+  const params = useParams()
+  const slug = params.slug // Access the slug from the route
+
   const dictionary = useDictionaryStore((state) => state.data)
+
+  // Get saved words from localStorage
+  const [wordData, setWordData] = useLocalStorage(
+    "shirokuma",
+    slug as string,
+    "savedWords"
+  )
+
+  // Initialize local state for saved words
+  const [savedWords, setSavedWords] = useState<string[]>(wordData || [])
+
+  // Handle saving words
+  const handleSaveWord = () => {
+    // Check if the word is already saved
+    if (!savedWords.includes(word)) {
+      const updatedWordList = [...savedWords, word]
+      setSavedWords(updatedWordList) // Update local state
+      setWordData(updatedWordList) // Update localStorage directly
+      console.log("Saved word:", word, updatedWordList) // Debug info
+    } else {
+      console.log("Word already saved:", word) // Debug info
+    }
+  }
+
+  // Synchronize savedWords state when wordData changes
+  useEffect(() => {
+    console.log("Updating savedWords from localStorage", wordData) // Debug info
+    if (wordData) {
+      setSavedWords(wordData)
+    }
+  }, [wordData])
+
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
-        <span className="tw-border-b-2 tw-border-gray-300 tw-border-dotted tw-cursor-pointer tw-mr-2 data-[state=open]:tw-text-[#EB42EE] data-[state=open]:tw-font-medium">
+        <span
+          onClick={handleSaveWord} // Directly handle word saving on click
+          className="tw-border-b-2 tw-border-gray-300 tw-border-dotted tw-cursor-pointer tw-mr-2 data-[state=open]:tw-text-[#9b78ff] data-[state=open]:tw-font-medium"
+        >
           {word}
         </span>
       </Dialog.Trigger>

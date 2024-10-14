@@ -6,6 +6,7 @@ import { TranscriptDataProps } from "@/app/[...slug]/page"
 import { cn } from "../../../../utils/cn"
 import { Dictionary, useDictionaryStore } from "@/app/hooks/useDictionaryStore"
 import { useParams } from "next/navigation"
+import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 
 interface StoryTemplateProps {
   data: TranscriptDataProps
@@ -18,14 +19,21 @@ export const StoryTemplate = ({ data, dictionary }: StoryTemplateProps) => {
   const messagesEndRef = useRef<HTMLDivElement>(null)
   const [showTranslate, setShowTranslate] = useState<boolean>(true)
   const setDictionaryData = useDictionaryStore((state) => state.setData)
-
   const params = useParams() // Use useParams to access route segments
   const slug = params.slug // Access the slug from the route
+  const [progress, _] = useLocalStorage("shirokuma", `${slug}`, "numberOfLines")
+  const [maxNumberOfLines_, setMaxNumberOfLines] = useLocalStorage(
+    "shirokuma",
+    `${slug}`,
+    "totalNumberOfLines"
+  )
 
   useEffect(() => {
-    const storedData = localStorage.getItem(`${slug}-numberOfLine`)
-    if (storedData) {
-      setCurrentNumberOfLines(JSON.parse(storedData))
+    if (progress) {
+      setCurrentNumberOfLines(progress)
+    }
+    if (!maxNumberOfLines_) {
+      setMaxNumberOfLines(Object.keys(data).length)
     }
   }, [])
 
