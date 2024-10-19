@@ -33,7 +33,7 @@ const getStorageValue = (
 export const useLocalStorage = (
   animeKey: string,
   episodeKey: string,
-  contentKey: any
+  contentKey: string
 ): [any, React.Dispatch<React.SetStateAction<any>>] => {
   const [value, setValue] = useState(() => {
     return getStorageValue(animeKey, episodeKey, contentKey)
