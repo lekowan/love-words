@@ -2,8 +2,8 @@
 
 import { useLocalStorage } from "@/app/hooks/useLocalStorage"
 import Link from "next/link"
-import { Item } from "../item"
 import { useEffect, useState, Suspense } from "react"
+import { Item } from "../item"
 
 interface StoryItemProps {
   slug: string
