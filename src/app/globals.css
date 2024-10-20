@@ -26,16 +26,6 @@ body {
 }
 
 @layer components {
-<<<<<<< HEAD
-=======
-  .hand-drawn-rectangle {
-    display: inline-flex;
-    border: 2px solid #ebebeb;
-    border-radius: 0 25px 25px 25px;
-    position: relative;
-  }
-
->>>>>>> 0c4eee4d556bee0949508d74473cd9be438d6e82
   .purple-gradient {
     background: linear-gradient(70deg, #bba4ff 0%, #ebe3fd 100%);
     color: #18093e;
