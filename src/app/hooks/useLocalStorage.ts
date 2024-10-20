@@ -19,7 +19,6 @@ export const useLocalStorage = (
   })
 
   useEffect(() => {
-    // Ensure localStorage is only accessed in the client
     if (typeof window !== "undefined") {
       localStorage.setItem(key, JSON.stringify(value))
     }
