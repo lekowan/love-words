@@ -42,4 +42,48 @@ body {
     background: #0f0037;
     color: #fff;
   }
+
+  .episode-list:nth-child(7n + 1) .thumbnail {
+    background: linear-gradient(
+      70deg,
+      rgba(251, 196, 254, 1) 0%,
+      rgba(254, 239, 255, 1) 100%
+    );
+  }
+
+  .episode-list:nth-child(7n + 2) .thumbnail {
+    background: linear-gradient(
+      70deg,
+      rgba(153, 191, 251, 1) 0%,
+      rgba(224, 236, 255, 1) 100%
+    );
+  }
+
+  .episode-list:nth-child(7n + 3) .thumbnail {
+    background: linear-gradient(
+      70deg,
+      rgb(138, 226, 223) 0%,
+      rgb(211, 255, 253) 100%
+    );
+  }
+
+  .episode-list:nth-child(7n + 4) .thumbnail {
+    background: linear-gradient(70deg, #ffc59b 0%, rgb(255, 231, 216) 100%);
+  }
+
+  .episode-list:nth-child(7n + 5) .thumbnail {
+    background: linear-gradient(70deg, #9bddfd 0%, rgb(214, 239, 251) 100%);
+  }
+
+  .episode-list:nth-child(7n + 6) .thumbnail {
+    background: linear-gradient(
+      70deg,
+      rgb(253, 155, 155) 0%,
+      rgb(255, 216, 216) 100%
+    );
+  }
+
+  .episode-list:nth-child(7n + 7) .thumbnail {
+    background: linear-gradient(70deg, #cebdff 0%, rgb(235, 229, 255) 100%);
+  }
 }

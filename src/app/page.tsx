@@ -1,5 +1,6 @@
 import { getStory } from "@/data/story/story"
 import Link from "next/link"
+import { Item } from "./components/item"
 
 export default async function Home() {
   const storyListData = await getStory("story-list")
@@ -10,12 +11,12 @@ export default async function Home() {
   }
 
   return (
-    <ul>
+    <div>
       {storyListData.map(({ slug, title }: StoryEntry) => (
-        <Link key={title} href={slug}>
-          <p key={title}>{title}</p>
+        <Link key={title} href={slug} className="episode-list">
+          <Item title={title} />
         </Link>
       ))}
-    </ul>
+    </div>
   )
 }
