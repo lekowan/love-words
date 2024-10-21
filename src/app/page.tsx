@@ -1,21 +1,8 @@
-import { getStory } from "@/data/story/story"
-import Link from "next/link"
+import { getStory } from "@/data/story"
+import { EpisodeTemplate } from "./components/episode-template/episode-template"
 
 export default async function Home() {
   const storyListData = await getStory("story-list")
 
-  interface StoryEntry {
-    slug: string
-    title: string
-  }
-
-  return (
-    <ul>
-      {storyListData.map(({ slug, title }: StoryEntry) => (
-        <Link key={title} href={slug}>
-          <p key={title}>{title}</p>
-        </Link>
-      ))}
-    </ul>
-  )
+  return <EpisodeTemplate storyListData={storyListData} />
 }

@@ -21,13 +21,13 @@ export const StoryTemplate = ({ data, dictionary }: StoryTemplateProps) => {
   const setDictionaryData = useDictionaryStore((state) => state.setData)
   const params = useParams() // Use useParams to access route segments
   const slug = params.slug // Access the slug from the route
-  const [progress, _] = useLocalStorage("shirokuma", `${slug}`, "numberOfLines")
+  const [progress, _] = useLocalStorage(`${slug}`, "numberOfLine")
   const [maxNumberOfLines_, setMaxNumberOfLines] = useLocalStorage(
-    "shirokuma",
     `${slug}`,
     "totalNumberOfLines"
   )
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     if (progress) {
       setCurrentNumberOfLines(progress)

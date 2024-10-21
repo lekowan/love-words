@@ -28,11 +28,7 @@ export const CardListControls = ({
   const params = useParams() // Use useParams to access route segments
   const slug = params.slug // Access the slug from the route
 
-  const [_, setProgress] = useLocalStorage(
-    "shirokuma",
-    slug as string,
-    "numberOfLines"
-  )
+  const [_, setProgress] = useLocalStorage(slug as string, "numberOfLine")
   const { playAudio } = useAudioPlayback()
 
   const handleContinue = () => {

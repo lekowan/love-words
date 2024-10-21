@@ -1,70 +1,32 @@
-"use client"
-
 import { useEffect, useState } from "react"
 
-// Function to get the nested stored value from localStorage
-const getStorageValue = (
-  animeKey: string,
-  episodeKey: string,
-  contentKey: string
-): any => {
-  const defaultValue = null
-
-  if (typeof window === "undefined") {
-    return defaultValue // Return default value if running on the server
-  }
-
-  const saved = localStorage.getItem(animeKey)
-
-  if (saved) {
-    try {
-      const parsed = JSON.parse(saved)
-      return parsed?.[episodeKey]?.[contentKey] ?? defaultValue // Access the nested structure
-    } catch (error) {
-      console.error("Error parsing localStorage:", error)
-      return defaultValue
-    }
-  }
-
-  return defaultValue
+const getStorageValue = (episode: string, item: string): number | null => {
+  if (typeof window === "undefined") return null // Check if it's running in a browser
+  const key = `${episode}-${item}`
+  const saved = localStorage.getItem(key)
+  return saved ? JSON.parse(saved) : null
 }
 
 // Custom hook for localStorage
 export const useLocalStorage = (
-  animeKey: string,
-  episodeKey: string,
-  contentKey: any
-): [any, React.Dispatch<React.SetStateAction<any>>] => {
-  const [value, setValue] = useState(() => {
-    return getStorageValue(animeKey, episodeKey, contentKey)
+  episode: string,
+  item: string
+): [number | null, React.Dispatch<React.SetStateAction<number | null>>] => {
+  const [value, setValue] = useState<number | null>(() => {
+    // Ensure this is client-side only
+    if (typeof window !== "undefined") {
+      return getStorageValue(episode, item)
+    }
+    return null
   })
 
+  const key = `${episode}-${item}`
+
   useEffect(() => {
-    // Ensure localStorage is only accessed in the client
     if (typeof window !== "undefined") {
-      const existingData = localStorage.getItem(animeKey)
-      let parsedData: Record<string, any> = {}
-
-      if (existingData) {
-        try {
-          parsedData = JSON.parse(existingData) || {}
-        } catch (error) {
-          console.error("Error parsing localStorage data:", error)
-        }
-      }
-
-      // Update the nested object structure
-      const updatedData = {
-        ...parsedData,
-        [episodeKey]: {
-          ...(parsedData[episodeKey] || {}),
-          [contentKey]: value,
-        },
-      }
-
-      localStorage.setItem(animeKey, JSON.stringify(updatedData))
+      localStorage.setItem(key, JSON.stringify(value))
     }
-  }, [animeKey, episodeKey, contentKey, value])
+  }, [key, value])
 
   return [value, setValue]
 }
