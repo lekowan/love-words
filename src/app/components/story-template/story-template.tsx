@@ -41,6 +41,7 @@ export const StoryTemplate = ({ data, dictionary }: StoryTemplateProps) => {
     setDictionaryData(dictionary)
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
   }, [currentNumberOfLines, dictionary, setDictionaryData])
+
   return (
     <>
       <Header
