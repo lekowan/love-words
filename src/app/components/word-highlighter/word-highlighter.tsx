@@ -33,6 +33,13 @@ export const WordHighlighter = ({ sentence }: { sentence: string }) => {
       const updatedWordList = [...wordData, word]
       setWordData(updatedWordList) // Update localStorage directly
     }
+
+    if ("speechSynthesis" in window) {
+      window.speechSynthesis.cancel()
+      const audioSentence = new SpeechSynthesisUtterance(word)
+      audioSentence.lang = "ja-JP"
+      window.speechSynthesis.speak(audioSentence)
+    }
   }
 
   const sentenceWithSpans = sentence.split(" ").map((word, index) => (

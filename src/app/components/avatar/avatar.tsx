@@ -5,6 +5,8 @@ import Penguin from "../../../assets/penguin.png"
 import PandaMama from "../../../assets/panda-mama.png"
 import RinRin from "../../../assets/rinrin.png"
 import Sasako from "../../../assets/sasako.png"
+import Handa from "../../../assets/handa.png"
+import Lama from "../../../assets/lama.png"
 
 export interface AvatarProps {
   speaker:
@@ -15,6 +17,7 @@ export interface AvatarProps {
     | "Handa"
     | "Other"
     | "Panda Mama"
+    | "Lama"
 }
 
 export const Avatar = ({ speaker }: AvatarProps) => {
@@ -40,6 +43,12 @@ export const Avatar = ({ speaker }: AvatarProps) => {
       )}
       {speaker.toLowerCase() === "sasako" && (
         <Image src={Sasako} width={48} height={48} alt="Sasako San" />
+      )}
+      {speaker.toLowerCase() === "handa" && (
+        <Image src={Handa} width={48} height={48} alt="Handa San" />
+      )}
+      {speaker.toLowerCase() === "lama" && (
+        <Image src={Lama} width={48} height={48} alt="Lama San" />
       )}
     </div>
   )
