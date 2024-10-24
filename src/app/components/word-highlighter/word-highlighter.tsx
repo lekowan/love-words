@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useEffect, useRef, useState } from "react"
 import { Modal } from "../modal"
 import { useNestedStorage } from "@/app/hooks/useNestedStorage"
 import { useParams } from "next/navigation"
@@ -6,6 +6,7 @@ import { useParams } from "next/navigation"
 export const WordHighlighter = ({ sentence }: { sentence: string }) => {
   const params = useParams()
   const slug = params.slug // Access the slug from the route
+  const triggerRef = useRef<HTMLButtonElement>(null)
 
   const [isOpen, setIsOpen] = useState(false)
   const [savedWord, setSavedWord] = useState("")
@@ -24,6 +25,21 @@ export const WordHighlighter = ({ sentence }: { sentence: string }) => {
       setHasUpdated(wordData)
     }
   }, [wordData])
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (
+        triggerRef.current &&
+        !triggerRef.current.contains(event.target as HTMLInputElement)
+      ) {
+        setIsOpen(false)
+      }
+    }
+    document.addEventListener("click", handleClickOutside)
+    return () => {
+      document.removeEventListener("click", handleClickOutside)
+    }
+  }, [triggerRef, isOpen])
 
   // Handle saving words
   const handleSaveWord = (word: string) => {
@@ -44,6 +60,7 @@ export const WordHighlighter = ({ sentence }: { sentence: string }) => {
 
   const sentenceWithSpans = sentence.split(" ").map((word, index) => (
     <span
+      ref={triggerRef}
       key={`${word}-${index}`}
       onClick={() => handleSaveWord(word)}
       className="tw-border-b-2 tw-border-gray-300 tw-border-dotted tw-cursor-pointer tw-mr-2 data-[state=open]:tw-text-[#9b78ff] data-[state=open]:tw-font-medium"
